@@ -7,7 +7,7 @@ Requirement: **Python 3.11**
 Run the following scripts to initialize a virtual environment and install the packages
 
 ```[lang=PowerShell]
-python3.11 -m venv .venv
+python3.11 -m venv venv
 .venv/Scripts/activate
 pip install -r requirements.txt
 ```
