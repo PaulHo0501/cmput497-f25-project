@@ -85,7 +85,7 @@ def evaluate_per_sentence(args):
     texts = df['text']
     pattern = re.compile(PATTERN)
     scores = []
-    with open(LOGS_PATH/f"per_sentece_{NOW}.txt", 'w', encoding='utf-8') as log_file:
+    with open(LOGS_PATH/"per_sentece.txt", 'w', encoding='utf-8') as log_file:
         for text in tqdm(texts):
             prompt = PER_SENTENCE_PROMPT_TEMPLATE.format(**PER_SENTENCE_RUBRICS, response=text)
             messages = [{"role": "user", "content": prompt}]
