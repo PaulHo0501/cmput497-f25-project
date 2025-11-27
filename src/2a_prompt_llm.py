@@ -2,100 +2,238 @@ import argparse
 import re
 from datetime import datetime
 from pathlib import Path
-
+import pandas as pd
 import polars as pl
 from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 DEVICE = 'cuda'
-MODEL_NAME = 'AtlaAI/Selene-1-Mini-Llama-3.1-8B'
+MODEL_NAME = 'microsoft/Phi-4-mini-instruct'
 NOW = datetime.now()
 OUTPUTS_PATH = Path('outputs/')
 LOGS_PATH = Path("logs/")
-PATTERN = r"\*\*Result:\*\*\s(.+)"
-DATA_PATH = './data/train_subtask2a.csv'
-PER_SENTENCE_PROMPT_TEMPLATE = '''
-You are tasked with evaluating a response based on two scoring rubrics that serve as the evaluation standards. Provide a comprehensive feedback strictly adhering to the scoring rubrics, without any general evaluation. Follow this with two scores, each between -2 and 2, referring to the scoring rubric. Avoid generating any additional opening, closing, or explanations.
+PATTERN = r"\*\*Result:\*\*\s*(.+)"
 
-  Here are some rules of the evaluation:
-  (1) You will be asked score the response strictly based on the rubric. You have to give two scores, each score corresponds with a rubric.
-  (2) You do not need to evaluate the second rubric based on the first rubric. Treat the score as individual. Do not let your judgement of the first score affect the second score.
+SUBTASK2A_PROMPT_TEMPLATE = '''You are evaluating emotional changes between two texts from the same person.
 
-  Your reply should strictly follow this format:
-  **Reasoning:** <Your feedback>
+Rules:
+(1) Give two scores - one for each rubric.
+(2) Evaluate each rubric independently.
 
-  **Result:** <a pair of scores, each between -2 and 2, separated by a comma>
+TEXT 1 has these scores:
+- Valence (emotional positivity): {valence_1}
+- Arousal (excitement level): {arousal_1}
 
-  Here is the data:
+Now read TEXT 2 and determine:
+1. Did valence increase or decrease? By how much?
+2. Did arousal increase or decrease? By how much?
 
-  Response:
-  ```
-  {response}
-  ```
+TEXT 1:
+```
+{text_1}
+```
+
+TEXT 2:
+```
+{text_2}
+```
+
+Score Scales:
+{valence_scale}
+{arousal_scale}
+
+Your reply format:
+**Reasoning:** <Explain the emotional change between the two texts>
+
+**Result:** <score for valence_change>, <score for arousal_change>
+
+Where:
+- valence_change: change in valence from TEXT 1 to TEXT 2 (range: -4 to +4)
+  - Positive number if valence increased (e.g., +1, +2, +3)
+  - Negative number if valence decreased (e.g., -1, -2, -3)
+  - 0 if no change
+- arousal_change: change in arousal from TEXT 1 to TEXT 2 (range: -4 to +4)
+  - Positive number if arousal increased (e.g., +1, +2, +3)
+  - Negative number if arousal decreased (e.g., -1, -2, -3)
+  - 0 if no change
+
+IMPORTANT: Output exactly 2 numbers representing the changes (range: -4 to +4 each).
 '''
+SUBTASK2A_RUBRICS = {
+    "valence_scale": "Valence Scale: -2 (Very Negative), -1 (Negative), 0 (Neutral), +1 (Positive), +2 (Very Positive)",
+    "arousal_scale": "Arousal Scale: -2 (Very Calm), -1 (Calm), 0 (Neutral), +1 (Excited), +2 (Very Excited)"
+}
 
+DATA_PATH_SUBTASK2A = './data/train_subtask2a.csv'
 
-def read_data():
-    df = pl.read_csv(DATA_PATH, try_parse_dates=True)
-    return df
-
+def read_data_subtask2a():
+    return pd.read_csv(DATA_PATH_SUBTASK2A)
 
 def prepare_model():
-    model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, device_map="auto")
+    model = AutoModelForCausalLM.from_pretrained(
+        MODEL_NAME, 
+        device_map="auto",
+        torch_dtype="auto"
+    )
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     return model, tokenizer
 
-
-def evaluate_per_sentence(args):
-    print("Evaluate per sentence")
-    df = read_data()
+def evaluate_subtask2a(args):
+    print("Evaluate Subtask 2a - Emotional Change Detection")
+    df = read_data_subtask2a()
     OUTPUTS_PATH.mkdir(parents=True, exist_ok=True)
     LOGS_PATH.mkdir(parents=True, exist_ok=True)
+    
+    # Sort by user_id and text_id to ensure correct order
+    df = df.sort_values(['user_id', 'text_id']).reset_index(drop=True)
+    
     model, tokenizer = prepare_model()
-    texts = df['text']
     pattern = re.compile(PATTERN)
-    scores = []
-    with open(LOGS_PATH/"per_sentece.txt", 'w', encoding='utf-8') as log_file:
-        for text in tqdm(texts):
-            prompt = PER_SENTENCE_PROMPT_TEMPLATE.format(**PER_SENTENCE_RUBRICS, response=text)
+    all_changes = []
+    
+    print(f"Total rows in dataset: {len(df)}")
+    
+    with open(LOGS_PATH/"subtask2a.txt", 'w', encoding='utf-8') as log_file:
+        # Iterate through all rows (each row represents text_2, compare with previous row as text_1)
+        for idx in tqdm(range(len(df)), desc="Processing rows"):
+            row = df.iloc[idx]
+            
+            # Get current text info (this is TEXT 2)
+            text_2 = row['text']
+            user_id = row['user_id']
+            text_id_2 = row['text_id']
+            
+            # Get previous text info (this is TEXT 1)
+            # Use the valence and arousal from the PREVIOUS row
+            if idx == 0:
+                # First row has no previous, skip or use dummy values
+                change_text = "0.0, 0.0"
+                all_changes.append(change_text)
+                
+                log_file.write(f"{'='*50}\n")
+                log_file.write(f"Row {idx}: First entry for user {user_id}, using 0.0, 0.0\n")
+                log_file.write(f"{'='*50}\n\n")
+                
+                continue
+            
+            prev_row = df.iloc[idx - 1]
+            
+            # Check if same user (consecutive texts from same user)
+            if prev_row['user_id'] != user_id:
+                # Different user, this is first text for new user
+                change_text = "0.0, 0.0"
+                all_changes.append(change_text)
+                
+                log_file.write(f"{'='*50}\n")
+                log_file.write(f"Row {idx}: First entry for user {user_id}, using 0.0, 0.0\n")
+                log_file.write(f"{'='*50}\n\n")
+                
+                if args.debug:
+                    print(f"Debug Mode: New user, using default 0.0, 0.0")
+                    break
+                continue
+            
+            # Get TEXT 1 info from previous row
+            text_1 = prev_row['text']
+            valence_1 = prev_row['valence']
+            arousal_1 = prev_row['arousal']
+            text_id_1 = prev_row['text_id']
+            
+            prompt = SUBTASK2A_PROMPT_TEMPLATE.format(
+                text_1=text_1,
+                text_2=text_2,
+                valence_1=valence_1,
+                arousal_1=arousal_1,
+                **SUBTASK2A_RUBRICS
+            )
+            
             messages = [{"role": "user", "content": prompt}]
-            text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-            model_inputs = tokenizer([text], return_tensors="pt").to(DEVICE)
+            
+            chat_text = tokenizer.apply_chat_template(
+                messages, 
+                tokenize=False, 
+                add_generation_prompt=True
+            )
+            
+            model_inputs = tokenizer([chat_text], return_tensors="pt").to(DEVICE)
             attention_mask = model_inputs.attention_mask
-            generated_ids = model.generate(model_inputs.input_ids, attention_mask=attention_mask, max_new_tokens=512, do_sample=True, pad_token_id=tokenizer.eos_token_id)
-            generated_ids = [output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)]
+            
+            generated_ids = model.generate(
+                model_inputs.input_ids, 
+                attention_mask=attention_mask, 
+                max_new_tokens=512,
+                do_sample=False,
+                temperature=0.0,
+                pad_token_id=tokenizer.eos_token_id
+            )
+            
+            generated_ids = [
+                output_ids[len(input_ids):] 
+                for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+            ]
+            
             response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-            log_file.write(f"{'='*20}\n{response}\n{'='*20}\n")
+            
+            log_file.write(f"{'='*50}\n")
+            log_file.write(f"Row {idx} - User {user_id}: text_id {text_id_1} → {text_id_2}\n")
+            log_file.write(f"Text 1 (V={valence_1}, A={arousal_1}): {text_1}\n")
+            log_file.write(f"Text 2: {text_2}\n")
+            log_file.write(f"Response:\n{response}\n")
+            log_file.write(f"{'='*50}\n\n")
+            log_file.flush()
+            
             score_text_match = re.search(pattern, response)
             if score_text_match == None:
-                score_text = "|None|"
+                change_text = "|None|, |None|"
+                print(f"Warning: Could not extract changes for row {idx}")
             else:
-                score_text = score_text_match.group(1)
-            scores.append(score_text)
-            if args.debug:
-                print("Debug Mode: stop after 1st iteration")
+                change_text = score_text_match.group(1).strip()
+                
+                # Remove labels if present
+                change_text = re.sub(r'valence_change:\s*', '', change_text)
+                change_text = re.sub(r'arousal_change:\s*', '', change_text)
+                change_text = change_text.strip()
+                
+                # Validate we have 2 values
+                changes_list = [s.strip() for s in change_text.split(',')]
+                if len(changes_list) != 2:
+                    print(f"Warning: Expected 2 changes for row {idx}, got {len(changes_list)}")
+                    print(f"Changes: {change_text}")
+                else:
+                    # Validate range (-4 to +4)
+                    try:
+                        valence_change = float(changes_list[0])
+                        arousal_change = float(changes_list[1])
+                        if not (-4 <= valence_change <= 4 and -4 <= arousal_change <= 4):
+                            print(f"Warning: Changes out of range [-4, +4] for row {idx}: {change_text}")
+                    except ValueError:
+                        print(f"Warning: Could not parse changes for row {idx}: {change_text}")
+            
+            all_changes.append(change_text)
+            
+            if args.debug and idx >= 4:
+                print(f"Debug Mode: stop after 4th comparison")
+                print(f"Row {idx} - User {user_id}: text_id {text_id_1} → {text_id_2}")
+                print(f"Text 1 (V={valence_1}, A={arousal_1}): {text_1}")
+                print(f"Text 2: {text_2}")
+                print(f"Extracted changes: {change_text}")
                 break
-    with open(OUTPUTS_PATH/"per_sentence.txt", 'w', encoding='utf-8') as output_file:
-        output_file.writelines(scores)
-    print("Done")
-
-
-def evaluate_per_user(args):
-    print(args)
+    
+    with open(OUTPUTS_PATH/"subtask2a.txt", 'w', encoding='utf-8') as output_file:
+        for change in all_changes:
+            output_file.write(f"{change}\n")
+    
+    print(f"Done. Total rows processed: {len(all_changes)}")
 
 def parse_args():
-    arg_parser = argparse.ArgumentParser(prog='LLMPrompting', description='Prompt an LLM for V-A score pair')
+    arg_parser = argparse.ArgumentParser(prog='LLMPrompting', description='Prompt an LLM for emotional change detection')
     arg_parser.add_argument('-d', '--debug', action='store_true', help='Debugging mode')
-    arg_parser.add_argument('-u', '--user', action='store_true', help='Whether or not LLM should evaluate V-A per users or per sentences')
     args = arg_parser.parse_args()
     return args
 
 def main():
     args = parse_args()
-    if args.user:
-        evaluate_per_user(args)
-    else:
-        evaluate_per_sentence(args)
+    evaluate_subtask2a(args)
 
 if __name__ == '__main__':
     main()

@@ -8,7 +8,7 @@ from tqdm import tqdm
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
 DEVICE = 'cuda'
-MODEL_NAME = 'microsoft/Phi-4-mini-instruct'  
+MODEL_NAME = 'microsoft/Phi-4-mini-instruct'
 NOW = datetime.now()
 OUTPUTS_PATH = Path('outputs/')
 LOGS_PATH = Path("logs/")

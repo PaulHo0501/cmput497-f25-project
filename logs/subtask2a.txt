@@ -1,0 +1,45 @@
+==================================================
+Row 0: First entry for user 1, using 0.0, 0.0
+==================================================
+
+==================================================
+Row 1 - User 1: text_id 200 → 201
+Text 1 (V=2.0, A=1.0): I feel good .   I caught up on some sleep . Work went well for me . I’m very relaxed and happy . I did have sone alcoholic beverages , but i spread them out throughout the day . I was never overly intoxicated .
+Text 2: I’ve been feeling good for days and days . I really have a normal Routine .   I probably am happy because if my meth usage . Yea I smoke up a fat bowl of crystal then fuck my girlfriend . Oh yea baby oh yea !!!
+Response:
+**Reasoning:** 
+In TEXT 1, the person expresses a positive mood, feeling good, relaxed, and happy, with a mention of moderate alcohol consumption. In TEXT 2, the person also feels good but mentions meth usage and smoking crystal, which suggests a more negative or risky behavior. The excitement level in TEXT 1 is low (1.0), while in TEXT 2, the excitement level is higher (2.0) due to the more intense and potentially risky activities mentioned.
+
+**Result:** -1, +1
+==================================================
+
+==================================================
+Row 2 - User 1: text_id 201 → 202
+Text 1 (V=2.0, A=1.0): I’ve been feeling good for days and days . I really have a normal Routine .   I probably am happy because if my meth usage . Yea I smoke up a fat bowl of crystal then fuck my girlfriend . Oh yea baby oh yea !!!
+Text 2: I’ve been feeling fine personally . I’ve been trying to stay positive , but because of the tragedic events of yesterday it’s been very hard to do . Business at the bar sucked because sone many ppl didn’t come out last night . I feel like I’m cursed because there has been one event after another that has severely effected business .
+Response:
+**Reasoning:** In TEXT 1, the person expresses a sense of happiness and excitement, likely due to methamphetamine use, which is associated with a positive valence and high arousal. In contrast, TEXT 2 shows the person feeling fine but struggling with negative emotions due to tragic events and poor business performance, indicating a decrease in both valence and arousal.
+
+**Result:** -2, -1
+==================================================
+
+==================================================
+Row 3 - User 1: text_id 202 → 203
+Text 1 (V=0.0, A=1.0): I’ve been feeling fine personally . I’ve been trying to stay positive , but because of the tragedic events of yesterday it’s been very hard to do . Business at the bar sucked because sone many ppl didn’t come out last night . I feel like I’m cursed because there has been one event after another that has severely effected business .
+Text 2: I feel great . I’ve had a day off . I’m going to go to my mom’s birthday . I love having dinner with my mom . She always treats me , but tonight I think I’ll treat her .   So I’m not sure if that maters . I’m just say that because it makes me feel happy to be having dinner with my mom .
+Response:
+**Reasoning:** The emotional tone in TEXT 1 is quite negative, with the speaker expressing feelings of being cursed and the impact of tragic events on business. The valence is at 0.0, indicating a neutral to slightly negative emotional state, and the arousal is at 1.0, indicating a low level of excitement or stress. In contrast, TEXT 2 is very positive, with the speaker expressing happiness and looking forward to spending time with their mom. The valence is likely to be +2 (Very Positive), and the arousal is likely to be +2 (Very Excited) due to the excitement of the upcoming event and the positive feelings associated with it.
+
+**Result:** +2, +2
+==================================================
+
+==================================================
+Row 4 - User 1: text_id 203 → 204
+Text 1 (V=2.0, A=1.0): I feel great . I’ve had a day off . I’m going to go to my mom’s birthday . I love having dinner with my mom . She always treats me , but tonight I think I’ll treat her .   So I’m not sure if that maters . I’m just say that because it makes me feel happy to be having dinner with my mom .
+Text 2: I feel great today . I am well rested . I have a positive attitude about how the rest of the day will go . I feel energized , so work today should be great .    I don’t think that my mood will change . I’m very stable right now .
+Response:
+**Reasoning:** In TEXT 1, the person expresses a positive feeling about having dinner with their mom, which gives a valence of +1. The arousal level is low, with a score of 1.0, indicating a calm but positive state. In TEXT 2, the person feels great, well-rested, and energized, which suggests a higher level of positivity and excitement. The valence in TEXT 2 is likely +2, as the person feels very positive and energized. The arousal level in TEXT 2 is also higher, likely +2, as the person feels energized and excited about the day ahead. Therefore, both valence and arousal have increased from TEXT 1 to TEXT 2.
+
+**Result:** +1, +1
+==================================================
+
