@@ -1,0 +1,672 @@
+======================================================================
+User 1: 5 total texts
+Context: 3 texts, Predict: 2 texts
+======================================================================
+
+Context Texts:
+Text 1 (Valence: 2.0, Arousal: 1.0):
+I feel good .   I caught up on some sleep . Work went well for me . I’m very relaxed and happy . I did have sone alcoholic beverages , but i spread them out throughout the day . I was never overly intoxicated .
+
+Text 2 (Valence: 2.0, Arousal: 1.0):
+I’ve been feeling good for days and days . I really have a normal Routine .   I probably am happy because if my meth usage . Yea I smoke up a fat bowl of crystal then fuck my girlfriend . Oh yea baby oh yea !!!
+
+Text 3 (Valence: 0.0, Arousal: 1.0):
+I’ve been feeling fine personally . I’ve been trying to stay positive , but because of the tragedic events of yesterday it’s been very hard to do . Business at the bar sucked because sone many ppl didn’t come out last night . I feel like I’m cursed because there has been one event after another that has severely effected business .
+
+Predict Texts:
+Text 4:
+I feel great . I’ve had a day off . I’m going to go to my mom’s birthday . I love having dinner with my mom . She always treats me , but tonight I think I’ll treat her .   So I’m not sure if that maters . I’m just say that because it makes me feel happy to be having dinner with my mom .
+
+Text 5:
+I feel great today . I am well rested . I have a positive attitude about how the rest of the day will go . I feel energized , so work today should be great .    I don’t think that my mood will change . I’m very stable right now .
+
+Response:
+**Reasoning:** 
+Text 1 shows a positive and calm emotional state with a valence of +2 and arousal of +1. Text 2, while still positive, has a slightly more intense emotional state with a valence of +2 and arousal of +1, but it also includes a negative aspect related to meth use. Text 3 shows a significant drop in emotional state with a valence of 0 and arousal of +1, indicating a neutral but still somewhat excited state due to external events. Text 4 is expected to show a significant positive emotional change with a valence of +2 and arousal of +1, as the person is looking forward to a special event with their mom. Text 5 is also expected to show a positive emotional state with a valence of +2 and arousal of +1, indicating stability and a positive outlook.
+
+**Result:** +2, +1, +4, +4, +2, +1
+======================================================================
+
+======================================================================
+User 2: 177 total texts
+Context: 89 texts, Predict: 88 texts
+======================================================================
+
+Context Texts:
+Text 1 (Valence: 2.0, Arousal: 1.0):
+Productive , Relaxed , Happy , Content
+
+Text 2 (Valence: 0.0, Arousal: 2.0):
+Productive , Tired , Active , Pleased , Busy
+
+Text 3 (Valence: 0.0, Arousal: 2.0):
+Productive , Busy , Content
+
+Text 4 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Content , Comfy , Happy , Calm
+
+Text 5 (Valence: 2.0, Arousal: 0.0):
+Refreshed , Clean , Comfy , Relaxed , Content
+
+Text 6 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Content , Comfy , Calm , Hungry
+
+Text 7 (Valence: 1.0, Arousal: 0.0):
+Comfy , Awake , Relaxed , Hungry , Content
+
+Text 8 (Valence: 2.0, Arousal: 0.0):
+Comfy , Awake , Relaxed , Content , Cozy
+
+Text 9 (Valence: 1.0, Arousal: 2.0):
+Studious , Focused , Content , Attentive , Comfy
+
+Text 10 (Valence: 0.0, Arousal: 0.0):
+Sleepy , Comfy , Cozy , Waking , Content
+
+Text 11 (Valence: 0.0, Arousal: 1.0):
+Impatient , Waiting , Calm , Massaged , Fine
+
+Text 12 (Valence: 1.0, Arousal: 0.0):
+Annoyed , Content , Comfy , Hungry , Relaxed
+
+Text 13 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Rested , Happy , Pleased , Content
+
+Text 14 (Valence: 2.0, Arousal: 0.0):
+Content , Calm , Relaxed , Hungry , Happy
+
+Text 15 (Valence: 2.0, Arousal: 0.0):
+Refreshed , Relaxed , Motivated , Happy , Content
+
+Text 16 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Rested , Calm , Comfy , Content
+
+Text 17 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Content , Comfy
+
+Text 18 (Valence: 2.0, Arousal: 0.0):
+Studious , Motivated , Calm , Relaxed , Content
+
+Text 19 (Valence: 2.0, Arousal: 0.0):
+Studious , Calm , Relaxed , Attentive , Content
+
+Text 20 (Valence: 0.0, Arousal: 0.0):
+Sleepy , Awake , Comfy , Relaxed , Content
+
+Text 21 (Valence: 1.0, Arousal: 0.0):
+Working , Busy , Pleased , Hungry , Active
+
+Text 22 (Valence: 2.0, Arousal: 0.0):
+Studious , Relaxed , Focused , Hungry , Attentive
+
+Text 23 (Valence: -2.0, Arousal: 0.0):
+Tired , Comfy , Awake , Chilly , Relaxed
+
+Text 24 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Productive , Calm , Comfy , Content
+
+Text 25 (Valence: 2.0, Arousal: 0.0):
+Sleepy , Awake , Rested , Relaxed , Comfy
+
+Text 26 (Valence: 2.0, Arousal: 0.0):
+Busy , Productive , Content , Relaxed , Waiting
+
+Text 27 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Content , Calm , Comfy , Hungry
+
+Text 28 (Valence: 1.0, Arousal: 0.0):
+Relaxed , Awake , Sore , Content , Comfy
+
+Text 29 (Valence: 0.0, Arousal: 2.0):
+Active , Chill , Moving , Calm , Awake
+
+Text 30 (Valence: 0.0, Arousal: 2.0):
+Working , Awake , Fine , Attentive , Calm
+
+Text 31 (Valence: -1.0, Arousal: 0.0):
+Tired , Content , Calm , Relaxed , Sleepy
+
+Text 32 (Valence: -2.0, Arousal: 0.0):
+Tired , Sleepy , Comfy , Sore , Cozy
+
+Text 33 (Valence: -1.0, Arousal: 0.0):
+Pained , Sore , Alert , Active , Fine
+
+Text 34 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Content , Comfy , Chill , Fine
+
+Text 35 (Valence: 2.0, Arousal: 0.0):
+Active , Awake , Rested , Refreshed , Fine
+
+Text 36 (Valence: 2.0, Arousal: 0.0):
+Content , Refreshed , Calm , Productive , Relaxed
+
+Text 37 (Valence: 2.0, Arousal: 0.0):
+Warm , Comfy , Studious , Content , Relaxed
+
+Text 38 (Valence: 2.0, Arousal: 0.0):
+Good , Relaxed , Tired , Content , Fine
+
+Text 39 (Valence: -1.0, Arousal: 0.0):
+Sleepy , Awake , Tired , Comfy , Cozy
+
+Text 40 (Valence: 1.0, Arousal: 0.0):
+Productive , Tired , Busy , Studious , Calm
+
+Text 41 (Valence: 2.0, Arousal: 0.0):
+Studious , Attentive , Comfy , Calm , Alert
+
+Text 42 (Valence: 2.0, Arousal: 0.0):
+Awake , Content , Refreshed , Happy , Relaxed
+
+Text 43 (Valence: 0.0, Arousal: 2.0):
+Productive , Content , Happy , Active , Good
+
+Text 44 (Valence: 2.0, Arousal: 0.0):
+Clean , Refreshed , Relaxed , Comfy , Content
+
+Text 45 (Valence: 0.0, Arousal: 0.0):
+Sleepy , Comfy , Recharged , Cozy , Awake
+
+Text 46 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Content , Comfy , Happy , Calm
+
+Text 47 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Comfy , Content , Neutral , Peaceful
+
+Text 48 (Valence: 0.0, Arousal: 0.0):
+Awake , Sleepy , Comfy , Relaxed , Cozy
+
+Text 49 (Valence: -1.0, Arousal: 0.0):
+Hurting , Active , Worked , Attentive , Not relaxed
+
+Text 50 (Valence: 1.0, Arousal: 0.0):
+Hurting , Content , Pleased , Comfy , Relaxed
+
+Text 51 (Valence: 0.0, Arousal: 0.0):
+Sleepy , Tired , Comfy , Cozy , Awake
+
+Text 52 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Content , Peaceful , Chilling , Comfy
+
+Text 53 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Comfy , Content , Calm , Peaceful
+
+Text 54 (Valence: 2.0, Arousal: 0.0):
+Content , Calm , Relaxed , Refreshed , Comfy
+
+Text 55 (Valence: 2.0, Arousal: 0.0):
+Attentive , Sleepy , Relaxed , Calm , Comfy
+
+Text 56 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Calm , Content , Peaceful , Good
+
+Text 57 (Valence: 2.0, Arousal: 0.0):
+Clean , Refreshed , Calm , Comfy , Content
+
+Text 58 (Valence: 0.0, Arousal: 0.0):
+Sleepy , Tired , Awake , Comfy , Content
+
+Text 59 (Valence: 0.0, Arousal: 2.0):
+Worked , Busy , Calm , Attentive , Fine
+
+Text 60 (Valence: 1.0, Arousal: 0.0):
+Headache , Tired , Hungry , Sleepy , Comfy
+
+Text 61 (Valence: -1.0, Arousal: 0.0):
+Tired , Hungry , Sleepy , Awake , Ready
+
+Text 62 (Valence: -1.0, Arousal: 0.0):
+Busy , Annoyed , Sore , Worked , Neutral
+
+Text 63 (Valence: 2.0, Arousal: 0.0):
+Comfy , Cozy , Relaxed , Tired , Hungry
+
+Text 64 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Tired , Comfy , Content , Lazy
+
+Text 65 (Valence: 1.0, Arousal: 0.0):
+Content , Productive , Sore , Tired , Calm
+
+Text 66 (Valence: 1.0, Arousal: 0.0):
+Content , Relaxed , Satisfied , Tired , Sleepy
+
+Text 67 (Valence: -1.0, Arousal: 0.0):
+Tired , Sleepy , Comfy , Content , Relaxed
+
+Text 68 (Valence: 0.0, Arousal: 2.0):
+Active , Worked , Busy , Productive , Sore
+
+Text 69 (Valence: -2.0, Arousal: 0.0):
+Tired , Sleepy , Exhausted , Comfy , Content
+
+Text 70 (Valence: 2.0, Arousal: 0.0):
+Comfy , Relaxed , Rested , Content , Peaceful
+
+Text 71 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Hungry , Satisfied , Content , Calm
+
+Text 72 (Valence: -1.0, Arousal: 0.0):
+Sleepy , Tired , Sore , Comfy , Cozy
+
+Text 73 (Valence: -1.0, Arousal: 0.0):
+Tired , Sleepy , Worked , Sore , Productive
+
+Text 74 (Valence: -1.0, Arousal: 0.0):
+Content , Sore , Sluggish , Tired , Sleepy
+
+Text 75 (Valence: -1.0, Arousal: 0.0):
+Tired , Sore , Busy , Active , Productive
+
+Text 76 (Valence: -2.0, Arousal: 0.0):
+Sleepy , Tired , Sluggish , Comfy , Content
+
+Text 77 (Valence: -1.0, Arousal: 0.0):
+Sleepy , Sore , Tired , Lethargic , Content
+
+Text 78 (Valence: -1.0, Arousal: 0.0):
+Sleepy , Tired , Sore , Sluggish , Productive
+
+Text 79 (Valence: 1.0, Arousal: 2.0):
+Productive , Accomplished , Hot , Relaxed , Content
+
+Text 80 (Valence: 1.0, Arousal: 0.0):
+Rested , Sore , Comfy , Content , Relaxed
+
+Text 81 (Valence: 2.0, Arousal: 0.0):
+Hot , Relaxed , Productive , Calm , Content
+
+Text 82 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Content , Calm , Comfy , Hot
+
+Text 83 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Awake , Comfy , Calm , Content
+
+Text 84 (Valence: 2.0, Arousal: 2.0):
+Productive , Active , Determined , Busy , Sore
+
+Text 85 (Valence: -1.0, Arousal: 0.0):
+Worked , Exhausted , Accomplished , Productive , Hungry
+
+Text 86 (Valence: 1.0, Arousal: 0.0):
+Sleepy , Awake , Comfy , Calm , Content
+
+Text 87 (Valence: 0.0, Arousal: 2.0):
+Worked , Busy , Active , Productive , Fine
+
+Text 88 (Valence: 2.0, Arousal: 0.0):
+Relaxed , Tired , Content , Hungry , Comfy
+
+Text 89 (Valence: 2.0, Arousal: 0.0):
+Comfy , Rested , Awake , Content , Peaceful
+
+Predict Texts:
+Text 90:
+Productive , Accomplished , Happy , Pleased , Content
+
+Text 91:
+Studious , Relaxed , Comfy , Content , Focused
+
+Text 92:
+Tired , Sore , Sleepy , Comfy , Relaxed
+
+Text 93:
+Busy , Focused , Calm , Productive , Good
+
+Text 94:
+Exhausted , Sore , Pained , Uncomfortable , Relived
+
+Text 95:
+Active , Busy , Productive , Excited , Focused
+
+Text 96:
+Active , Production , Hot , Focused , Busy
+
+Text 97:
+Comfy , Tired , Sleepy , Sore , Content
+
+Text 98:
+Rested , Comfy , Sleepy , Content , Thirsty
+
+Text 99:
+Productive , Busy , Active , Worked , Tired
+
+Text 100:
+Comfy , Hungry , Content , Relaxed , Peaceful
+
+Text 101:
+Content , Calm , Relaxed , Tired , Lazy
+
+Text 102:
+Relaxed , Tired , Sore , Comfy , Content
+
+Text 103:
+Sleepy , Awake , Rested , Comfy , Content
+
+Text 104:
+Content , Calm , Happy , Relaxed , Cozy
+
+Text 105:
+Comfy , Content , Calm , Happy , Relaxed
+
+Text 106:
+Productive , Content , Calm , Relaxed , Good
+
+Text 107:
+Content , Sore , Calm , Hungry , Relaxed
+
+Text 108:
+Relaxed , Content , Hungry , Calm , Tired
+
+Text 109:
+Comfy , Cozy , Rested , Sleepy , Content
+
+Text 110:
+Relaxed , Tired , Content , Calm , Comfy
+
+Text 111:
+Comfy , Relaxed , Content , Calm , Tired
+
+Text 112:
+Relaxed , Content , Calm , Comfy , Good
+
+Text 113:
+Comfy , Productive , Calm , Content , Good
+
+Text 114:
+Sleepy , Comfy , Content , Calm , Relaxed
+
+Text 115:
+Sore , Tired , Comfy , Relaxed , Fine
+
+Text 116:
+Sedated , Comfy , Content , Calm , Sleepy
+
+Text 117:
+Good , Sleepy , Drowsy , Comfy , Calm
+
+Text 118:
+Sore , Sleepy , Warm , Content , Relaxed
+
+Text 119:
+Sore , Sleepy , Content , Comfy , Relaxed
+
+Text 120:
+Relaxed , Content , Calm , Hungry , Tired
+
+Text 121:
+Tired , Sluggish , Disappointed , Dazed , Weird
+
+Text 122:
+Refreshed , Clean , Comfy , Hopeful , Relaxed
+
+Text 123:
+Hungry , Fatigue , Relaxed , Comfortable , Content
+
+Text 124:
+Exhausted , Frustrated , Sore , Tired , Annoyed
+
+Text 125:
+Sleepy , Tired , Comfy , Cozy , Awake
+
+Text 126:
+Sore , Productive , Accomplished , Neutral , Fine
+
+Text 127:
+Comfy , Content , Relaxed , Hungry , Sore
+
+Text 128:
+Tired , Sleepy , Comfy , Chilly , Lazy
+
+Text 129:
+Productive , Focused , Sore , Tired , Okay
+
+Text 130:
+Cozy , Relaxed , Comfy , Tired , Sore
+
+Text 131:
+Patient , Productive , Hungry , Relaxed , Tired
+
+Text 132:
+Content , Calm , Relaxed , Comfy , Good
+
+Text 133:
+Clean , Refreshed , Relaxed , Comfy , Content
+
+Text 134:
+Tired , Sleepy , Comfy , Cozy , Relaxed
+
+Text 135:
+Tired , Accomplished , Focused , Content , Calm
+
+Text 136:
+Productive , Sore , Relaxed , Comfy , Content
+
+Text 137:
+Tired , Sleepy , Sore , Cramped , Excited
+
+Text 138:
+Happy , Tired , Sleepy , Relaxed , Sore
+
+Text 139:
+Relaxed , Content , Calm , Sleepy , Comfy
+
+Text 140:
+Happy , Content , Calm , Relaxed , Comfy
+
+Text 141:
+Focused , Content , Playful , Happy , Comfy
+
+Text 142:
+Relaxed , Refreshed , Calm , Content , Comfy
+
+Text 143:
+Happy , Content , Clean , Comfy , Satisfied
+
+Text 144:
+Sleepy , Relaxed , Content , Calm , Happy
+
+Text 145:
+Focused , Content , Calm , Happy , Relaxed
+
+Text 146:
+Relaxed , Content , Calm , Happy , Pleased
+
+Text 147:
+Happy , Content , Calm , Pleased , Relaxed
+
+Text 148:
+Relaxed , Rested , Content , Calm , Comfy
+
+Text 149:
+Full , Satisfied , Hot , Content , Calm
+
+Text 150:
+Sleepy , Relaxed , Content , Calm , Comfy
+
+Text 151:
+Tired , Hungry , Relaxed , Content , Bored
+
+Text 152:
+Clean , Refreshed , Hungry , Comfy , Relaxed
+
+Text 153:
+Relaxed , Clean , Comfy , Content , Happy
+
+Text 154:
+Relaxed , Rested , Warm , Content , Calm
+
+Text 155:
+Refreshed , Relaxed , Content , Calm , Comfy
+
+Text 156:
+Sleepy , Tired , Comfy , Content , Cozy
+
+Text 157:
+Stressed , Annoyed , Edgy , Clean , Tired
+
+Text 158:
+Tired , Sore , Exhausted , Content , Calm
+
+Text 159:
+Content , Calm , Relaxed , Sleepy , Tired
+
+Text 160:
+Tired , Sleepy , Content , Calm , Comfy
+
+Text 161:
+Sleepy , Rested , Sore , Comfy , Calm
+
+Text 162:
+Calm , Tired , Content , Comfy , Relaxed
+
+Text 163:
+Relaxed , Content , Calm , Comfy , Rested
+
+Text 164:
+Tired , Sore , Relaxed , Comfy , Content
+
+Text 165:
+Peaceful , Relaxed , Content , Satisfied , Comfy
+
+Text 166:
+Happy , Content , Comfy , Calm , Relaxed
+
+Text 167:
+Calm , Comfy , Warm , Relaxed , Content
+
+Text 168:
+Sleepy , Comfy , Relaxed , Content , Shakey
+
+Text 169:
+Relaxed , Comfy , Productive , Calm , Content
+
+Text 170:
+Full , Satisfied , Content , Calm , Comfy
+
+Text 171:
+Tired , Relaxed , Comfy , Calm , Content
+
+Text 172:
+Refreshed , Relaxed , Content , Calm , Chill
+
+Text 173:
+Relaxed , Comfy , Sleepy , Content , Pleased
+
+Text 174:
+Tired , Sleepy , Exhausted , Content , Relaxed
+
+Text 175:
+Relaxed , Tired , Content , Calm , Peaceful
+
+Text 176:
+Full , Satisfied , Relaxed , Content , Calm
+
+Text 177:
+Hot , Relaxed , Comfy , Content , Calm
+
+Response:
+**Reasoning:**
+To predict the emotional changes for the given texts, I will analyze the emotional patterns from the previous 89 texts and compare them to the new texts. I will look at the valence and arousal scores, considering the emotional descriptors and the context provided in the previous texts. The valence score will indicate the positivity or negativity of the emotion, while the arousal score will indicate the level of excitement or calmness. I will use the previous emotional patterns to estimate the valence and arousal changes for each new text.
+
+**Result:**
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+======================================================================
+
+======================================================================
+User 3: 5 total texts
+Context: 3 texts, Predict: 2 texts
+======================================================================
+
+Context Texts:
+Text 1 (Valence: 1.0, Arousal: 1.0):
+I ' ve been feeling just fine . Nice and relaxed .. Im on my days off from work spending time with my daughters at home . I ' m not sure what else to say . I ' m in a good mood .....................................................
+
+Text 2 (Valence: 0.0, Arousal: 1.0):
+I ' ve been feeling pretty good . This is my last day off before I return to work so I am going to try and clean the house some and maybe tackle some laundry . I think im getting a cold but im in pretty high spirits .
+
+Text 3 (Valence: 1.0, Arousal: 1.0):
+Still feeling sick today and sneezing alot with a runny nose but otherwise I ' m feeling pretty good . I have work in a couple hours at the restaurant and it ' s Friday night so I ' m sure I ' ll be busy making a ton of drinks .
+
+Predict Texts:
+Text 4:
+I ' m still feeling kinda sickly but I powered through at work last night . It ' s was so crazy busy that I could barely keep up . I love when that happens haha . I ended out the night very sore but over 300 dollars richer so I can ' t complain
+
+Text 5:
+I ' m feeling so much better today ! Seems like this cold is almost gone thank god . Last night was busy at the bar and I did pretty decent . I ' m pretty exhausted today but it ' s my last day to work and then I ' m off for three days
+
+Response:
+**Reasoning:**
+- Text 1 shows a very positive and relaxed emotional state with high valence and arousal.
+- Text 2 shows a slightly less positive emotional state with neutral arousal but still positive valence.
+- Text 3 shows a positive emotional state with high arousal due to feeling sick but still positive valence.
+
+For Text 4:
+- The person mentions feeling "kinda sickly" but also mentions loving the busy work environment and being "over 300 dollars richer," which indicates a positive valence despite feeling sick.
+- The arousal is likely to be high due to the busy work environment, but it might be slightly lower than Text 3 because the person is feeling sore.
+
+For Text 5:
+- The person is feeling much better, indicating a significant increase in positive valence.
+- The arousal might be lower than Text 4 due to exhaustion, but still positive because the person is looking forward to the upcoming days off.
+
+**Result:**
++1, -1, +2, -1
+======================================================================
+
+======================================================================
+User 4: 8 total texts
+Context: 4 texts, Predict: 4 texts
+======================================================================
+
+Context Texts:
+Text 1 (Valence: 1.0, Arousal: 0.0):
+Motivated , Friendly , Attentive , Anxious , Overwhelmed
+
+Text 2 (Valence: 1.0, Arousal: 1.0):
+Active , Competitive , Nostalgic , Sociable , Nervous
+
+Text 3 (Valence: 1.0, Arousal: 0.0):
+Anxious , Nervous , Tired , Overwhelmed , Positive
+
+Text 4 (Valence: 2.0, Arousal: 0.0):
+Stressed , Overtired , Overworked , Impatient , Hungry
+
+Predict Texts:
+Text 5:
+Frustrated , Stuck , Unfulfilled , Angry , Anxious
+
+Text 6:
+Nervous , Anxious , Overwhelmed , Over worked , Tired
+
+Text 7:
+Relaxed , Outgoing , Cheerful , Attentive , Aware
+
+Text 8:
+Stressed , Overwhelmed , Anxious , Fearful , Confused
+
+Response:
+**Reasoning:**
+- Text 1: Valence 1.0, Arousal 0.0 (Positive, Calm)
+- Text 2: Valence 1.0, Arousal 1.0 (Positive, Excited)
+- Text 3: Valence 1.0, Arousal 0.0 (Positive, Calm)
+- Text 4: Valence 2.0, Arousal 0.0 (Very Positive, Calm)
+
+Text 5: Frustrated, Stuck, Unfulfilled, Angry, Anxious (Valence: -1, Arousal: 1.0)
+- Valence change: -1 (from 2.0 to -1)
+- Arousal change: +1 (from 0.0 to 1.0)
+
+Text 6: Nervous, Anxious, Overwhelmed, Over worked, Tired (Valence: -1, Arousal: 1.0)
+- Valence change: 0 (from -1 to -1)
+- Arousal change: 0 (from 1.0 to 1.0)
+
+Text 7: Relaxed, Outgoing, Cheerful, Attentive, Aware (Valence: +2, Arousal: 0.0)
+- Valence change: +2 (from -1 to +2)
+- Arousal change: -1 (from 1.0 to 0.0)
+
+Text 8: Stressed, Overwhelmed, Anxious, Fearful, Confused (Valence: -1, Arousal: 1.0)
+- Valence change: 0 (from +2 to -1)
+- Arousal change: +1 (from 0.0 to 1.0)
+
+**Result:** -3, +1, 0, 0, +2, -1, 0, +1
+======================================================================
+

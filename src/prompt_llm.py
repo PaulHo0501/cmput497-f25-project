@@ -189,7 +189,7 @@ def evaluate_per_user(args):
     pattern = re.compile(PATTERN)
     all_scores = []
     grouped = df.groupby("user_id")["text"].apply(list)
-    
+    print(grouped)
     print(f"Number of users: {len(grouped)}")
 
     with open(LOGS_PATH/"per_user.txt", 'w', encoding='utf-8') as log_file:
