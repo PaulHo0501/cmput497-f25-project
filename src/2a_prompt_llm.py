@@ -211,7 +211,7 @@ def evaluate_subtask2a(args):
             
             all_changes.append(change_text)
             
-            if args.debug and idx >= 4:
+            if args.debug and idx >= 8:
                 print(f"Debug Mode: stop after 4th comparison")
                 print(f"Row {idx} - User {user_id}: text_id {text_id_1} → {text_id_2}")
                 print(f"Text 1 (V={valence_1}, A={arousal_1}): {text_1}")

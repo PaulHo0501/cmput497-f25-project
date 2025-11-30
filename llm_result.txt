@@ -1,0 +1,65 @@
+==================================================
+Subtask 1a
+==================================================
+Valence MSE:  1.389291
+Arousal MSE:  2.277135
+Average MSE:  1.833213
+
+Valence RMSE: 1.178682
+Arousal RMSE: 1.509018
+Average RMSE: 1.343850
+==================================================
+
+==================================================
+Subtask 1b
+==================================================
+Valence MSE:  2.282609
+Arousal MSE:  2.317136
+Average MSE:  2.299872
+Valence RMSE: 1.510830
+Arousal RMSE: 1.522214
+Average RMSE: 1.516522
+Total Samples: 1564
+Number of Users Evaluated: 120
+Number of Users Skipped: 17
+Number of Users Truncated: 50
+==================================================
+Valence MSE:  2.282609
+Arousal MSE:  2.317136
+Average MSE:  2.299872
+Valence RMSE: 1.510830
+Arousal RMSE: 1.522214
+Average RMSE: 1.516522
+Total Samples: 1564
+Number of Users Evaluated: 120
+Number of Users Skipped: 17
+Number of Users Truncated: 50
+==================================================
+==================================================
+Subtask 2a Evaluation Results
+==================================================
+Valence MSE:  2.353672
+Arousal MSE:  2.199057
+Average MSE:  2.276364
+
+Valence RMSE: 1.534168
+Arousal RMSE: 1.482922
+Average RMSE: 1.508545
+==================================================
+
+==================================================
+Subtask 2b Evaluation Results
+==================================================
+Valence MSE:  3.331754
+Arousal MSE:  2.710900
+Average MSE:  3.021327
+
+Valence RMSE: 1.825309
+Arousal RMSE: 1.646481
+Average RMSE: 1.735895
+
+Total Samples: 844
+Number of Users Evaluated: 83
+Number of Users Skipped: 54
+Number of Users Truncated: 41
+==================================================
