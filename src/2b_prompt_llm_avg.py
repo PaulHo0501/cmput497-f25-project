@@ -14,37 +14,36 @@ OUTPUTS_PATH = Path('outputs/')
 LOGS_PATH = Path("logs/")
 PATTERN = r"\*\*Result:\*\*\s*(.+)"
 
-SUBTASK2B_PROMPT_TEMPLATE = '''You are predicting emotional changes for a person based on their previous texts.
+SUBTASK2B_PROMPT_TEMPLATE = '''You are predicting average emotional scores for a person's future texts based on their previous texts.
 
-Here are the person's previous {num_context_texts} texts with their emotional scores:
+Here are the person's previous {num_context_texts} texts (observed segment) with their emotional scores:
 
 {context_texts}
+
+Average scores from the observed segment:
+- Average Valence: {avg_valence:.2f}
+- Average Arousal: {avg_arousal:.2f}
 
 Score Scales:
 {valence_scale}
 {arousal_scale}
 
-Now, based on the emotional pattern from these {num_context_texts} texts, predict the emotional changes for the following {num_predict_texts} texts:
+Now, based on the emotional pattern from these {num_context_texts} texts, predict the AVERAGE emotional scores for the following {num_predict_texts} texts (future segment):
 
 {predict_texts}
 
-For EACH of the {num_predict_texts} texts above, predict:
-1. Valence change from the previous text (range: -4 to +4)
-2. Arousal change from the previous text (range: -4 to +4)
+Predict:
+1. Average Valence score for future texts (range: -2 to +2)
+2. Average Arousal score for future texts (range: -2 to +2)
 
 Your reply format:
-**Reasoning:** <Explain the emotional patterns and your predictions>
+**Reasoning:** <Explain the emotional patterns and predict the average scores for future texts>
 
-**Result:** <all {total_scores} scores in one comma-separated line>
+**Result:** <two scores in comma-separated format>
 
-Format: valence_change_1, arousal_change_1, valence_change_2, arousal_change_2, ...
+Format: avg_valence_score, avg_arousal_score
 
-Where each change is:
-- Positive number if increased (e.g., +1, +2, +3)
-- Negative number if decreased (e.g., -1, -2, -3)
-- 0 if no change
-
-IMPORTANT: Output exactly {total_scores} numbers (range: -4 to +4 each).
+IMPORTANT: Output exactly 2 numbers representing the predicted AVERAGE scores for the future segment (range: -2 to +2 each).
 '''
 
 SUBTASK2B_RUBRICS = {
@@ -67,7 +66,7 @@ def prepare_model():
     return model, tokenizer
 
 def evaluate_subtask2b(args):
-    print("Evaluate Subtask 2b - Emotional Change Prediction with Context")
+    print("Evaluate Subtask 2b - Average Future Score Prediction")
     df = read_data_subtask2b()
     OUTPUTS_PATH.mkdir(parents=True, exist_ok=True)
     LOGS_PATH.mkdir(parents=True, exist_ok=True)
@@ -77,13 +76,13 @@ def evaluate_subtask2b(args):
     
     model, tokenizer = prepare_model()
     pattern = re.compile(PATTERN)
-    all_predictions = []
+    all_predictions = []  # Stores predicted average scores
+    all_changes = []  # Stores calculated dispositional changes
     
     # Group by user_id
     grouped = df.groupby('user_id')
     
     print(f"Number of users: {len(grouped)}")
-    
     
     with open(LOGS_PATH/"subtask2b.txt", 'w', encoding='utf-8') as log_file:
         count = 0
@@ -105,11 +104,16 @@ def evaluate_subtask2b(args):
             
             num_context_texts = len(context_group)
             num_predict_texts = len(predict_group)
-            total_scores = num_predict_texts * 2  # 2 scores per text
+            expected_scores = 2  # avg_valence, avg_arousal
+            
+            # Calculate average valence and arousal from context texts
+            avg_valence = context_group['valence'].mean()
+            avg_arousal = context_group['arousal'].mean()
             
             log_file.write(f"{'='*70}\n")
             log_file.write(f"User {user_id}: {num_texts} total texts\n")
             log_file.write(f"Context: {num_context_texts} texts, Predict: {num_predict_texts} texts\n")
+            log_file.write(f"Context Average - Valence: {avg_valence:.2f}, Arousal: {avg_arousal:.2f}\n")
             log_file.write(f"{'='*70}\n\n")
             
             # Format context texts with scores
@@ -134,7 +138,8 @@ def evaluate_subtask2b(args):
                 context_texts=context_texts_str,
                 num_predict_texts=num_predict_texts,
                 predict_texts=predict_texts_str,
-                total_scores=total_scores,
+                avg_valence=avg_valence,
+                avg_arousal=avg_arousal,
                 **SUBTASK2B_RUBRICS
             )
             
@@ -168,55 +173,81 @@ def evaluate_subtask2b(args):
             log_file.write(f"Context Texts:\n{context_texts_str}\n\n")
             log_file.write(f"Predict Texts:\n{predict_texts_str}\n\n")
             log_file.write(f"Response:\n{response}\n")
-            log_file.write(f"{'='*70}\n\n")
-            log_file.flush()
-            
             
             score_text_match = re.search(pattern, response)
             if score_text_match == None:
                 prediction_text = "|None|"
+                change_text = "|None|"
                 print(f"Warning: Could not extract predictions for user {user_id}")
             else:
                 prediction_text = score_text_match.group(1).strip()
                 
                 # Remove labels if present
-                prediction_text = re.sub(r'valence_change[_\d]*:\s*', '', prediction_text)
-                prediction_text = re.sub(r'arousal_change[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'avg_valence_score[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'avg_arousal_score[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'valence_score[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'arousal_score[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'valence[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'arousal[_\d]*:\s*', '', prediction_text)
                 prediction_text = prediction_text.strip()
                 
                 # Validate we have the right number of scores
                 scores_list = [s.strip() for s in prediction_text.split(',')]
-                if len(scores_list) != total_scores:
-                    print(f"Warning: Expected {total_scores} scores for user {user_id}, got {len(scores_list)}")
+                if len(scores_list) != expected_scores:
+                    print(f"Warning: Expected {expected_scores} scores for user {user_id}, got {len(scores_list)}")
                     print(f"Predictions: {prediction_text}")
+                    change_text = "|None|"
                 else:
-                    # Validate range (-4 to +4)
+                    # Validate range (-2 to +2)
                     try:
-                        for score in scores_list:
-                            score_val = float(score)
-                            if not (-4 <= score_val <= 4):
-                                print(f"Warning: Score out of range [-4, +4] for user {user_id}: {score}")
-                                break
+                        avg_valence_pred = float(scores_list[0])
+                        avg_arousal_pred = float(scores_list[1])
+                        
+                        if not (-2 <= avg_valence_pred <= 2 and -2 <= avg_arousal_pred <= 2):
+                            print(f"Warning: Score out of range [-2, +2] for user {user_id}: {prediction_text}")
+                            change_text = "|None|"
+                        else:
+                            delta_valence = avg_valence_pred - avg_valence
+                            delta_arousal = avg_arousal_pred - avg_arousal
+                            change_text = f"{delta_valence:.2f}, {delta_arousal:.2f}"
+                            
+                            log_file.write(f"Predicted average scores: V={avg_valence_pred}, A={avg_arousal_pred}\n")
+                            log_file.write(f"Calculated dispositional change: ΔV={delta_valence:.2f}, ΔA={delta_arousal:.2f}\n")
                     except ValueError:
                         print(f"Warning: Could not parse predictions for user {user_id}: {prediction_text}")
+                        change_text = "|None|"
+            
+            log_file.write(f"{'='*70}\n\n")
+            log_file.flush()
             
             all_predictions.append(prediction_text)
-            count +=1
+            all_changes.append(change_text)
+            
+            count += 1
             if args.debug and count == 4:
                 print(f"Debug Mode: stop after 4th user")
                 print(f"User {user_id}: {num_context_texts} context texts, {num_predict_texts} predict texts")
-                print(f"Expected {total_scores} scores")
+                print(f"Expected {expected_scores} scores")
                 print(f"Extracted predictions: {prediction_text}")
+                print(f"Calculated change: {change_text}")
                 break
     
-    with open(OUTPUTS_PATH/"subtask2b.txt", 'w', encoding='utf-8') as output_file:
+    # Save predicted average scores
+    with open(OUTPUTS_PATH/"subtask2b_predicted_scores_avg.txt", 'w', encoding='utf-8') as output_file:
         for prediction in all_predictions:
             output_file.write(f"{prediction}\n")
     
+    # Save calculated dispositional changes (this is what we'll evaluate)
+    with open(OUTPUTS_PATH/"subtask2b_avg.txt", 'w', encoding='utf-8') as output_file:
+        for change in all_changes:
+            output_file.write(f"{change}\n")
+    
     print(f"Done. Total users processed: {len(all_predictions)}")
+    print(f"Saved predicted scores to: {OUTPUTS_PATH}/subtask2b_scores.txt")
+    print(f"Saved calculated changes to: {OUTPUTS_PATH}/subtask2b_changes.txt")
 
 def parse_args():
-    arg_parser = argparse.ArgumentParser(prog='LLMPrompting', description='Prompt an LLM for emotional change prediction')
+    arg_parser = argparse.ArgumentParser(prog='LLMPrompting', description='Prompt an LLM for average future score prediction')
     arg_parser.add_argument('-d', '--debug', action='store_true', help='Debugging mode')
     args = arg_parser.parse_args()
     return args

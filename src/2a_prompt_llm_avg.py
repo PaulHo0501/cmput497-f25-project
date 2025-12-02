@@ -14,51 +14,35 @@ OUTPUTS_PATH = Path('outputs/')
 LOGS_PATH = Path("logs/")
 PATTERN = r"\*\*Result:\*\*\s*(.+)"
 
-SUBTASK2A_PROMPT_TEMPLATE = '''You are evaluating emotional changes between two texts from the same person.
+SUBTASK2A_PROMPT_TEMPLATE = '''You are predicting emotional scores for a person's next text based on their previous text.
 
-Rules:
-(1) Give two scores - one for each rubric.
-(2) Evaluate each rubric independently.
+Here is the person's previous text with its emotional scores:
 
-TEXT 1 has these scores:
-- Valence (emotional positivity): {valence_1}
-- Arousal (excitement level): {arousal_1}
-
-Now read TEXT 2 and determine:
-1. Did valence increase or decrease? By how much?
-2. Did arousal increase or decrease? By how much?
-
-TEXT 1:
-```
+Text (Valence: {valence_1}, Arousal: {arousal_1}):
 {text_1}
-```
-
-TEXT 2:
-```
-{text_2}
-```
 
 Score Scales:
 {valence_scale}
 {arousal_scale}
 
+Now, based on the emotional pattern, predict the emotional scores for the following text:
+
+{text_2}
+
+Predict:
+1. Valence score (range: -2 to +2)
+2. Arousal score (range: -2 to +2)
+
 Your reply format:
-**Reasoning:** <Explain the emotional change between the two texts>
+**Reasoning:** <Explain the emotional pattern and your prediction>
 
-**Result:** <score for valence_change>, <score for arousal_change>
+**Result:** <two scores in comma-separated format>
 
-Where:
-- valence_change: change in valence from TEXT 1 to TEXT 2 (range: -4 to +4)
-  - Positive number if valence increased (e.g., +1, +2, +3)
-  - Negative number if valence decreased (e.g., -1, -2, -3)
-  - 0 if no change
-- arousal_change: change in arousal from TEXT 1 to TEXT 2 (range: -4 to +4)
-  - Positive number if arousal increased (e.g., +1, +2, +3)
-  - Negative number if arousal decreased (e.g., -1, -2, -3)
-  - 0 if no change
+Format: valence_score, arousal_score
 
-IMPORTANT: Output exactly 2 numbers representing the changes (range: -4 to +4 each).
+IMPORTANT: Output exactly 2 numbers representing the predicted scores (range: -2 to +2 each).
 '''
+
 SUBTASK2A_RUBRICS = {
     "valence_scale": "Valence Scale: -2 (Very Negative), -1 (Negative), 0 (Neutral), +1 (Positive), +2 (Very Positive)",
     "arousal_scale": "Arousal Scale: -2 (Very Calm), -1 (Calm), 0 (Neutral), +1 (Excited), +2 (Very Excited)"
@@ -79,7 +63,7 @@ def prepare_model():
     return model, tokenizer
 
 def evaluate_subtask2a(args):
-    print("Evaluate Subtask 2a - Emotional Change Detection")
+    print("Evaluate Subtask 2a - Next Text Score Prediction")
     df = read_data_subtask2a()
     OUTPUTS_PATH.mkdir(parents=True, exist_ok=True)
     LOGS_PATH.mkdir(parents=True, exist_ok=True)
@@ -89,11 +73,12 @@ def evaluate_subtask2a(args):
     
     model, tokenizer = prepare_model()
     pattern = re.compile(PATTERN)
-    all_changes = []
+    all_predictions = []  # Stores predicted scores
+    all_changes = []  # Stores calculated changes
     
     print(f"Total rows in dataset: {len(df)}")
     
-    with open(LOGS_PATH/"subtask2a.txt", 'w', encoding='utf-8') as log_file:
+    with open(LOGS_PATH/"subtask2a_avg.txt", 'w', encoding='utf-8') as log_file:
         # Iterate through all rows (each row represents text_2, compare with previous row as text_1)
         for idx in tqdm(range(len(df)), desc="Processing rows"):
             row = df.iloc[idx]
@@ -104,10 +89,11 @@ def evaluate_subtask2a(args):
             text_id_2 = row['text_id']
             
             # Get previous text info (this is TEXT 1)
-            # Use the valence and arousal from the PREVIOUS row
             if idx == 0:
-                # First row has no previous, skip or use dummy values
+                # First row has no previous, use default prediction
+                prediction_text = "0.0, 0.0"
                 change_text = "0.0, 0.0"
+                all_predictions.append(prediction_text)
                 all_changes.append(change_text)
                 
                 log_file.write(f"{'='*50}\n")
@@ -121,7 +107,9 @@ def evaluate_subtask2a(args):
             # Check if same user (consecutive texts from same user)
             if prev_row['user_id'] != user_id:
                 # Different user, this is first text for new user
+                prediction_text = "0.0, 0.0"
                 change_text = "0.0, 0.0"
+                all_predictions.append(prediction_text)
                 all_changes.append(change_text)
                 
                 log_file.write(f"{'='*50}\n")
@@ -179,36 +167,52 @@ def evaluate_subtask2a(args):
             log_file.write(f"Text 1 (V={valence_1}, A={arousal_1}): {text_1}\n")
             log_file.write(f"Text 2: {text_2}\n")
             log_file.write(f"Response:\n{response}\n")
-            log_file.write(f"{'='*50}\n\n")
-            log_file.flush()
             
             score_text_match = re.search(pattern, response)
             if score_text_match == None:
-                change_text = "|None|, |None|"
-                print(f"Warning: Could not extract changes for row {idx}")
+                prediction_text = "|None|"
+                change_text = "|None|"
+                print(f"Warning: Could not extract predictions for row {idx}")
             else:
-                change_text = score_text_match.group(1).strip()
+                prediction_text = score_text_match.group(1).strip()
                 
                 # Remove labels if present
-                change_text = re.sub(r'valence_change:\s*', '', change_text)
-                change_text = re.sub(r'arousal_change:\s*', '', change_text)
-                change_text = change_text.strip()
+                prediction_text = re.sub(r'valence_score[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'arousal_score[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'valence[_\d]*:\s*', '', prediction_text)
+                prediction_text = re.sub(r'arousal[_\d]*:\s*', '', prediction_text)
+                prediction_text = prediction_text.strip()
                 
                 # Validate we have 2 values
-                changes_list = [s.strip() for s in change_text.split(',')]
-                if len(changes_list) != 2:
-                    print(f"Warning: Expected 2 changes for row {idx}, got {len(changes_list)}")
-                    print(f"Changes: {change_text}")
+                predictions_list = [s.strip() for s in prediction_text.split(',')]
+                if len(predictions_list) != 2:
+                    print(f"Warning: Expected 2 scores for row {idx}, got {len(predictions_list)}")
+                    print(f"Predictions: {prediction_text}")
+                    change_text = "|None|"
                 else:
-                    # Validate range (-4 to +4)
+                    # Validate range (-2 to +2)
                     try:
-                        valence_change = float(changes_list[0])
-                        arousal_change = float(changes_list[1])
-                        if not (-4 <= valence_change <= 4 and -4 <= arousal_change <= 4):
-                            print(f"Warning: Changes out of range [-4, +4] for row {idx}: {change_text}")
+                        valence_pred = float(predictions_list[0])
+                        arousal_pred = float(predictions_list[1])
+                        
+                        if not (-2 <= valence_pred <= 2 and -2 <= arousal_pred <= 2):
+                            print(f"Warning: Scores out of range [-2, +2] for row {idx}: {prediction_text}")
+                            change_text = "|None|"
+                        else:
+                            delta_valence = valence_pred - valence_1
+                            delta_arousal = arousal_pred - arousal_1
+                            change_text = f"{delta_valence:.2f}, {delta_arousal:.2f}"
+                            
+                            log_file.write(f"Predicted scores: V={valence_pred}, A={arousal_pred}\n")
+                            log_file.write(f"Calculated change: ΔV={delta_valence:.2f}, ΔA={delta_arousal:.2f}\n")
                     except ValueError:
-                        print(f"Warning: Could not parse changes for row {idx}: {change_text}")
+                        print(f"Warning: Could not parse predictions for row {idx}: {prediction_text}")
+                        change_text = "|None|"
             
+            log_file.write(f"{'='*50}\n\n")
+            log_file.flush()
+            
+            all_predictions.append(prediction_text)
             all_changes.append(change_text)
             
             if args.debug and idx >= 8:
@@ -216,17 +220,26 @@ def evaluate_subtask2a(args):
                 print(f"Row {idx} - User {user_id}: text_id {text_id_1} → {text_id_2}")
                 print(f"Text 1 (V={valence_1}, A={arousal_1}): {text_1}")
                 print(f"Text 2: {text_2}")
-                print(f"Extracted changes: {change_text}")
+                print(f"Extracted predictions: {prediction_text}")
+                print(f"Calculated change: {change_text}")
                 break
     
-    with open(OUTPUTS_PATH/"subtask2a.txt", 'w', encoding='utf-8') as output_file:
+    # Save predicted scores
+    with open(OUTPUTS_PATH/"subtask2a_predicted_scores_avg.txt", 'w', encoding='utf-8') as output_file:
+        for prediction in all_predictions:
+            output_file.write(f"{prediction}\n")
+    
+    # Save calculated changes (this is what we'll evaluate)
+    with open(OUTPUTS_PATH/"subtask2a_avg.txt", 'w', encoding='utf-8') as output_file:
         for change in all_changes:
             output_file.write(f"{change}\n")
     
-    print(f"Done. Total rows processed: {len(all_changes)}")
+    print(f"Done. Total rows processed: {len(all_predictions)}")
+    print(f"Saved predicted scores to: {OUTPUTS_PATH}/subtask2a_scores.txt")
+    print(f"Saved calculated changes to: {OUTPUTS_PATH}/subtask2a_changes.txt")
 
 def parse_args():
-    arg_parser = argparse.ArgumentParser(prog='LLMPrompting', description='Prompt an LLM for emotional change detection')
+    arg_parser = argparse.ArgumentParser(prog='LLMPrompting', description='Prompt an LLM for next text score prediction')
     arg_parser.add_argument('-d', '--debug', action='store_true', help='Debugging mode')
     args = arg_parser.parse_args()
     return args
