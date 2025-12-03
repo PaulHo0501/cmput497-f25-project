@@ -5,9 +5,9 @@ from pathlib import Path
 
 LEXICON_PATH = 'data/NRC-VAD-Lexicon-v2.1.txt'
 DATASET_PATH = 'data/train_subtask1.csv'
-BASELINE_PATH = 'output/baseline_lexicon.csv'
-LOWER_BOUND = -0.3
-UPPER_BOUND = 0.3
+BASELINE_PATH = 'output/baseline_lexicon_broader.csv'
+LOWER_BOUND = -0.1
+UPPER_BOUND = 0.1
 
 def prepare_lexicon():
     df = pl.read_csv(LEXICON_PATH, separator='\t')
@@ -30,7 +30,12 @@ def prepare_lexicon():
 
 def normalize_column(col_name: str):
     col = pl.col(col_name)
-    return (-1.0 + ((col + 2)*2) / 4).alias(f'{col_name}_normalized')
+    if col_name == 'valence':
+        # [-2, 2] to [-1, 1]
+        return (col / 2.0).alias(f'{col_name}_normalized')
+    else:
+        # [0, 2] to [-1, 1]
+        return (col - 1.0).alias(f'{col_name}_normalized')
 
 
 def prepare_dataset():
@@ -47,13 +52,14 @@ def calculate_average(dataset: pl.DataFrame, lexicon: dict, col_name: str = 'val
     mse = 0.0
     for row in dataset.iter_rows(named=True):
         text = row['text']
+        text = text.lower()
         count = 0
         s = 0.0
         lexemes = re.sub(r'[^A-Za-z ]', '', text).split(' ')
         for lexeme in lexemes:
             if lexeme:
-                filtered_lexicon_entry = lexicon.get(lexeme, -1000.0)
-                if filtered_lexicon_entry == -1000.0:
+                filtered_lexicon_entry = lexicon.get(lexeme, None)
+                if filtered_lexicon_entry == None:
                     continue
                 else:
                     count += 1
@@ -61,10 +67,14 @@ def calculate_average(dataset: pl.DataFrame, lexicon: dict, col_name: str = 'val
         if (count == 0):
             avg = 0.0
         else:
+            # Raw average [-1, 1]
             avg = s/count
-        true_val = row[f"{col_name}_normalized"]
-        mse += (true_val - avg) * (true_val - avg)
-        col_baseline.append(avg)
+        if col_name == 'valence':
+            final_avg = avg * 2
+        else:
+            final_avg = avg + 1.0
+        mse += (row[f'{col_name}'] - final_avg) ** 2
+        col_baseline.append(final_avg)
 
     mse = mse/dataset.shape[0]
     print(f"MSE {col_name}: {mse}")
