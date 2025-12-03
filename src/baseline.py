@@ -1,7 +1,8 @@
-import polars as pl
-import re
 import math
+import re
 from pathlib import Path
+
+import polars as pl
 
 LEXICON_PATH = 'data/NRC-VAD-Lexicon-v2.1.txt'
 DATASET_PATH = 'data/train_subtask1.csv'
@@ -14,12 +15,17 @@ def prepare_lexicon():
     # Cut the dominance column
     df.drop_in_place('dominance')
     # Significant valence and arousal
-    df_valence = df.drop('arousal').filter(
+    df_scaled = df.with_columns([
+        (pl.col("valence") * 2).alias("valence"),
+        (pl.col("arousal") * 2).alias("arousal")
+    ])
+    df_valence = df_scaled.drop('arousal').filter(
             (pl.col('valence') < LOWER_BOUND) | (pl.col('valence') > UPPER_BOUND)
     )
-    df_arousal = df.drop('valence').filter(
+    df_arousal = df_scaled.drop('valence').filter(
             (pl.col('arousal') < LOWER_BOUND) | (pl.col('arousal') > UPPER_BOUND)
     )
+    
     key_valence = df_valence['term'].to_list()
     key_arousal = df_arousal['term'].to_list()
     val_valence = df_valence['valence'].to_list()
@@ -41,11 +47,7 @@ def normalize_column(col_name: str):
 def prepare_dataset():
     df = pl.read_csv(DATASET_PATH)
     df = df.drop(['timestamp', 'collection_phase', 'is_words'])
-    df_normalized = df.with_columns(
-        normalize_column('valence'),
-        normalize_column('arousal')
-    )
-    return df_normalized
+    return df
 
 def calculate_average(dataset: pl.DataFrame, lexicon: dict, col_name: str = 'valence'):
     col_baseline = []
@@ -75,7 +77,6 @@ def calculate_average(dataset: pl.DataFrame, lexicon: dict, col_name: str = 'val
             final_avg = avg + 1.0
         mse += (row[f'{col_name}'] - final_avg) ** 2
         col_baseline.append(final_avg)
-
     mse = mse/dataset.shape[0]
     print(f"MSE {col_name}: {mse}")
     print(f"RMSE {col_name}: {math.sqrt(mse)}")
