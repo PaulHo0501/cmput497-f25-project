@@ -1,0 +1,86 @@
+{
+  "user_id": 4,
+  "num_entries": 8,
+  "entries": [
+    {
+      "text_id": 279,
+      "text": "Motivated , Friendly , Attentive , Anxious , Overwhelmed",
+      "timestamp": "2021-06-11T13:42:03",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 280,
+      "text": "Active , Competitive , Nostalgic , Sociable , Nervous",
+      "timestamp": "2021-06-12T19:43:30",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 281,
+      "text": "Anxious , Nervous , Tired , Overwhelmed , Positive",
+      "timestamp": "2021-06-13T14:06:41",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 282,
+      "text": "Stressed , Overtired , Overworked , Impatient , Hungry",
+      "timestamp": "2021-06-14T14:01:15",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 283,
+      "text": "Frustrated , Stuck , Unfulfilled , Angry , Anxious",
+      "timestamp": "2021-06-15T12:03:56",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 284,
+      "text": "Nervous , Anxious , Overwhelmed , Over worked , Tired",
+      "timestamp": "2021-06-16T12:24:40",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 285,
+      "text": "Relaxed , Outgoing , Cheerful , Attentive , Aware",
+      "timestamp": "2021-06-17T14:02:11",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 286,
+      "text": "Stressed , Overwhelmed , Anxious , Fearful , Confused",
+      "timestamp": "2021-06-18T13:58:56",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

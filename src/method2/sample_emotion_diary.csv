@@ -1,0 +1,12 @@
+user_id,text_id,text,timestamp,collection_phase,is_words,valence,arousal
+3,251,I ' ve been feeling just fine . Nice and relaxed .. Im on my days off from work spending time with my daughters at home . I ' m not sure what else to say . I ' m in a good mood .....................................................,2021-06-08 12:26:16,1,False,1.0,1.0
+3,252,I ' ve been feeling pretty good . This is my last day off before I return to work so I am going to try and clean the house some and maybe tackle some laundry . I think im getting a cold but im in pretty high spirits .,2021-06-09 13:41:40,1,False,0.0,1.0
+3,253,Still feeling sick today and sneezing alot with a runny nose but otherwise I ' m feeling pretty good . I have work in a couple hours at the restaurant and it ' s Friday night so I ' m sure I ' ll be busy making a ton of drinks .,2021-06-11 15:13:48,1,False,1.0,1.0
+3,254,I ' m still feeling kinda sickly but I powered through at work last night . It ' s was so crazy busy that I could barely keep up . I love when that happens haha . I ended out the night very sore but over 300 dollars richer so I can ' t complain,2021-06-12 12:20:03,1,False,1.0,1.0
+3,255,I ' m feeling so much better today ! Seems like this cold is almost gone thank god . Last night was busy at the bar and I did pretty decent . I ' m pretty exhausted today but it ' s my last day to work and then I ' m off for three days,2021-06-13 14:54:41,1,False,2.0,1.0
+7,347,I have been feeling somewhat down . I am trying to be more productive and get things done . I am having trouble finding the energy and motivation . I can ' t type any more characters . I ' m pretty sure this is over 200 .,2021-03-11 12:10:58,1,False,-1.0,0.0
+7,348,The last day has been much better than yesterday . Friends surprised with visit and we had a late night get together . My schedule at work changed to a more consistent schedule . What a relief ! This 200 character minimum is very frustrating .,2021-03-12 12:43:39,1,False,1.0,2.0
+10,407,"Tired , Exhausted , Calm , Content , Happy",2021-06-09 12:11:03,1,True,-1.0,0.0
+10,408,"Content , Calm , Sleepy , Lazy , Relaxed",2021-06-10 17:08:20,1,True,2.0,0.0
+10,409,"Content , Calm , Relaxed , Happy",2021-06-11 12:03:33,1,True,2.0,0.0
+10,410,"Calm , Content , Happy , Relaxed",2021-06-11 17:18:21,1,True,2.0,1.0

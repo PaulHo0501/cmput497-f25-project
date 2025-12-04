@@ -1,0 +1,2 @@
+mean,median,variability,variance,home_base,density,displacement,avg_displacement,rise_rate,max_rise,recovery_rate,max_fall,entropy,range,min_value,max_value,user_id
+0.15789473684210525,0.0,0.9326339550878605,0.8698060941828255,0.8333333333333333,1.0722308814875947,12.0,0.631578947368421,1.4,2.0,1.25,-2.0,1.7142977509479211,3.0,-2.0,1.0,121

@@ -1,0 +1,106 @@
+{
+  "user_id": 18,
+  "num_entries": 10,
+  "entries": [
+    {
+      "text_id": 1292,
+      "text": "Content , Calm , Happy , Indifferent , Fine",
+      "timestamp": "2022-04-30T20:06:00",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1293,
+      "text": "Calm , Tired , Slightly anxious , Distracted , Nuetral",
+      "timestamp": "2022-05-01T10:05:00",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1294,
+      "text": "Slightly anxious , Time crunched , Quiet , Neutral , Easy",
+      "timestamp": "2022-05-01T15:00:00",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1295,
+      "text": "Content , Excited , At home , Happy , Jazzed",
+      "timestamp": "2022-05-01T22:29:00",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1296,
+      "text": "Calm , Excited , Content , Capable , Tired",
+      "timestamp": "2022-05-02T10:07:00",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1297,
+      "text": "Focused , Content , Excited , Happy , Optimistic",
+      "timestamp": "2022-05-02T15:05:00",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1298,
+      "text": "Content , Happy , Excited , Tired , Calm",
+      "timestamp": "2022-05-03T10:41:00",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1299,
+      "text": "Content , Calm , Tired , Comfortable , Fine",
+      "timestamp": "2022-05-04T12:09:00",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1300,
+      "text": "Content , Calm , Chill , Neutral , Excited",
+      "timestamp": "2022-05-05T15:33:00",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1301,
+      "text": "Slightly anxious , Slightly annoyed , Excited , Content , Jittery",
+      "timestamp": "2022-05-07T10:22:00",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    }
+  ]
+}

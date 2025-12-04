@@ -1,0 +1,22 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+588,Overwhelmed and anxious as well as stressed out . I have a lot of work to do for school that o have procrastinated on because I wasn’t feeling well yesterday so I’m behind and nervous .im too anxious to focus right now and not sure how to proceed in the moment or how to ground myself,2024-10-16T12:00:46,0,-2.0,0.0,7,False
+590,I was so overwhelmed this afternoon but slowly I am feeling more at ease after talking to my professor at school about getting an extension on a deadline because I have been having health issues that make it difficult to get work done . Slightly better than usual at the moment and trying to find a happy medium,2024-10-16T17:01:33,1,-1.0,2.0,7,False
+591,I am feeling more relaxed than before but still stressed out as I have many tasks I have yet to accomplish today and I am exhausted and it’s getting late . my brain is running a million miles a minute right now,2024-10-16T22:08:29,2,-2.0,0.0,7,False
+592,Again overwhelmed I have so much to do today and woke up late so I didn’t have time to shower as planned . It’s a hassle to shower in the middle of the day but I have appointments and meetings all morning so it has to be put off . Very scattered this morning and feeling anxious and sick to my stomach,2024-10-17T12:35:29,3,-2.0,2.0,7,False
+593,"Frantic , Anxious , Panicked , Stressed , Overwhelmed",2024-10-17T17:02:41,4,-2.0,2.0,7,True
+594,"trapped , stuck , anxious , confused , lost",2024-10-17T22:02:40,5,-2.0,1.0,7,True
+595,"Anxious , Relieved , Tired , Wired , Anticipating",2024-10-18T12:05:11,6,-1.0,2.0,7,True
+596,"Tired , Wiped out , Exhausted , Anxious , Jittery",2024-10-18T17:01:37,7,-1.0,2.0,7,True
+597,Relaxed and tired but excited to watch the premiere of my favorite tv show . Feeling better after taking a short nap and getting some necessary tasks completed . Hopeful for a good evening and also planning on going to bed early so I am refreshed in the morning for work .,2024-10-18T22:01:05,8,-1.0,0.0,7,False
+598,"Exhausted , Drained , Nervous , Angry , Frustrated",2024-10-19T12:24:09,9,-2.0,1.0,7,True
+599,"Frantic , Overwhelmed , Anxious , Nauseated , Confused",2024-10-19T22:01:25,10,-2.0,2.0,7,True
+601,"Wiped out , Groggy , Exhausted , Overwhelmed , Fearful",2024-10-20T12:02:18,11,-2.0,0.0,7,True
+602,Drained and drowsy and anxious . I have a paper due tomorrow for school and have been paralyzed with fear and anxiety all day and have yet to work on it . I have no idea how I’m going to get it done as I have to work in an hour,2024-10-20T17:12:22,12,-2.0,0.0,7,False
+603,"Stuck , Doomed , Lost , Confused , Stressed",2024-10-20T22:00:44,13,-2.0,1.0,7,True
+604,"flustered , nuts , crazy , insane , losing it",2024-10-21T12:27:56,14,-2.0,1.0,7,True
+605,"Exhausted , Defeated , Sad , Overwhelmed , Hungry",2024-10-21T17:02:15,15,-2.0,0.0,7,True
+606,Have an assignment due in 4 hours and I’m flipping my shit . Keep procrastinating and taking too many breaks I’m going to fail this assignment I am so livid and stressed out I don’t know what to do I feel like I’m going to lose it,2024-10-21T22:08:34,16,-2.0,2.0,7,False
+619,"tired , neutral , nervous , anxious , anticipatory",2024-10-22T12:00:44,17,-1.0,2.0,7,True
+620,"angry , frustrated , disapointed , sad , depressed",2024-10-22T17:07:06,18,-2.0,1.0,7,True
+621,I feel physically unwell and drained tonight . Very frustrated at myself for squandering the day away and not focusing on what I need to get done for school . I am slightly on edge and frantic   and am not sure how to proceed .,2024-10-22T22:02:35,19,-2.0,0.0,7,False
+622,"Cold , Tired , Restless , Anxious , Daunting",2024-10-23T12:00:50,20,-2.0,0.0,7,True

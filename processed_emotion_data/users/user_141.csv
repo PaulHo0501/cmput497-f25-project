@@ -1,0 +1,13 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+3572,"Normal , Calm , Reserved , Nil , Nil",2024-08-24T17:29:36,0,0.0,1.0,7,True
+3573,"Unhappy , Feeling natural , Stressed , Tired , Nothing else",2024-08-24T22:01:03,1,0.0,0.0,7,True
+3575,"Active , Tipsy , Lively , Drunk , Drained",2024-08-25T22:04:51,2,0.0,2.0,7,True
+3576,I feel tipsy very stressed and tired today I feel so sick and tired but I’m gonna be fine just a little bit drunk too took a few bottles i don’t really know what’s wrong with me right now am just stressed out but I’m gonna be okay \n,2024-08-26T22:37:35,3,1.0,1.0,7,False
+3577,"Happy , A bit joyful , Glad , Impressed , Joyful",2024-08-30T12:49:30,4,1.0,2.0,7,True
+3578,I feel stressed out but at the same time a little bit happy and I took a few bottles of alcohol outside in my garage today so am stressed out and a little bit drunk not that drunk I just feel really tired and stressed out,2024-08-30T22:14:36,5,1.0,1.0,7,False
+3579,"Sad , Tired , Stressed , Annoyed , Nervous",2024-08-31T22:22:53,6,-1.0,1.0,7,True
+3580,"I feel so empty and lost right now ,I do not have the right words I need to explain this kinda feeling but I feel lost and confused ,I am hopeful anyways hoping it all get better and I get to know what’s going on",2024-09-01T12:41:00,7,-1.0,1.0,7,False
+3581,"It’s Monday and PERSON got no time to slack or feel down ,I am happy about this new week and hope all goodness comes with it .\ nI am active ,cheerful ,happy about the new week and of course PERSON gat to win my bosses heart This week .",2024-09-02T12:55:43,8,0.0,2.0,7,False
+3582,I am so glad that my work got acknowledged today \nThis happened several months back and now it feels like I am on top of the world \nI know this means I gat to push harder go further and do stuffs right \nBut yes am not stopping I keep pushing,2024-09-02T22:11:27,9,1.0,1.0,7,False
+3583,"I feel glad about today and all that u have seen and heard so far ,I am hopeful and excited for great news and greatness today I would say that has made me positive and somewhat happy too \nI should do a great job at work to feel even better",2024-09-03T12:32:15,10,0.0,1.0,7,False
+3584,"Stressed , Tired , Downcast , Sad , Annoyed",2024-09-03T22:05:17,11,-2.0,0.0,7,True

@@ -1,0 +1,116 @@
+{
+  "user_id": 113,
+  "num_entries": 11,
+  "entries": [
+    {
+      "text_id": 2046,
+      "text": "Tired , Happy , Calm , Stressed , Anxious",
+      "timestamp": "2024-10-29T12:09:25",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2047,
+      "text": "Busy , Slightly tired , Calm , Nervous , Happy",
+      "timestamp": "2024-10-29T17:04:38",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2048,
+      "text": "Hungry , Tired , Stressed , nervous , Happy",
+      "timestamp": "2024-10-29T22:05:58",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2049,
+      "text": "Nervous , Tired , Hungry , Happy , Calm",
+      "timestamp": "2024-10-30T12:16:05",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2050,
+      "text": "Nervous , Anxious , Jittery , Happy , Tired",
+      "timestamp": "2024-10-30T17:02:29",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2051,
+      "text": "Bored , Tired , Calm , Neutral , Happy",
+      "timestamp": "2024-10-31T12:05:12",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2052,
+      "text": "exhausted , Sore , Full , Sleepy , Calm",
+      "timestamp": "2024-10-31T17:18:52",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2054,
+      "text": "Nauseous , Tired , Sleepy , Calm , Sluggish",
+      "timestamp": "2024-10-31T22:03:06",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2055,
+      "text": "I feel tired since I\u2019m currently at work . I also feel sore because of neck pain . Otherwise , I feel neutral . I am a bit stressed with my school life because I have midterms and a lot of assignments due .",
+      "timestamp": "2024-11-01T12:17:19",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2056,
+      "text": "I am currently at work so I feel a bit tired but my coworker is keeping me awake . I feel a little but hungry . I also feel a bit stressed because I know I have school work to do after work .",
+      "timestamp": "2024-11-01T17:04:05",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2057,
+      "text": "Tired , Full , Calm , Happy , Neutral",
+      "timestamp": "2024-11-01T22:02:59",
+      "order": 10,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

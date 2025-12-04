@@ -1,0 +1,10 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4796,"Calm , Happy , Relaxed , N/a , N/a",2024-11-02T17:36:49,0,0.0,1.0,7,True
+4797,I ' m feeling excited because I am playing some video games . I am later going to eat some food outside . Then later I might be on my phone and play some more video games . Then be on the phone and then sleep,2024-11-02T22:17:52,1,2.0,0.0,7,False
+4798,"Good , Happy , Calm , Excited , Thinking",2024-11-03T17:55:40,2,0.0,1.0,7,True
+4799,"Calm , Content , Happy , Relaxed , Thinking",2024-11-03T22:15:08,3,2.0,0.0,7,True
+4800,"Calm , Happy , Normal , Relaxed , Neutral",2024-11-04T17:33:33,4,0.0,2.0,7,True
+4801,"I currently feel neutral . I don ' t feel happy or sad i just feel normal . I went outside for a little while went to buy groceries , did some exercise for 30 minutes . I will later eat something quick and take a quick shower and rest",2024-11-04T22:12:21,5,0.0,1.0,7,False
+4802,"Calm , Sleepy , Tired , Relaxed , Not active",2024-11-05T22:17:46,6,0.0,0.0,7,True
+4803,I currently feel tired since I had to wake up early in the morning to get some blood work and tests done . I feel kind of dizzy since they took five tubes of blood . But it ' s normal for the blood tests since I am checking if I have any type of sickness or just in general my health but nothing serious . I just have to eat something and drink plenty of water,2024-11-07T12:50:50,7,-1.0,0.0,7,False
+4805,I am currently feeling tired because I slept late . I will later do some chores and do some exercise and go outside and run for a little bit to get some cardio in . Later I will do some side gigs and earn some extra cash,2024-11-08T12:00:30,8,0.0,1.0,7,False

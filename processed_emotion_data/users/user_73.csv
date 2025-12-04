@@ -1,0 +1,10 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+5013,"Active , Excited , Hoped , Enthusiastic , Brave",2024-10-08T22:01:56,0,0.0,2.0,7,True
+5014,"I feel down , as though feeling feverish , for some reasons I feel it ' s because of the anxiety and overall stress I ' ve had recently ,\ nIn the past week I ' ve had more to drink but less food , that too may be part of the reasons",2024-10-09T12:01:57,1,0.0,2.0,7,False
+5015,"I ' m alright , \nIt ' s been a hectic day , I ' ve had a few drinks and as well tried to be active but I feel weak , this is something I ' ve felt these past few days \nI ' d like to be more active so hoping to be strong as soon as possible",2024-10-09T17:05:08,2,-2.0,0.0,7,False
+5016,"Active , Hopeful , Excited , Energized , Glad",2024-10-10T12:16:14,3,0.0,2.0,7,True
+5017,"Neutral , Happy , Hopeful , Thoughtful , Okay",2024-10-10T17:05:52,4,0.0,1.0,7,True
+5018,I am currently feeling alright \ nA hectic day but am ok \ nHad a few drinks \nAmong other things I feel tired \ nI feel stressed and nervous \ nUncertain about some things but I believe everything will be fine \nI am currently feeling alright \ nA hectic day but am ok \ nHad a few drinks \nAmong other things I feel tired \ nI feel stressed and nervous \ nUncertain about some things but I believe everything will be fine,2024-10-10T22:01:32,5,0.0,1.0,7,False
+5019,"I ' m alright , today is better than the previous day \ nEverything seems good \ nI ' m available to my emotions \ nI recognize myself and take my feelings into account \nI ' m alright , today is better than the previous day \ nEverything seems good \ nI ' m available to my emotions \ nI recognize myself and take my feelings into account",2024-10-11T12:03:39,6,0.0,1.0,7,False
+5020,"Stressed , Sluggish , Tired , Exhausted , Weak",2024-10-11T17:01:01,7,-1.0,0.0,7,True
+5021,"Neutral , Okay , Hopeful , Edgy , Happy",2024-10-11T22:56:18,8,0.0,1.0,7,True

@@ -1,0 +1,176 @@
+{
+  "user_id": 140,
+  "num_entries": 17,
+  "entries": [
+    {
+      "text_id": 3530,
+      "text": "I would say that I am feeling relaxed . Also another way that I would be feeling is happy and the reason for that is because I have been able to spend time with family and also to enjoy the weather also",
+      "timestamp": "2024-08-08T17:01:04",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3531,
+      "text": "Happy , Great , Peaceful , Na , Na",
+      "timestamp": "2024-08-09T17:07:58",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3532,
+      "text": "I would say that right now that I am feeling relax . The reason that I say that is because it is the weekend and also I am just watching movies . Also the reason thay I say this is because I am happy and also doing something that I enjoy doing alot of the times also",
+      "timestamp": "2024-08-10T17:06:05",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3533,
+      "text": "I am feeling happy right now because I am able to relax and also have the day off of work .   Also another reason why I am not feeling the bad is because I was able to spend time with family today . Also another reason I feel good is because I was able to also get some work done today .",
+      "timestamp": "2024-08-10T22:00:46",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3534,
+      "text": "I would say now the way that I am feeling is content and also relax and the reason that I am feeling this way is because I feel that I have made good time of this weekend . Also another reason is because I was able to rest and I also feel alot more better and rested .",
+      "timestamp": "2024-08-11T12:00:45",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3535,
+      "text": "The way that I am feeling is frustrated right now and the reason for that is because of the way that I am feeling now . The reason that I say that is because some days no matter how hard you try it is like some people try so hard to get to mad .",
+      "timestamp": "2024-08-11T17:02:59",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3542,
+      "text": "Average , Ok , Making it , Na , Na",
+      "timestamp": "2024-08-11T22:02:55",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3543,
+      "text": "Overall the way that I am feeling right now would be not bad but also happy also . The reason that I say this is because I have had am good morning   and also was able to relax an little also . Also another reason thaylt I say this is because I was able to have an good breakfast that I also had enjoyed .",
+      "timestamp": "2024-08-12T12:02:19",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3544,
+      "text": "I would say the way that I am feeling right now is that I am satisfied and the reason for that is because I am relaxed and also at peace . The reason that I say that is because I am out in nature and it is something that is relaxing to me .",
+      "timestamp": "2024-08-12T17:01:36",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3545,
+      "text": "Even , Good , Fine , Relaxed , Na",
+      "timestamp": "2024-08-12T22:01:05",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3546,
+      "text": "Energized , Happy , Relaxed , Na , Na",
+      "timestamp": "2024-08-13T12:13:01",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3547,
+      "text": "I would say that the way that I am feeling right now is that I am content and also happy at the same time .   The reason that I say this is because I was able to spend time with family and also be able to get work done at the same time also .",
+      "timestamp": "2024-08-13T17:05:24",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3548,
+      "text": "Good , Calm , Tired , Ok , Na",
+      "timestamp": "2024-08-13T22:02:48",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3549,
+      "text": "I would say that right now that I feel content with where I am and also am enjoying time with family right now .   Also it is an day that you are able to enjoy the weather that it is nice today .   Also it is an great day to be alive today",
+      "timestamp": "2024-08-14T12:01:16",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3550,
+      "text": "The reason that I would say   that I feel calm is because I was able to go out and enjoy what nature had to offer me and also it is something that is an good stress reliver also .   Also it was an time that I was able to spend time with family .",
+      "timestamp": "2024-08-14T17:01:31",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3551,
+      "text": "I would say that I am feeling pretty good and also happy at this moment . The reason that I say this is because I am on vacation and also enjoying the time that I get to spend with family . Also I would say that it was an time that I was having fun",
+      "timestamp": "2024-08-14T22:03:31",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3553,
+      "text": "Calm , Happy , Peaceful , Na , Na",
+      "timestamp": "2024-08-15T12:04:18",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

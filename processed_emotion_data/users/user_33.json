@@ -1,0 +1,1086 @@
+{
+  "user_id": 33,
+  "num_entries": 108,
+  "entries": [
+    {
+      "text_id": 2090,
+      "text": "Tired , Not motivated , Lazy , Happy , Sad",
+      "timestamp": "2021-05-25T12:01:44",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2091,
+      "text": "Tired , Anxious , Sad , Happy , Depressed",
+      "timestamp": "2021-05-26T12:14:03",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2092,
+      "text": "Sad , Anxious , Happy , Restless , Tired",
+      "timestamp": "2021-05-27T12:01:17",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2093,
+      "text": "Happy , Tired , Anxious , Neutral , Calm",
+      "timestamp": "2021-05-28T12:01:06",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2094,
+      "text": "Calm , Happy , Mad , Excited , Anxious",
+      "timestamp": "2021-05-29T12:05:28",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2095,
+      "text": "Happy , Excited , Anxious , Sleepy , Tired",
+      "timestamp": "2021-05-30T12:04:38",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2096,
+      "text": "Happy , Excited , Calm , Tired , Hopeful",
+      "timestamp": "2021-05-31T13:25:20",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2097,
+      "text": "Tired , Anxious , Happy , Sad , Mad",
+      "timestamp": "2021-06-02T12:01:08",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2084,
+      "text": "Happy , Anxious , In pain , Sad , Neutral",
+      "timestamp": "2021-06-03T12:30:28",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2085,
+      "text": "Happy , Sad , Mad , Anxious , Tired",
+      "timestamp": "2021-06-04T12:47:44",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2086,
+      "text": "Happy , Irritated , Sad , Mad , Neutral",
+      "timestamp": "2021-06-05T13:08:49",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2087,
+      "text": "Mad , Angry , Anxious , Happy , Sad",
+      "timestamp": "2021-06-06T13:25:16",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2088,
+      "text": "Sleepy , Tired , Sad , Mad , Anxious",
+      "timestamp": "2021-06-07T13:40:49",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2089,
+      "text": "Happy , Excited , Anxious , Neutral , Sad",
+      "timestamp": "2021-06-08T12:46:39",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2115,
+      "text": "I did not sleep well so I feel tired . I do not feel like I am read to start the day because I feel sluggish . I feel overwhelmed because I have so much to do today . I wish I would have slept better so I would feel better overall and be ready to tackle the day instead of wanting to stay in bet for the rest of the day .",
+      "timestamp": "2022-01-26T10:03:01",
+      "order": 14,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2116,
+      "text": "I am feeling pretty happy . After I got ready for the day I felt less sluggish and it\u2019s easier to get everything done that I needed to today . I feel a little tired from not sleeping well But I feel a lot better than I did this morning .",
+      "timestamp": "2022-01-26T15:03:33",
+      "order": 15,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2117,
+      "text": "I went to the gym after work and made dinner at home so I feel relaxed and accomplished . I feel calmer than I felt in the morning when I woke up because I was stressed out in the morning about the things I have to accomplish all through the day .",
+      "timestamp": "2022-01-26T20:09:54",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2118,
+      "text": "I Slept pretty well last night so I feel rested and ready to start my day . I don\u2019t feel as anxious or overwhelmed as I did yesterday . I feel pretty happy and in a good mood and overall just feel good . I feel a lot better than yesterday .",
+      "timestamp": "2022-01-27T10:57:16",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2119,
+      "text": "I had a productive day and feel pretty happy . I feel like I accomplished a lot today . I feel like a had a great day at work and everything went smooth and everyone was nice and happy . I feel like today was a good day overall .",
+      "timestamp": "2022-01-27T20:01:41",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2120,
+      "text": "I feel somewhat tired because I went to bed super late . I feel a little sluggish but not too bad to start start my day . I kinda regret going to bed so late just because today will be a long day . Overall I just feel neutral not sad but not too happy either .",
+      "timestamp": "2022-01-28T10:38:51",
+      "order": 19,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2121,
+      "text": "I feel sluggish and tired . I had a long day at work and regretted going out and staying up too late last night . I wish I had more energy to get things done today . I wish I would have slept a little more and better so I would not feel all day today .",
+      "timestamp": "2022-01-28T15:02:08",
+      "order": 20,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2122,
+      "text": "I am feeling very neutral , not happy but not sad either . I feel like I have accomplished everything I needed today and can just relax for the night because I\u2019ll have a long weekend ahead of me . I just wish I did not feel as sluggish as I did early in the day .",
+      "timestamp": "2022-01-28T20:44:01",
+      "order": 21,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2123,
+      "text": "I stayed up fairly late last night to finish my homework but I did sleep pretty good so I woke up rested and content . I feel calm and pretty happy and feel like I\u2019m ready to tackle the day . On the weekends I always have a ton of errands and things to do but I\u2019m not anxious or anything today because I slept well last night .",
+      "timestamp": "2022-01-29T10:42:45",
+      "order": 22,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2124,
+      "text": "I had a long day at work so I just feel sluggish and tired . I feel like today was just crazy busy and I had to deal with a lot which made me feel sluggish and tired . My mood overall is kind of neutral because I am not sad but I\u2019m not very happy either .",
+      "timestamp": "2022-01-29T16:53:18",
+      "order": 23,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2125,
+      "text": "I have been cleaning my house after work so I just feel very neutral and relaxed . I am not feeling anxious or anything just more of a neutral mood and when I feel like that I feel like cleaning is a good relaxation for me .",
+      "timestamp": "2022-01-29T22:11:22",
+      "order": 24,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2126,
+      "text": "I slept well last night and feel well rested and pretty happy . I am excited for today because I don\u2019t have to work and get to watch football with friends . I got everything that I needed done early in the week so today I just get to relax and enjoy the day .",
+      "timestamp": "2022-01-30T11:01:36",
+      "order": 25,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2127,
+      "text": "I\u2019m feeling pretty excited to be able to watch the football game so I am pretty happy . I am feeling nervous just because I want my team to win but overall I\u2019m just feeling happy that I got my week done and over with and can relax today .",
+      "timestamp": "2022-01-30T15:01:14",
+      "order": 26,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2128,
+      "text": "Got to watch my home team win and I am extremely happy about that . I feel very calm and excited because of our hometown football team and their win . I don\u2019t feel anxious or anything just super happ and very excited .",
+      "timestamp": "2022-01-30T20:21:24",
+      "order": 27,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2129,
+      "text": "I feel super sluggish because I might have eaten something that did not agree with my stomach so I did not sleep well at all and kept getting sick through the night . I feel like I did not drink too much so it had to be the food that I ate . I wish I did not have to work today because I know I\u2019ll feel sluggish all day .",
+      "timestamp": "2022-01-31T10:02:20",
+      "order": 28,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2130,
+      "text": "I just do not feel good today so I feel very sluggish and tired . I feel like I am just slumping around because I do not feel good and did not sleep well either . I hope I get to go home and relax for awhile after I get off work and maybe I will start feel better .",
+      "timestamp": "2022-01-31T15:03:32",
+      "order": 29,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2131,
+      "text": "I have not been feeling well today so I am just laying around the house and feel pretty neutral . I hope I feel better tomorrow after getting some sleep so I can get more done with my day than I did today .",
+      "timestamp": "2022-01-31T20:05:07",
+      "order": 30,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2132,
+      "text": "Had a pretty long day but I just feel pretty neutral . I am not anxious or exhausted just tired from working a lot . I feel like I need to start making time to go to the gym so I would sleep better through the night .",
+      "timestamp": "2022-02-02T21:31:44",
+      "order": 31,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2133,
+      "text": "I am feeling fine but kind of stuck . We are having a pretty bad snow storm so my work closed so I will just be stuck in the house all day because the roads are prettty bad . My mood is actually pretty good and I am pretty happy .",
+      "timestamp": "2022-02-03T10:38:37",
+      "order": 32,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2134,
+      "text": "I feel pretty happy and just relaxed . There is a pretty big winter storm so I just get to sit at home all day because my work closed . I haven\u2019t had a nice relaxing day off in awhile so it\u2019s nice to just hang out",
+      "timestamp": "2022-02-03T15:33:19",
+      "order": 33,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2135,
+      "text": "I just feel very neutral . Did not do a whole lot today because I was just stuck in the house so I just enjoyed the day off and caught up on some house and homework . It has been a very relaxing and quite day so I was just relaxing .",
+      "timestamp": "2022-02-03T20:05:24",
+      "order": 34,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2098,
+      "text": "I think I might get another snow day because it is still snowing outside today . I haven\u2019t done a whole lot so I just feel calm and content . I feel like it will be a pretty calm weekend so I don\u2019t really have any plans or a whole lot to do .",
+      "timestamp": "2022-02-04T10:01:18",
+      "order": 35,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2099,
+      "text": "I am stuck in the house for second day in a row so I am just content and calm at my house . I haven\u2019t done a whole lot yesterday or today and I am not used to being lazy for so many days in a row so it is kind of weird but it is nice",
+      "timestamp": "2022-02-04T15:47:00",
+      "order": 36,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2100,
+      "text": "I am feeling calm and content . The winter storm has finally stopped but it\u2019s still very cold outside and I am just hanging out in the house . I feel pretty calm and relaxed because I haven\u2019t been doing anything for two days .",
+      "timestamp": "2022-02-04T20:01:15",
+      "order": 37,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2101,
+      "text": "I have just been hanging out at home for a few days so I just feel calm and content . I have to go to work today but I feel pretty good about it just because I haven\u2019t seen anyone in a few days so it will be nice .",
+      "timestamp": "2022-02-05T10:32:08",
+      "order": 38,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2102,
+      "text": "I am feeling pretty calm and content . I had a pretty easy shift at work and it was nice to see everyone even though it was a little slow . It was kind of weird to have to talk to so many people after I was at home by myself for awhile .",
+      "timestamp": "2022-02-05T15:31:02",
+      "order": 39,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2103,
+      "text": "It\u2019s been a pretty good day so I am just pretty happy and relaxed . I got most of my house cleaned so that makes me feel more calm when I have my house clean . I\u2019m probably gonna meet some friends later so I\u2019m pretty happy about that .",
+      "timestamp": "2022-02-05T20:00:48",
+      "order": 40,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2104,
+      "text": "I stayed out super late last night because I was hanging out with friends and having a good time . I woke up super early and could not fall back asleep so I am just tired . I don\u2019t really have a whole lot going on today so I am excited I can lounge around for a while .",
+      "timestamp": "2022-02-06T10:01:05",
+      "order": 41,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2105,
+      "text": "I\u2019m feeling okay now . It\u2019s a pretty day so that makes me feel happy . I haven\u2019t done a whole lot today so I am just hanging out and doing some homework . It is nice not to have to rush to get things done since I got two days off early in the week .",
+      "timestamp": "2022-02-06T15:22:44",
+      "order": 42,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2106,
+      "text": "I feel pretty calm and just sleepy . I had a pretty good day just hanging out and not really doing a whole lot so I am just ready for bed and get ready for tomorrow . Today was pretty uneventful just a quiet day .",
+      "timestamp": "2022-02-06T20:31:38",
+      "order": 43,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2107,
+      "text": "I have a pretty exciting day today so I am pretty happy . I didn\u2019t sleep too great last night so I just feel a little sluggish . I have a lot to do today but I get to go to a pep rally with my friends tonight so I am pretty excited about that .",
+      "timestamp": "2022-02-07T10:05:40",
+      "order": 44,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2108,
+      "text": "I got to leave work early and hang out with my friends so I am super happy . Our hometown team is going to super bowl so we went to the pep rally and even though it was freezing it was so awesome so I am feeling very happy .",
+      "timestamp": "2022-02-07T22:01:59",
+      "order": 45,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2109,
+      "text": "I went out to celebrate with a few of my friends last night and had a super fun time I did not really drink a whole lot because we did not stay out long . I did have a beer and two cocktails . I got home early but did not sleep well at all just kept waking up through the night so I just feel super sluggish and sleepy today because I had to be up very early",
+      "timestamp": "2022-02-08T10:20:58",
+      "order": 46,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2110,
+      "text": "I have been having a pretty rough day and I just feel super tired and very sluggish . I had a long day at school and it is pretty busy at work today as well so I just feel like I am dragging my feet all day .",
+      "timestamp": "2022-02-08T15:10:30",
+      "order": 47,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2111,
+      "text": "I am just feeling very neutral and relaxed . I had a long day at work and school and I just want to sit down and hang out at the house . I just feel exhausted because I did not get good sleep last night and wish I could have slept better .",
+      "timestamp": "2022-02-08T20:11:07",
+      "order": 48,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2112,
+      "text": "I feel pretty calm but pretty tired as well . I went to bed fairly early last night but I just kept waking up through the night so I did not get any quality sleep . I don\u2019t have a long day at work so I am not too worried about it .",
+      "timestamp": "2022-02-09T10:19:20",
+      "order": 49,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2113,
+      "text": "I\u2019m feeling pretty content today but just kind of sluggish . I had a fairly easy day at work so I am not stressed out but just feel super tired today . I was hoping I would feel better in the afternoon so I could go to the gym but I just don\u2019t feel like it .",
+      "timestamp": "2022-02-09T15:24:07",
+      "order": 50,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2114,
+      "text": "I feel super tired . I did not get great sleep last night so I am just dragging my feet all day today . Even though today was not very busy for me I still feel very sluggish and tired . I hope I get better sleep tonight so I feel better tomorrow .",
+      "timestamp": "2022-02-09T20:11:45",
+      "order": 51,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2149,
+      "text": "Tired , Sluggish , Neutral , Sleepy , Anxious",
+      "timestamp": "2022-05-04T11:38:00",
+      "order": 52,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2150,
+      "text": "Neutral , Tired , Sluggish , Happy",
+      "timestamp": "2022-05-04T15:01:00",
+      "order": 53,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2151,
+      "text": "Tired , Sluggish , Annoyed",
+      "timestamp": "2022-05-04T20:01:00",
+      "order": 54,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2152,
+      "text": "Neutral , Content , Happy , Tired",
+      "timestamp": "2022-05-05T10:04:00",
+      "order": 55,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2153,
+      "text": "Happy , Tired , Calm , Content",
+      "timestamp": "2022-05-05T15:01:00",
+      "order": 56,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2154,
+      "text": "Neutral , Sluggish , Tired , Anxious",
+      "timestamp": "2022-05-05T20:04:00",
+      "order": 57,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2155,
+      "text": "Calm , Content , Neutral , Sluggish",
+      "timestamp": "2022-05-06T10:18:00",
+      "order": 58,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2156,
+      "text": "Neutral , Irritated , Sluggish , In pain",
+      "timestamp": "2022-05-06T15:02:00",
+      "order": 59,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2157,
+      "text": "Tired , Sluggish , In pain , Annoyed",
+      "timestamp": "2022-05-06T20:01:00",
+      "order": 60,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2158,
+      "text": "Sluggish , Tired , Mad , Sad , Annoyed",
+      "timestamp": "2022-05-07T10:25:00",
+      "order": 61,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2159,
+      "text": "Sluggish , Tired , Annoyed , Irritated",
+      "timestamp": "2022-05-07T15:30:00",
+      "order": 62,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2160,
+      "text": "Sluggish , Tired , Neutral",
+      "timestamp": "2022-05-07T20:10:00",
+      "order": 63,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2161,
+      "text": "Neutral , Quite , Happy , Calm",
+      "timestamp": "2022-05-08T12:20:00",
+      "order": 64,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2162,
+      "text": "Calm , Happy , Neutral , Content",
+      "timestamp": "2022-05-08T16:14:00",
+      "order": 65,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2163,
+      "text": "Quite , Content , Tired , Sluggish , Calm",
+      "timestamp": "2022-05-08T20:01:00",
+      "order": 66,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2164,
+      "text": "Sluggish , Tired , Quite , Content , Calm",
+      "timestamp": "2022-05-09T10:02:00",
+      "order": 67,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2165,
+      "text": "Tired , Sluggish , Annoyed , Angry , Mad",
+      "timestamp": "2022-05-09T15:14:00",
+      "order": 68,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2166,
+      "text": "Tired , Sluggish , Neutral , Quite , Tired",
+      "timestamp": "2022-05-09T20:02:00",
+      "order": 69,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2167,
+      "text": "Calm , Content , Quite , Neutral",
+      "timestamp": "2022-05-10T10:16:00",
+      "order": 70,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2168,
+      "text": "Content , Calm , Quite , Happy",
+      "timestamp": "2022-05-10T15:03:00",
+      "order": 71,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2169,
+      "text": "Quite , Calm , Content , Tired , Happy",
+      "timestamp": "2022-05-10T20:05:00",
+      "order": 72,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2170,
+      "text": "Calm , Content , Quite , Anxious",
+      "timestamp": "2022-05-11T10:27:00",
+      "order": 73,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2171,
+      "text": "Neutral , Calm , Quite , Happy , Content",
+      "timestamp": "2022-05-11T16:15:00",
+      "order": 74,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2172,
+      "text": "Quite , Tired , Sluggish , Irritated , Content",
+      "timestamp": "2022-05-11T21:53:00",
+      "order": 75,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2173,
+      "text": "Calm , Content , Quiet , Anxious , Happy",
+      "timestamp": "2022-05-12T10:08:00",
+      "order": 76,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2174,
+      "text": "Neutral , Quiet , Calm , Relaxed , Happy",
+      "timestamp": "2022-05-12T16:20:00",
+      "order": 77,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2175,
+      "text": "Quiet , Tired , Sleepy , Calm , Content",
+      "timestamp": "2022-05-12T20:01:00",
+      "order": 78,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2136,
+      "text": "Jittery , Nervous , Anxious , Tired , Sluggish",
+      "timestamp": "2022-05-13T10:00:00",
+      "order": 79,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2137,
+      "text": "Content , Calm , Quiet , Happy , Anxious",
+      "timestamp": "2022-05-13T15:59:00",
+      "order": 80,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2138,
+      "text": "Nervous , Anxious , Jittery , Annoyed , Angry",
+      "timestamp": "2022-05-13T20:08:00",
+      "order": 81,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2139,
+      "text": "Calm , Quiet , Content , Anxious , Sluggish",
+      "timestamp": "2022-05-14T10:00:00",
+      "order": 82,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2140,
+      "text": "Neutral , Anxious , Irritated , Calm , Annoyed",
+      "timestamp": "2022-05-14T16:35:00",
+      "order": 83,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2141,
+      "text": "Quiet , Sluggish , Tired , Annoyed , Content",
+      "timestamp": "2022-05-14T20:44:00",
+      "order": 84,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2142,
+      "text": "Sluggish , Tired , Quiet , Content , Calm",
+      "timestamp": "2022-05-15T10:26:00",
+      "order": 85,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2143,
+      "text": "Sluggish , Tired , Sleepy , Quiet , Calm",
+      "timestamp": "2022-05-15T15:00:00",
+      "order": 86,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2144,
+      "text": "Calm , Quiet , Content , Tired , Sluggish",
+      "timestamp": "2022-05-15T20:00:00",
+      "order": 87,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2145,
+      "text": "Happy , Excited , Content , Quiet , Calm",
+      "timestamp": "2022-05-16T15:01:00",
+      "order": 88,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2146,
+      "text": "Quiet , Tired , Calm , Sleepy , Anxious",
+      "timestamp": "2022-05-16T20:02:00",
+      "order": 89,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2147,
+      "text": "Sluggish , Tired , Anxious , Jittery , Irritated",
+      "timestamp": "2022-05-17T10:00:00",
+      "order": 90,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2148,
+      "text": "Active , Anxious , Jittery , Tired , Sluggish",
+      "timestamp": "2022-05-17T15:03:00",
+      "order": 91,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2193,
+      "text": "Tired , Neutral , Sleepy , Achy , Exhausted",
+      "timestamp": "2022-09-01T20:11:03",
+      "order": 92,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2194,
+      "text": "Tired , Sleepy , Sluggish , Irritated , Sad",
+      "timestamp": "2022-09-02T10:00:56",
+      "order": 93,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2195,
+      "text": "Sluggish , Tired , Irritated , Annoyed , Sleepy",
+      "timestamp": "2022-09-02T20:00:48",
+      "order": 94,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2196,
+      "text": "Tired , Sleepy , Sluggish , Calm , Sad",
+      "timestamp": "2022-09-03T10:04:33",
+      "order": 95,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2197,
+      "text": "Sluggish , Tired , Annoyed , Mad , Frustrated",
+      "timestamp": "2022-09-03T15:26:33",
+      "order": 96,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2198,
+      "text": "Tired , Bored , Sleepy , Annoyed , Neutral",
+      "timestamp": "2022-09-03T20:01:16",
+      "order": 97,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2199,
+      "text": "Sluggish , Tired , Drowsy , Fatigued , Sleepy",
+      "timestamp": "2022-09-04T10:14:52",
+      "order": 98,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2200,
+      "text": "Content , Tired , Sleepy , Sluggish , Fatigued",
+      "timestamp": "2022-09-04T15:00:51",
+      "order": 99,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2201,
+      "text": "Quiet , Content , Annoyed , Irritated , Tired",
+      "timestamp": "2022-09-05T11:02:00",
+      "order": 100,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2202,
+      "text": "Neutral , Frustrated , Annoyed , Exhausted , Tired",
+      "timestamp": "2022-09-05T15:20:30",
+      "order": 101,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2203,
+      "text": "Tired , Sleepy , Sluggish , Annoyed , Mad",
+      "timestamp": "2022-09-05T20:03:12",
+      "order": 102,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2204,
+      "text": "Annoyed , Mad , Angry , Tired , Sluggish",
+      "timestamp": "2022-09-06T10:23:49",
+      "order": 103,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2205,
+      "text": "Sad , Mad , Irritated , Annoyed , Tired",
+      "timestamp": "2022-09-06T15:00:50",
+      "order": 104,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2206,
+      "text": "Mad , Annoyed , Angry , Tired , Irritated",
+      "timestamp": "2022-09-06T20:14:44",
+      "order": 105,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2207,
+      "text": "Sad , Tired , Sluggish , Fatigued , Sleepy",
+      "timestamp": "2022-09-07T10:27:24",
+      "order": 106,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 2208,
+      "text": "Tired , Sluggish , Sleepy , Neutral , Irritated",
+      "timestamp": "2022-09-07T16:15:18",
+      "order": 107,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "user_id": 109,
+  "num_entries": 7,
+  "entries": [
+    {
+      "text_id": 1913,
+      "text": "Calm , Content , Anxious , Tired , Excited",
+      "timestamp": "2024-10-17T12:39:25",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1914,
+      "text": "I am pretty stressed with work , but otherwise content and appreciative of the pleasant fall day and weather . I had a nice , productive lunch with coworkers and someone who was interviewing , so overall quite nice .",
+      "timestamp": "2024-10-17T17:09:39",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1915,
+      "text": "Currently I am tired and am having some canker sores , which is making it hard to eat . I feel pretty exhausted from the day , and still have some work left to do to prepare for tomorrow . Other than that , I feel like I am super busy and need more time to do all of the things I need to .",
+      "timestamp": "2024-10-17T22:38:00",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1916,
+      "text": "Relieved , Content , Cold , Excited , Worried",
+      "timestamp": "2024-10-18T17:56:36",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1917,
+      "text": "I\u2019m a bit hungry , but I feel super refreshed after a 5km water along the water . Definitely helped to clear the mind and feel happy going into the weekend ! I definitely feel more relaxed and less overwhelmed after today\u2019s work meetings .",
+      "timestamp": "2024-10-18T22:33:27",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1918,
+      "text": "I\u2019m currently feeling refreshed after a good night\u2019s rest , and feeling relaxed with a quiet morning having breakfast . I\u2019m looking forward to the day ahead ; it\u2019s supposed to be beautiful outside on this warm fall day , and the sun is out . So much to be thankful for !",
+      "timestamp": "2024-10-19T12:41:18",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1919,
+      "text": "Refreshed , Happy , Joyful , Creative , Excited",
+      "timestamp": "2024-10-19T17:12:48",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

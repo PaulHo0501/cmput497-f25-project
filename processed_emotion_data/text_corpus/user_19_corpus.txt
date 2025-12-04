@@ -1,0 +1,5 @@
+[ENTRY_1308] Pain , Fatigue , Tired , Busy , Swamped
+[ENTRY_1309] Tired , Anxious , Overwhelmed , Scattered , Under pressure
+[ENTRY_1310] Tired , Busy , Annoyed , Overwhelmed , Swamped
+[ENTRY_1311] Tired , Stressed , Overwhelmed , Busy , Behind
+[ENTRY_1312] Stressed , Busy , Running behind , Unappreciated , Tired

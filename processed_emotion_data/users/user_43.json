@@ -1,0 +1,46 @@
+{
+  "user_id": 43,
+  "num_entries": 4,
+  "entries": [
+    {
+      "text_id": 3990,
+      "text": "Pretty good just turned 50 yesterday . I think I am running   on adrenalin . Lately I have been feeling a bit run down . When I go to work at the hotel to bartend sometimes I do feel like , I don ' t have the energy to deal with people being extra !",
+      "timestamp": "2021-06-08T12:08:16",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3991,
+      "text": "I feel a bit rundown . I go into work tonight , not feeling to excited about it . I just don ' t feel like dealing with hard to please people tonight . But , I will go in and put my best foot forward , because sometimes people just need their bartender to be on their game to listen to them .",
+      "timestamp": "2021-06-10T12:01:20",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3992,
+      "text": "In the past 24 hours I have been feeling a bit tired and run down . Pulled a double so my body is feeling a bit worn down . And I am tired and sleepy , really feel like I just need to rest . Hoping I feel better tomorrow .",
+      "timestamp": "2021-06-12T12:30:48",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3993,
+      "text": "I haven ' t been to work in a few days I ' ve been on vacation   so the drink count is because of the vacation . I really needed the getaway . Sometimes the work can be mentally and physically draining . But I do love being able to talk to people when they come through the bar .",
+      "timestamp": "2021-06-13T13:25:05",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

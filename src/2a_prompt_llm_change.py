@@ -52,16 +52,16 @@ Where:
   - Positive number if valence increased (e.g., +1, +2, +3)
   - Negative number if valence decreased (e.g., -1, -2, -3)
   - 0 if no change
-- arousal_change: change in arousal from TEXT 1 to TEXT 2 (range: -4 to +4)
-  - Positive number if arousal increased (e.g., +1, +2, +3)
-  - Negative number if arousal decreased (e.g., -1, -2, -3)
+- arousal_change: change in arousal from TEXT 1 to TEXT 2 (range: -2 to +2)
+  - Positive number if arousal increased (e.g., +1, +2)
+  - Negative number if arousal decreased (e.g., -1, -2)
   - 0 if no change
 
-IMPORTANT: Output exactly 2 numbers representing the changes (range: -4 to +4 each).
+IMPORTANT: Output exactly 2 numbers representing the changes (range: -4 to +4 for Valence change and -2 tp 2 for Arousal change).
 '''
 SUBTASK2A_RUBRICS = {
     "valence_scale": "Valence Scale: -2 (Very Negative), -1 (Negative), 0 (Neutral), +1 (Positive), +2 (Very Positive)",
-    "arousal_scale": "Arousal Scale: -2 (Very Calm), -1 (Calm), 0 (Neutral), +1 (Excited), +2 (Very Excited)"
+    "arousal_scale": "0 (Neutral), +1 (Excited), +2 (Very Excited)"
 }
 
 DATA_PATH_SUBTASK2A = './data/train_subtask2a.csv'

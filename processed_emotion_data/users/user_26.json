@@ -1,0 +1,396 @@
+{
+  "user_id": 26,
+  "num_entries": 39,
+  "entries": [
+    {
+      "text_id": 1537,
+      "text": "I feel worried more than nervous . I worry due to financial situations . I feel disappointed that I don\u2019t make good decisions . I feel want more stability financially and emotionally , I spend much time day dreaming of my life in the future . I suppose I\u2019m discontent with my current position in life .",
+      "timestamp": "2022-03-06T10:18:28",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1538,
+      "text": "I am feeling happy in general at the moment . I am with family and my mind is taken off of my worries . It\u2019s been a busy day which has helped take my mind off things . I am looking forward to a busy week that will keep my mind occupied .",
+      "timestamp": "2022-03-06T16:18:51",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1539,
+      "text": "Right now I\u2019m feeling content . I did have a few drinks and ate some lasagna so that could\u2019ve helped . Tomorrow I begin a busy week since it is spring break the next couple weeks will be pretty busy . I also have an exam in school but I\u2019ll deal with that later .",
+      "timestamp": "2022-03-06T20:00:26",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1540,
+      "text": "I am at work today and it will be busy so I don\u2019t have much time to think about how I feel . I feel indifferent at the moment and am hopeful that it will be a good day . I have to focus on work and school and can\u2019t let my mental state distract me too much .",
+      "timestamp": "2022-03-07T11:11:02",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1541,
+      "text": "I\u2019m happy at the moment . I get to go see my girlfriend after work and I work with fun people today so it\u2019s not bad . Tomorrow is going to be busy with school . It\u2019s cold today which sucks because we had 2 days of 80 degree weather . I\u2019m ready for summer because there\u2019s a lot of outdoor activities that take place . I feel like I don\u2019t get out enough .",
+      "timestamp": "2022-03-07T15:02:23",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1542,
+      "text": "I have to stay late at work so I\u2019m not happy about that . I also have been looking for new jobs but I don\u2019t know what I want to do and am not qualified for anything . I do not have a passion I feel like I can\u2019t afford to have any passions or hobbies .",
+      "timestamp": "2022-03-07T20:01:12",
+      "order": 5,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1543,
+      "text": "I actually feel pretty good today . I have school but I only have two classes and next week is spring break although I\u2019ll have to work a lot . I could use the hours though . All in all I\u2019m optimistic about today .",
+      "timestamp": "2022-03-08T10:03:50",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1544,
+      "text": "I feel restless and not that happy . I just want to be in a good place financially and mentally . I try and be positive but it doesn\u2019t work usually . I wish I could just know what to do to improve my mood .",
+      "timestamp": "2022-03-08T16:09:48",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1545,
+      "text": "My day is coming to a close with a few drinks . I shouldn\u2019t drink that much it makes me feel fat . I need to work out more and I have time it\u2019s just a motivation thing . I want to but I just can\u2019t bring myself to do it . I feel stuck .",
+      "timestamp": "2022-03-08T20:20:04",
+      "order": 8,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1546,
+      "text": "Today is busy work wise . I have a lot to do and can\u2019t really focus on my mental state . I do feel restless though but that\u2019s probably because I\u2019m so busy . Tomorrow will be busy too . I do like when it\u2019s busy since it keeps my mind occupied .",
+      "timestamp": "2022-03-09T12:22:46",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1547,
+      "text": "I didn\u2019t get enough sleep last night so I\u2019m feeling tired at the moment . Work is busy due to spring break so that could be where my stress is coming from at the moment . I won\u2019t have another day off for 10 days so that\u2019ll be fun .",
+      "timestamp": "2022-03-09T15:59:11",
+      "order": 10,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1548,
+      "text": "I got to leave work early so that makes me happy . I ate some good food so that makes me happy too . Overall today was not that bad . I wish all days could at least feel like this or better . Maybe it\u2019s just a matter if mindset .",
+      "timestamp": "2022-03-09T22:09:52",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1549,
+      "text": "It\u2019s a nice day out so I\u2019m happy . I ate a good lunch with my girlfriend so today has been good . I do work later but it is what it is . Hopefully it\u2019s not super busy because I don\u2019t want people at work to ruin my good mood . People can be so intolerable .",
+      "timestamp": "2022-03-10T11:13:58",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1550,
+      "text": "I\u2019m happy right now because I don\u2019t have to go into work which is good . I did have a few drinks I don\u2019t feel like that was smart but it\u2019s okay . I\u2019ve pretty much just accepted that this is a part of life for now that I\u2019ll deal with later .",
+      "timestamp": "2022-03-10T17:22:04",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1551,
+      "text": "I\u2019m tired right now . Not sure why . I was day drinking so that probably would do it . Anyway I\u2019m not necessarily unhappy . I am tired though . I go to work early tomorrow and it\u2019s Friday so it\u2019ll be busy . Hopefully the day goes fast .",
+      "timestamp": "2022-03-10T20:00:28",
+      "order": 14,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1552,
+      "text": "I don\u2019t feel great this morning . I don\u2019t want to go to work and deal with people . Some people are so entitled and don\u2019t care how they make you feel as long as they get their way . Other people are great and are no problem but I don\u2019t understand why some have to be so bad .",
+      "timestamp": "2022-03-11T10:07:33",
+      "order": 15,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1553,
+      "text": "It hasn\u2019t been a bad day but it\u2019s moving slowly . Today is the first day of nine straight days I have to work . It\u2019s also cold today and cloudy , I wish the sun would come out . I get off in about 2 hours so hopefully it goes fast .",
+      "timestamp": "2022-03-11T16:05:51",
+      "order": 16,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1554,
+      "text": "Im doing okay . I\u2019ve felt better and felt worse so overall not that bad . I wish I could just be content all the time . I don\u2019t know how to improve my state of mind . Anyway tomorrow is a new day but also kind of the same in every way .",
+      "timestamp": "2022-03-11T20:52:26",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1555,
+      "text": "My girlfriend seems off and I\u2019m not sure if it\u2019s because my mood or not . I\u2019m sure it\u2019s nothing but if it is me I didn\u2019t do it in purpose . When I ask her she says it\u2019s not but I still don\u2019t believe her . Sounds like a me problem .",
+      "timestamp": "2022-03-12T11:02:09",
+      "order": 18,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1556,
+      "text": "Work is busy but not that bad . The people have been nice . I\u2019m doing better than earlier today and actually feel a bit happy . I wish I enjoyed my job everyday . Maybe once I move on to something better I will .",
+      "timestamp": "2022-03-12T15:15:32",
+      "order": 19,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1557,
+      "text": "My girlfriend is leaving for a few days which sucks because we usually spend today together . Also the time changes tomorrow and I\u2019m going to lose an hour of sleep so that\u2019s not fun . Anyway it is what it is .",
+      "timestamp": "2022-03-12T21:13:11",
+      "order": 20,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1558,
+      "text": "Busy day at work hopefully it\u2019s not too bad . I\u2019m tired from the time change . I don\u2019t really know what to say for this right now . Sometimes I don\u2019t really feel like anything so sorry if this entry isn\u2019t that helpful .",
+      "timestamp": "2022-03-13T11:45:30",
+      "order": 21,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1559,
+      "text": "Today has been long . A lot of people are getting sick that I know . Also at work the printer isn\u2019t working and I can\u2019t figure out what\u2019s wrong with it and it\u2019s super annoying because I\u2019m not an IT guy .",
+      "timestamp": "2022-03-13T16:18:35",
+      "order": 22,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1560,
+      "text": "I\u2019m running late to work , someone almost hit my car and my shift is like 10 hours today . People have been leaving bad reviews on ORG  as well . My staff and I are trying our best to make these people happy but all they can do is leave bad reviews .",
+      "timestamp": "2022-03-14T11:13:55",
+      "order": 23,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1561,
+      "text": "Work has been busy today . They day has gotten better from earlier . The sun is out and the weather is nice which is nice but I wish I could go enjoy it . Today has not been awful like I thought it was gonna be .",
+      "timestamp": "2022-03-14T16:56:01",
+      "order": 24,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1562,
+      "text": "Today has been long but all in all it hasn\u2019t been bad . The time change has made me tired but I\u2019m making it . Still have a long week ahead of me but I\u2019m sure it\u2019ll be fine and then I have a break Saturday which will be nice .",
+      "timestamp": "2022-03-14T20:46:00",
+      "order": 25,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1524,
+      "text": "Work was long yesterday so I\u2019m pretty tired today but today is going smoothly . I\u2019m not stressed and the people I\u2019ve had today have been nice . The sun is out and it\u2019s getting warmer . I only have 4 more days until my next day off .",
+      "timestamp": "2022-03-15T15:00:13",
+      "order": 26,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1525,
+      "text": "I get to spend time with my girlfriend tonight which makes me happy . We made pizza and watched a movie . This week has been long but it\u2019s almost half way done . I could use a break from work . It\u2019s been so busy I haven\u2019t had time to think .",
+      "timestamp": "2022-03-15T20:48:39",
+      "order": 27,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1526,
+      "text": "I have a headache , I usually get between 3 and 4 headaches a week . No telling what this one is from . I don\u2019t work until later today so I\u2019m happy about that . I\u2019m stressed though because my dog has a hot spot and he\u2019ll need to go to the vet so that\u2019s another thing I have to deal with .",
+      "timestamp": "2022-03-16T10:49:41",
+      "order": 28,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1527,
+      "text": "On day 6 in a row with having to go to work with 3 more still to go . It\u2019s not a physically demanding job but when you\u2019re dealing with people it gets tiring . And people are never satisfied . They act like they\u2019re talking to a machine and not a person .",
+      "timestamp": "2022-03-16T15:25:21",
+      "order": 29,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1528,
+      "text": "Today has not been as bad as I thought it would be . The guests have been nice and easy to deal with . Only two more days until my next day off . I\u2019ve been feeling better in general lately . Hopefully it continues .",
+      "timestamp": "2022-03-16T20:36:04",
+      "order": 30,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1529,
+      "text": "I have two more days of work and then a day off . My girlfriend and I are going down town and definitely going to drink but not in a \u201ctoday sucked I\u2019m sad\u201d way . So I\u2019m not sure if that will skew your results . Anyway today I\u2019m optimistic a rare feeling for me .",
+      "timestamp": "2022-03-17T10:54:54",
+      "order": 31,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1530,
+      "text": "Todays been busy and I\u2019m ready to leave . The person replacing me today is always late so I\u2019m sure it\u2019ll happen today . I\u2019m impatient today and all I can think about is going home . Today hasn\u2019t been totally bad but it could\u2019ve gone better .",
+      "timestamp": "2022-03-17T16:27:32",
+      "order": 32,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1531,
+      "text": "I had a good dinner and time with my family . Tomorrow is my last day of work before I have off . The past few days my mood has been improving I\u2019ve been happier and more energetic overall . Things are on the up and up .",
+      "timestamp": "2022-03-17T21:18:32",
+      "order": 33,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1532,
+      "text": "I have off tomorrow so I\u2019m happy . I just have to make it through one more shift . I definitely could use the break . This spring break has been so busy and I\u2019ve worked 9 days in a row . I\u2019m going to remain positive today .",
+      "timestamp": "2022-03-18T11:50:47",
+      "order": 34,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1533,
+      "text": "Today has been a busy day . I have 3 more hours before I can go home so I\u2019m excited about that . Work hasn\u2019t been terrible today so I think I\u2019m gonna make it through . I can\u2019t wait for a day off tomorrow .",
+      "timestamp": "2022-03-18T15:29:05",
+      "order": 35,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1534,
+      "text": "I am relieved that I\u2019m off from work for a couple of days . It\u2019s nice to have a break after working for 10 days straight . It\u2019ll be good to have some time to catch up with friends and family , and I\u2019m going to take my dog on a walk .",
+      "timestamp": "2022-03-18T21:09:33",
+      "order": 36,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1535,
+      "text": "I was stressed this morning because I had a lot to get done . I\u2019m doing much better now because I finished all of my tasks , and now I get to enjoy my day off with my family and girlfriend . We are spending the day outside .",
+      "timestamp": "2022-03-19T12:36:19",
+      "order": 37,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1536,
+      "text": "I\u2019m sorry I missed my 3 o\u2019clock survey . Today has been busy I\u2019ve been on a \u201cstaycation\u201d with my girlfriend and family . But I am happy and I\u2019m not stressed for once and it\u2019s been a good day . I also have tomorrow off I\u2019m good for a bit .",
+      "timestamp": "2022-03-19T20:12:34",
+      "order": 38,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    }
+  ]
+}

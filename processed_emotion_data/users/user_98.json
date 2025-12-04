@@ -1,0 +1,166 @@
+{
+  "user_id": 98,
+  "num_entries": 16,
+  "entries": [
+    {
+      "text_id": 1326,
+      "text": "I just woke up feeling fine , I ' m on my way to physical therapy should be a good day . I woke up having those time traveling dreams it felt nice it almost felt real but after that I feel content . My day just started i hope today is a good one",
+      "timestamp": "2024-11-05T12:00:50",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1333,
+      "text": "Calm , Content , Tired , Fine , Normal",
+      "timestamp": "2024-11-05T17:00:49",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1334,
+      "text": "I ' m currently feeling fine , it ' s been a long day but nothing feeling out of the ordinary , I ' m feel fine and nothing bad has happened that would make me feel different . I ' m looking forward to more better days .",
+      "timestamp": "2024-11-05T22:00:45",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1335,
+      "text": "Currently feeling very sleepy waking attending my ORG needs , looking forward to taking some naps today , I ' m also looking forward to do some workouts at home done . That ' s all I feel for now ........",
+      "timestamp": "2024-11-06T12:20:51",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1349,
+      "text": "Feeling good today on a   Sunday , staying in watching videos with my family , I feel fine on this gloomy day out . I feel fine and full , had a good lunch can\u2019t wait what tonight brings later , later I\u2019ll be working for a couple of hours\u2026\u2026\u2026 ..",
+      "timestamp": "2024-11-06T17:13:50",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1350,
+      "text": "calm , content , hungry , tired , good",
+      "timestamp": "2024-11-06T22:04:46",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1351,
+      "text": "Just waking up still feel normally tired ,   i can ' t wait to start the day and see what today brings , i have a couple of errands to do today , i don ' t feel out of the ordinary .........................",
+      "timestamp": "2024-11-07T12:01:51",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1352,
+      "text": "calm , happy , active , content , normal",
+      "timestamp": "2024-11-07T17:47:07",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1353,
+      "text": "calm , energize , happy , normal , okay",
+      "timestamp": "2024-11-07T22:07:22",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1354,
+      "text": "Good morning I ' m ready to start the day and see what today brings me , I woke up ok feel like I didn ' t sleep enough ,   I think daylightsaving is still making me feel exhausted about it , I haven ' t processed it fully",
+      "timestamp": "2024-11-08T12:01:07",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1355,
+      "text": "good , calm , happy , fine , okay",
+      "timestamp": "2024-11-08T17:07:48",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1356,
+      "text": "good , calm , hungry , content , well",
+      "timestamp": "2024-11-08T22:01:34",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1357,
+      "text": "calm , awake , good , alright , normal",
+      "timestamp": "2024-11-09T12:03:52",
+      "order": 12,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1358,
+      "text": "Currently feeling fine at the moment , it ' s Saturday and heading out with my kids to enjoy this weather , I haven ' t felt out of the ordinary , today should be a good day to head to the book store .........................",
+      "timestamp": "2024-11-09T17:18:11",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1359,
+      "text": "good , calm , hungry , content , fine",
+      "timestamp": "2024-11-09T22:01:08",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1360,
+      "text": "Been a good day , I ' m currently feeling alright at the moment , working right now , feeling sleepy all day couldn ' t sleep well due to my 6 month old , but we are okay and I feel fine tomorrow will be another day let see what happens",
+      "timestamp": "2024-11-10T22:01:16",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

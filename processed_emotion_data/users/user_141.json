@@ -1,0 +1,126 @@
+{
+  "user_id": 141,
+  "num_entries": 12,
+  "entries": [
+    {
+      "text_id": 3572,
+      "text": "Normal , Calm , Reserved , Nil , Nil",
+      "timestamp": "2024-08-24T17:29:36",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3573,
+      "text": "Unhappy , Feeling natural , Stressed , Tired , Nothing else",
+      "timestamp": "2024-08-24T22:01:03",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3575,
+      "text": "Active , Tipsy , Lively , Drunk , Drained",
+      "timestamp": "2024-08-25T22:04:51",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3576,
+      "text": "I feel tipsy very stressed and tired today I feel so sick and tired but I\u2019m gonna be fine just a little bit drunk too took a few bottles i don\u2019t really know what\u2019s wrong with me right now am just stressed out but I\u2019m gonna be okay \\n",
+      "timestamp": "2024-08-26T22:37:35",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3577,
+      "text": "Happy , A bit joyful , Glad , Impressed , Joyful",
+      "timestamp": "2024-08-30T12:49:30",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3578,
+      "text": "I feel stressed out but at the same time a little bit happy and I took a few bottles of alcohol outside in my garage today so am stressed out and a little bit drunk not that drunk I just feel really tired and stressed out",
+      "timestamp": "2024-08-30T22:14:36",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3579,
+      "text": "Sad , Tired , Stressed , Annoyed , Nervous",
+      "timestamp": "2024-08-31T22:22:53",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3580,
+      "text": "I feel so empty and lost right now ,I do not have the right words I need to explain this kinda feeling but I feel lost and confused ,I am hopeful anyways hoping it all get better and I get to know what\u2019s going on",
+      "timestamp": "2024-09-01T12:41:00",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3581,
+      "text": "It\u2019s Monday and PERSON got no time to slack or feel down ,I am happy about this new week and hope all goodness comes with it .\\ nI am active ,cheerful ,happy about the new week and of course PERSON gat to win my bosses heart This week .",
+      "timestamp": "2024-09-02T12:55:43",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3582,
+      "text": "I am so glad that my work got acknowledged today \\nThis happened several months back and now it feels like I am on top of the world \\nI know this means I gat to push harder go further and do stuffs right \\nBut yes am not stopping I keep pushing",
+      "timestamp": "2024-09-02T22:11:27",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3583,
+      "text": "I feel glad about today and all that u have seen and heard so far ,I am hopeful and excited for great news and greatness today I would say that has made me positive and somewhat happy too \\nI should do a great job at work to feel even better",
+      "timestamp": "2024-09-03T12:32:15",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3584,
+      "text": "Stressed , Tired , Downcast , Sad , Annoyed",
+      "timestamp": "2024-09-03T22:05:17",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4359,"nervous , anxious , worried , overwhelmed , busy",2024-10-10T12:01:36,0,-1.0,2.0,7,True
+4360,I am feeling a bit tired and out of energy for the day . I am much less worried than this morning but now feel a little drained . I am ready to be done with my work day and relax with my partner and my dog on the couch .,2024-10-10T17:49:32,1,-1.0,0.0,7,False
+4361,"calm , content , relaxed , tired , still",2024-10-10T22:01:31,2,1.0,0.0,7,True
+4362,"tired , sleepy , low energy , calm , content",2024-10-11T12:00:58,3,0.0,0.0,7,True
+4363,I am feeling anxious to be done with my work day and relax . I know I have to study a lot this weekend so really looking forward to the break . I ' m really motivated to finish my work at the moment though and feeling good overall .,2024-10-11T17:01:21,4,0.0,2.0,7,False
+4364,"happy , content , comfy , cozy , calm",2024-10-11T22:01:29,5,1.0,1.0,7,True
+4365,"I am feeling like I had a productive morning but my energy is waning . I have to study all day today and that is leaving me feeling a little drained . I am ready to sit on the couch and relax , or at least just get off my feet for a bit .",2024-10-12T12:02:19,6,0.0,0.0,7,False
+4366,I am generally feeling good . I am a bit sleepy but i ' ve been fairly motivated to study today . I am enjoying studying while watching football with my partner at home . I think I have several more hours in me .,2024-10-12T17:01:13,7,1.0,2.0,7,False
+4367,"calm , content , tired , drained , happy",2024-10-12T22:12:17,8,0.0,0.0,7,True
+4368,I am generally feeling good this morning . I indulged in some drinks last night but didn ' t go too far . I have a lot more studying to do today and am feeling less motivated than yesterday but know I can push through .,2024-10-13T12:15:54,9,1.0,0.0,7,False
+4369,"tired , sleepy , sluggish , unmotivated , lazy",2024-10-13T17:01:13,10,-1.0,0.0,7,True
+4370,"nervous , anxious , anticipatory , motivated , ready",2024-10-13T22:01:18,11,-1.0,2.0,7,True
+4371,I am relieved that my big exam is over . I ' m happy with the result but also just drained and tired and ready for a nap . I wish I didn ' t have to leave the house again later today . I ' m looking forward to sitting on the couch to veg out for a bit .,2024-10-14T12:16:03,12,-1.0,0.0,7,False
+4372,"After relaxing most of the day , I hit a burst of motivation and productivity and got some good cleaning and organizing done around the house . I feel tired and drained but have enough energy to push through this event tonight and then get home and collapse .",2024-10-14T17:01:06,13,0.0,2.0,7,False
+4373,"Being out tonight for an event really did energize me . I also got extra physical effort in because I had to tote cases of alcohol back and forth to the event venue . I felt the event went well and I ' m pleased with that , and I also feel more energized than I did earlier today .",2024-10-14T22:52:54,14,1.0,2.0,7,False
+4374,"I am feeling a little sluggish , but somehow still motivated for my work day . I ' ve had a productive morning so far . I also feel motivated to try to get back on track and stay on track with healthy eating and movement this week .",2024-10-15T12:01:30,15,0.0,2.0,7,False
+4375,"anxious , restless , stressed , motivated , antsy",2024-10-15T17:21:01,16,-1.0,2.0,7,True
+4376,"content , proud , accomplished , relaxed , comfortable",2024-10-15T22:01:33,17,1.0,1.0,7,True
+4377,"edgy , antsy , anxious , jittery , lively",2024-10-16T12:01:51,18,-1.0,2.0,7,True
+4378,"I am feeling tired , drained , and like I ' m losing steam and motivation for the rest of my work day . I ' ve been in back to back meetings and this last one with my client has been a bit tense . I am feeling like I ' m ready to be done for the day .",2024-10-16T17:21:07,19,-1.0,2.0,7,False
+4379,"calm , cozy , comfortable , happy , grateful",2024-10-16T22:01:31,20,2.0,0.0,7,True

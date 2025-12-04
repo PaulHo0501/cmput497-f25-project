@@ -1,0 +1,26 @@
+{
+  "user_id": 41,
+  "num_entries": 2,
+  "entries": [
+    {
+      "text_id": 3537,
+      "text": "I\u2019ve been feeling slightly unmotivated and tired . I\u2019ve fell out of my exercise routine and diet which may be a huge factor .   It\u2019s my last week of school though so it\u2019s been very busy . I\u2019m getting out of bed now though and starting the day !",
+      "timestamp": "2021-05-15T13:48:21",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3538,
+      "text": "I\u2019ve been feeling good . It\u2019s finals week so lots of studying but otherwise trying to enjoy the things in front of me . Should I drink less s ? Probably . Love this survey but 200 characters is a lot ... like 200 characters is actually so many !",
+      "timestamp": "2021-05-16T14:48:33",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

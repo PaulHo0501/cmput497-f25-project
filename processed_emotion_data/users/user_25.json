@@ -1,0 +1,36 @@
+{
+  "user_id": 25,
+  "num_entries": 3,
+  "entries": [
+    {
+      "text_id": 1487,
+      "text": "I am currently feeling tired and sleepy , lack of sleep .   Had enough to socialize with friends . I also had lack of appetite . I work up today thinking it would be a good day but I soon realized my outlook was very pessimistic .",
+      "timestamp": "2021-06-08T12:04:51",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 1488,
+      "text": "Woke up early than usual-6am ! It was a nice day out , so I went to FAC  and walked around .   Felt good about myself . No hangover and no headache .   I felt I had alot of energy to do alot of things in GPE  .",
+      "timestamp": "2021-06-09T12:01:59",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 1489,
+      "text": "I ' m feeling great .   Went to work and socialized with co-workers . My boss even recognized my spirited personality today . Didn ' t even feel depressed or drained from work .   I felt emotionally stable .   I hope to feel this way tomorrow .",
+      "timestamp": "2021-06-10T22:00:33",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

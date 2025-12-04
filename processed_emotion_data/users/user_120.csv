@@ -1,0 +1,14 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2485,"tired , anticipatory , scattered , calm , neutral",2024-11-02T17:01:21,0,-2.0,0.0,7,True
+2486,I ' m feeling content and happy having spent the day with my family including members I haven ' t seen in a while . I am also feeling energetic & engaged after a day of physical activity and outdoor time .,2024-11-02T22:01:24,1,2.0,0.0,7,False
+2487,"happy , lively , enthusiastic , energetic , ready",2024-11-03T12:17:07,2,2.0,1.0,7,True
+2488,"active , energized , hyper , focused , enthused",2024-11-03T17:16:20,3,0.0,2.0,7,True
+2489,"tired , exhausted , content , full , lethargic",2024-11-03T22:01:24,4,-2.0,0.0,7,True
+2502,"tired , sluggish , determined , ready , thoughtful",2024-11-04T12:52:02,5,-1.0,0.0,7,True
+2503,I am currently feeling neutral as I am engaged with many items at work today with which require my full focus and concentration .   I am also relatively relaxed as most of the work has been completed and deadlines will be met .,2024-11-04T17:08:15,6,0.0,1.0,7,False
+2504,"I am currently feeling satisfied because I have completed all of my work without needing to put in overtime , relaxed as I have no more pressing concerns for the remainder of today and happy to wind down .",2024-11-04T22:12:01,7,2.0,0.0,7,False
+2505,I am feeling mentally tired and sluggish since I did not get a lot of sleep last night . I am also feeling annoyed because I have unexpected work given to me that I need to finish in a short amount of time today .,2024-11-05T12:17:38,8,-2.0,0.0,7,False
+2506,"active , content , engaged , focused , energetic",2024-11-05T17:33:09,9,0.0,2.0,7,True
+2507,"happy , accomplished , content , energized , eager",2024-11-06T17:27:56,10,2.0,1.0,7,True
+2508,I ' m feeling tired and lethargic after a long day at work . I ' m feeling curious about what to eat for dinner . I ' m feeling shocked at how early it became dark today and surprised by how much it affects my mood .,2024-11-06T22:05:35,11,-2.0,0.0,7,False
+2509,"sluggish , tired , worried , reflective , curious",2024-11-07T12:27:31,12,-2.0,0.0,7,True

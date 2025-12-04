@@ -1,0 +1,10 @@
+[ENTRY_1292] Content , Calm , Happy , Indifferent , Fine
+[ENTRY_1293] Calm , Tired , Slightly anxious , Distracted , Nuetral
+[ENTRY_1294] Slightly anxious , Time crunched , Quiet , Neutral , Easy
+[ENTRY_1295] Content , Excited , At home , Happy , Jazzed
+[ENTRY_1296] Calm , Excited , Content , Capable , Tired
+[ENTRY_1297] Focused , Content , Excited , Happy , Optimistic
+[ENTRY_1298] Content , Happy , Excited , Tired , Calm
+[ENTRY_1299] Content , Calm , Tired , Comfortable , Fine
+[ENTRY_1300] Content , Calm , Chill , Neutral , Excited
+[ENTRY_1301] Slightly anxious , Slightly annoyed , Excited , Content , Jittery

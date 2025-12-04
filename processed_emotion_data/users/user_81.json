@@ -1,0 +1,206 @@
+{
+  "user_id": 81,
+  "num_entries": 20,
+  "entries": [
+    {
+      "text_id": 5207,
+      "text": "I ' m currently feeling a little down because I ' m sick but I have to keep on going to raise my children . I ' m also hopeful that I can get rid of this by the end of the day . I ' m also feeling unsupported because I ' m a single mother .",
+      "timestamp": "2024-09-23T17:23:30",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5208,
+      "text": "I ' m feeling a little aggravated and unsupported . Being a single mother is hard and having to co-parent makes it even harder when you ' re not on the same page . I ' m also feeling sluggish due to being sick .",
+      "timestamp": "2024-09-23T22:22:43",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5209,
+      "text": "Exhausted , Overwhelmed , Unsupported , Annoyed",
+      "timestamp": "2024-09-24T12:08:24",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5210,
+      "text": "Exhausted , Annoyed , Unheard , N/a , N/a",
+      "timestamp": "2024-09-24T17:26:25",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5211,
+      "text": "Determined , Hopeful , Content , N/a , N/a",
+      "timestamp": "2024-09-24T22:03:28",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5212,
+      "text": "Content , Indifferent , Neutral , Level , N/a",
+      "timestamp": "2024-09-25T12:12:46",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5213,
+      "text": "Currently I ' m feeling tired due to staying up with the children last night . I ' m also grateful my baby ' s cold seems to be getting better . Work is going well so I ' m content with the day . It ' s getting closer to the end of the month and I ' m hoping unexpected money comes from somewhere so that I can make ends meet .",
+      "timestamp": "2024-09-25T17:06:26",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5214,
+      "text": "Annoyed , Overstimulated , Overwhelmed , N/a , N/a",
+      "timestamp": "2024-09-25T22:00:40",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5215,
+      "text": "I am feeling kind of lethargic . I am currently exhausted . I can never get a break from these children . I just need to get a good night ' s rest . I wish I had support to ease this feeling of being overwhelmed .",
+      "timestamp": "2024-09-26T12:18:10",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5216,
+      "text": "Calm , Content , Neutral , Leveled",
+      "timestamp": "2024-09-27T12:05:24",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5217,
+      "text": "Grateful , Joyful , Thankful , N/A , N/A",
+      "timestamp": "2024-09-27T17:09:53",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5218,
+      "text": "Calm , At peace , Satisfaction , N/a , N/a",
+      "timestamp": "2024-09-28T17:00:54",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5219,
+      "text": "Calm , Content , Leveled , At peace",
+      "timestamp": "2024-09-28T20:38:51",
+      "order": 12,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5220,
+      "text": "Sad , Unsuccessful , Failure , Disappointed",
+      "timestamp": "2024-09-29T12:07:39",
+      "order": 13,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5221,
+      "text": "I am currently feeling leveled . I don ' t have any bad or good emotions I just feel based line . Neutral would be the best way to describe it . The day is just getting started . I am starting to have a problem with this 200 word minimum .",
+      "timestamp": "2024-09-30T12:31:19",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5222,
+      "text": "Annoyed , Regretful , Tired , N/a , N/a",
+      "timestamp": "2024-09-30T17:08:31",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5223,
+      "text": "It is the end of my day and i am worn out . I did not get to take a nap today . I wish my babies will just go to sleep right away so that I can get more than 4 hours of sleep . I ' m feeling very sluggish .",
+      "timestamp": "2024-10-01T22:16:36",
+      "order": 16,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5264,
+      "text": "Exhausted , Withdrawn , Socially drained , N/a , N/a",
+      "timestamp": "2024-10-02T22:42:54",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5265,
+      "text": "This morning has been without stop since the children has woken up so I ' m feeling very rushed . I have just been going through the motions feeling numb . I feeling I am in a dream that I can control . I do not have 200 words worth of feelings .\\ n",
+      "timestamp": "2024-10-03T12:03:05",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5266,
+      "text": "Overstimulated , Exhausted , Overwhelmed , Resentment , N/a",
+      "timestamp": "2024-10-03T22:06:47",
+      "order": 19,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

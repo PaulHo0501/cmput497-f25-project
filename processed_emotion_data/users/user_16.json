@@ -1,0 +1,766 @@
+{
+  "user_id": 16,
+  "num_entries": 76,
+  "entries": [
+    {
+      "text_id": 822,
+      "text": "Tired , Stressed , Exhausted , Annoyed",
+      "timestamp": "2021-05-04T12:11:22",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 823,
+      "text": "Exhausted , Invisible , Sore , Morose",
+      "timestamp": "2021-05-05T21:33:02",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 824,
+      "text": "Tired , Unappreciated , Lonely",
+      "timestamp": "2021-05-06T12:03:49",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 825,
+      "text": "Frustrated , Tired , Annoyed",
+      "timestamp": "2021-05-07T12:28:59",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 826,
+      "text": "Annoyed , Frustrated , Unheard , Misunderstood",
+      "timestamp": "2021-05-08T12:46:49",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 827,
+      "text": "Tired , Frustrated , Misunderstood",
+      "timestamp": "2021-05-09T12:40:11",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 828,
+      "text": "Invisible , Drained , Frustrated",
+      "timestamp": "2021-05-10T15:56:13",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 829,
+      "text": "Drained , Sluggish , Annoyed",
+      "timestamp": "2021-05-11T12:12:00",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 830,
+      "text": "Refreshed , Energetic , Enthusiastic , Hopeful",
+      "timestamp": "2021-05-12T12:48:40",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 816,
+      "text": "Blah , Quiet , Uninterested , Ignored",
+      "timestamp": "2021-05-13T12:38:22",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 817,
+      "text": "Refreshed , Releived , Content",
+      "timestamp": "2021-05-14T12:02:23",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 818,
+      "text": "Annoyed , Frustrated , Anxious",
+      "timestamp": "2021-05-15T12:57:14",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 819,
+      "text": "Neutral , Blah , Uninspired",
+      "timestamp": "2021-05-16T12:02:49",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 820,
+      "text": "Overwhelmed , Lonely , Annoyed",
+      "timestamp": "2021-05-17T13:26:43",
+      "order": 13,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 821,
+      "text": "Excited , Anxious , Calm , Mellow",
+      "timestamp": "2021-05-18T12:00:23",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 844,
+      "text": "Anxious , Nervous , Exhausted",
+      "timestamp": "2022-01-26T10:01:24",
+      "order": 15,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 845,
+      "text": "Anxious , Stressed , Tired",
+      "timestamp": "2022-01-26T15:33:17",
+      "order": 16,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 846,
+      "text": "Bored , Tired , Hungry",
+      "timestamp": "2022-01-26T20:18:39",
+      "order": 17,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 847,
+      "text": "Calm , Mellow , Relaxed",
+      "timestamp": "2022-01-27T12:55:17",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 848,
+      "text": "Chill , Fine , Mellow",
+      "timestamp": "2022-01-27T16:17:09",
+      "order": 19,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 849,
+      "text": "Drained , Tired , Melancholy",
+      "timestamp": "2022-01-27T22:13:41",
+      "order": 20,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 850,
+      "text": "Nervous , Anxious , Sad",
+      "timestamp": "2022-01-28T10:28:27",
+      "order": 21,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 851,
+      "text": "Nervous , Anxious , Apprehensive",
+      "timestamp": "2022-01-28T15:00:58",
+      "order": 22,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 852,
+      "text": "Annoyed , Misunderstood , Frustrated",
+      "timestamp": "2022-01-28T20:15:55",
+      "order": 23,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 853,
+      "text": "Calm , Anxious , Unmotivated",
+      "timestamp": "2022-01-29T15:38:22",
+      "order": 24,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 854,
+      "text": "Happy , Neutral , Normal",
+      "timestamp": "2022-01-29T20:20:52",
+      "order": 25,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 855,
+      "text": "Anxious , Neutral , Confused , Sluggish , Tired",
+      "timestamp": "2022-01-30T12:06:34",
+      "order": 26,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 856,
+      "text": "Anxious , Annoyed , Peeved",
+      "timestamp": "2022-01-30T15:36:49",
+      "order": 27,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 857,
+      "text": "Tired , Anxious , Nervous , Frustrated",
+      "timestamp": "2022-01-31T10:03:58",
+      "order": 28,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 858,
+      "text": "Relieved , Calm , Mellow , Anxious",
+      "timestamp": "2022-01-31T15:11:47",
+      "order": 29,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 859,
+      "text": "Calm , Mellow , Relaxed",
+      "timestamp": "2022-01-31T21:26:44",
+      "order": 30,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 860,
+      "text": "Tired , Drained , Mellow",
+      "timestamp": "2022-02-02T20:01:17",
+      "order": 31,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 861,
+      "text": "Chill , Relaxed , Calm , Mellow , Grateful",
+      "timestamp": "2022-02-03T15:04:24",
+      "order": 32,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 862,
+      "text": "Sore , Tired , Calm , Mellow , Full",
+      "timestamp": "2022-02-03T20:28:44",
+      "order": 33,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 831,
+      "text": "Achey , Exhausted , Sore",
+      "timestamp": "2022-02-04T10:01:23",
+      "order": 34,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 832,
+      "text": "Relaxed , Mellow , cAlm",
+      "timestamp": "2022-02-04T15:14:57",
+      "order": 35,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 833,
+      "text": "Tired , Sore , Calm",
+      "timestamp": "2022-02-05T10:06:40",
+      "order": 36,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 834,
+      "text": "Anxious , Chill , Tired",
+      "timestamp": "2022-02-05T15:36:44",
+      "order": 37,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 835,
+      "text": "Mellow , Relaxed , Tired , Content",
+      "timestamp": "2022-02-06T10:00:47",
+      "order": 38,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 836,
+      "text": "Prepared , Mellow , Stress free",
+      "timestamp": "2022-02-06T15:03:52",
+      "order": 39,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 837,
+      "text": "Drained , Zapped , Lethargic",
+      "timestamp": "2022-02-07T12:39:02",
+      "order": 40,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 838,
+      "text": "Anxious , Dreading , Unmotivated",
+      "timestamp": "2022-02-07T15:03:27",
+      "order": 41,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 839,
+      "text": "Happy , Calm , Excited",
+      "timestamp": "2022-02-08T10:00:49",
+      "order": 42,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 840,
+      "text": "Happy , Tired , Fulfilled",
+      "timestamp": "2022-02-08T15:07:19",
+      "order": 43,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 841,
+      "text": "Mellow , Relaxed , Calm",
+      "timestamp": "2022-02-08T20:09:01",
+      "order": 44,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 842,
+      "text": "Tired , Excited , Happy",
+      "timestamp": "2022-02-09T10:28:19",
+      "order": 45,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 843,
+      "text": "Hungry , Mellow , Excited",
+      "timestamp": "2022-02-09T15:34:04",
+      "order": 46,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 867,
+      "text": "I am feeling anxious and also have a headache . I am prepping for a procedure tomorrow which is making me nervous but is also frustrating and i am hungry because I\u2019m supposed to be on a liquid diet and all I want to do is eat something .",
+      "timestamp": "2022-04-27T20:35:00",
+      "order": 47,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 868,
+      "text": "I am feeling tired and sleepy . I Had a procedure done today , so I\u2019m at home resting and can\u2019t stop sleeping . Tired , worn out , lethargic , lazy . Why does this force me to write so much for my answer \u2026 . I don\u2019t have enough to report lol",
+      "timestamp": "2022-04-28T15:19:00",
+      "order": 48,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 869,
+      "text": "Feeling pretty good and refreshed after my weekend and heading into work today . Hoping that the ORG draft being in town will be lucrative this weekend for me , but hopefully nothing too crazy ! Lol \\nFeeling calm mellow ready to work !",
+      "timestamp": "2022-04-29T15:01:00",
+      "order": 49,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 870,
+      "text": "Just relaxing with our dogs and my boyfriend before I go to work later . Feeling mellow and relaxed , happy to have time with my boyfriend and the dogs before work which will likely be hectic and crazy .",
+      "timestamp": "2022-04-30T10:03:00",
+      "order": 50,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 871,
+      "text": "Just got to work , feeling quiet calm mellow , trying to chill for a few minutes before i start my shift . Anxious because I realized my health card is expiring next month and the health department is still backed up so the soonest appointment I can make isn\u2019t until august which is stressing me out .",
+      "timestamp": "2022-04-30T15:24:00",
+      "order": 51,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 872,
+      "text": "Feeling very foggy and tired today . Yesterday was a long night at work , not busy just exhausting . Plus the puppy woke me up a lot last night , and I had a pretty good gym session this morning too so I am feeling pooped today ! But gonna pull myself together for another night at work !",
+      "timestamp": "2022-05-01T15:04:00",
+      "order": 52,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 873,
+      "text": "Just working , getting kinda annoyed with all of the requests to fill out these surveys , multiple times a day , especially when I\u2019m at work . Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah",
+      "timestamp": "2022-05-01T21:23:00",
+      "order": 53,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 874,
+      "text": "Happy that it\u2019s my weekend . Was a long and slow week at work , had a couple of interesting characters come into the bar this week so that was fun . Just running errands and doing chores today , mellow calm content , happy to be off .",
+      "timestamp": "2022-05-03T11:09:00",
+      "order": 54,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 875,
+      "text": "Bored at work . Very slow and not alot going on . Very strange week . Bored bored bored bored bored bored bored bored bored boring boring boring boring boring boring boring boring boring boring boring boring boring",
+      "timestamp": "2022-05-03T20:45:00",
+      "order": 55,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 876,
+      "text": "It\u2019s my weekend and just running errands and enjoying my days off from work . Feeling productive and calm , happy to spend time with my boyfriend and our four dogs . That is all . Blah blah blah blah blah",
+      "timestamp": "2022-05-04T10:47:00",
+      "order": 56,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 877,
+      "text": "Just relaxing at home after running errands . Enjoying my day offf with the dogs and just chillin at home . Kahfmgnosifufn akdhbtkosi dishhskfi suwuhfkkoah sjjdhhduinkahs Kathryn iSight my jsbsvni Sindhis jahsusi",
+      "timestamp": "2022-05-04T15:55:00",
+      "order": 57,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 863,
+      "text": "It\u2019s windy AF outside this weekend which means no one wants to go to the bar . So it\u2019s been a very slow weekend , not making alot of money so it\u2019s been rough and I\u2019m frustrated . It\u2019s super annoying when the weather/something you can\u2019t control effects your ability to make money so much",
+      "timestamp": "2022-05-08T15:03:00",
+      "order": 58,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 864,
+      "text": "It\u2019s my Friday , so I\u2019m excited about that . But also very tired after a long and boring weekend at work . Hope that business will pick up soon . Would like to make some money and plan some trips for this summer !",
+      "timestamp": "2022-05-09T15:23:00",
+      "order": 59,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 865,
+      "text": "Feeling sluggish and tired today . It\u2019s my weekend but I\u2019m exhausted from work and just want to relax with the dogs . Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah",
+      "timestamp": "2022-05-10T16:13:00",
+      "order": 60,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 866,
+      "text": "Annoyed with today . Feeling like I get taken advantage of . I always put aside what I want to do so that I can spend time with my boyfriend and his son but they will never reciprocate and do what i want to do . So in order to do stuff that interests me i always have to do it alone .",
+      "timestamp": "2022-05-10T20:20:00",
+      "order": 61,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 887,
+      "text": "Relaxed , Calm , Mellow , Accomplished",
+      "timestamp": "2022-08-31T21:07:48",
+      "order": 62,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 888,
+      "text": "Tired , Eager , Anxious",
+      "timestamp": "2022-09-01T10:02:28",
+      "order": 63,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 889,
+      "text": "Hungry , Relaxed , Tired",
+      "timestamp": "2022-09-01T15:03:14",
+      "order": 64,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 890,
+      "text": "Tired , Hugry , Exhausted",
+      "timestamp": "2022-09-01T20:31:43",
+      "order": 65,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 891,
+      "text": "Tired , Anxious , Uncomfortable",
+      "timestamp": "2022-09-02T10:06:33",
+      "order": 66,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 892,
+      "text": "PERSON , Ready for work , It\u2019s my Monday !",
+      "timestamp": "2022-09-02T15:02:50",
+      "order": 67,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 893,
+      "text": "Exhausted , Tired , Worn out , Unenthusiastic",
+      "timestamp": "2022-09-02T20:09:53",
+      "order": 68,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 894,
+      "text": "Tired , Drained , Unmotivated",
+      "timestamp": "2022-09-03T10:00:37",
+      "order": 69,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 895,
+      "text": "Mellow , Tired , Want to check out",
+      "timestamp": "2022-09-03T15:11:50",
+      "order": 70,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 896,
+      "text": "Content , Relaxed , Working",
+      "timestamp": "2022-09-03T20:37:39",
+      "order": 71,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 897,
+      "text": "Exhausted , Worn out , Mentally and physically drained",
+      "timestamp": "2022-09-04T10:00:36",
+      "order": 72,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 898,
+      "text": "Tired , Sluggish , Exhausted",
+      "timestamp": "2022-09-05T11:11:54",
+      "order": 73,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 899,
+      "text": "Relaxed , Normal , Fine , Going to work",
+      "timestamp": "2022-09-05T15:35:44",
+      "order": 74,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 900,
+      "text": "Working , Calm , Slow",
+      "timestamp": "2022-09-05T20:17:26",
+      "order": 75,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": true
+    }
+  ]
+}

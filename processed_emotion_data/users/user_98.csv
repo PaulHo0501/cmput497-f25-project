@@ -1,0 +1,17 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1326,"I just woke up feeling fine , I ' m on my way to physical therapy should be a good day . I woke up having those time traveling dreams it felt nice it almost felt real but after that I feel content . My day just started i hope today is a good one",2024-11-05T12:00:50,0,0.0,1.0,7,False
+1333,"Calm , Content , Tired , Fine , Normal",2024-11-05T17:00:49,1,2.0,0.0,7,True
+1334,"I ' m currently feeling fine , it ' s been a long day but nothing feeling out of the ordinary , I ' m feel fine and nothing bad has happened that would make me feel different . I ' m looking forward to more better days .",2024-11-05T22:00:45,2,2.0,0.0,7,False
+1335,"Currently feeling very sleepy waking attending my ORG needs , looking forward to taking some naps today , I ' m also looking forward to do some workouts at home done . That ' s all I feel for now ........",2024-11-06T12:20:51,3,0.0,0.0,7,False
+1349,"Feeling good today on a   Sunday , staying in watching videos with my family , I feel fine on this gloomy day out . I feel fine and full , had a good lunch can’t wait what tonight brings later , later I’ll be working for a couple of hours……… ..",2024-11-06T17:13:50,4,2.0,0.0,7,False
+1350,"calm , content , hungry , tired , good",2024-11-06T22:04:46,5,2.0,0.0,7,True
+1351,"Just waking up still feel normally tired ,   i can ' t wait to start the day and see what today brings , i have a couple of errands to do today , i don ' t feel out of the ordinary .........................",2024-11-07T12:01:51,6,2.0,0.0,7,False
+1352,"calm , happy , active , content , normal",2024-11-07T17:47:07,7,0.0,2.0,7,True
+1353,"calm , energize , happy , normal , okay",2024-11-07T22:07:22,8,0.0,0.0,7,True
+1354,"Good morning I ' m ready to start the day and see what today brings me , I woke up ok feel like I didn ' t sleep enough ,   I think daylightsaving is still making me feel exhausted about it , I haven ' t processed it fully",2024-11-08T12:01:07,9,0.0,1.0,7,False
+1355,"good , calm , happy , fine , okay",2024-11-08T17:07:48,10,0.0,1.0,7,True
+1356,"good , calm , hungry , content , well",2024-11-08T22:01:34,11,1.0,1.0,7,True
+1357,"calm , awake , good , alright , normal",2024-11-09T12:03:52,12,2.0,0.0,7,True
+1358,"Currently feeling fine at the moment , it ' s Saturday and heading out with my kids to enjoy this weather , I haven ' t felt out of the ordinary , today should be a good day to head to the book store .........................",2024-11-09T17:18:11,13,2.0,0.0,7,False
+1359,"good , calm , hungry , content , fine",2024-11-09T22:01:08,14,0.0,1.0,7,True
+1360,"Been a good day , I ' m currently feeling alright at the moment , working right now , feeling sleepy all day couldn ' t sleep well due to my 6 month old , but we are okay and I feel fine tomorrow will be another day let see what happens",2024-11-10T22:01:16,15,2.0,0.0,7,False

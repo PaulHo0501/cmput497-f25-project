@@ -1,0 +1,1056 @@
+{
+  "user_id": 17,
+  "num_entries": 105,
+  "entries": [
+    {
+      "text_id": 972,
+      "text": "I feel pretty good , a little tired . I didn\u2019t get home until midnight and right back at it this morning .   Ready to get my shift over for the day . I have two shifts left and I have the next two days off . I\u2019m anxious , but ready .",
+      "timestamp": "2021-06-12T12:19:10",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 973,
+      "text": "I hate my job . I hate people at times . I just wanna go home . I don\u2019t understand hope they Think we can manage without a break , all day long . Especially me being 46   years old   I just need a new job . A new profession . I can\u2019t do this right now .",
+      "timestamp": "2021-06-12T17:32:25",
+      "order": 1,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 974,
+      "text": "I feel okay today , but of course I\u2019m off today . I wanted a drink last night , to be honest , but I never drank one . Yesterday was a long , bad day . I just went to bed instead , and got a good nights rest . I feel so much better today",
+      "timestamp": "2021-06-13T12:16:35",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 975,
+      "text": "I feel a lot better today . I got a good nights rest last night . After a super long , terrible day . Of course I\u2019m off today . So that helps . A lot . Sometimes I like my job , but sometimes not . But I love my days off .",
+      "timestamp": "2021-06-13T17:05:56",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 976,
+      "text": "I\u2019m okay today . Today is my day off . I\u2019m not looking forward to tomorrow , with the exception that they owe me money , and I can get that . I work a double tomorrow and I\u2019m not looking forward to dealing with the people .",
+      "timestamp": "2021-06-14T12:08:34",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 977,
+      "text": "I feel kind of down . Money has a lot to do with it . I need money so bad , and I feel like I\u2019m not making any lately to account to anything . I feel under paid and under appreciated . I\u2019m not looking forward to work tomorrow . I work a double . Yaaay",
+      "timestamp": "2021-06-14T17:35:57",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 978,
+      "text": "I am tired . I don\u2019t feel good this evening . I worked this morning . It wasn\u2019t that bad , but I did leave for the evening instead of working my double . I just wasn\u2019t feeling well , my legs and my back were hurting really Bad . Overall , my shift was good though . Just tired . And hurting .",
+      "timestamp": "2021-06-15T22:03:14",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 979,
+      "text": "I feel okay right now . Of course my shift is fixing to start , so we will see in a few hours how I\u2019m feeling . Hopefully the shift and the people won\u2019t be that bad . I\u2019m pretty happy/content at the moment and feeling okay today .",
+      "timestamp": "2021-06-16T12:36:09",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 980,
+      "text": "Today hasn\u2019t been so bad . I didn\u2019t really make a lot , which sucks , but it is what it is . I\u2019m in a pretty good mood and feel pretty good . Today has been okay . My people were all pretty nice . Just wish there was more money .",
+      "timestamp": "2021-06-16T17:50:43",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 981,
+      "text": "I feel good . I\u2019m off this evening . I\u2019ve been off the last two days , besides working this morning , and then this evening off . That does good for my mentality , and with dealing with the public . Sometimes it\u2019s hard to do , deal with people . Then others , they can be really sweet and nice . But overall I feel good right now .",
+      "timestamp": "2021-06-16T22:44:13",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 1000,
+      "text": "I\u2019m hungry and broke . Studying for college at the moment . But I\u2019m content , besides being hungry . I have to work later , which bums me out , but I need the money .   I\u2019m a pretty positive person though , things will look up .",
+      "timestamp": "2022-01-25T10:01:40",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1001,
+      "text": "I\u2019m very tired . Don\u2019t feel good at all . I do not want to go to work . I would rather sit home . I just do not feel good today . I felt a lot better earlier . Worried about bills . Money . I need money Bad .",
+      "timestamp": "2022-01-25T15:05:12",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1002,
+      "text": "I\u2019m at work . Things are going pretty good I guess . I thought it was going to be slow , but it picked up some , so that is good . I\u2019m broke , I need the money , and that stresses me out , bad . Other than that , my mind is clear at the moment . Although I am worried about a couple things , they aren\u2019t bothering me at the moment . Probably because I\u2019m at work .",
+      "timestamp": "2022-01-25T20:03:39",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1003,
+      "text": "So this morning I had school . Biology so far . That Sh\u00ect messed with my mind ! I\u2019m not good with science . Other than that , I am good today . I feel okay and have a pretty good outlook so far today . Work tonight after school , not looking forward to that with the exception of I need money .",
+      "timestamp": "2022-01-26T10:39:06",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1004,
+      "text": "I feel okay besides hurting . My mental clarity is good right now . I\u2019m not happy or sad , just content I guess . I still don\u2019t want to work tonight but I know I need the money . I\u2019m going to school so if I can get through this , I\u2019ll be good .",
+      "timestamp": "2022-01-26T15:22:06",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1005,
+      "text": "I\u2019m done with work and   mode a little money , so I\u2019m happy about that . I do not need to drink to feel happy or not be   stressed   out . I\u2019m off tomorrow and that also makes me happy . I\u2019m pretty good tonight . Content .",
+      "timestamp": "2022-01-26T21:43:55",
+      "order": 15,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1006,
+      "text": "I just got up not long ago , no school or work today . I\u2019m off , just need to go work on my school work . So I\u2019m clam , and comment right now . Hurting   a little , but I\u2019m okay . I get to go get my grandson later , he\u2019s2 , so that makes me happy to that I get to spend some time with him . Have a great day !",
+      "timestamp": "2022-01-27T10:02:43",
+      "order": 16,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1007,
+      "text": "My grandson has stayed with me tonight . He\u2019s two and not listening and my head hurts . I\u2019m also trying to study biology . I can say the three do not go together . I just wish my head would quit hurting , and my legs . It\u2019s my night off !! Can I not get a break from life once in a while ?? Why does life have to be so damned hard at times ??",
+      "timestamp": "2022-01-27T20:01:40",
+      "order": 17,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1008,
+      "text": "I\u2019m trying to do homework , I have a Paper due this Somali that I\u2019m working on . It\u2019s going well , so far . So that helps with my sanity . lol . I\u2019m okay , as far as right now . I have to work tonight , not looking forward to that with the exception that I need money , so I\u2019ll make it through it . Maybe not happy , until I get off , but I\u2019ll get more money for my bills and such . That does a lot for my mental stability .",
+      "timestamp": "2022-01-28T10:02:36",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1009,
+      "text": "I don\u2019t feel good . Mentally and physically . I\u2019m hurting bad and tired as hell . Still got to work . Still got to have that money to pay my bills . I was I was rich sometimes , not all   the time . Sometimes I\u2019m content , sometimes , it would just be easier to gave money . Thinks will look up",
+      "timestamp": "2022-01-28T15:20:22",
+      "order": 19,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1010,
+      "text": "My head hurts . That makes everything bad . I didn\u2019t have to work tonight , they sent me home as extra . I needed to stay and work , I needed the money . But at the same time , I was happy to go cause I don\u2019t feel good at all . I\u2019m not sick , just getting old sucks .",
+      "timestamp": "2022-01-28T20:00:59",
+      "order": 20,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1011,
+      "text": "I feel pretty good this morning and I\u2019m at work . We will see how things go today . On how I feel later , and tonight . I have to work a double , so tonight too . But then I\u2019m off for two days , so hopefully they show me to stay for both shifts , cause I need the money . Overall , I\u2019m content and calm right now .",
+      "timestamp": "2022-01-29T10:19:50",
+      "order": 21,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1012,
+      "text": "I still feel okay right now . Hopefully I continue to through work tonight . I have a lot on my mind right now . Stuff going on with my house , they see trying to take it because I was late through COVID . I owe nothing , but she still wants it back . I\u2019m up to date with my payment . I don\u2019t get it and that messes with my head , I\u2019d like to know why !!!",
+      "timestamp": "2022-01-29T16:34:41",
+      "order": 22,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1013,
+      "text": "I\u2019m At work . It\u2019s busy . Making a little cash , so that\u2019s a good thing . I\u2019m feeling okay tonight . Just worried about my house really . And money . It\u2019s been slack here lately . But January is always bad . It\u2019ll get better though . Won\u2019t always be bad",
+      "timestamp": "2022-01-29T20:35:08",
+      "order": 23,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1014,
+      "text": "I don\u2019t feel that bad , yet . I get so tired of not feeling good . Getting old sucks ass !! I\u2019m trying to work on school work , not really getting anywhere but I have a couple of things due today , and something due by the first that I need to work on today . I have school first thing in the morning , so I can not do it then . I\u2019ll just have to trudge away at it today .",
+      "timestamp": "2022-01-30T10:12:37",
+      "order": 24,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1015,
+      "text": "I\u2019m trying to study . My legs are hurting , but I\u2019m trying to move past that thought . I just need to accept that I\u2019m going to hurt and most days I don\u2019t feel good , I guess . If it isn\u2019t one thing , it\u2019s another ! A headache , or I\u2019m tired , or my legs hurt , it\u2019s always something ! Other than that , mentally I\u2019m okay . I\u2019m off today and my boyfriend is home too .",
+      "timestamp": "2022-01-30T15:01:33",
+      "order": 25,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1016,
+      "text": "I don\u2019t feel good , again . I get so tired of this Sh\u00ect ! My legs are hurting so bad ! They have since I was little though and I\u2019m46 , you think I would be used to it by now . But I\u2019m not . I get so tired of feeling bad . I\u2019m miserable . I just hate to feel like this .",
+      "timestamp": "2022-01-30T20:01:21",
+      "order": 26,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1017,
+      "text": "I\u2019m in school . I\u2019m On break at the moment . 5 minutes . lol . Anyway , I feel okay right now . Just need to study this biology , because most of it I do not get . That makes me nervous about passing the class !!! But I\u2019m trying . Hopefully I feel okay today . No work , so there\u2019s that . Still worried about my home . That won\u2019t stop until I know what\u2019s going on .",
+      "timestamp": "2022-01-31T10:16:26",
+      "order": 27,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1018,
+      "text": "My head hurts and I\u2019m trying to study . Not working too well . I guess I couldn\u2019t have felt good all day ? Is that too much to ask ? That I feel okay every now and again ? Life sucks sometimes ! I wish I were rich and felt good . Then things would not be so hard .",
+      "timestamp": "2022-01-31T20:13:35",
+      "order": 28,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1019,
+      "text": "I just got off work . I actually feel okay for once . And I went to school today too . I\u2019m surprised . Still worried about my house . But this too shall pass , right ? I\u2019m content tonight . For the first time in days .",
+      "timestamp": "2022-02-02T21:36:24",
+      "order": 29,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 982,
+      "text": "I\u2019m good right now . I feel content . Calm . Just trying to get some school work done . Studying biology . Fun fun ! But I feel okay today . I\u2019m off today as well , so no work . But I\u2019ma double tomorrow , so I have a lot of school work to get done today . Talk to you more soon !",
+      "timestamp": "2022-02-03T10:18:19",
+      "order": 30,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 983,
+      "text": "I do not feel well . I keep feeling dizzy . If it wasn\u2019t for that I would feel fine . Like I said before , it is always something ! I\u2019m trying to do school work and it is hard to do when you feel dizzy , but I have so much I need to work on right now . I will get it done somehow .",
+      "timestamp": "2022-02-03T16:57:19",
+      "order": 31,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 984,
+      "text": "I\u2019m okay . Just got done eating . I feel better this evening than I did earlier this afternoon . I\u2019m tired , but I feel okay . I\u2019m content . I\u2019m good right now . Not long before I\u2019m going to bed . I have to work a double tomorrow . Yay me !! I\u2019ve got so much school work , I need to work on it instead , but I got to get that money too for my bills .",
+      "timestamp": "2022-02-03T22:33:29",
+      "order": 32,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 985,
+      "text": "I\u2019m at work . I am feeling okay so far today , but I am a double , so we will see what happens . Hopefully I will continue to feel well and stay content with how things are . I wish I knew what was going to happen with my home , that would take a load off of me ! I would be in such a better mind set of that was just over with ! I do not like not knowing what will happen . Hopefully it will all turn out ok and I am worrying for nothing .",
+      "timestamp": "2022-02-04T10:11:13",
+      "order": 33,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 986,
+      "text": "I\u2019m at work . I feel ok , but I am pissed . I am a double and they will not cut me . For god sake\u2019s , I\u2019ve got to come back ! Why are they keeping me here !? I have an empty section . This is PERSON  . Other than that , I\u2019m ok still",
+      "timestamp": "2022-02-04T15:01:44",
+      "order": 34,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 987,
+      "text": "I feel dizzy again , and that makes me not feel well . If that wasn\u2019t the case , besides being extremely tired , I would be fine . I got sent home from work as an extra , I needed to stay and work , I needed the money . Hopefully I will work tomorrow night , and feel good tomorrow .",
+      "timestamp": "2022-02-04T21:34:24",
+      "order": 35,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 988,
+      "text": "I feel ok . I\u2019m trying to get some homework done before work at 3 : 45 . I have some assignments due tomorrow by midnight . I don\u2019t feel bad , but I don\u2019t feel great either . I\u2019m just okay . I\u2019m not anxious , I\u2019m calm . Just trying to work on some stuff . I\u2019ll get it done . I always do .",
+      "timestamp": "2022-02-05T10:04:17",
+      "order": 36,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 989,
+      "text": "I am currently okay . I do not feel bad , but I do not feel good . If that makes sense . I\u2019ll take it , beats feeling bad all the time ! I have to work in about 45 minutes , not looking forward to that . But I\u2019ll get through it .",
+      "timestamp": "2022-02-05T15:00:46",
+      "order": 37,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 990,
+      "text": "I\u2019m at work . I\u2019m feeling okay tonight/today . Thankfully . I hate feeling bad , and I feel bad so much . It gets so tiring ! I\u2019m still worried about my house , but that\u2019ll pass too . Hopefully sooner than later . Other than that , I am good today .",
+      "timestamp": "2022-02-05T20:03:07",
+      "order": 38,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 991,
+      "text": "I\u2019m feeling okay today , so far . I have some school work to do , but do not really feel like doing it today . But I\u2019ll end up working on it at some point . I have not been up long , so we will see how I feel later . But right now I\u2019m good .",
+      "timestamp": "2022-02-06T10:04:15",
+      "order": 39,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 992,
+      "text": "I am doing homework . Biology . Yuck . Anyway , I still feel okay . I\u2019m off today and tomorrow , but I have school tomorrow . At 8 : 00 am . So no work until Tuesday night . That\u2019s good . I get so tired of working , busting   my ass for money that just disappears . But you have to have it ! Life sucks at times . lol . I really am okay right now .",
+      "timestamp": "2022-02-06T15:01:16",
+      "order": 40,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 993,
+      "text": "I\u2019m tired . I\u2019ve been sitting at my computer all day doing school work . I\u2019m ready for bed , but I still haven\u2019t done everything I needed to get done before tomorrow . Oh well . Not much I can do . So I\u2019m a little stressed about that .",
+      "timestamp": "2022-02-06T22:08:24",
+      "order": 41,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 994,
+      "text": "I\u2019m okay today . I feel okay so far . Test next week in biology , not looking forward to that . Nervous about that . That stresses me because I\u2019m not that good with science , and math . Hopefully I continue to feel ok today . Feeling bad sucks .",
+      "timestamp": "2022-02-07T10:43:57",
+      "order": 42,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 995,
+      "text": "Feeling okay today . I\u2019m ready to go home . Got more school work to do . I\u2019m off tonight , so that is a good thing . I am already tired , so at least I know I can go to bed early if I need to . I\u2019m content and calm today",
+      "timestamp": "2022-02-07T15:22:56",
+      "order": 43,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 996,
+      "text": "I am working in school work , really tired tonight . I still have a lot to do . I feel okay , I am just tired . Tired of thinking about my home , what they going to do . I wish they would go ahead and do what they going to , because I am tired of worrying about it .",
+      "timestamp": "2022-02-07T20:27:53",
+      "order": 44,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 997,
+      "text": "I\u2019m feeling okay today , so far anyway . School work right now . I work at 4 : 45 . I need the money , or I would not go . I would just concentrate on my school work . I wish I could do that . That would be so much simpler . Hopefully I continue to feel okay , through tonight , through work .",
+      "timestamp": "2022-02-08T10:33:54",
+      "order": 45,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 998,
+      "text": "I\u2019m feeling okay , and a little accomplished I guess . Been working diligently on school work and that makes me feels good to get it done , and to get a good grade . Bad grades   stress me . But I funny have any bad ones yet . I have to get ready for work , that\u2019s what I\u2019m doing now . So yeah , with tonight . Hopefully I feel okay through that .",
+      "timestamp": "2022-02-08T15:20:34",
+      "order": 46,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 999,
+      "text": "I feel okay . Just got off of work , going home . I have class at 8 am . I have felt pretty good today , thankfully . I hate so much to feel bad . But today has been a good day . I am still worried about my home though , we\u2019ll be until I know what\u2019s going on",
+      "timestamp": "2022-02-08T21:44:51",
+      "order": 47,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 1037,
+      "text": "Sad , Depressed , Tired , Spent , Dragging",
+      "timestamp": "2022-04-28T20:29:00",
+      "order": 48,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1038,
+      "text": "Content , Happy , Good , Solid , Transparent",
+      "timestamp": "2022-04-29T10:00:00",
+      "order": 49,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1039,
+      "text": "Sad , Alone , Left , Things left unsaid , Content",
+      "timestamp": "2022-04-29T15:47:00",
+      "order": 50,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1040,
+      "text": "Content , Happy , Making money , Busy , Tired",
+      "timestamp": "2022-04-29T20:38:00",
+      "order": 51,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1041,
+      "text": "Happy , Content , Lively , Ready to make money , Excited",
+      "timestamp": "2022-04-30T10:01:00",
+      "order": 52,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1042,
+      "text": "Content , Happy , Sad (death in family) , Lively , Excited",
+      "timestamp": "2022-04-30T15:44:00",
+      "order": 53,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1043,
+      "text": "Tired , Exhausted , Sad , Home sick , Lonely",
+      "timestamp": "2022-04-30T20:20:00",
+      "order": 54,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1044,
+      "text": "Calm , Content , Sluggish , Tired , Serene",
+      "timestamp": "2022-05-01T10:01:00",
+      "order": 55,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1045,
+      "text": "Tired , Exhausted , Lonely , Sad , Depressed",
+      "timestamp": "2022-05-01T15:15:00",
+      "order": 56,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1046,
+      "text": "Content , Scared , Limited , Busy , Rushed",
+      "timestamp": "2022-05-01T20:13:00",
+      "order": 57,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1047,
+      "text": "Sluggish , Tired , Exhausted , Falling asleep , Mentally exhausted",
+      "timestamp": "2022-05-02T10:08:00",
+      "order": 58,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1048,
+      "text": "Awake , Thriving , Joyful , Happy , Smiling",
+      "timestamp": "2022-05-02T15:03:00",
+      "order": 59,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1049,
+      "text": "Happy , Joyous , Content , With friends , Out to eat",
+      "timestamp": "2022-05-02T20:01:00",
+      "order": 60,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1050,
+      "text": "Happy , Quiet , Little stressed , Content , Worried",
+      "timestamp": "2022-05-03T10:11:00",
+      "order": 61,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1051,
+      "text": "Stressed , Late on schoolwork , Busy , Worried , Content",
+      "timestamp": "2022-05-03T15:01:00",
+      "order": 62,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1052,
+      "text": "Making money , Busy at work , Stressed about school , Excited , making money , Excited , school almost over",
+      "timestamp": "2022-05-03T20:10:00",
+      "order": 63,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1053,
+      "text": "Sad , Depressed , Broke , Stressed , Unhappy",
+      "timestamp": "2022-05-04T10:09:00",
+      "order": 64,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1054,
+      "text": "Tired , Sluggish , Exhausted , Grumpy , Alone",
+      "timestamp": "2022-05-04T15:06:00",
+      "order": 65,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1055,
+      "text": "Tired , Ready to go home , Sluggish , Mentally tired , Emotionally tired",
+      "timestamp": "2022-05-04T20:23:00",
+      "order": 66,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1056,
+      "text": "Content , Awake , Just getting up , Relaxing , Calm",
+      "timestamp": "2022-05-05T10:00:00",
+      "order": 67,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1057,
+      "text": "Okay , Awake , Ready for work , Ready to make money , Still tired in a way",
+      "timestamp": "2022-05-05T15:03:00",
+      "order": 68,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1058,
+      "text": "Busy   at work , Joyous , Making money , Content , Happy",
+      "timestamp": "2022-05-05T20:11:00",
+      "order": 69,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1059,
+      "text": "Content , Tired , Just waking up , Sleepy , Happy",
+      "timestamp": "2022-05-06T10:09:00",
+      "order": 70,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1060,
+      "text": "Not feeling good , Tired , Very sluggish , Hurting , Sleepy",
+      "timestamp": "2022-05-06T15:01:00",
+      "order": 71,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1061,
+      "text": "Ready to go home , Not making Sh\u00ect tonight , Feel bad , Terrible , Tried",
+      "timestamp": "2022-05-06T20:46:00",
+      "order": 72,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1020,
+      "text": "Content , Tired , Sleepy , Sad , Exhausted",
+      "timestamp": "2022-05-07T10:01:00",
+      "order": 73,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1021,
+      "text": "Sad , Depressed , Lonely , Broke , Tired",
+      "timestamp": "2022-05-07T15:13:00",
+      "order": 74,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1022,
+      "text": "Busy at work , Really busy , Tired , Exhausted , Making money",
+      "timestamp": "2022-05-07T20:21:00",
+      "order": 75,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1023,
+      "text": "Off work , Tired , Sluggish , Need to study for exams , Stressed",
+      "timestamp": "2022-05-08T10:03:00",
+      "order": 76,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1024,
+      "text": "Sad , Depressed , Alone , Not enthusiastic , Worried",
+      "timestamp": "2022-05-08T15:03:00",
+      "order": 77,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1025,
+      "text": "Content , Tired , Happy , Smiling , Worried still",
+      "timestamp": "2022-05-08T20:02:00",
+      "order": 78,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1026,
+      "text": "Content , Worried about grades , Don\u2019t feel good , Tired , Calm",
+      "timestamp": "2022-05-09T10:01:00",
+      "order": 79,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1027,
+      "text": "Sad , Worried , Stressed , Unhappy , Tired",
+      "timestamp": "2022-05-09T15:03:00",
+      "order": 80,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1028,
+      "text": "Tired , Busy , School work , Last 2 days of school , A lot to do",
+      "timestamp": "2022-05-09T20:17:00",
+      "order": 81,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1029,
+      "text": "Busy bee , Awake , Content , School work , Last 2 days of school",
+      "timestamp": "2022-05-10T10:05:00",
+      "order": 82,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1030,
+      "text": "Studying , Busy , Work soon , Content , Calm",
+      "timestamp": "2022-05-10T15:00:00",
+      "order": 83,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1031,
+      "text": "Busy   at work , Making money , Content , So so happy , Tired",
+      "timestamp": "2022-05-10T20:50:00",
+      "order": 84,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1032,
+      "text": "Tired , Exhausted , Sluggish , Sleepy , Want a nap",
+      "timestamp": "2022-05-11T11:39:00",
+      "order": 85,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1033,
+      "text": "Content , Very tired , Very busy , Last day of school , Paper for school , busy",
+      "timestamp": "2022-05-11T15:00:00",
+      "order": 86,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1034,
+      "text": "Busy   at work , Tired , Worried , Stressed about a paper , I need to go",
+      "timestamp": "2022-05-11T20:01:00",
+      "order": 87,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1035,
+      "text": "Just waking up , Work last night late , Content , Tired , Awake",
+      "timestamp": "2022-05-12T10:01:00",
+      "order": 88,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1036,
+      "text": "No more papers , No more school right now , PERSON , Going to work now , Make some money",
+      "timestamp": "2022-05-12T15:19:00",
+      "order": 89,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 1075,
+      "text": "I am very tired . I am jus getting up . I am actually still in the bed . Hopefully , I will feel ok today . I work this evening . I hate going to work feeling bad . It makes for such a long evening . I have a ton of schoolwork to do . I don\u2019t know how to get that done when I have to go pick up my daughter every day because she will not go get her license .",
+      "timestamp": "2022-09-01T10:05:26",
+      "order": 90,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1076,
+      "text": "I feel okay today . I feel happy and good so far today . I am on my way to work , I need some money . Behind on some things . I\u2019m hungry , and that makes me feel ill when I\u2019m starving . So I need to eat when I get to work so I feel better in that aspect .",
+      "timestamp": "2022-09-01T15:09:48",
+      "order": 91,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1077,
+      "text": "I am feeling alright today . Not hurting   too bad . It\u2019s not been too awful busy   at work . I got a good nights sleep , so that helps me not be tired I\u2019m almost done with work , an hour left . Yaaay . Then I can go home and see my man . That makes me happy .",
+      "timestamp": "2022-09-01T20:01:27",
+      "order": 92,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1078,
+      "text": "I feel good today , so far . I am on my way to work , so we shall see how the evening progresses . I am really hungry , so I need to eat , that is the only part that feels bad right now . I am happy . Not as stressed about money today . That also helps .",
+      "timestamp": "2022-09-02T15:00:55",
+      "order": 93,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1079,
+      "text": "I am busy at work , well if You want to call it busy . I am outside in a shitty section , just like the last ten weekends . I\u2019m not making anything . Fixing to try to switch restaurants . I am just sick of their Sh\u00ect .",
+      "timestamp": "2022-09-02T20:07:11",
+      "order": 94,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1080,
+      "text": "I am okay today . I am a little tired , did not go to bed as early as I wanted . I am at work , yaaaay . Lol . I have to work a double today . Not looking forward to working ALL day , but I do need the money . Mentally I\u2019m okay , a little stressed about money I guess . I\u2019m happy other than that .",
+      "timestamp": "2022-09-03T10:21:22",
+      "order": 95,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1081,
+      "text": "I hate my job . I am getting to the point I want to walk out every time I am there , due to the unfairness there ! I get so tired of the favoritism . Other than that and worrying about money , I am okay . I feel okay today .",
+      "timestamp": "2022-09-03T15:33:10",
+      "order": 96,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1082,
+      "text": "I am at work . I am so tired , I am ready to go . I have worked all day , with an hour break . I don\u2019t think I have really made anything , which makes me stress more . I\u2019m happy mentally , but I am stressed and I\u2019m tired . My feet are also hurting bad .",
+      "timestamp": "2022-09-03T20:26:59",
+      "order": 97,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1083,
+      "text": "I am tired because I am just getting up . I haven\u2019t slept this late In ages . I must have needed it . Other than that , I am okay . My mind is clear , I\u2019m off work today and tomorrow , so I can relax and get some school work done .",
+      "timestamp": "2022-09-04T12:43:53",
+      "order": 98,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1084,
+      "text": "I do not feel the best today , so far anyway , but I have not been up long . No work or school today , so I am happy about that . That gives me the whole day , just for me , well for Me and schoolwork . I have some assignments due this weekend .",
+      "timestamp": "2022-09-05T10:06:28",
+      "order": 99,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1085,
+      "text": "I am good . I am doing homework today . I have assignments due this week , several . So I\u2019ve been reading and doing quizzes . I feel okay today . Just paid my rent , so that\u2019s off my chest . Got several bills coming up soon , and these are all already passed due . I have to get them in before the PERSON period ends . So that\u2019s stressful . I hate bills .",
+      "timestamp": "2022-09-05T15:01:04",
+      "order": 100,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1086,
+      "text": "I\u2019m okay , I\u2019m good . I\u2019ve been doing homework all day , no work . Just a little stressed about bills is all . I have several things I need to post in the next couple weeks . That worries me because they are already behind . Other than that , I am okay .",
+      "timestamp": "2022-09-05T20:00:52",
+      "order": 101,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1087,
+      "text": "I feel good this morning . I\u2019ve been working on school work again . That keeps me from being bored , cause when I\u2019m in school , I have plenty to do . I am still stressed about money , but it usually works itself out . So I am hoping it well this time as well .",
+      "timestamp": "2022-09-06T10:01:21",
+      "order": 102,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1088,
+      "text": "I am feeling good . Just got to work , and I are when I got here . That\u2019s always a help because it makes me nauseous when I\u2019m super hungry . Hopefully tonight goes well and I make good money . I sure need it . Have a good evening !!",
+      "timestamp": "2022-09-06T15:40:17",
+      "order": 103,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 1089,
+      "text": "Fixing to get off of work , so that makes me happy . I am almost done with my sidework , got everything else done , then I can go home . Yaaay ! I feel good and I\u2019m happy/content today . Stressed about money , but that\u2019s all really .",
+      "timestamp": "2022-09-06T21:18:45",
+      "order": 104,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    }
+  ]
+}

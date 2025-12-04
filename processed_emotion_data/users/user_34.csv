@@ -1,0 +1,3 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2365,Drained and rushed . No time to distressed and reset . Having to work despite needing a break due to traumatic event that happened during my shift (a coworker had a bad seizure and I had to call ORG and then immediately get back to servicing customers and answering phones),2021-05-02T13:20:28,0,-1.0,0.0,1,False
+2366,Went to work and had a normal shift . Was still disheartening because we weren ' t as busy as we should be at this time of year . I know I ' m making less than normal and that causes worry because of bills .,2021-05-03T12:09:40,1,1.0,0.0,1,False

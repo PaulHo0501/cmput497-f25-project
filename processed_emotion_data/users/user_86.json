@@ -1,0 +1,96 @@
+{
+  "user_id": 86,
+  "num_entries": 9,
+  "entries": [
+    {
+      "text_id": 346,
+      "text": "Tired , Focused , Busy , Anxious , Curious",
+      "timestamp": "2024-08-14T12:28:51",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 351,
+      "text": "Currently I am in virtual court for to parking tickets . I have my receipt for the parking app that I used for one of the tickets but not the other one . I ' m afraid that they will still make me pay . I don ' t like to give away money that ' s why I always use the parking app or feed the meter .",
+      "timestamp": "2024-08-15T12:00:43",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 352,
+      "text": "Currently I am feeling happy and excited because I am traveling tomorrow . I ' m excited to see my grandsons . I get to see them again because they live in another state . So I ' m always happy to see them as much as possible .",
+      "timestamp": "2024-08-16T17:18:12",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 353,
+      "text": "Focused , Tired , Determined , Anxious , Excited",
+      "timestamp": "2024-08-16T22:05:23",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 354,
+      "text": "Currently I am spending time with my grand children . I am very happy when I ' m with them because they live so far away from me . We ' re watching educational shows on the tv while they eat breakfast and I have my morning cup of coffee .",
+      "timestamp": "2024-08-18T12:11:36",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 355,
+      "text": "Currently I am feeling happy . I am spending time with my family I ' m preparing dinner for tonight . I went grocery shopping to get everything I needed . My family loves when I come in town and I love to take care of them while I ' m here .",
+      "timestamp": "2024-08-18T17:30:54",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 356,
+      "text": "Content , Relaxed , Happy , Curious , Determined",
+      "timestamp": "2024-08-18T22:00:56",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 358,
+      "text": "Rested , Content , Relieved , Excited , Relaxed",
+      "timestamp": "2024-08-19T12:13:56",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 359,
+      "text": "Currently , I am feeling very relaxed . I am watching TV while also checking emails and important information . I am here with my family having a relaxed day together . Shortly I will get up and start to cook dinner for us .",
+      "timestamp": "2024-08-19T17:22:10",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

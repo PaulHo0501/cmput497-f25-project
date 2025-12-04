@@ -1,0 +1,7 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4438,"Excited , Hopeful , Tired , Annoyed , Optimistic",2024-10-26T12:13:33,0,1.0,1.0,7,True
+4439,"Tired , Annoyed , Sick , Frustrated , Exhausted",2024-10-27T17:01:19,1,-1.0,0.0,7,True
+4440,"Tired , Rested , Sick , Content , Ready",2024-10-27T22:57:53,2,0.0,1.0,7,True
+4441,"Tired , Content , Accomplished , Frustrated , Hopeful",2024-10-28T22:01:21,3,0.0,1.0,7,True
+4442,"I’m feeling good , happy , and accomplished at this moment . I’ve had a good day with loved ones and have been relaxing and just enjoying the day . Its refreshing to have a day without too many plans or too much going on . I’m really enjoying the day so far .",2024-11-01T17:50:48,4,2.0,1.0,7,False
+4443,"Tired , Proud , Stressed , Excited , Nervous",2024-11-04T12:07:31,5,1.0,0.0,7,True

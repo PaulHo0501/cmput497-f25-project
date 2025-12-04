@@ -1,0 +1,976 @@
+{
+  "user_id": 38,
+  "num_entries": 97,
+  "entries": [
+    {
+      "text_id": 2677,
+      "text": "I ' m really feeling great . the beautiful weather puts me in a happy mood . I ' m able to go outside and enjoy the day instead of sitting in the house all day . I can take a walk in the park or just sit on my porch and enjoy the fresh air",
+      "timestamp": "2021-05-02T12:19:28",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 2678,
+      "text": "as of right now I am feeling great .. enjoying the beautiful weather outside while drinking a nice cold lemonade . knowing summer is coming is making me more happy . now I can ' t wait till official summer comes .\\ n",
+      "timestamp": "2021-05-02T17:00:44",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 2694,
+      "text": "chilled , relaxed , happy , rested , cheerful",
+      "timestamp": "2022-01-28T15:02:16",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2695,
+      "text": "good , happy , excited , smilies , chill",
+      "timestamp": "2022-01-28T20:01:14",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2696,
+      "text": "tired , headache , hungry , thirsty , lazy",
+      "timestamp": "2022-01-29T10:05:24",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2697,
+      "text": "calm , rested , lazy , cozy , chilled",
+      "timestamp": "2022-01-29T15:00:58",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2698,
+      "text": "calm , relaxed , sleepy , chilled , tired",
+      "timestamp": "2022-01-29T20:01:12",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2699,
+      "text": "rested , happy , relaxed , good , smiling",
+      "timestamp": "2022-01-30T10:01:24",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2700,
+      "text": "calm , relaxed , sleepy , chilled , lazy",
+      "timestamp": "2022-01-30T20:02:55",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2701,
+      "text": "tiredness , slow , need sleep , drowsy , blahh",
+      "timestamp": "2022-01-31T10:02:09",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2702,
+      "text": "motivated , ready , active , on the go , happy",
+      "timestamp": "2022-01-31T15:01:56",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2703,
+      "text": "happy , smilies , joyful , Exotic , Dancing",
+      "timestamp": "2022-01-31T20:04:11",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2704,
+      "text": "calm , relax , little lazy , tired , full",
+      "timestamp": "2022-02-02T21:21:11",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2705,
+      "text": "happy , smiling , joyful , relaxed , excited",
+      "timestamp": "2022-02-03T10:03:07",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2706,
+      "text": "lazy , cozy , sleepy , relaxed , chilled",
+      "timestamp": "2022-02-03T15:01:50",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2707,
+      "text": "sleepy , lazy , drowsy , tired , yawning",
+      "timestamp": "2022-02-03T20:01:35",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2708,
+      "text": "relaxed , slow , relaxed , energy , chilled",
+      "timestamp": "2022-02-04T10:02:58",
+      "order": 16,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2709,
+      "text": "excited , smiling , relaxed , happy , joyful",
+      "timestamp": "2022-02-04T15:03:42",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2710,
+      "text": "tired , bored , lonely , lazy , sad",
+      "timestamp": "2022-02-04T20:01:28",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2711,
+      "text": "calm , chilled , zoned , related , sleepy",
+      "timestamp": "2022-02-05T10:01:06",
+      "order": 19,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2712,
+      "text": "happy , exciting , chilled , loved , dancing",
+      "timestamp": "2022-02-05T15:35:42",
+      "order": 20,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2713,
+      "text": "jumpy , active , happy , excited , smiling",
+      "timestamp": "2022-02-05T20:11:04",
+      "order": 21,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2679,
+      "text": "excited , ready , happy , motivated , chilled",
+      "timestamp": "2022-02-06T10:01:17",
+      "order": 22,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2680,
+      "text": "happy , excited , motivated , dancing , joyful",
+      "timestamp": "2022-02-06T15:00:48",
+      "order": 23,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2681,
+      "text": "tired , sleepy , lazy , sluggish , need rest",
+      "timestamp": "2022-02-06T20:01:06",
+      "order": 24,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2682,
+      "text": "sleepy , relaxed , chilled , lazy , content",
+      "timestamp": "2022-02-07T10:00:46",
+      "order": 25,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2683,
+      "text": "energetic , happy , smiling , excited , ready",
+      "timestamp": "2022-02-07T15:44:34",
+      "order": 26,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2684,
+      "text": "tired , sleepy , lazy , sluggish , blah",
+      "timestamp": "2022-02-07T20:00:47",
+      "order": 27,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2685,
+      "text": "sleepy , chilled , relaxed , lazy , calm",
+      "timestamp": "2022-02-08T10:01:06",
+      "order": 28,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2686,
+      "text": "smiling , excellent , happy , rested , dancing",
+      "timestamp": "2022-02-08T15:04:15",
+      "order": 29,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2687,
+      "text": "calm , sleepy , lazy , relaxed , ready for bed",
+      "timestamp": "2022-02-08T20:23:07",
+      "order": 30,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2688,
+      "text": "little sleepy , lazy , chilled , relaxed , sluggish",
+      "timestamp": "2022-02-09T10:00:36",
+      "order": 31,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2689,
+      "text": "lazy , chilled , relaxed , content , happy",
+      "timestamp": "2022-02-09T15:16:27",
+      "order": 32,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2690,
+      "text": "excited , happy , ready , smiling , chilling",
+      "timestamp": "2022-02-09T20:01:25",
+      "order": 33,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2691,
+      "text": "relaxing , happy , chill , rested , calm",
+      "timestamp": "2022-02-10T10:01:24",
+      "order": 34,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2692,
+      "text": "relaxed , chill , comfortable , calm , happy",
+      "timestamp": "2022-02-10T15:00:26",
+      "order": 35,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2693,
+      "text": "sleepy , sluggish , lazy , Exhausted , zoned out",
+      "timestamp": "2022-02-10T20:01:59",
+      "order": 36,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 2728,
+      "text": "Sleepy , Lazy , Sluggish , Hungry , Bored",
+      "timestamp": "2022-04-29T10:00:00",
+      "order": 37,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2729,
+      "text": "Energy , Grea , Happy , Rested , Ready",
+      "timestamp": "2022-04-29T15:00:00",
+      "order": 38,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2730,
+      "text": "Happy , Excited , Jumpy , Smiling , Joyful",
+      "timestamp": "2022-04-29T20:00:00",
+      "order": 39,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2731,
+      "text": "Tired , Lazy , Sleepy , Blah , Okay",
+      "timestamp": "2022-04-30T10:02:00",
+      "order": 40,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2732,
+      "text": "Sleepy , Lazy , Neutral , Relax , Okay",
+      "timestamp": "2022-04-30T15:19:00",
+      "order": 41,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2733,
+      "text": "Relax , Calm , Chill , Happy , Relax",
+      "timestamp": "2022-04-30T20:33:00",
+      "order": 42,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2734,
+      "text": "Hungover , Tired , Sluggish , Lazy , Moody",
+      "timestamp": "2022-05-01T10:01:00",
+      "order": 43,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2735,
+      "text": "Sleepy , Lazy , Sluggish , Exhausted , Bored",
+      "timestamp": "2022-05-01T15:03:00",
+      "order": 44,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2736,
+      "text": "Tired , Hungover , Sick , Lazy , Hungry",
+      "timestamp": "2022-05-01T20:11:00",
+      "order": 45,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2737,
+      "text": "Relaxed , Happy , Content , Chill , Good",
+      "timestamp": "2022-05-02T10:00:00",
+      "order": 46,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2738,
+      "text": "Excited , Happy , Great , Active , Good",
+      "timestamp": "2022-05-02T15:04:00",
+      "order": 47,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2739,
+      "text": "Tired , Lazy , Chill , Relax , Slow",
+      "timestamp": "2022-05-02T20:17:00",
+      "order": 48,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2740,
+      "text": "Tired , Lazy , Sleepy , Exhausted , Moody",
+      "timestamp": "2022-05-03T10:00:00",
+      "order": 49,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2741,
+      "text": "Lazy , Relaxed , Slow , Hungry , Tired",
+      "timestamp": "2022-05-03T15:00:00",
+      "order": 50,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2742,
+      "text": "Relaxed , Chill , Happy , Cozy , Laid back",
+      "timestamp": "2022-05-03T20:00:00",
+      "order": 51,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2743,
+      "text": "Sleepy , Lazy , Tired , Bored , Lonely",
+      "timestamp": "2022-05-04T10:00:00",
+      "order": 52,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2744,
+      "text": "Excited , Happy , Good , Smiling , Relaxed",
+      "timestamp": "2022-05-04T15:00:00",
+      "order": 53,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2745,
+      "text": "Calm , Tired , Relaxed , Chilled , Happy",
+      "timestamp": "2022-05-04T20:01:00",
+      "order": 54,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2746,
+      "text": "Calm , Quiet , Relax , Chilled , Happy",
+      "timestamp": "2022-05-05T10:33:00",
+      "order": 55,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2747,
+      "text": "Chill , Good , Happy , Relaxed , Vining",
+      "timestamp": "2022-05-05T15:59:00",
+      "order": 56,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2748,
+      "text": "Calm , Relax , Chill , Happy , Content",
+      "timestamp": "2022-05-05T20:59:00",
+      "order": 57,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2749,
+      "text": "Relaxed , Happy , Chilling , Good , Thankful",
+      "timestamp": "2022-05-06T11:43:00",
+      "order": 58,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2750,
+      "text": "Happy , Good , Joyful , Anxious , Smiling",
+      "timestamp": "2022-05-06T15:01:00",
+      "order": 59,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2751,
+      "text": "Happy , Ready , Surprised , Smiling , Jumpy",
+      "timestamp": "2022-05-06T20:01:00",
+      "order": 60,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2752,
+      "text": "Hungover , Tired , Lazy , Headache , Moody",
+      "timestamp": "2022-05-07T10:24:00",
+      "order": 61,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2753,
+      "text": "Sleepy , Relaxed , Vibing , Hungry , Lazy",
+      "timestamp": "2022-05-07T15:00:00",
+      "order": 62,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2754,
+      "text": "Excited , Dancing , Motivated , Good , Smiling",
+      "timestamp": "2022-05-07T20:00:00",
+      "order": 63,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2714,
+      "text": "Calm , Relaxed , Chill , Vibes , Happy",
+      "timestamp": "2022-05-08T10:00:00",
+      "order": 64,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2715,
+      "text": "Good mood , Energetic , Dancing , Smiling , Happy",
+      "timestamp": "2022-05-08T15:00:00",
+      "order": 65,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2716,
+      "text": "Lazy , Tired , Overwhelmed , Moody , Sluggish",
+      "timestamp": "2022-05-08T22:16:00",
+      "order": 66,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2717,
+      "text": "Relaxed , Chilling , Happy , Content , Good",
+      "timestamp": "2022-05-09T10:00:00",
+      "order": 67,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2718,
+      "text": "Happy , Enthusiastic , Smiling , Excited , Dancing",
+      "timestamp": "2022-05-09T15:00:00",
+      "order": 68,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2719,
+      "text": "ORG , Energized , Ready , Happy , Dance",
+      "timestamp": "2022-05-09T20:41:00",
+      "order": 69,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2720,
+      "text": "Excited , Smiling , Dancing , Good , Love",
+      "timestamp": "2022-05-10T10:00:00",
+      "order": 70,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2721,
+      "text": "Joyful , Sunny , Meditate , Dancing , Good",
+      "timestamp": "2022-05-10T15:39:00",
+      "order": 71,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2722,
+      "text": "Overwhelming , Tired , Busy , Hungry , Bored",
+      "timestamp": "2022-05-10T20:58:00",
+      "order": 72,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2723,
+      "text": "Tired , Lazy , Chilled , Relaxed , Happy",
+      "timestamp": "2022-05-11T10:04:00",
+      "order": 73,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2724,
+      "text": "Relaxed , Calm , Chilled , Lazy , Cool",
+      "timestamp": "2022-05-11T15:00:00",
+      "order": 74,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2725,
+      "text": "Sleepy , Lazy , Chilled , Content , Blah",
+      "timestamp": "2022-05-11T20:42:00",
+      "order": 75,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2726,
+      "text": "Energetic , Good , Motivated , Active , Happy",
+      "timestamp": "2022-05-12T10:10:00",
+      "order": 76,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2727,
+      "text": "Sleepy , Lazy , Hot , Thirsty , Bored",
+      "timestamp": "2022-05-12T15:25:00",
+      "order": 77,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 2765,
+      "text": "As of right now I am feeling good . I finally got done sleep last night . I\u2019m more relaxed than usual . I had one drink last night and didn\u2019t wake up feeling sluggish from it . Today so far has been a good day",
+      "timestamp": "2022-09-01T10:48:45",
+      "order": 78,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2766,
+      "text": "As of right now I am clocking out of work and heading home . Today was a good day so I am feeling happy and relaxed . I will go home cooked and rest up for tomorrow . Well I will make sure to eat dinner first .",
+      "timestamp": "2022-09-01T15:06:39",
+      "order": 79,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2767,
+      "text": "This is the time that I normally start getting ready to go to sleep . By this time I have already cooked dinner cleaned up showered myself and my kids and start getting ready to lay down . I am tired because I woke up early today",
+      "timestamp": "2022-09-01T20:31:47",
+      "order": 80,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2768,
+      "text": "Today I woke up in a great mood . I was able to get enough sleep and I have a three day weekend coming up . So far work has been good and I hope it continues throughout the day . Time so far has been going pretty fast putting me in a better mood .",
+      "timestamp": "2022-09-02T10:01:23",
+      "order": 81,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2769,
+      "text": "I am finally home from work and instead of having a two day weekend I am going to have a three day weekend . Today went very well at work and time went fast . I went to work in a great mood and left in a great mood . I am going to use this weekend to relax and recharge for Tuesday when I go back to work .",
+      "timestamp": "2022-09-02T16:00:54",
+      "order": 82,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2770,
+      "text": "I started my three weekend off with a nice cold beer and it\u2019s helping me just relax and watch tv . I I been just in a great mood watching movies and sipping and eating . So far I\u2019ve had one but will probably drink two more",
+      "timestamp": "2022-09-02T20:08:20",
+      "order": 83,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2771,
+      "text": "I feel a little sluggish . Last night I had about 3 mix drinks and steer not drinking for a while it did give me a little bit of a hangover . Hopefully after drinking time of water and taking advil the headache does go away ..",
+      "timestamp": "2022-09-03T10:01:16",
+      "order": 84,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2772,
+      "text": "Today it\u2019s raining and rain gets me in a sleep and calm mood .   I just want to lay down all day , relax and watch movies while having a cool pumpkin beer . I feel good today . And after drinking my beers I will feel more relaxed .",
+      "timestamp": "2022-09-03T17:30:32",
+      "order": 85,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2773,
+      "text": "After having a couple of pumpkin Samuel Adams   beer I am definitely ready to lay down and go to bed . Normally if I drink towards the evening and I am at home instead of getting into party mode I get more into a relax sleepy mode . After drinking one more I am going to lay down and rest till tomorrow .",
+      "timestamp": "2022-09-03T20:43:37",
+      "order": 86,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2774,
+      "text": "As of right now I can tired and feeling a bit lazy .   After having a couple of the beers last night I did wake up feeling a little more sleepy then I normally would .   Most likely after a small nap I\u2019ll feel more energetic .",
+      "timestamp": "2022-09-04T10:04:06",
+      "order": 87,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2775,
+      "text": "I am on my way to a party and before I left I took a nap so I feel great and I\u2019m planning on having a couple of beers . Probably the same beers I had last night . I might be the only one drinking but I\u2019m fine with that . I\u2019m in a good mood .",
+      "timestamp": "2022-09-04T15:35:46",
+      "order": 88,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2776,
+      "text": "After having a couple of drinks I am feeling pretty nice aka a little drunk . Definitely put me in a happy mood and I\u2019m just sitting here listening to music and enjoying myself . I\u2019ll probably have like two more and then head to bed .",
+      "timestamp": "2022-09-04T20:00:38",
+      "order": 89,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2777,
+      "text": "Today I woke up feeling hungover . After having a couple drinks last night I didn\u2019t drink water before I headed to bed causing me to wake up pretty hungover . There\u2019s also a thunderstorm causing me to be more tired and lazy .",
+      "timestamp": "2022-09-05T10:00:48",
+      "order": 90,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2778,
+      "text": "This morning I woke up hungover and lazy but now after taking a nap I feel much better . I been active cleaning up and doing laundry . I still fell a bit hungover but it\u2019s not stopping me from moving around and getting my chores done .",
+      "timestamp": "2022-09-05T15:14:08",
+      "order": 91,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2779,
+      "text": "First Day back to work after 3 days off and I need to still get more energy . I\u2019m still in a chill mode and not fully awake and ready . I need to get use to walking up early again . Probably have a Red Bull to wake up .",
+      "timestamp": "2022-09-06T12:11:51",
+      "order": 92,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2780,
+      "text": "It is the end of my work shift so I am in a great mood because I am so ready to go home . I have food ready for me to cook and I\u2019m just going to cook clean up and then just relax . Beginning of my day I was more calm but now I am in a great mood .",
+      "timestamp": "2022-09-06T15:00:37",
+      "order": 93,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2781,
+      "text": "I already prepared dinner cleaned up and took my kids a bath , So right now my body is tired and I\u2019m ready to go to bed . Especially since the fact that I\u2019ve been up since 6 AM by this time I normally get really tired . Also I was busy preparing everything for tomorrow morning so he caused me to be more tired .",
+      "timestamp": "2022-09-06T20:02:44",
+      "order": 94,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2782,
+      "text": "Today is my Birthday so I woke up in a great mood . Work has been good so far and after work I will be going out for drinks so I\u2019m even in a greater mood . I just been smiles all day . Hopefully today continues to go great for me .",
+      "timestamp": "2022-09-07T12:16:17",
+      "order": 95,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 2783,
+      "text": "As of right now I am in such a great mood . I have about 10 minutes till I have to clock out of work and I\u2019m going to head home change my clothes and go out for a birthday dinner . While I\u2019m at his birthday dinner I am going to have several margaritas to celebrate life .",
+      "timestamp": "2022-09-07T15:00:44",
+      "order": 96,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    }
+  ]
+}

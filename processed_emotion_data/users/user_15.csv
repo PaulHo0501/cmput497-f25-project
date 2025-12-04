@@ -1,0 +1,11 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+802,"Hot , Tired , Happy , Active , Friendly",2021-06-09T20:12:27,0,1.0,2.0,1,True
+803,"Happy , Active , Hot , Tired , Motivated",2021-06-10T13:56:17,1,2.0,1.0,1,True
+804,"Tired , Active , Motivated , Exhausted , Fun",2021-06-11T13:10:56,2,1.0,1.0,1,True
+805,"Tired , Active , Friendly , Happy , Over worked",2021-06-12T16:27:18,3,-2.0,0.0,1,True
+806,"Anxious , Tired , Annoyed , Happy , Exhausted",2021-06-13T19:27:24,4,1.0,1.0,1,True
+807,"Happy , Loving , Motivated , Busy , Fun",2021-06-14T16:02:56,5,2.0,1.0,1,True
+808,"Active , Hot , Tired , Busy , Fun",2021-06-15T17:08:05,6,1.0,1.0,1,True
+809,"Tired , Happy , Relaxed , Loving , Friendly",2021-06-16T17:34:55,7,1.0,1.0,1,True
+810,"Happy , Busy , Motivated , Tired , Fun",2021-06-17T20:17:26,8,1.0,1.0,1,True
+801,"Busy , Active , Tired , Happy , Hot",2021-06-18T13:50:21,9,1.0,1.0,1,True

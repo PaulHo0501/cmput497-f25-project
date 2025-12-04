@@ -1,0 +1,33 @@
+{
+  "input_dir": "processed_emotion_data/users",
+  "output_dir": "ued_results/existing_scores",
+  "lexicon": {
+    "path": null,
+    "dimension": "valence",
+    "use_existing_scores": true
+  },
+  "window": {
+    "size": 50,
+    "step": 1
+  },
+  "filters": {
+    "min_tokens": 10,
+    "min_entries_per_user": 3
+  },
+  "metrics": {
+    "home_base": true,
+    "variability": true,
+    "density": true,
+    "displacement": true,
+    "rise_rate": true,
+    "recovery": true,
+    "mean": true,
+    "median": true,
+    "entropy": true
+  },
+  "output": {
+    "save_trajectories": true,
+    "save_summary": true,
+    "create_plots": true
+  }
+}

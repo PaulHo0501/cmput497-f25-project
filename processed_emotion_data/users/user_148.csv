@@ -1,0 +1,11 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+3773,"Tired , Drained , Exhausted",2024-11-10T12:02:10,0,0.0,1.0,7,True
+3774,I’m at work I’m feeling fine . I definitely wish that I was at home . I feel   kind of tired but I’m moreso on the neutral side of things . I don’t feel drained probably because it is early . I tend to start feeling drained later on in the day,2024-11-11T12:15:41,1,0.0,1.0,7,False
+3775,"Busy , Active , Lively",2024-11-11T17:11:56,2,0.0,2.0,7,True
+3776,"Tired , Sleepy , Overwhelmed",2024-11-11T22:27:48,3,0.0,1.0,7,True
+3777,"Nervous , Sleepy , Over it",2024-11-12T12:05:32,4,0.0,1.0,7,True
+3778,"It’s the midday , I am feeling sluggish . I want to go home but I have two and a half hours left on my shift . I didn’t get to get a coffee so I am feeling tired and I don’t think I have the best mood . My Cheif gave me an unnecessary amount of work so I am annoyed .",2024-11-12T17:30:52,5,-2.0,0.0,7,False
+3779,"Calm , Satisfied , Content",2024-11-12T22:01:59,6,2.0,0.0,7,True
+3780,"Tired , Exhausted , Sleepy",2024-11-13T22:09:48,7,-1.0,0.0,7,True
+3781,"Happy , Fulfilled , Excited",2024-11-14T12:02:37,8,1.0,2.0,7,True
+3782,"Active , Hard working , Energized",2024-11-14T17:05:13,9,0.0,2.0,7,True

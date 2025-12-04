@@ -1,0 +1,76 @@
+{
+  "user_id": 152,
+  "num_entries": 7,
+  "entries": [
+    {
+      "text_id": 3869,
+      "text": "Context , Calm , Engaged , Busy , Interested",
+      "timestamp": "2024-07-09T17:01:40",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3870,
+      "text": "Right now I feel pretty good about myself and my family . I am participating in a continuing education program which I enjoy and I have plans for the next two days . I also plan to go the the gym this afternoon . however , I am concerned about the November election .\\ n \\ n",
+      "timestamp": "2024-07-11T12:08:43",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3871,
+      "text": "Placid , Thoughtful , Concerned , Worried , Tired",
+      "timestamp": "2024-07-12T17:10:09",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3872,
+      "text": "I am placid and relaxed . However , I am also thinking about the future for my children and grandchildren , which worries me . I have to run several errands this morning and I would rather be doing something else . I also miss the ability to take trips due to my wife\u2019s illness .",
+      "timestamp": "2024-07-13T12:34:22",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3873,
+      "text": "I am feeling content and relaxed . Although I worry about the future for my children and grandchildren , I know that I am lucky that they are all doing well . My wife had a stroke four years ago that left her unable to walk without assistance . This has eliminated our travel plans and other plans , but we are dealing with the situation .",
+      "timestamp": "2024-07-13T17:16:03",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3874,
+      "text": "I feel content but worried about the future for my children and grandchildren .   I am somewhat frustrated by our inability to travel due to my wife\u2019s disability caused by a stroke 4 years ago . My life is ok but not exciting .",
+      "timestamp": "2024-07-14T12:09:42",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3875,
+      "text": "Satisfied , Calm , Concerned , Interested , Busy",
+      "timestamp": "2024-07-14T17:45:14",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

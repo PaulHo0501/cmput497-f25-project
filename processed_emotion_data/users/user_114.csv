@@ -1,0 +1,15 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2078,"Sad , Lonely , Tired , Nervous , Achey",2024-09-23T17:19:51,0,-1.0,1.0,7,True
+2079,"Sad , Dejected , Alone , Weary , Glum",2024-09-24T12:03:10,1,-1.0,1.0,7,True
+2080,"Nervous , Lonely , Bored , Hungry , Tired",2024-09-24T17:47:02,2,-1.0,1.0,7,True
+2081,"Indifferent , Bored , Tired , Lonely , Sleepy",2024-09-24T22:20:48,3,0.0,1.0,7,True
+2082,Im feeling pretty sluggish and tired . I feel a little bit jittery and wanting to sleep but can ' t . I ' m not feeling either sad or happy just very neutral . I ' m tired and sluggish and kind of just existing at the moment,2024-09-25T12:17:11,4,-1.0,0.0,7,False
+2083,"Neutral , Content , Comfortable , Okay , Tired",2024-09-25T17:35:48,5,0.0,1.0,7,True
+2300,"Content , Satisfied , Sleepy , Peaceful , Relaxed",2024-09-25T22:26:28,6,1.0,0.0,7,True
+2301,"Lonely , Bored , Sleepy , Unmotivated , Glum",2024-09-26T17:36:43,7,-1.0,0.0,7,True
+2302,"Tired , Sleepy , Bored , Thirsty , Lonely",2024-09-26T22:13:43,8,-1.0,0.0,7,True
+2303,"I feel a little sad today , it might be under the influence of the weather or season , but I just feel a sort of emptiness inside of me . I am also very lonely today , wishing I could just hang out with some friends or something .",2024-09-27T17:30:49,9,-1.0,1.0,7,False
+2304,"Indifferent , Okay , Neutral , Tired , Comfortable",2024-09-27T22:16:09,10,0.0,1.0,7,True
+2305,"Sad , Lonely , Distressed , Bored , Tired",2024-09-28T17:12:14,11,-1.0,1.0,7,True
+2306,"Tired , Sluggish , Lonely , Bored , Sad",2024-09-28T22:37:00,12,-1.0,1.0,7,True
+2307,"Im feeling pretty tired and almost like I am catching a slight cold . I don ' t have much energy and although i feel lonely , it ' s not really a high level . I ' m tired mostly , and just want to stay in bed all day today .",2024-09-29T12:08:33,13,0.0,0.0,7,False

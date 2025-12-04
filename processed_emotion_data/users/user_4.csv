@@ -1,0 +1,9 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+279,"Motivated , Friendly , Attentive , Anxious , Overwhelmed",2021-06-11T13:42:03,0,1.0,0.0,1,True
+280,"Active , Competitive , Nostalgic , Sociable , Nervous",2021-06-12T19:43:30,1,1.0,1.0,1,True
+281,"Anxious , Nervous , Tired , Overwhelmed , Positive",2021-06-13T14:06:41,2,1.0,0.0,1,True
+282,"Stressed , Overtired , Overworked , Impatient , Hungry",2021-06-14T14:01:15,3,2.0,0.0,1,True
+283,"Frustrated , Stuck , Unfulfilled , Angry , Anxious",2021-06-15T12:03:56,4,0.0,1.0,1,True
+284,"Nervous , Anxious , Overwhelmed , Over worked , Tired",2021-06-16T12:24:40,5,-2.0,2.0,1,True
+285,"Relaxed , Outgoing , Cheerful , Attentive , Aware",2021-06-17T14:02:11,6,0.0,1.0,1,True
+286,"Stressed , Overwhelmed , Anxious , Fearful , Confused",2021-06-18T13:58:56,7,0.0,1.0,1,True

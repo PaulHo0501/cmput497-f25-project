@@ -1,0 +1,56 @@
+{
+  "user_id": 32,
+  "num_entries": 5,
+  "entries": [
+    {
+      "text_id": 2069,
+      "text": "I was feeling quite anxious and nervous . I drank some alcohol to help it . Then i was very tired all day And fell asleep quite early . I woke up deciding i would take a break from drinking for about a month .",
+      "timestamp": "2021-03-29T15:35:44",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 2070,
+      "text": "I have been feeling pretty good but quite busy . I have not drank in 3 days and I am hoping to continue this for a few weeks . I may admit I have been tempted a few times in the past few days , However , I will work hard to keep it going .",
+      "timestamp": "2021-03-31T13:34:24",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 2071,
+      "text": "Yesterday I was feeling amazing ! I was productive all day and worked very hard and accomplished a lot . However I drank once I was done and today I feel a bit sluggish and tired . However I will get up and begin my day soon .",
+      "timestamp": "2021-04-05T17:58:39",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 2072,
+      "text": "I have been feeling very positive and happy . I haven\u2019t been drinking today and I have been doing great in my school work and had a productive day . I am excited to have a positive day tomorrow ! I have plans to get stuff done before I go to work .",
+      "timestamp": "2021-04-06T19:00:13",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 2068,
+      "text": "I had a great day yesterday . I got a lot of school work done and spent time with a very close friend which was great . I feel good today just pretty calm and have been resting before I head to work tonight .",
+      "timestamp": "2021-04-09T17:30:10",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

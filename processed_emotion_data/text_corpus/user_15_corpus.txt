@@ -1,0 +1,10 @@
+[ENTRY_802] Hot , Tired , Happy , Active , Friendly
+[ENTRY_803] Happy , Active , Hot , Tired , Motivated
+[ENTRY_804] Tired , Active , Motivated , Exhausted , Fun
+[ENTRY_805] Tired , Active , Friendly , Happy , Over worked
+[ENTRY_806] Anxious , Tired , Annoyed , Happy , Exhausted
+[ENTRY_807] Happy , Loving , Motivated , Busy , Fun
+[ENTRY_808] Active , Hot , Tired , Busy , Fun
+[ENTRY_809] Tired , Happy , Relaxed , Loving , Friendly
+[ENTRY_810] Happy , Busy , Motivated , Tired , Fun
+[ENTRY_801] Busy , Active , Tired , Happy , Hot

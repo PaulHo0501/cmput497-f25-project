@@ -14,7 +14,7 @@ OUTPUTS_PATH = Path('outputs/')
 LOGS_PATH = Path("logs/")
 PATTERN = r"\*\*Result:\*\*\s(.+)"
 
-PER_SENTENCE_PROMPT_TEMPLATE = '''You are tasked with evaluating a response based on two scoring rubrics. Provide comprehensive feedback strictly adhering to the scoring rubrics. Follow this with two scores, each between -2 and 2. Do not generate any additional opening, closing, or explanations.
+PER_SENTENCE_PROMPT_TEMPLATE = '''You are tasked with evaluating a response based on two scoring rubrics. Provide comprehensive feedback strictly adhering to the scoring rubrics. Follow this with two scores, first score is between -2 and 2, and second score is between 0 and 2.  Do not generate any additional opening, closing, or explanations.
 
 Rules:
 (1) Give two scores - one for each rubric.
@@ -38,8 +38,6 @@ Score 1: {rubric_score_4_description}
 Score 2: {rubric_score_5_description}
 
 Score Rubric 2: {rubric_objective_2}
-Score -2: {rubric_score_6_description}
-Score -1: {rubric_score_7_description}
 Score 0: {rubric_score_8_description}
 Score 1: {rubric_score_9_description}
 Score 2: {rubric_score_10_description}
@@ -52,9 +50,8 @@ PER_SENTENCE_RUBRICS = {
     "rubric_score_3_description": "Neutral",
     "rubric_score_4_description": "Positive",
     "rubric_score_5_description": "Very Positive",
+    
     "rubric_objective_2": "Does this text show calmness or excitement?",
-    "rubric_score_6_description": "Very Calm",
-    "rubric_score_7_description": "Calm",
     "rubric_score_8_description": "Neutral",
     "rubric_score_9_description": "Excited",
     "rubric_score_10_description": "Very Excited",
@@ -171,8 +168,6 @@ CRITICAL: Output exactly {total_scores} numbers total ({text_list_size} texts ×
     2: {rubric_score_5_description}
 
     Rubric 2: {rubric_objective_2}
-    -2: {rubric_score_6_description}
-    -1: {rubric_score_7_description}
     0: {rubric_score_8_description}
     1: {rubric_score_9_description}
     2: {rubric_score_10_description}

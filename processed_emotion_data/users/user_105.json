@@ -1,0 +1,146 @@
+{
+  "user_id": 105,
+  "num_entries": 14,
+  "entries": [
+    {
+      "text_id": 1773,
+      "text": "The way I am feeling is tired and sluggish since I just got out of work not to long ago . Other then that I am feeling content and neutral because life is having some uncertainty but I know everything will work its way out with the support and love from my family . I am content and happy thinking of my life now and how things could be different .",
+      "timestamp": "2024-11-13T12:24:53",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1774,
+      "text": "Tired , Active , Motivated , Anxious , Good",
+      "timestamp": "2024-11-13T17:01:22",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1775,
+      "text": "Tired , Motivated , Content , Sluggish , Optimistic",
+      "timestamp": "2024-11-13T22:25:31",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1776,
+      "text": "Tired , Content , Optimistic , Relaxed , Neutral",
+      "timestamp": "2024-11-14T12:01:19",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1777,
+      "text": "Tired , Content , Fuzzy , Uneasy , Ignored",
+      "timestamp": "2024-11-15T12:08:21",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1779,
+      "text": "Worried , Overthinking , Lonely , Unappreciated , Unsure",
+      "timestamp": "2024-11-15T17:35:27",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1780,
+      "text": "Right now I am currently trying to wake up but it\u2019s a little harder for me right now . I want to . go back to sleep but that\u2019s usual for working the night shift . I am thankful that it\u2019s Friday but would rather lay in bed then do anything .",
+      "timestamp": "2024-11-15T22:59:57",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1781,
+      "text": "Exhausted and tired . I worked overnight and only got about 2 hours of sleep through out the day so I am drained . Sleep is calling my name soon so the tiredness is over powering my other emotions . To be honest typing is taking a lot out of my and making me more tired .",
+      "timestamp": "2024-11-16T22:15:38",
+      "order": 7,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1782,
+      "text": "Upbeat , Postive , Thoughtful , Optimistic , Grateful",
+      "timestamp": "2024-11-17T12:02:22",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1783,
+      "text": "Neutral , Ok , Tired , Thankful , Grateful",
+      "timestamp": "2024-11-17T17:01:20",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1784,
+      "text": "Uneasy , Neutral , Unsure , Blah , In the middle",
+      "timestamp": "2024-11-18T12:02:58",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1785,
+      "text": "Sluggish , Tired , Complacent , Neutral , Hurt",
+      "timestamp": "2024-11-18T22:01:10",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1786,
+      "text": "Nervous , Uncertainty , Anxiety , Sad , Annoyed",
+      "timestamp": "2024-11-19T12:01:09",
+      "order": 12,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1795,
+      "text": "I\u2019m not feeling fully awake since waking up not that long ago . I slept around 2 hours and it didn\u2019t help . I\u2019m not feeling like myself a lot of stressors right now in life and financially it\u2019s been rough for my family . Sometimes it\u2019s hard to have hope but need too .",
+      "timestamp": "2024-11-19T17:00:58",
+      "order": 13,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

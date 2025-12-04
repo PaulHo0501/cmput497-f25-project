@@ -1,0 +1,196 @@
+{
+  "user_id": 64,
+  "num_entries": 19,
+  "entries": [
+    {
+      "text_id": 4689,
+      "text": "Calm , Thoughtful , Extra , Generous , Happy",
+      "timestamp": "2024-08-10T17:07:48",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4690,
+      "text": "I\u2019m feel just normal , not too sad not too happy \\nJust placing my emotions in one place actually \\nI\u2019m hungry at the same time tired too \\nI feel like having burgers but my mouth is very sort and I don\u2019t o know how to sort that out",
+      "timestamp": "2024-08-10T22:06:01",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4691,
+      "text": "I\u2019m peaceful and calm , PERSON really have nothin bothering me actually , I\u2019m abit lonely but then I need company and also I want to go out too \\nBut I feel not bad but happy and restful \\nI want to see my partner and talk about things and eat good food",
+      "timestamp": "2024-08-11T12:13:36",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4692,
+      "text": "Bored , In between happiness , Not so happy , PERSON , PERSON",
+      "timestamp": "2024-08-11T17:00:48",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4694,
+      "text": "I\u2019m calm not doing To much , I\u2019m tired and I want to get a lot of things done and all of that and you know I want to be able to help myself , work is kinda tiring and everomw is just there full rough and calm \\nI\u2019m just in a particular posture",
+      "timestamp": "2024-08-12T12:01:18",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4695,
+      "text": "Good , Relaxed , Not troubled , Focused , Happy",
+      "timestamp": "2024-08-12T22:05:00",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4696,
+      "text": "I\u2019m very happy and energized and all of that , I was able to witness something beautiful in my presence and it really motivated me that young people are able to share there experiences and be happy about it and all .\\nI\u2019m happy because there was no fear towards sharing this information with me",
+      "timestamp": "2024-08-13T12:02:08",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4697,
+      "text": "I\u2019m lively not doing to much , leaving by the moment sharing word with family and loved one practically having nice moments and all that is let \\nMemories are made a lot of things are inclusive and all of that \\nI\u2019m just you know everywhere doing everything",
+      "timestamp": "2024-08-13T17:25:30",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4698,
+      "text": "In pain , Relaxed , Stressed , Sleepy , Feverish",
+      "timestamp": "2024-08-13T22:00:58",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4699,
+      "text": "I\u2019m abit contented , not doing anything serious , just there at aparticular location not doing anything , just thanking God for everything expecially daily involvement and activities and all of that \\nI\u2019m just somewhat contented Because I got food to eat and all bed to rest on",
+      "timestamp": "2024-08-14T12:54:03",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4700,
+      "text": "I feel okay actually , I feel better \\nI feel calm , I feel like a bunch of joy , I feel like things will be fine , I feel it\u2019s a matter of time , I feel I miss my family \\n , I\u2019m in a very cheerful mood and place and all of that I\u2019m in between happiness and I like how it\u2019s going and all that happening is joyful",
+      "timestamp": "2024-08-14T17:13:28",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4701,
+      "text": "I\u2019m a natural because everything is stressful but then I\u2019m neutral , I have to deal with both gappy and sad things are happening you know I\u2019m just a natural I can\u2019t really say how I feel at the moment \\nThings are just some type of way I can\u2019t really say tho",
+      "timestamp": "2024-08-14T22:03:03",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4702,
+      "text": "I\u2019m abit tired and all of that \\nI have a lot to do and a lot of emotions attached at the moment \\nBeen feeling abit stressed out and unhappy life just stressing me and all of that \\nA lot of drama has been happening lately",
+      "timestamp": "2024-08-15T12:02:18",
+      "order": 12,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4703,
+      "text": "I\u2019m calm because I have a nap all day ,barely had anything to eat it\u2019s just calm that I\u2019m able to take a nap out of others , so I\u2019m calm and trying to regain strength and all of that .\\nA lot of drama but then been having on hell of a day so a nap was the best thing and it came through too",
+      "timestamp": "2024-08-16T12:36:29",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4705,
+      "text": "Lively , Happy , Cheerful , Joy filled , Beautiful",
+      "timestamp": "2024-08-16T17:01:38",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4706,
+      "text": "I\u2019m very sad because I got things to do , but I\u2019m in pains I feel very low at this point \\nI feel no one is going to help isn\u2019t coming to my aid \\nI feel very stressed out \\nMy tooth hurts \\nAnd I\u2019m not getting enough sleep and all that\u2019s to be said but then I can\u2019t do nothing about it \\nIt will pass",
+      "timestamp": "2024-08-16T22:00:36",
+      "order": 15,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4707,
+      "text": "I\u2019m very active \\nI\u2019m hyper , I have a good day going on \\nIt\u2019s been enjoyable and alll of that \\nI\u2019m having sense of relief and I\u2019m very calm \\nI feel happy and strong too \\nI\u2019m able to do what I want \\nI\u2019m really strong and hyper \\nHad a very rough week but I\u2019m practically very strong rn",
+      "timestamp": "2024-08-17T12:01:13",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4708,
+      "text": "Restful , Excited , Stressed , Abit worried , Nervous",
+      "timestamp": "2024-08-17T22:00:41",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4709,
+      "text": "I\u2019m less stressed very happy and contented and the fact that it\u2019s Sunday is a whole new vibe also \\nThings have been turning fine on my ends and life seems fair \\nI\u2019m feeling calm and thoughtful at the same time it\u2019s not easy but I\u2019m at it I guess",
+      "timestamp": "2024-08-18T12:06:11",
+      "order": 18,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

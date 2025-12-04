@@ -1,0 +1,66 @@
+{
+  "user_id": 119,
+  "num_entries": 6,
+  "entries": [
+    {
+      "text_id": 2472,
+      "text": "As of right now , I\u2019m feeling exhausted from not sleeping enough last night . My mind feels foggy , and I\u2019m struggling to stay focused on tasks . I\u2019m hoping to get some rest soon so I can recharge and feel more productive .",
+      "timestamp": "2024-10-16T12:34:18",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2473,
+      "text": "I ' m really hungry since I barely ate while traveling . Also feeling rushed because the events I need to handle aren ' t done yet , and it ' s adding to my stress . Need to refuel and focus on finishing things up .",
+      "timestamp": "2024-10-16T22:01:04",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2474,
+      "text": "Sleepy , Exhausted , Cold , Hungry , Thirsty",
+      "timestamp": "2024-10-17T17:26:52",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2475,
+      "text": "As of right now , I feel tired . I didn\u2019t sleep much last night and I don\u2019t feel hungry this early in the morning . It wasn\u2019t as cold as it was yesterday but , it\u2019s cold nonetheless and I didn\u2019t have practice and things to do .",
+      "timestamp": "2024-10-18T12:12:18",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2476,
+      "text": "Happy , Hot , Thirsty , Hungry , Excited",
+      "timestamp": "2024-10-18T17:01:19",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2477,
+      "text": "I\u2019m feeling incredibly comfortable and happy right now . After the stress of the last few days , it ' s such a relief to have this moment to unwind . I received some beautiful flowers , which made my day so much brighter . There\u2019s something about flowers that brings a calmness to the room , and it feels good to just be surrounded by something so simple yet cheerful .",
+      "timestamp": "2024-10-18T22:57:15",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

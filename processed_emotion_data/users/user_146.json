@@ -1,0 +1,126 @@
+{
+  "user_id": 146,
+  "num_entries": 12,
+  "entries": [
+    {
+      "text_id": 3706,
+      "text": "Tired , Annoyed , Stressed , Worried , Confused",
+      "timestamp": "2024-07-23T12:32:27",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3707,
+      "text": "I am tired because I had a long workday . I am stressed about my class and upcoming events . I am excited because I will eat food and watch a TV show . I am relieved because I do not need to work tomorrow .",
+      "timestamp": "2024-07-23T22:33:11",
+      "order": 1,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3708,
+      "text": "I am feeling active because I got enough sleep . I am feeling calm because I am not working today . I am feeling nervous and hopeful because I need to complete tasks today . I am feeling happy because the weather is nice and cool .\\ n",
+      "timestamp": "2024-07-24T12:17:13",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3709,
+      "text": "Relaxed , Hopeful , Determined , Calm , Excited",
+      "timestamp": "2024-07-24T17:16:19",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3710,
+      "text": "I am feeling tired because I ate dinner and want to sleep . I am feeling dizzy from looking at my laptop and phone too much . I am feeling determined to study for my test and complete my tasks . I am feeling dreadful about going to work tomorrow .\\ n",
+      "timestamp": "2024-07-24T22:01:58",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3711,
+      "text": "Tired , Sleepy , Annoyed , Frustrated , Bored",
+      "timestamp": "2024-07-25T22:30:15",
+      "order": 5,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3712,
+      "text": "Calm , Relaxed , Excited , Determined , Scared",
+      "timestamp": "2024-07-26T22:49:57",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3713,
+      "text": "I feel disappointed and frustrated because studying for my class is difficult . I feel sad because summer is almost over and I did not have much fun . I feel overwhelmed because I still have a lot left to do to prepare for school .",
+      "timestamp": "2024-07-27T17:24:14",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3715,
+      "text": "Stressed , Worried , Overwhelmed , Frustrated , Annoyed",
+      "timestamp": "2024-07-28T17:33:33",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3716,
+      "text": "Happy , Proud , Determined , Focused , Bored",
+      "timestamp": "2024-07-28T22:00:44",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3717,
+      "text": "I am happy because I studied hard and did well on my test . I am determined because I am almost done with my class . I am relieved because I can relax and rest . I am excited because I bought new shoes for school . I am sad that summer is almost over .",
+      "timestamp": "2024-07-29T17:58:14",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3718,
+      "text": "Nervous , Worried , Conflicted , Scared , Stressed",
+      "timestamp": "2024-07-29T22:14:30",
+      "order": 11,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

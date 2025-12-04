@@ -34,7 +34,7 @@ Now, based on the emotional pattern from these {num_context_texts} texts, predic
 
 Predict:
 1. Average Valence score for future texts (range: -2 to +2)
-2. Average Arousal score for future texts (range: -2 to +2)
+2. Average Arousal score for future texts (range: 0 to +2)
 
 Your reply format:
 **Reasoning:** <Explain the emotional patterns and predict the average scores for future texts>
@@ -48,7 +48,7 @@ IMPORTANT: Output exactly 2 numbers representing the predicted AVERAGE scores fo
 
 SUBTASK2B_RUBRICS = {
     "valence_scale": "Valence Scale: -2 (Very Negative), -1 (Negative), 0 (Neutral), +1 (Positive), +2 (Very Positive)",
-    "arousal_scale": "Arousal Scale: -2 (Very Calm), -1 (Calm), 0 (Neutral), +1 (Excited), +2 (Very Excited)"
+    "arousal_scale": "0 (Neutral), +1 (Excited), +2 (Very Excited)"
 }
 
 DATA_PATH_SUBTASK2B = './data/train_subtask2b.csv'

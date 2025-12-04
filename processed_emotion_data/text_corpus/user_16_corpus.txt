@@ -1,0 +1,76 @@
+[ENTRY_822] Tired , Stressed , Exhausted , Annoyed
+[ENTRY_823] Exhausted , Invisible , Sore , Morose
+[ENTRY_824] Tired , Unappreciated , Lonely
+[ENTRY_825] Frustrated , Tired , Annoyed
+[ENTRY_826] Annoyed , Frustrated , Unheard , Misunderstood
+[ENTRY_827] Tired , Frustrated , Misunderstood
+[ENTRY_828] Invisible , Drained , Frustrated
+[ENTRY_829] Drained , Sluggish , Annoyed
+[ENTRY_830] Refreshed , Energetic , Enthusiastic , Hopeful
+[ENTRY_816] Blah , Quiet , Uninterested , Ignored
+[ENTRY_817] Refreshed , Releived , Content
+[ENTRY_818] Annoyed , Frustrated , Anxious
+[ENTRY_819] Neutral , Blah , Uninspired
+[ENTRY_820] Overwhelmed , Lonely , Annoyed
+[ENTRY_821] Excited , Anxious , Calm , Mellow
+[ENTRY_844] Anxious , Nervous , Exhausted
+[ENTRY_845] Anxious , Stressed , Tired
+[ENTRY_846] Bored , Tired , Hungry
+[ENTRY_847] Calm , Mellow , Relaxed
+[ENTRY_848] Chill , Fine , Mellow
+[ENTRY_849] Drained , Tired , Melancholy
+[ENTRY_850] Nervous , Anxious , Sad
+[ENTRY_851] Nervous , Anxious , Apprehensive
+[ENTRY_852] Annoyed , Misunderstood , Frustrated
+[ENTRY_853] Calm , Anxious , Unmotivated
+[ENTRY_854] Happy , Neutral , Normal
+[ENTRY_855] Anxious , Neutral , Confused , Sluggish , Tired
+[ENTRY_856] Anxious , Annoyed , Peeved
+[ENTRY_857] Tired , Anxious , Nervous , Frustrated
+[ENTRY_858] Relieved , Calm , Mellow , Anxious
+[ENTRY_859] Calm , Mellow , Relaxed
+[ENTRY_860] Tired , Drained , Mellow
+[ENTRY_861] Chill , Relaxed , Calm , Mellow , Grateful
+[ENTRY_862] Sore , Tired , Calm , Mellow , Full
+[ENTRY_831] Achey , Exhausted , Sore
+[ENTRY_832] Relaxed , Mellow , cAlm
+[ENTRY_833] Tired , Sore , Calm
+[ENTRY_834] Anxious , Chill , Tired
+[ENTRY_835] Mellow , Relaxed , Tired , Content
+[ENTRY_836] Prepared , Mellow , Stress free
+[ENTRY_837] Drained , Zapped , Lethargic
+[ENTRY_838] Anxious , Dreading , Unmotivated
+[ENTRY_839] Happy , Calm , Excited
+[ENTRY_840] Happy , Tired , Fulfilled
+[ENTRY_841] Mellow , Relaxed , Calm
+[ENTRY_842] Tired , Excited , Happy
+[ENTRY_843] Hungry , Mellow , Excited
+[ENTRY_867] I am feeling anxious and also have a headache . I am prepping for a procedure tomorrow which is making me nervous but is also frustrating and i am hungry because I’m supposed to be on a liquid diet and all I want to do is eat something .
+[ENTRY_868] I am feeling tired and sleepy . I Had a procedure done today , so I’m at home resting and can’t stop sleeping . Tired , worn out , lethargic , lazy . Why does this force me to write so much for my answer … . I don’t have enough to report lol
+[ENTRY_869] Feeling pretty good and refreshed after my weekend and heading into work today . Hoping that the ORG draft being in town will be lucrative this weekend for me , but hopefully nothing too crazy ! Lol \nFeeling calm mellow ready to work !
+[ENTRY_870] Just relaxing with our dogs and my boyfriend before I go to work later . Feeling mellow and relaxed , happy to have time with my boyfriend and the dogs before work which will likely be hectic and crazy .
+[ENTRY_871] Just got to work , feeling quiet calm mellow , trying to chill for a few minutes before i start my shift . Anxious because I realized my health card is expiring next month and the health department is still backed up so the soonest appointment I can make isn’t until august which is stressing me out .
+[ENTRY_872] Feeling very foggy and tired today . Yesterday was a long night at work , not busy just exhausting . Plus the puppy woke me up a lot last night , and I had a pretty good gym session this morning too so I am feeling pooped today ! But gonna pull myself together for another night at work !
+[ENTRY_873] Just working , getting kinda annoyed with all of the requests to fill out these surveys , multiple times a day , especially when I’m at work . Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+[ENTRY_874] Happy that it’s my weekend . Was a long and slow week at work , had a couple of interesting characters come into the bar this week so that was fun . Just running errands and doing chores today , mellow calm content , happy to be off .
+[ENTRY_875] Bored at work . Very slow and not alot going on . Very strange week . Bored bored bored bored bored bored bored bored bored boring boring boring boring boring boring boring boring boring boring boring boring boring
+[ENTRY_876] It’s my weekend and just running errands and enjoying my days off from work . Feeling productive and calm , happy to spend time with my boyfriend and our four dogs . That is all . Blah blah blah blah blah
+[ENTRY_877] Just relaxing at home after running errands . Enjoying my day offf with the dogs and just chillin at home . Kahfmgnosifufn akdhbtkosi dishhskfi suwuhfkkoah sjjdhhduinkahs Kathryn iSight my jsbsvni Sindhis jahsusi
+[ENTRY_863] It’s windy AF outside this weekend which means no one wants to go to the bar . So it’s been a very slow weekend , not making alot of money so it’s been rough and I’m frustrated . It’s super annoying when the weather/something you can’t control effects your ability to make money so much
+[ENTRY_864] It’s my Friday , so I’m excited about that . But also very tired after a long and boring weekend at work . Hope that business will pick up soon . Would like to make some money and plan some trips for this summer !
+[ENTRY_865] Feeling sluggish and tired today . It’s my weekend but I’m exhausted from work and just want to relax with the dogs . Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+[ENTRY_866] Annoyed with today . Feeling like I get taken advantage of . I always put aside what I want to do so that I can spend time with my boyfriend and his son but they will never reciprocate and do what i want to do . So in order to do stuff that interests me i always have to do it alone .
+[ENTRY_887] Relaxed , Calm , Mellow , Accomplished
+[ENTRY_888] Tired , Eager , Anxious
+[ENTRY_889] Hungry , Relaxed , Tired
+[ENTRY_890] Tired , Hugry , Exhausted
+[ENTRY_891] Tired , Anxious , Uncomfortable
+[ENTRY_892] PERSON , Ready for work , It’s my Monday !
+[ENTRY_893] Exhausted , Tired , Worn out , Unenthusiastic
+[ENTRY_894] Tired , Drained , Unmotivated
+[ENTRY_895] Mellow , Tired , Want to check out
+[ENTRY_896] Content , Relaxed , Working
+[ENTRY_897] Exhausted , Worn out , Mentally and physically drained
+[ENTRY_898] Tired , Sluggish , Exhausted
+[ENTRY_899] Relaxed , Normal , Fine , Going to work
+[ENTRY_900] Working , Calm , Slow

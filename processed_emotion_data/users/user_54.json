@@ -1,0 +1,106 @@
+{
+  "user_id": 54,
+  "num_entries": 10,
+  "entries": [
+    {
+      "text_id": 2035,
+      "text": "cool , hopeful , eager , excited , remoseful",
+      "timestamp": "2024-10-09T12:00:48",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2076,
+      "text": "i feel very refreshed right now and I am also happy , calm and also have a wonderful day \\ nI also feel very calm and also excited \\ nI feel contempted and having a great day with no stress \\nI feel enthusiast",
+      "timestamp": "2024-10-09T17:00:58",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2376,
+      "text": "Cool , Calm , Happy , Excited , Feel good",
+      "timestamp": "2024-10-10T12:21:45",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2448,
+      "text": "Active , Happy , Delighted , Calm , Enthusiast",
+      "timestamp": "2024-10-10T17:06:31",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2526,
+      "text": "How I am feeling currently I feel excited and happy at the moment and doing things that will make me happy and distancing myself from any thing that ' s gonna spoil or disrupt feeling currently \\nI do not feel emotionally drained",
+      "timestamp": "2024-10-10T22:57:50",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2654,
+      "text": "I\u2019m content , my mind is clear , and I\u2019m able to focus on the present rather than worrying about the future or dwelling on the past . so I m satisfied with what I have and I m also happy never allowing anything bothering me",
+      "timestamp": "2024-10-11T17:51:11",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2941,
+      "text": "Calm , Happy , Enthusiast , Good , Cool",
+      "timestamp": "2024-10-12T12:31:58",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3036,
+      "text": "Cool , Happy , Calm , Active , Lively",
+      "timestamp": "2024-10-12T17:28:22",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3135,
+      "text": "Enthusiasts , Active , Lively , Energies , Feel good",
+      "timestamp": "2024-10-13T12:55:04",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3435,
+      "text": "I really feel neutral and not really active because a friend got me angry and instead of apologizing he stood on his words and made me feel bad like I was the one who orchestrated the whole negative drama",
+      "timestamp": "2024-10-13T22:54:50",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

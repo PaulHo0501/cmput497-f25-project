@@ -31,7 +31,7 @@ Now, based on the emotional pattern, predict the emotional scores for the follow
 
 Predict:
 1. Valence score (range: -2 to +2)
-2. Arousal score (range: -2 to +2)
+2. Arousal score (range: 0 to +2)
 
 Your reply format:
 **Reasoning:** <Explain the emotional pattern and your prediction>
@@ -40,12 +40,12 @@ Your reply format:
 
 Format: valence_score, arousal_score
 
-IMPORTANT: Output exactly 2 numbers representing the predicted scores (range: -2 to +2 each).
+IMPORTANT: Output exactly 2 numbers representing the predicted scores (range: -2 to +2 for Valence score and 0 to 2 for Arousal score).
 '''
 
 SUBTASK2A_RUBRICS = {
     "valence_scale": "Valence Scale: -2 (Very Negative), -1 (Negative), 0 (Neutral), +1 (Positive), +2 (Very Positive)",
-    "arousal_scale": "Arousal Scale: -2 (Very Calm), -1 (Calm), 0 (Neutral), +1 (Excited), +2 (Very Excited)"
+    "arousal_scale": "Arousal Scale: 0 (Neutral), +1 (Excited), +2 (Very Excited)"
 }
 
 DATA_PATH_SUBTASK2A = './data/train_subtask2a.csv'

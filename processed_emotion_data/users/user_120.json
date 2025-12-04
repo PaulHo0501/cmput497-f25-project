@@ -1,0 +1,136 @@
+{
+  "user_id": 120,
+  "num_entries": 13,
+  "entries": [
+    {
+      "text_id": 2485,
+      "text": "tired , anticipatory , scattered , calm , neutral",
+      "timestamp": "2024-11-02T17:01:21",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2486,
+      "text": "I ' m feeling content and happy having spent the day with my family including members I haven ' t seen in a while . I am also feeling energetic & engaged after a day of physical activity and outdoor time .",
+      "timestamp": "2024-11-02T22:01:24",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2487,
+      "text": "happy , lively , enthusiastic , energetic , ready",
+      "timestamp": "2024-11-03T12:17:07",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2488,
+      "text": "active , energized , hyper , focused , enthused",
+      "timestamp": "2024-11-03T17:16:20",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2489,
+      "text": "tired , exhausted , content , full , lethargic",
+      "timestamp": "2024-11-03T22:01:24",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2502,
+      "text": "tired , sluggish , determined , ready , thoughtful",
+      "timestamp": "2024-11-04T12:52:02",
+      "order": 5,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2503,
+      "text": "I am currently feeling neutral as I am engaged with many items at work today with which require my full focus and concentration .   I am also relatively relaxed as most of the work has been completed and deadlines will be met .",
+      "timestamp": "2024-11-04T17:08:15",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2504,
+      "text": "I am currently feeling satisfied because I have completed all of my work without needing to put in overtime , relaxed as I have no more pressing concerns for the remainder of today and happy to wind down .",
+      "timestamp": "2024-11-04T22:12:01",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2505,
+      "text": "I am feeling mentally tired and sluggish since I did not get a lot of sleep last night . I am also feeling annoyed because I have unexpected work given to me that I need to finish in a short amount of time today .",
+      "timestamp": "2024-11-05T12:17:38",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2506,
+      "text": "active , content , engaged , focused , energetic",
+      "timestamp": "2024-11-05T17:33:09",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2507,
+      "text": "happy , accomplished , content , energized , eager",
+      "timestamp": "2024-11-06T17:27:56",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2508,
+      "text": "I ' m feeling tired and lethargic after a long day at work . I ' m feeling curious about what to eat for dinner . I ' m feeling shocked at how early it became dark today and surprised by how much it affects my mood .",
+      "timestamp": "2024-11-06T22:05:35",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2509,
+      "text": "sluggish , tired , worried , reflective , curious",
+      "timestamp": "2024-11-07T12:27:31",
+      "order": 12,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

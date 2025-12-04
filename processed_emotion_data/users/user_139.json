@@ -1,0 +1,206 @@
+{
+  "user_id": 139,
+  "num_entries": 20,
+  "entries": [
+    {
+      "text_id": 3487,
+      "text": "happy , fantastic , cool , delightful , reserved",
+      "timestamp": "2024-11-12T12:09:12",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3488,
+      "text": "Confident , Relaxed , Happy , Buzzed , Energetic",
+      "timestamp": "2024-11-12T17:07:51",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3489,
+      "text": "I feel relaxed and euphoric , with reduced inhibitions and heightened sociability , often accompanied by a sense of warmth and calmness . I feel so confident and energetic to try out new things and do the things I\u2019m scared of without being scared or anxious , I feel so lightheaded , impaired balance with heightened mood \\ nI feel so cool and reserved and have less worry and increased emotional sensitivity \u2026\u2026\u2026 \\ n \\ nIt feels like I\u2019m at the top of the world and having confidence to try out new things",
+      "timestamp": "2024-11-12T22:08:36",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3490,
+      "text": "I currently feel relaxed and euphoric , with a sense of warmth spreading throughout my body , accompanied by reduced inhibitions and heightened sociability .\\ nEmotionally , I feel anxious , depressed and irritable , with heightened sensitivity to surroundings , struggling to focus and maintain a clear train of thought .",
+      "timestamp": "2024-11-13T12:02:59",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3491,
+      "text": "I currently feel relaxed and euphoric , with a sense of warmth spreading throughout my body , accompanied by reduced inhibitions and heightened sociability . My thoughts are slightly foggy , and my coordination is impaired , making everyday tasks challenging . Physically , I ' m experiencing a pleasant numbness .\\ n \\ n , I feel lethargic and weak , with hangover symptoms like headaches , fatigue and nausea setting in . Emotionally , I ' m anxious and irritable , struggling to focus . My body feels drained .\\ n \\ n I feel disoriented and confused , with increased emotional sensitivity and mood swings causing regrettable decisions and actions .",
+      "timestamp": "2024-11-13T17:10:16",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3493,
+      "text": "I ' m feeling relaxed and calm , with a gentle haze enveloping my thoughts . The alcohol ' s warmth has seeped into my muscles , easing any tension or stress , and my senses seem slightly dulled . My thoughts are floating effortlessly .\\ nI feel a soothing tranquility wash over me , calming my mind and easing my muscles . The initial sharpness of my thoughts begins to blur , replaced by a gentle haze that softens the edges of my worries . My senses , once acute , now feel slightly dulled , as if viewed through a warm , fuzzy lens . The world around me seems more mellow .\\ nMy limbs feel heavier , weighed down by a pleasant lethargy that discourages unnecessary movement . Conversation flows more easily , unencumbered by self-consciousness or inhibitions . Emotions , too , become more fluid , with laughter and smiles emerging more readily \\ n \\ n",
+      "timestamp": "2024-11-13T22:06:07",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3494,
+      "text": "Happy , Calm , Cool , Energetic , Reserved",
+      "timestamp": "2024-11-14T12:05:54",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3495,
+      "text": "I ' m feeling slightly relaxed , with a subtle warmth spreading through my body . My senses remain sharp , but my mind has eased into a calm , gentle hum . Clarity and focus remain intact . A gentle warmth spreads throughout my body , easing any residual tension and promoting relaxation . My mind , previously alert and active , slows its pace slightly , adopting a calm and serene demeanor \\ nMy senses remain sharp and responsive , with no noticeable diminishment in clarity or focus . Emotionally , I feel more at ease , with concerns or worries diminishing in intensity . Social interactions become more comfortable , with conversation flowing effortlessly . Laughter and smiles emerge more readily . my thinking remains clear and logical . Problem-solving abilities and decision-making capacities seem unaffected . Memory recall and concentration remain intactBalance and coordination are maintained .",
+      "timestamp": "2024-11-14T17:06:22",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3496,
+      "text": "Happy , Relaxed , Calm , Tranquil , Serene",
+      "timestamp": "2024-11-14T22:03:43",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3497,
+      "text": "I ' m feeling rather chill and relaxed , like the tension in my body has dissipated , leaving me with a warm , fuzzy sensation . My thoughts are still clear , but my mind has shifted gears , and I ' m now cruising at a leisurely pace , enjoying the gentle buzz .\\ n \\ nThe gentle warmth spreading through my veins is soothing , calming my nervous system and quieting my racing thoughts . My senses remain sharp , but my perception has softened , allowing me to view the world with a more relaxed , laid-back attitude . I find myself laughing more easily , connecting with others on a deeper level . My worries haven ' t vanished , but they ' ve receded into the background , allowing me to focus on the present moment .",
+      "timestamp": "2024-11-15T12:03:26",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3498,
+      "text": "Happy , Energetic , Calm , Cool , Reserved",
+      "timestamp": "2024-11-15T17:05:45",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3499,
+      "text": "I currently feel mildly relaxed and calm , with a subtle sense of euphoria and reduced inhibitions ,   My senses remain relatively sharp , with minimal impairment to coordination and cognitive function , although I may experience slight dizziness .",
+      "timestamp": "2024-11-15T22:11:13",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3500,
+      "text": "I ' m feeling rather chill and relaxed , like the tension in my body has dissipated , leaving me with a warm , fuzzy sensation . My thoughts are still clear , but my mind has shifted gears , and I ' m now cruising at a leisurely pace , enjoying the gentle buzz .\\ n \\ nThe gentle warmth spreading through my veins is soothing , calming my nervous system and quieting my racing thoughts . My senses remain sharp , but my perception has softened , allowing me to view the world with a more relaxed , laid-back attitude . I find myself laughing more easily , connecting with others on a deeper level . My worries haven ' t vanished , but they ' ve receded into the background , allowing me to focus on the present moment .",
+      "timestamp": "2024-11-16T12:21:53",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3501,
+      "text": "Delighted , Cool , Calm , Lively , Serene",
+      "timestamp": "2024-11-16T17:02:51",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3502,
+      "text": "I feel relaxed and calm , with moderate euphoria and reduced inhibitions . My senses are somewhat impaired , with mild dizziness , slight confusion , and decreased coordination , with potential slurred speech and impaired judgment .",
+      "timestamp": "2024-11-16T22:06:10",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3504,
+      "text": "Happy , Delightful , Calm , Contented , Reserved",
+      "timestamp": "2024-11-17T12:04:33",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3505,
+      "text": "Warm , Relaxed , Calm , Fuzzy , Excited",
+      "timestamp": "2024-11-17T17:06:13",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3506,
+      "text": "Cool , Calm , Quiet , Depressed , Nervous",
+      "timestamp": "2024-11-18T12:05:54",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3507,
+      "text": "Calm , Happy , Cool , Excited , Reserved",
+      "timestamp": "2024-11-18T22:05:18",
+      "order": 18,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3508,
+      "text": "my senses are slightly numb , and coordination takes a bit more effort . Simple tasks require a tad more concentration , and reaction times slow down . My body feels warm , flushed , and cozy .\\ nMy worries seem to fade away , replaced by a carefree attitude and increased sociability .",
+      "timestamp": "2024-11-19T12:12:44",
+      "order": 19,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

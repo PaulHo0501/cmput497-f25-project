@@ -1,0 +1,33 @@
+{
+  "input_dir": "processed_emotion_data/text_corpus",
+  "output_dir": "ued_results/lexicon_based",
+  "lexicon": {
+    "path": "EmotionDynamics/lexicons/valence.csv",
+    "dimension": "valence",
+    "use_existing_scores": false
+  },
+  "window": {
+    "size": 50,
+    "step": 1
+  },
+  "filters": {
+    "min_tokens": 10,
+    "min_entries_per_user": 3
+  },
+  "metrics": {
+    "home_base": true,
+    "variability": true,
+    "density": true,
+    "displacement": true,
+    "rise_rate": true,
+    "recovery": true,
+    "mean": true,
+    "median": true,
+    "entropy": true
+  },
+  "output": {
+    "save_trajectories": true,
+    "save_summary": true,
+    "create_plots": true
+  }
+}
