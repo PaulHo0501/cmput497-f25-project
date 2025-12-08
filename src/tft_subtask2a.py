@@ -14,12 +14,7 @@ from sklearn.decomposition import PCA
 from tqdm import tqdm
 from transformers import AutoModel, AutoTokenizer
 
-# Suppress minor warnings
-warnings.filterwarnings("ignore")
 
-# -----------------------------------------------------------------------------
-# Utils
-# -----------------------------------------------------------------------------
 def generate_embeddings(text_series, model_name, n_components=32, prefix='emb'):
     """Generates embeddings and reduces dimension via PCA."""
     print(f"Generating embeddings for {model_name}...")
@@ -79,18 +74,11 @@ def parse_args():
 def main():
     args = parse_args()
     
-    # =========================================================================
-    # CONFIGURATION: Handle Single vs Multi Target
-    # =========================================================================
-    # 1. Determine the raw columns we care about
     if args.target == "both":
         raw_cols_to_use = ["valence", "arousal"]
     else:
         raw_cols_to_use = [args.target]
 
-    # 2. Determine Training Targets based on Approach
-    # If approach is direct, we train on 'state_change_X'.
-    # If indirect, we train on 'X'.
     training_targets = []
     for col in raw_cols_to_use:
         if args.approach == "direct":
@@ -98,14 +86,11 @@ def main():
         else:
             training_targets.append(col)
             
-    # For TFT API: If list has 1 item, pass string. If >1, pass list.
     target_arg = training_targets[0] if len(training_targets) == 1 else training_targets
     
     print(f"=== MODE: {args.target.upper()} TARGETS | {args.approach.upper()} APPROACH ===")
     print(f"Training on: {target_arg}")
 
-    # 1. Load Data
-    # -----------------------------------------------------------------------------
     DATA_PATH = 'data/train_subtask2a.csv'
     try:
         data = pd.read_csv(DATA_PATH)
@@ -113,53 +98,32 @@ def main():
         print(f"Error: {DATA_PATH} not found.")
         return
 
-    # Ensure numeric types
     cols_to_numeric = ['valence', 'arousal', 'state_change_valence', 'state_change_arousal']
     for col in cols_to_numeric:
         if col in data.columns:
             data[col] = pd.to_numeric(data[col], errors='coerce')
     
     data.replace([np.inf, -np.inf], np.nan, inplace=True)
-    
-    # 2. Data Cleaning
-    # -----------------------------------------------------------------------------
-    # Define the columns representing state changes
     change_cols = [f"state_change_{c}" for c in raw_cols_to_use]
-
-    # Step A: Always drop rows where Metadata or RAW values are missing
-    # (We can't do anything without user_id, timestamp, or the raw emotion score)
     basic_reqs = ['user_id', 'timestamp'] + raw_cols_to_use
     initial_len = len(data)
     data.dropna(subset=basic_reqs, inplace=True)
 
-    # Step B: Handle State Change NaNs based on Approach
     if args.approach == "direct":
-        # DIRECT MODE: The state_change is our Target. 
-        # We cannot train on a NaN target. We must drop the last row of every user.
         data.dropna(subset=change_cols, inplace=True)
-        print(f"Direct Mode: Dropped rows with NaN state changes.")
+        print(f"Direct Mode")
         
     else:
-        # INDIRECT MODE: The Raw Value (valence/arousal) is our Target.
-        # The last row has a valid Raw Value, so we want to keep it!
-        # However, 'state_change' is NaN there. TFT will crash if we leave it as NaN.
-        # FIX: We fill the NaN state changes with 0.0. 
-        # This allows TFT to run. (Note: We calculate evaluation metrics derived 
-        # from Raw Values, so this 0.0 filler does not affect accuracy).
         for col in change_cols:
             if col in data.columns:
                 data[col] = data[col].fillna(0.0)
-        print(f"Indirect Mode: Filled NaN state changes with 0.0 to preserve last-step data.")
-
-    print(f"Data Cleaning Complete. Dropped {initial_len - len(data)} rows total. Final size: {len(data)}")
+        print(f"Indirect Mode")
 
     data = data.sort_values(['user_id', 'timestamp'])
     data['time_idx'] = data.groupby('user_id').cumcount()
     data['is_words_int'] = data['is_words'].astype(int)
     data['user_id'] = data['user_id'].astype(str)
 
-    # 3. Embeddings
-    # -----------------------------------------------------------------------------
     distilbert_feats = generate_embeddings(
         data['text'], "distilbert-base-uncased", n_components=32, prefix="distil"
     )
@@ -172,24 +136,16 @@ def main():
 
     embedding_features = list(distilbert_feats.columns) + list(bert_feats.columns)
 
-    # 4. Define DataSet
-    # -----------------------------------------------------------------------------
-    print(f"Defining TimeSeriesDataSet...")
     max_prediction_length = 1
     max_encoder_length = 20
     training_cutoff = data["time_idx"].max() - max_prediction_length
 
-    # --- FIX START: Handle Normalizer for Multi-Target ---
     if isinstance(target_arg, list):
-        # If target is a list (e.g. ['valence', 'arousal']), we need MultiNormalizer
-        # We create one GroupNormalizer per target
         target_normalizer = MultiNormalizer(
             [GroupNormalizer(groups=["user_id"], transformation=None) for _ in target_arg]
         )
     else:
-        # If target is a single string, we use a single GroupNormalizer
         target_normalizer = GroupNormalizer(groups=["user_id"], transformation=None)
-    # --- FIX END ---
 
     training_dataset = TimeSeriesDataSet(
         data[lambda x: x.time_idx <= training_cutoff],
@@ -207,10 +163,8 @@ def main():
             "is_words_int",
         ] + embedding_features,
         
-        # Pass both raw and change cols as features so they are available
         time_varying_unknown_reals=list(set(raw_cols_to_use + change_cols)),
         
-        # Use the dynamic normalizer defined above
         target_normalizer=target_normalizer,
         
         add_relative_time_idx=True,
@@ -231,8 +185,6 @@ def main():
         train=False, batch_size=batch_size * 10, num_workers=0
     )
 
-    # 5. Model & Training
-    # -----------------------------------------------------------------------------
     early_stop_callback = EarlyStopping(
         monitor="val_loss", min_delta=1e-4, patience=10, verbose=False, mode="min"
     )
@@ -246,19 +198,12 @@ def main():
         callbacks=[early_stop_callback, checkpoint_callback],
     )
 
-    # --- FIX START: Correct Output Size Logic ---
     if isinstance(target_arg, list):
-        # Multi-target
-        # We are using RMSE, which is a point prediction (size 1).
-        # We must provide a LIST of sizes, one for each target.
-        # e.g., for 2 targets: [1, 1]
         model_loss = MultiLoss([RMSE() for _ in target_arg])
         output_size = [1 for _ in target_arg] 
     else:
-        # Single target
         model_loss = RMSE()
         output_size = 1
-    # --- FIX END ---
 
     tft = TemporalFusionTransformer.from_dataset(
         training_dataset,
@@ -280,57 +225,28 @@ def main():
         val_dataloaders=val_dataloader,
     )
 
-    # 6. Evaluation Logic (Handles Single and Multi)
-    # -----------------------------------------------------------------------------
     best_model_path = trainer.checkpoint_callback.best_model_path
     print(f"\nTraining complete. Loading best model: {best_model_path}")
     best_tft = TemporalFusionTransformer.load_from_checkpoint(best_model_path, weights_only=False)
     
     print("Evaluating...")
     
-    # Predict returns:
-    # Single target: Tensor[batch_size]
-    # Multi target: Tensor[batch_size, prediction_length, n_targets] -> Flattened usually
-    # Note: best_tft.predict with mode='prediction' returns just the point forecasts
     out = best_tft.predict(val_dataloader, return_x=True, mode="prediction")
     predictions = out[0]
     x = out[1] 
-    # Retrieve Actuals (Labels)
-    # val_dataloader yields (x, y). y[0] is the target.
-    # If Multi-target, y[0] is a list of tensors [batch, 1]
-    # If Single-target, y[0] is a tensor [batch, 1]
-    # --- FIX START: Convert List to Tensor for Multi-Target ---
     if isinstance(predictions, list):
-        # If multi-target, output is [Tensor(Batch, Seq), Tensor(Batch, Seq)]
-        # We stack them along the last dimension to get [Batch, Seq, N_Targets]
         predictions = torch.stack(predictions, dim=-1)
-    # --- FIX END --- 
-    # We need to construct a unified structure for iteration
-    # Structure: List of (PredictionTensor, ActualTensor, TargetName, RawName)
     eval_groups = []
-
-    # Get all actuals concatenated first
     all_actuals_batches = [y[0] for _, y in iter(val_dataloader)]
-    
     if isinstance(target_arg, list):
-        # --- MULTI TARGET HANDLING ---
-        # predictions shape: [total_samples, prediction_length(1), n_targets] or [total_samples, n_targets]
         if predictions.ndim == 3: 
             predictions = predictions.squeeze(1) # Remove prediction_length dim if 1
-        
-        # Parse Actuals
-        # all_actuals_batches is list of [ (batch, 1), (batch, 1) ] (list of list of tensors)
-        # We need to stack them per target
         n_targets = len(target_arg)
         actuals_per_target = []
         for t_i in range(n_targets):
-            # Concatenate the t-th target from every batch
             target_t_actuals = torch.cat([batch[t_i] for batch in all_actuals_batches]).cpu().numpy().flatten()
             actuals_per_target.append(target_t_actuals)
-            
-            # Get Predictions for this target
             target_t_preds = predictions[:, t_i].cpu().numpy().flatten()
-            
             eval_groups.append({
                 "preds": target_t_preds,
                 "actuals": target_t_actuals,
@@ -340,12 +256,10 @@ def main():
             })
             
     else:
-        # --- SINGLE TARGET HANDLING ---
         if predictions.ndim == 2:
              predictions = predictions.squeeze(1)
         preds_np = predictions.cpu().numpy().flatten()
         actuals_np = torch.cat(all_actuals_batches).cpu().numpy().flatten()
-        
         eval_groups.append({
             "preds": preds_np,
             "actuals": actuals_np,
@@ -353,8 +267,6 @@ def main():
             "raw_name": raw_cols_to_use[0],
             "target_idx": 0 # Usually 0 if single target
         })
-
-    # --- CALCULATE METRICS FOR EACH TARGET ---
     
     encoder_lengths = x['encoder_lengths']
     
@@ -375,25 +287,17 @@ def main():
             print(f"Validation RMSE: {rmse:.4f}")
             
         else:
-            # Indirect: Preds are Raw(t+1), Actuals are Raw(t+1)
-            # We need Raw(t) from encoder history
-            
-            # x['encoder_target'] handling
-            # If Multi-target, x['encoder_target'] is a list of tensors
-            # If Single-target, x['encoder_target'] is a single tensor
             if isinstance(x['encoder_target'], list):
                 enc_target_tensor = x['encoder_target'][t_idx]
             else:
                 enc_target_tensor = x['encoder_target']
             
-            # Extract last value (t) for every sample
             val_t = []
             for i in range(len(enc_target_tensor)):
                 length = encoder_lengths[i]
                 val_t.append(enc_target_tensor[i, length - 1].item())
             val_t = np.array(val_t)
             
-            # Calculate Change
             pred_change = preds - val_t
             actual_change = actuals - val_t
             
@@ -401,7 +305,7 @@ def main():
             rmse = np.sqrt(mse)
             
             print(f"Method: Indirect (Pred[{r_name}] - Hist[{r_name}])")
-            print(f"Validation RMSE (on Change): {rmse:.4f}")
+            print(f"Validation RMSE: {rmse:.4f}")
 
 if __name__ == "__main__":
     main()
