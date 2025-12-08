@@ -1,0 +1,13 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+3706,"Tired , Annoyed , Stressed , Worried , Confused",2024-07-23T12:32:27,0,-1.0,0.0,7,True
+3707,I am tired because I had a long workday . I am stressed about my class and upcoming events . I am excited because I will eat food and watch a TV show . I am relieved because I do not need to work tomorrow .,2024-07-23T22:33:11,1,-2.0,0.0,7,False
+3708,I am feeling active because I got enough sleep . I am feeling calm because I am not working today . I am feeling nervous and hopeful because I need to complete tasks today . I am feeling happy because the weather is nice and cool .\ n,2024-07-24T12:17:13,2,0.0,2.0,7,False
+3709,"Relaxed , Hopeful , Determined , Calm , Excited",2024-07-24T17:16:19,3,0.0,1.0,7,True
+3710,I am feeling tired because I ate dinner and want to sleep . I am feeling dizzy from looking at my laptop and phone too much . I am feeling determined to study for my test and complete my tasks . I am feeling dreadful about going to work tomorrow .\ n,2024-07-24T22:01:58,4,-1.0,0.0,7,False
+3711,"Tired , Sleepy , Annoyed , Frustrated , Bored",2024-07-25T22:30:15,5,-1.0,1.0,7,True
+3712,"Calm , Relaxed , Excited , Determined , Scared",2024-07-26T22:49:57,6,0.0,0.0,7,True
+3713,I feel disappointed and frustrated because studying for my class is difficult . I feel sad because summer is almost over and I did not have much fun . I feel overwhelmed because I still have a lot left to do to prepare for school .,2024-07-27T17:24:14,7,-1.0,1.0,7,False
+3715,"Stressed , Worried , Overwhelmed , Frustrated , Annoyed",2024-07-28T17:33:33,8,0.0,1.0,7,True
+3716,"Happy , Proud , Determined , Focused , Bored",2024-07-28T22:00:44,9,1.0,1.0,7,True
+3717,I am happy because I studied hard and did well on my test . I am determined because I am almost done with my class . I am relieved because I can relax and rest . I am excited because I bought new shoes for school . I am sad that summer is almost over .,2024-07-29T17:58:14,10,1.0,1.0,7,False
+3718,"Nervous , Worried , Conflicted , Scared , Stressed",2024-07-29T22:14:30,11,-1.0,2.0,7,True

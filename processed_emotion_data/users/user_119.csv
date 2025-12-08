@@ -1,0 +1,7 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2472,"As of right now , I’m feeling exhausted from not sleeping enough last night . My mind feels foggy , and I’m struggling to stay focused on tasks . I’m hoping to get some rest soon so I can recharge and feel more productive .",2024-10-16T12:34:18,0,-1.0,0.0,7,False
+2473,"I ' m really hungry since I barely ate while traveling . Also feeling rushed because the events I need to handle aren ' t done yet , and it ' s adding to my stress . Need to refuel and focus on finishing things up .",2024-10-16T22:01:04,1,0.0,1.0,7,False
+2474,"Sleepy , Exhausted , Cold , Hungry , Thirsty",2024-10-17T17:26:52,2,-2.0,0.0,7,True
+2475,"As of right now , I feel tired . I didn’t sleep much last night and I don’t feel hungry this early in the morning . It wasn’t as cold as it was yesterday but , it’s cold nonetheless and I didn’t have practice and things to do .",2024-10-18T12:12:18,3,0.0,1.0,7,False
+2476,"Happy , Hot , Thirsty , Hungry , Excited",2024-10-18T17:01:19,4,0.0,2.0,7,True
+2477,"I’m feeling incredibly comfortable and happy right now . After the stress of the last few days , it ' s such a relief to have this moment to unwind . I received some beautiful flowers , which made my day so much brighter . There’s something about flowers that brings a calmness to the room , and it feels good to just be surrounded by something so simple yet cheerful .",2024-10-18T22:57:15,5,2.0,2.0,7,False

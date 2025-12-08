@@ -1,0 +1,216 @@
+{
+  "user_id": 147,
+  "num_entries": 21,
+  "entries": [
+    {
+      "text_id": 3731,
+      "text": "Tired , Sluggish , Lazy , Discontented , Anxious",
+      "timestamp": "2024-10-14T12:43:40",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3732,
+      "text": "Tired , Pain , Sluggish , Cold , Winded",
+      "timestamp": "2024-10-14T17:11:54",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3733,
+      "text": "Content , Sleepy , Pained , Calm , Quiet",
+      "timestamp": "2024-10-14T22:01:30",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3734,
+      "text": "I feel very content right now not tired or irritated . I am peace with myself right now I ' m calm and quiet . I have no strife with anyone at the present and I feel pleasantly surprised that I don ' t have any anger in myself .",
+      "timestamp": "2024-10-15T12:12:26",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3735,
+      "text": "I am feeling just okay I went for a walk with my friend and her dog . We got some air and sat out for a bit and talked about various things . Then we went up and I went to the store for her and I and I also fed the birds that I have been feeding for about 8 years",
+      "timestamp": "2024-10-15T17:09:50",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3736,
+      "text": "I am feeling very content right now I ' m watching my shows and having an after dinner snack . I like to watch after my shows some videos on YouTube then I get tired and go to bed . They are called ASMR videos and they help me relax before bed or sometimes I watch pimple popping videos as a way to relax",
+      "timestamp": "2024-10-15T22:01:47",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3737,
+      "text": "Mad , Anxious , Jittery , Unhappy , Restless",
+      "timestamp": "2024-10-16T12:08:19",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3738,
+      "text": "I am feeling satisfied right now my housing complex fixed my door and gave me a new key for my apartment because my key broke in the lock . I waited all day but they fixed my problem . Now I am going to feed the birds and print something out at the library that is very important .",
+      "timestamp": "2024-10-16T17:01:55",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3739,
+      "text": "Content , Satisfied , Neutral , Watching TV , Calm",
+      "timestamp": "2024-10-16T22:02:31",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3740,
+      "text": "I am feeling good right now it ' s a semi nice day out and I ' m out with my friend and her dog going on a nice walk . We are enjoying the fresh fall air for a few hours then we will go back home and do whatever house work we have to do",
+      "timestamp": "2024-10-17T12:34:26",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3741,
+      "text": "Content , Calm , Neutral , Pleasant , Happy",
+      "timestamp": "2024-10-17T17:01:12",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3742,
+      "text": "Content , Neutral , Relaxing , Watching TV , Happy",
+      "timestamp": "2024-10-17T22:01:35",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3743,
+      "text": "I am very content right now I am house sitting for a friend in the hospital and I am taking care of his cat . I am also waiting on housing to come and fix his door knob before I leave and go home to my house and take care of my stuff for the day",
+      "timestamp": "2024-10-18T12:01:15",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3744,
+      "text": "Content , Happy , Relaxed , Enjoying fresh air , Sitting with nature",
+      "timestamp": "2024-10-18T17:02:18",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3745,
+      "text": "I ' m very lively right now because I ' m watching my thing of all time ORG wrestling . I love ORG very much and have been watching for years since I was a teenager . I get very excited to watch because I have my favorite wrestlers",
+      "timestamp": "2024-10-18T22:01:22",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3746,
+      "text": "Neutral , Content , Calm , Quiet , Relaxed",
+      "timestamp": "2024-10-19T12:22:23",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3747,
+      "text": "I just came home from visiting a friend in the hospital . He is doing much better so I am feeling good about that . I am house sitting and cat sitting for him and he should be going to rehab soon . Hopefully close to home so I can visit him at least two times a week .",
+      "timestamp": "2024-10-19T17:23:50",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3748,
+      "text": "Happy , Content , Relaxed , Watching a movie , Quiet",
+      "timestamp": "2024-10-19T22:01:34",
+      "order": 17,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3749,
+      "text": "I am feeling really tired and sluggish because I didn ' t sleep well because of my friend being in the hospital and not getting the proper care . I also have a sleep disorder and bad neuropathy due to my diabetes so I had a lot of pain as well .",
+      "timestamp": "2024-10-20T12:01:22",
+      "order": 18,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3750,
+      "text": "I am doing really good today I am sitting outside with my friends and their dogs in this beautiful weather . We went for a walk with the dogs and then came back to sit in the back of my building and chat and talk with the other neighbors .",
+      "timestamp": "2024-10-20T17:01:12",
+      "order": 19,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3751,
+      "text": "I am very content and neutral I ' m watching one of my favorite movies on the ORG channel . I like this movie very much it is a Christmas movie and it makes me feel good so I ' m very happy it ' s on . It ' s going to be a Christmas movie marathon tonight and that makes me very happy because it ' s the ORG  countdown to Christmas which is my favorite holiday .",
+      "timestamp": "2024-10-20T22:05:45",
+      "order": 20,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

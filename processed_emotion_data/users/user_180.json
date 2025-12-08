@@ -1,0 +1,176 @@
+{
+  "user_id": 180,
+  "num_entries": 17,
+  "entries": [
+    {
+      "text_id": 4548,
+      "text": "I am feeling sluggish because of the cloudy weather . My eyelids feel a bit heavy but the rest of me feels awake . I\u2019m feeling anxious from an interaction with another car I had while driving . He almost hit me when driving around me and when he got in front of me he flipped the bird . I\u2019m also feeling irritated from an interaction I had with her this morning . I was leaving for work and she stopped me to get me to bring my sister her backpack . My sister is currently at my dad\u2019s and she forgot her school work at my mom\u2019s . I offered to bring the backpack last night but my mom told me not to worry about it , so i\u2019m frustrated that there was a whole song and dance about this simple task that I could have done with no fuss . I miss my girlfriend as well , so I\u2019m sad . They go out with their friends very weekend and I usually get FOMO since I just moved back home and I don\u2019t have a friend group yet , so there\u2019s loneliness in there too .",
+      "timestamp": "2024-09-28T12:17:48",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4549,
+      "text": "content , awake , slightly achy , cheerful , anxious",
+      "timestamp": "2024-09-29T12:01:08",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4550,
+      "text": "tired , angry , sad , achy , hungry",
+      "timestamp": "2024-09-29T17:02:15",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4551,
+      "text": "happy , content , full , tired , relaxed",
+      "timestamp": "2024-09-29T22:18:46",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4552,
+      "text": "alert , productive , excited",
+      "timestamp": "2024-09-30T12:00:54",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4553,
+      "text": "happy , calm , chilled out , na , na",
+      "timestamp": "2024-09-30T17:32:30",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4554,
+      "text": "calm , neutral , tired , na , na",
+      "timestamp": "2024-09-30T22:13:28",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4555,
+      "text": "relaxed , excited , well rested , na , na",
+      "timestamp": "2024-10-01T12:29:09",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4556,
+      "text": "alert , neutral , social , na , na",
+      "timestamp": "2024-10-01T17:39:04",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4557,
+      "text": "I am currently feeing a mix of feelings because my birthday is tomorrow and I usually dread my birthday . I am feeling excited for the future but also dreading the amount of emotional labor that will go into my interactions with my family tomorrow . I am also feeling a bit sad that my year did not go as I had hoped .",
+      "timestamp": "2024-10-01T22:48:38",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4558,
+      "text": "content , anxious , weird , na , na",
+      "timestamp": "2024-10-02T12:28:46",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4559,
+      "text": "tired , content , full , na , na",
+      "timestamp": "2024-10-03T22:08:55",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4560,
+      "text": "frustrated , clean , achy , na , na",
+      "timestamp": "2024-10-04T22:11:56",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4561,
+      "text": "I am currently feeling a bit tired just because I\u2019ve been at work for the past few hours . I feel content since the store has been mostly empty so I got to read my book . It centered me somewhat , contributing to my mood .",
+      "timestamp": "2024-10-05T17:05:13",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4562,
+      "text": "I have been sitting at work and there has not been much to do , so I am a bit tired and my brain feels like mush . I have also been making a lot of small talk and that made me more tired . Overall I feel content .",
+      "timestamp": "2024-10-06T17:39:02",
+      "order": 14,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4563,
+      "text": "happy , stressed , tired , na , na",
+      "timestamp": "2024-10-08T17:11:36",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4564,
+      "text": "I created a plan to get a part of my applications done , which made me feel calmer than I did this morning . I also had some nice conversations which made my mood better . I still have some residual stress",
+      "timestamp": "2024-10-10T17:33:37",
+      "order": 16,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

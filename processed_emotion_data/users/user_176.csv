@@ -1,0 +1,4 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4496,"Tired , Content , Full",2024-09-23T17:11:38,0,1.0,1.0,7,True
+4497,"sleepy , stressed , anxious , `, `",2024-09-24T17:03:02,1,-1.0,0.0,7,True
+4498,I did not have too much to do today so I was satisfied that I was able to get all my errands done and organize my apartment properly . I just ate and meal prepped so I am full and content . I am a bit tired and scattered as well because I have quite a bit of disparate tasks left for today .,2024-09-25T12:13:04,2,0.0,1.0,7,False

@@ -1,0 +1,196 @@
+{
+  "user_id": 116,
+  "num_entries": 19,
+  "entries": [
+    {
+      "text_id": 2363,
+      "text": "I am feeling alright today . I woke up knowing my tasks . The weather sort of got on my nerves , but my moods are in tact . I don ' t think there is no reason for me to be depressed at the moment . I am a little tired , but my spirits are high .",
+      "timestamp": "2024-08-08T17:05:37",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2364,
+      "text": "I feel optimistic for tomorrow . I like that I completed my goal today . I ' m feeling very goal-oriented . I ' m also a little cold because it got cooler outside . I can ' t wait until September when it ' s autumn . I ' m not sad right now .",
+      "timestamp": "2024-08-08T22:01:02",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2368,
+      "text": "I ' m a little hyper because I have so many tasks to do right now . I want to stay positive no matter what . I woke up with a slight headache because of the way I was sleeping . I think I ' m less stressed than last week .",
+      "timestamp": "2024-08-09T12:03:58",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2369,
+      "text": "Grateful , Settled , Confident , Balanced , Happy",
+      "timestamp": "2024-08-09T17:09:42",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2370,
+      "text": "Calm , Posed , Smooth , Neutral , Good",
+      "timestamp": "2024-08-10T17:35:56",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2371,
+      "text": "I feel very happy because I won a contest . I ' m a little tired right now because I just cooked dinner . I have a slight headache off being a little busy right . I have a load of emotions right now . That ' s how it is right now .",
+      "timestamp": "2024-08-10T22:05:48",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2372,
+      "text": "Right now , I am calm and happy . I slept really well . I ' m trying to get things done on a constant basis . I can ' t wait to see some exciting things happen tomorrow . I ' m glad that the rain stopped . I don ' t know what else to say .",
+      "timestamp": "2024-08-11T12:01:50",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2373,
+      "text": "I am feeling okay right now . I am settled in my emotions . Nothing else is bothering me at the moment . I had a good breakfast to eat at the moment . I don ' t know what else to say really say . I am okay right now .",
+      "timestamp": "2024-08-11T17:02:22",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2374,
+      "text": "satisfied , hungry , worried , content , curious",
+      "timestamp": "2024-08-11T22:00:48",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2375,
+      "text": "Alright , Settled , Nervous , Okay , Restless",
+      "timestamp": "2024-08-12T12:07:02",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2378,
+      "text": "Happy , Peaceful , Sweet , Together , Careful",
+      "timestamp": "2024-08-12T17:13:48",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2379,
+      "text": "Calm , Excited , Patient , Exhilerated , Awesome",
+      "timestamp": "2024-08-12T22:04:03",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2380,
+      "text": "I ' m not in my happiest state . I could feel much better when I woke up . I ' m thinking about a variety of things going on in my life right now . It ' s more of a personal conflict I have with someone . I don ' t know . I feel strange .",
+      "timestamp": "2024-08-13T12:03:02",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2381,
+      "text": "I am feeling sober and focused . Sober as in , very calm . I am a little anxious because I wanna make sure I get an assignment done . I don ' t know what else to really say . Earlier today , I was a little tired and thrown off guard when I woke up .",
+      "timestamp": "2024-08-13T17:03:54",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2382,
+      "text": "I am okay right now . I don ' t have anything mentally overwhelming happening to me right now . I ' m still in a mental state of focus . I get really focused on getting tasks done . I ' m also a little hungry right now because I ' m another to have some food . That ' s it right now .",
+      "timestamp": "2024-08-13T22:02:47",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2383,
+      "text": "Calm , Purposeful , Okay , Smooth , Alright",
+      "timestamp": "2024-08-14T12:07:23",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2384,
+      "text": "Today , I ' m feeling alright . Nothing is really bringing me down right now . I think I ' m in a good place . I was able to get some tasks done today with no problem . You can really see things change in the middle of the month .",
+      "timestamp": "2024-08-14T17:01:10",
+      "order": 16,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2385,
+      "text": "Right now , my mood is neutral . Nothing too crazy is happening . I ' m not angry at all or having an emotional breakdown . I think music really helps me to calm down and be in the moment . It definitely helps to be calm in the evening time .",
+      "timestamp": "2024-08-14T22:01:09",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2386,
+      "text": "Well , Calm , Waiting , Alert , Not tired",
+      "timestamp": "2024-08-15T12:13:37",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

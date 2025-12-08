@@ -1,0 +1,15 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1229,Woke up haphazardly from a turbulent dream . Feeling currently nervous awaiting the outcome of the election . Concerned about the future . Stressed out about assignments due this week and feeling behind on them .,2024-11-05T12:04:50,0,-1.0,2.0,7,False
+1230,"I feel tired and drained after working . Having to eat feels laborious . I feel emotionally detached as if I’m running on auto-pilot , and just numb . I want to sleep and shut my eyes . I am nervous about the work deadlines and also election results .",2024-11-05T22:18:58,1,0.0,1.0,7,False
+1231,"Stressed , Threatened , Depressed , Anxious , Restless",2024-11-06T12:11:21,2,-2.0,2.0,7,True
+1232,"Drained , Angry , Frustrated , Unseen , Paranoid",2024-11-06T17:06:35,3,-2.0,0.0,7,True
+1233,"Disheartened , Lethargic , Brain dead , Nervous , Uncertain",2024-11-06T22:01:13,4,-1.0,1.0,7,True
+1234,Feeling detached and dissociated from the world . Feeling reserved and wanting to be alone . Feel the need for reflection and introspection . Want to unload thoughts in writing . Less angry and frustrated since yesterday .,2024-11-07T12:30:11,5,0.0,0.0,7,False
+1235,"Feeling more energy . Recovering from the blues . Eating a good meal and rest helped . Stressed about the work remaining . Looking forward to seeing close friends tomorrow . Weather is very nice , but unusual and concerning .",2024-11-07T17:17:07,6,0.0,1.0,7,False
+1236,I feel calm but sad . I am tired and sleepy . I have trouble focusing on my tasks . I am also having trouble shutting out dark thoughts or concerns about the future . I am worried about the days to come and feel insecure about the future .,2024-11-07T22:21:43,7,0.0,1.0,7,False
+1237,"I am feeling tired because I could not sleep well . I am dreading going to work , but I am excited to see my friends after work . I am feeling nervous about deadlines and changes occurring in my life and yet I am looking forward to change as well .",2024-11-08T12:00:50,8,-1.0,0.0,7,False
+1238,"Hungry , Tired , Enthusiastic , Eager , Nervous",2024-11-08T22:01:02,9,1.0,1.0,7,True
+1239,I am feeling exhausted from the day before . I feel sad that I can’t rest today . I feel anxious of the lack of time to meet my deadlines . I feel pressure to do well at work and not make mistakes . I feel dreadful for the coming week .,2024-11-09T12:47:48,10,-2.0,0.0,7,False
+1240,"Lazy , Sore , Ambivalent , Conflicted , Introspective",2024-11-09T22:01:20,11,0.0,0.0,7,True
+1241,"Hungry , Relieved , Tired , Dull , Sleepy",2024-11-10T22:03:06,12,1.0,1.0,7,True
+1242,"Restless , Sore , Overwhelmed , Confused , Stressed",2024-11-11T12:00:53,13,-2.0,0.0,7,True

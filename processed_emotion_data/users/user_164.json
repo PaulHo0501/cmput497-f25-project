@@ -1,0 +1,96 @@
+{
+  "user_id": 164,
+  "num_entries": 9,
+  "entries": [
+    {
+      "text_id": 4187,
+      "text": "Tired , Thoughtful , Busy",
+      "timestamp": "2024-07-19T12:01:27",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4188,
+      "text": "A little anxious about work related matters and completing projects that have to be resolved soon , but also excited for the weekend and the opportunity to relax and spend time with friends and family .",
+      "timestamp": "2024-07-19T17:02:04",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4189,
+      "text": "Excited , Nervous , Anticipatory , Zen , Calm before storm",
+      "timestamp": "2024-07-21T12:01:21",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4190,
+      "text": "I\u2019m doing fine . Nervous about our home purchase , and if we\u2019re making the right decisions , or if we\u2019re in over our heads . But I\u2019m also excited about the prospect of making this a reality . We\u2019ll see what happens .",
+      "timestamp": "2024-07-21T17:00:37",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4191,
+      "text": "Nervous , Excited , Thoughtful , Na , An",
+      "timestamp": "2024-07-21T22:04:52",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4192,
+      "text": "Concerned about our housing situation , and lack of long term plans . Not sure if we should build , but kind of leaning towards it , even though it seems insane . But I ' m not sure what other real options we have , given our finances and the market .",
+      "timestamp": "2024-07-22T12:01:12",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4193,
+      "text": "I ' m nervous about our housing situation , and finding a place to live that will work for us . I want everyone to be happy , but to live in a small apartment , for 2 years minimum , could be very hard when we ' re trying to fit in to a new place . But what else are we supposed to do ?",
+      "timestamp": "2024-07-22T17:26:25",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4194,
+      "text": "Tired , Bored , Cool , Na , Maybe",
+      "timestamp": "2024-07-22T22:00:32",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4195,
+      "text": "Still concerned about the housing situation . Not making much progress unfortunately . It ' s kind of all I can think about these days , which is more than somewhat distracting at work , and makes it hard to focus on completing tasks that need to be done .",
+      "timestamp": "2024-07-23T12:01:12",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

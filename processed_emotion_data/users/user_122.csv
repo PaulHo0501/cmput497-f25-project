@@ -1,0 +1,13 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2587,I am feeling stressed because of a few large projects at work that I feel I am behind on . I also did not get enough sleep last night . Looking forward to the weekend so I can catch up on sleep and maybe even do something fun,2024-08-29T12:02:11,0,1.0,0.0,7,False
+2589,"Stressed , Tired , Worried , Exhausted , Thankful",2024-08-29T17:05:37,1,0.0,1.0,7,True
+2590,I am glad to be done with work but I am feeling very tired . Definitely looking forward to the upcoming long weekend . Not feeling particularly happy or sad at the moment . I plan to go to sleep pretty early,2024-08-29T22:11:33,2,1.0,1.0,7,False
+2591,"I am feeling good because it is Friday , and the workday always ends a bit earlier on a holiday weekend vs . a normal week . I will mostly just be relaxing this weekend but am hoping to get some nice bike rides in . The weather looks like it will be good as well .",2024-08-30T12:05:43,3,-1.0,0.0,7,False
+2592,"Hapoy , Content , Joyful , Relaxed , Okay",2024-08-31T22:03:28,4,1.0,1.0,7,True
+2593,"Calm , Content , Joyful , Glad , Happy",2024-09-02T17:03:56,5,1.0,1.0,7,True
+2594,"Content , Tired , Sleepy , Happy , Wondering",2024-09-02T22:30:57,6,0.0,1.0,7,True
+2595,"I am feeling okay right now . I am at work and things are a little slow because it is the first day back at work after a long three-day holiday weekend for Labor Day . So luckily it is not too stressful , but I am still wishing it was the weekend again .",2024-09-03T12:00:54,7,0.0,1.0,7,False
+2596,"Calm , Bored , Daydreaming , Tired , Hopeful",2024-09-03T17:20:20,8,0.0,1.0,7,True
+2597,"I am feeling relaxed right now because it is Tuesday night and work was not all that stressful today . I think because today was the first day back after the long holiday weekend for Labor Day , people were mostly heads down doing their own work .",2024-09-03T22:52:17,9,1.0,1.0,7,False
+2598,Today has been a busy day at work thus far . I have had a few meetings and have been getting a lot of requests from stakeholders . Therefore I am feeling a moderate level of stress currently . I am also a little tired because I did not sleep all that well .,2024-09-04T12:07:42,10,-1.0,2.0,7,False
+2600,"I am feeling neutral at the moment . The work day is almost over since it is nearly 4 : 00PM , and the day was moderately stressful . I am hoping for a relaxing evening . I might even go to a local run club at a running store for a group workout .",2024-09-04T17:45:50,11,0.0,1.0,7,False

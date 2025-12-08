@@ -1,0 +1,3 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2408,"Proud , Frustrated , Annoyed , Impressed , Healthy",2021-03-23T12:00:37,0,1.0,2.0,1,True
+2409,"Annoyed , Frustrated , Sad , Busy , Productive",2021-03-26T15:37:34,1,-1.0,1.0,1,True

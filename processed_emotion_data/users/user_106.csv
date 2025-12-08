@@ -1,0 +1,10 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1822,"Nostalgic , Sad , Lonely , Tired , Sleepy",2024-10-12T12:33:32,0,-1.0,1.0,7,True
+1823,"I feel extremely inconvenienced . I wish I could go back and time and change my decisions so I’m not in the situation that I’m currently in . I’m grateful that my inconvenience is minor and temporary , but I’m still annoyed .",2024-10-13T12:31:10,1,-1.0,0.0,7,False
+1824,I’m feeling a little tired but I feel like I have a lot of things that I’m looking forward to doing . I finished my outstanding tasks that I was dreading . I feel relieved and know that I can rest soon .,2024-10-14T12:51:27,2,-1.0,0.0,7,False
+1825,I’m tired but I feel relaxed . I finally have free time . I am looking forward to eating food and unwinding . My day is finally over and I don’t have any outstanding obligations . I’m grateful that I didn’t have a stressful day .,2024-10-14T22:02:10,3,1.0,0.0,7,False
+1826,"Relaxed , Easygoing , Peaceful , Positive , Productive",2024-10-16T12:37:03,4,2.0,0.0,7,True
+1827,I feel exhausted and drained . I feel like I need a nap . I want to sleep . I can’t wait to rest and relax . I’m also frustrated because piece of the back of my phone glass is falling off . I hope it doesn’t break more .,2024-10-16T17:29:19,5,-2.0,0.0,7,False
+1828,I recently had a scary motorcycle accident and I’m still recovering . I feel very shaken up and afraid to ride my motorcycle again . I’m feeling very sad right now because of the incident . I also feel uneasy .,2024-10-18T12:12:43,6,-1.0,1.0,7,False
+1830,"Congested , Sick , Tired , Relaxed , Mellow",2024-10-19T12:58:23,7,2.0,0.0,7,True
+1831,I’m feeling relaxed and at ease . I’m not too stressed about anything at the moment . I’m still a bit sick which is frustrating but my symptoms seem to have improved . I am looking forward to getting rest and getting better .,2024-10-19T22:27:48,8,2.0,0.0,7,False

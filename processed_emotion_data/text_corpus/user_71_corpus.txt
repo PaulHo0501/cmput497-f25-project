@@ -1,0 +1,13 @@
+[ENTRY_4960] I feel good . Very calm also . Maybe somewhat tired emotionally . I ' m not angry , just not completely excited . I feel exhausted mentally . Sometimes maybe tensed too . Like a cold feeling within , maybe sadness . But definitely not completely happy . It ' s just majorly a feeling of exhaustion and emotional distress and most likely physical tiredness .
+[ENTRY_4961] Sad , Heartbroken , Empty , Tired , Anger
+[ENTRY_4962] Sleepy , Tired , Sad , Anger , Empty
+[ENTRY_4963] Happy , Fulfilled , Calm , Excited , Elevated
+[ENTRY_4964] Calm , Tired , Happy , Relaxed , Tired
+[ENTRY_4965] I feel tired . I feel extremely sad . I feel heartbroken . I feel empty . I feel like I ' m always causing problems . I feel unhappy . I feel really down , and emotionally unsatisfied . I feel left out . \nI feel not enough . I feel like I don ' t belong . I feel used , and I feel angry a lot . I ' m so angry
+[ENTRY_4966] This Sadness feels like a heavy , hollow ache in the chest , weighing you down . Emptiness , hopelessness , and longing mix with a sense of loss , making everyday tasks feel overwhelming and pointless . Tears , sighs , and silence accompany the emotional pain .
+[ENTRY_4967] Sleepy , Tired , Exhausted , Sober , Calm
+[ENTRY_4968] Normal , Unbothered , Numb , Quiet , Calm
+[ENTRY_4969] Sleepy , Tired , Neutral , Numb , Calm
+[ENTRY_4970] Active , Aware , Alive , Eager , Enthusiastic
+[ENTRY_4971] Alive , Chill , Calm , Relaxed , Focused
+[ENTRY_4972] Silent , Calm , Relaxed , Focused , Sleepy

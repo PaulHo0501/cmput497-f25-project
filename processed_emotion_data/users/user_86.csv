@@ -1,0 +1,10 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+346,"Tired , Focused , Busy , Anxious , Curious",2024-08-14T12:28:51,0,1.0,1.0,7,True
+351,Currently I am in virtual court for to parking tickets . I have my receipt for the parking app that I used for one of the tickets but not the other one . I ' m afraid that they will still make me pay . I don ' t like to give away money that ' s why I always use the parking app or feed the meter .,2024-08-15T12:00:43,1,-1.0,2.0,7,False
+352,Currently I am feeling happy and excited because I am traveling tomorrow . I ' m excited to see my grandsons . I get to see them again because they live in another state . So I ' m always happy to see them as much as possible .,2024-08-16T17:18:12,2,2.0,2.0,7,False
+353,"Focused , Tired , Determined , Anxious , Excited",2024-08-16T22:05:23,3,0.0,2.0,7,True
+354,Currently I am spending time with my grand children . I am very happy when I ' m with them because they live so far away from me . We ' re watching educational shows on the tv while they eat breakfast and I have my morning cup of coffee .,2024-08-18T12:11:36,4,1.0,1.0,7,False
+355,Currently I am feeling happy . I am spending time with my family I ' m preparing dinner for tonight . I went grocery shopping to get everything I needed . My family loves when I come in town and I love to take care of them while I ' m here .,2024-08-18T17:30:54,5,-2.0,2.0,7,False
+356,"Content , Relaxed , Happy , Curious , Determined",2024-08-18T22:00:56,6,1.0,0.0,7,True
+358,"Rested , Content , Relieved , Excited , Relaxed",2024-08-19T12:13:56,7,0.0,1.0,7,True
+359,"Currently , I am feeling very relaxed . I am watching TV while also checking emails and important information . I am here with my family having a relaxed day together . Shortly I will get up and start to cook dinner for us .",2024-08-19T17:22:10,8,0.0,1.0,7,False

@@ -1,0 +1,18 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1841,"I’m feeling very tired and having little energy . I find it hard to get out of bed . All the stress has been weighing on me lately and it just seems too much to handle . I’m also feeling very lonely , but because of my ankle injury , I can’t go out to meet my friends .",2024-08-04T12:01:14,0,-2.0,0.0,7,False
+1842,"I feel like I’m in a rut , unable to get out . I hear my abusive ex’s voice in my head “you’re too passive . You’re wallowing in self-pity . ” Maybe he’s right . Maybe I don’t have to willpower to continue .",2024-08-04T17:00:58,1,-2.0,1.0,7,False
+1843,"I am feeling ok or neutral this morning . Although my situation is not ideal as I am facing a lot of stress right now , but I can choose to be kind to myself and respond to the life stress with calmness .",2024-08-05T12:10:15,2,0.0,1.0,7,False
+1844,I drank too much coffee . I am feeling jittery and anxious . My heart rate is higher than normal . I feel like I’m on edge . Also I’m feeling lonely and down . I wish I could travel with my friends together .,2024-08-05T17:14:59,3,-1.0,2.0,7,False
+1845,"Angry , Irritated , Annoyed , Bothered , Sad",2024-08-05T22:54:35,4,0.0,2.0,7,True
+1846,I find it hard to have motivation to do anything . I feel a sense of loss : loss of confidence and identity . I am not sure who I am or what I want anymore . I feel like it’s easier to just sleep all day and not think about anything .,2024-08-06T12:01:19,5,-1.0,1.0,7,False
+1847,"I am moving slowly , feeling listless . I am standing in a crowded , bustling train station , but I am feeling very alone . I feel like no one wants me . I crave connection and love but I have been hurt too many times .",2024-08-06T17:03:07,6,-1.0,1.0,7,False
+1848,"Tired , Exhausted , Content , Chill , Supported",2024-08-06T22:46:36,7,0.0,0.0,7,True
+1849,"Tired , Unmotivated , Exhausted , Drained , Fatigued",2024-08-07T12:22:56,8,-2.0,0.0,7,True
+1850,I don’t feel like I did a good job at my job interview today . I feel bad about myself . I have a lot of criticism about myself . I’m trying to challenge my inner critic but I’m still feeling down . I know I need to be more patient with myself and my progress .,2024-08-07T17:01:57,9,-1.0,1.0,7,False
+1852,"I feel overwhelmed . There is so much to do and so little time . I feel the urge to pull away and hide myself from all my responsibilities . But I have to resist the urge , because although it provides temporary relief , it won’t help me in the long run—it will actually make me hate myself more and make my long-term anxiety worse .",2024-08-07T22:12:23,10,-1.0,2.0,7,False
+1853,"My cat is sick , and I am very worried for him . I was in such an anxious state that I missed my job interview so now I feel really bad about myself . I’m having a lot of thoughts of self-blame , and I’m feeling nervous , worried , anxious , and down .",2024-08-08T17:00:41,11,-2.0,2.0,7,False
+1854,"Nervous , Worried , Anxious , Stressed , Jittery",2024-08-08T22:19:29,12,-1.0,2.0,7,True
+1855,"My cat is in pain . I am very worried about him , but I also have a job interview soon and have to prepare for that . The constant stress is making me very tired . I feel like I do not have enough energy to handle the day .",2024-08-09T12:54:43,13,-2.0,2.0,7,False
+1856,"Tired , Drained , Worried , Nervous , Sad",2024-08-09T17:25:15,14,-2.0,0.0,7,True
+1857,"Relieved , Content , Connected , Accomplished , Tired",2024-08-10T17:10:27,15,0.0,1.0,7,True
+1858,"Worried , Content , Relieved , Excited , Anxious",2024-08-10T22:15:13,16,-1.0,2.0,7,True

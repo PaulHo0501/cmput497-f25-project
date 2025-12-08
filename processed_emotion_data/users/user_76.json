@@ -1,0 +1,196 @@
+{
+  "user_id": 76,
+  "num_entries": 19,
+  "entries": [
+    {
+      "text_id": 5077,
+      "text": "Active , Anxious , Somewhat happy , Nervous , Hopefully",
+      "timestamp": "2024-11-19T12:05:03",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5078,
+      "text": "Lazy , Anxiety , Slow , Neutral , Stressed",
+      "timestamp": "2024-11-19T17:05:25",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5079,
+      "text": "**A State of Tranquility **   \\n \\ nRight now , I feel a calmness that\u2019s difficult to put into words . It\u2019s as if all the noise in my mind has dimmed , leaving behind a peaceful hum . My thoughts , usually darting in every direction , have slowed , moving like a gentle stream instead of a chaotic river .   \\n \\ nThere\u2019s a warmth in my chest , a soft reassurance that , in this moment , everything is as it should be . My body feels lighter , as though I\u2019ve shrugged off an invisible weight I hadn\u2019t realized I was carrying . Even my breathing feels deeper , more deliberate , as if I\u2019ve finally tuned into a rhythm I\u2019d been out of sync with for too long .   \\n \\ nThe world around me feels softer , too . Colors seem a little brighter , sounds a little clearer , and even the smallest details\u2014like the texture of the chair I\u2019m sitting in\u2014seem to hold a quiet significance . It\u2019s not that anything monumental has happened ; it\u2019s just that I\u2019m present , truly present , in a way that feels rare and precious .   \\n \\ nIn this moment , I feel deeply connected to myself and",
+      "timestamp": "2024-11-19T22:04:41",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5080,
+      "text": "Active , Happy , Jovial , Hopeful , Good",
+      "timestamp": "2024-11-20T12:05:04",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5081,
+      "text": "Active , Hopeful , Happy , Cheerful , Good mood",
+      "timestamp": "2024-11-20T17:03:15",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5082,
+      "text": "\\n \\ n \" I ' m feeling neutral today , neither particularly happy nor sad . My emotions are stable , and I ' m not experiencing any strong feelings . It ' s a calm and serene state , free from anxiety or excitement .\\ n \\ nPhysically , I feel relaxed , with no tension or fatigue . My mind is clear , and I ' m able to focus on tasks without distraction .\\ n \\ nEmotionally , I ' m detached from any intense emotions , observing life with a sense of objectivity . I ' m not feeling motivated or lethargic ; just steady .\\ n \\ nThis neutrality brings a sense of clarity , allowing me to approach tasks with a level head . I ' m open to experiences , but not seeking thrills .\\ n \\ nIt ' s a peaceful , middle-ground state , where I can recharge and reflect .",
+      "timestamp": "2024-11-20T22:02:44",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5083,
+      "text": "Quite , Sluggish , Eager , Anxious , Calm",
+      "timestamp": "2024-11-21T12:17:20",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5084,
+      "text": "I ' m feeling incredibly happy and uplifted today . A sense of contentment and satisfaction has settled within me , and I can ' t help but smile . My mind is filled with positive thoughts , and I ' m grateful for the good things in my life . I feel relaxed and carefree , with a spring in my step .\\ n \\ nPhysically , my shoulders are dropped , and my posture is open , reflecting my confident and optimistic outlook . Every breath feels refreshing , filling my lungs with a sense of joy . Emotionally , I ' m at peace , letting go of worries and embracing the present moment .\\ n \\ nMy heart is light , and I feel connected to those around me . I ' m eager to engage with others and spread positivity . This happiness is contagious , inspiring creativity and motivating me to tackle challenges with enthusiasm .\\ n \\ nI ' m thankful for this feeling and intend to nurture it throughout the day . I ' m focusing on the beauty and wonder of life , letting go of stress and negativity . Overall , I ' m feeling alive , grateful , and genuinely happy . It ' s a wonderful sensation , and I",
+      "timestamp": "2024-11-21T17:08:50",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5085,
+      "text": "Today , I find myself enveloped in a quiet mood . It ' s as if my thoughts and emotions have retreated to a serene sanctuary , sheltered from the world ' s chaos . My mind is still , with no turbulent thoughts or overwhelming feelings .\\ n \\ nIn this peaceful state , I ' m reflective and introspective . I ponder life ' s journey , acknowledging accomplishments and lessons learned . The world outside recedes , and I ' m left with the gentle hum of my own thoughts .\\ n \\ nMy quiet mood isn ' t somber or melancholic ; rather , it ' s contemplative . I ' m recharging , allowing my mind and heart to rejuvenate . The stillness soothes my soul , calming life ' s turbulence .\\ n \\ nIn this quiet , I find solace . It ' s a refuge from the constant din of responsibilities and expectations . I can breathe deeply , untethered from the weights that usually anchor me .\\ n \\ nThis mood isn ' t one of isolation ; it ' s introspection . I ' m reconnecting with myself , rediscovering my center . The quiet clarifies my priorities , helping me focus on what truly matters .\\ n \\ nAs I bask in this tranquility",
+      "timestamp": "2024-11-21T22:01:49",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5086,
+      "text": "Active , Happy , A little bit nervous , Hopeful , Good",
+      "timestamp": "2024-11-22T12:02:22",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5087,
+      "text": "Today , I find myself enveloped in a quiet mood . It ' s as if my thoughts and emotions have retreated to a serene sanctuary , sheltered from the world ' s chaos . My mind is still , with no turbulent thoughts or overwhelming feelings .\\ n \\ nIn this peaceful state , I ' m reflective and introspective . I ponder life ' s journey , acknowledging accomplishments and lessons learned . The world outside recedes , and I ' m left with the gentle hum of my own thoughts .\\ n \\ nMy quiet mood isn ' t somber or melancholic ; rather , it ' s contemplative . I ' m recharging , allowing my mind and heart to rejuvenate . The stillness soothes my soul , calming life ' s turbulence .\\ n \\ nIn this quiet , I find solace . It ' s a refuge from the constant din of responsibilities and expectations . I can breathe deeply , untethered from the weights that usually anchor me .\\ n \\ nThis mood isn ' t one of isolation ; it ' s introspection . I ' m reconnecting with myself , rediscovering my center . The quiet clarifies my priorities , helping me focus on what truly matters .\\ n \\ nAs I bask in this tranquility",
+      "timestamp": "2024-11-22T17:42:27",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5088,
+      "text": "I ' m content because I ' ve learned to appreciate the simple things in life . I ' ve come to realize that happiness isn ' t solely dependent on external factors , but rather on my internal perspective . I ' ve cultivated a sense of gratitude , focusing on the good things that surround me .\\ nI ' ve also learned to let go of unrealistic expectations and comparisons . I ' m no longer burdened by the need to achieve perfection or compete with others . Instead , I ' m embracing my uniqueness and celebrating my accomplishments .\\ nMy relationships with loved ones are strong , and I ' ve nurtured a sense of community and belonging . I ' ve discovered activities that bring me joy and make me feel fulfilled .\\ nI ' m content because I ' ve found a sense of balance and harmony in my life . I ' m at peace with myself and the world around me .",
+      "timestamp": "2024-11-22T22:08:15",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5089,
+      "text": "Subtle , Hopeful , Neutral , Somewhat happy , Somewhat hopeful",
+      "timestamp": "2024-11-23T12:03:41",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5090,
+      "text": "Today , I find myself enveloped in a quiet mood . It ' s as if my thoughts and emotions have retreated to a serene sanctuary , sheltered from the world ' s chaos . My mind is still , with no turbulent thoughts or overwhelming feelings .\\ nIn this peaceful state , I ' m reflective and introspective . I ponder life ' s journey , acknowledging accomplishments and lessons learned . The world outside recedes , and I ' m left with the gentle hum of my own thoughts .\\ nMy quiet mood isn ' t somber or melancholic ; rather , it ' s contemplative . I ' m recharging , allowing my mind and heart to rejuvenate . The stillness soothes my soul , calming life ' s turbulence .\\ nIn this quiet , I find solace . It ' s a refuge from the constant din of responsibilities and expectations . I can breathe deeply , untethered from the weights that usually anchor me .\\ nThis mood isn ' t one of isolation ; it ' s introspection . I ' m reconnecting with myself , rediscovering my center . The quiet clarifies my priorities , helping me focus on what truly matters .\\ nAs I bask in this tranquility , I k",
+      "timestamp": "2024-11-23T17:02:02",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5091,
+      "text": "I ' m feeling incredibly happy and uplifted today . A sense of contentment and satisfaction has settled within me , and I can ' t help but smile . My mind is filled with positive thoughts , and I ' m grateful for the good things in my life . I feel relaxed and carefree , with a spring in my step .\\ n \\ nPhysically , my shoulders are dropped , and my posture is open , reflecting my confident and optimistic outlook . Every breath feels refreshing , filling my lungs with a sense of joy . Emotionally , I ' m at peace , letting go of worries and embracing the present moment .\\ n \\ nMy heart is light , and I feel connected to those around me . I ' m eager to engage with others and spread positivity . This happiness is contagious , inspiring creativity and motivating me to tackle challenges with enthusiasm .\\ n \\ nI ' m thankful for this feeling and intend to nurture it throughout the day . I ' m focusing on the beauty and wonder of life , letting go of stress and negativity . Overall , I ' m feeling alive , grateful , and genuinely happy . It ' s a wonderful sensation , and I",
+      "timestamp": "2024-11-23T22:04:32",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5092,
+      "text": "I ' m content because I ' ve learned to appreciate the simple things in life . I ' ve come to realize that happiness isn ' t solely dependent on external factors , but rather on my internal perspective . I ' ve cultivated a sense of gratitude , focusing on the good things that surround me .\\ n \\ nI ' ve also learned to let go of unrealistic expectations and comparisons . I ' m no longer burdened by the need to achieve perfection or compete with others . Instead , I ' m embracing my uniqueness and celebrating my accomplishments .\\ n \\ nMy relationships with loved ones are strong , and I ' ve nurtured a sense of community and belonging . I ' ve discovered activities that bring me joy and make me feel fulfilled .\\ n \\ nI ' m content because I ' ve found a sense of balance and harmony in my life . I ' m at peace with myself and the world around me .",
+      "timestamp": "2024-11-24T12:12:29",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5093,
+      "text": "Feeling neutral can be a calm and balanced state . Here ' s a descriptive description :\\ n \" I ' m feeling neutral today , neither particularly happy nor sad . My emotions are stable , and I ' m not experiencing any strong feelings . It ' s a calm and serene state , free from anxiety or excitement .\\ nPhysically , I feel relaxed , with no tension or fatigue . My mind is clear , and I ' m able to focus on tasks without distraction .\\ nEmotionally , I ' m detached from any intense emotions , observing life with a sense of objectivity . I ' m not feeling motivated or lethargic ; just steady .\\ n \\ nThis neutrality brings a sense of clarity , allowing me to approach tasks with a level head . I ' m open to experiences , but not seeking thrills . It ' s a peaceful , middle-ground state , where I can recharge and reflect .\"",
+      "timestamp": "2024-11-24T17:04:22",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5094,
+      "text": "Neutral , Tired , Hopeful , Worried , Content",
+      "timestamp": "2024-11-24T22:04:02",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5095,
+      "text": "I ' m feeling sluggish today , weighed down by a sense of lethargy . My body feels heavy , as if every movement requires extra effort . My mind is foggy , and my thoughts are slow to form .\\ n \\ nEvery task seems daunting , and I ' m struggling to muster the energy to tackle even the simplest chores . My motivation is lacking , and I ' m finding it hard to focus .\\ n \\ nPhysically , I feel drained , as if I ' ve run a marathon without actually moving . My muscles ache , and my eyelids feel like lead weights .\\ n \\ nDespite the sluggishness , I ' m trying to be gentle with myself . I ' m acknowledging that it ' s okay to not be okay , and that sometimes , my body and mind just need a break . I ' m giving myself permission to rest , recharge , and come back stronger when I ' m ready .",
+      "timestamp": "2024-11-25T12:34:30",
+      "order": 18,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

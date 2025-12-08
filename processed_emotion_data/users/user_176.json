@@ -1,0 +1,36 @@
+{
+  "user_id": 176,
+  "num_entries": 3,
+  "entries": [
+    {
+      "text_id": 4496,
+      "text": "Tired , Content , Full",
+      "timestamp": "2024-09-23T17:11:38",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4497,
+      "text": "sleepy , stressed , anxious , `, `",
+      "timestamp": "2024-09-24T17:03:02",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4498,
+      "text": "I did not have too much to do today so I was satisfied that I was able to get all my errands done and organize my apartment properly . I just ate and meal prepped so I am full and content . I am a bit tired and scattered as well because I have quite a bit of disparate tasks left for today .",
+      "timestamp": "2024-09-25T12:13:04",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

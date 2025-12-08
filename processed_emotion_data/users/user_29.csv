@@ -1,0 +1,7 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1804,"Happy , Fun , Talking , Excited , Ready",2021-06-08T12:01:31,0,2.0,1.0,1,True
+1805,"Fine , Happy , Calm , Cherry , Relaxed",2021-06-08T17:02:19,1,2.0,0.0,1,True
+1806,"Rested , Relaxed , Friendly , Outgoing , Happy",2021-06-09T12:04:45,2,2.0,0.0,1,True
+1807,"Tired , Defeated , Alone , Scared , Worried",2021-06-10T17:01:06,3,-1.0,1.0,1,True
+1808,"Sad , Depressed , Worried , Alone , Afraid",2021-06-10T22:00:58,4,-2.0,1.0,1,True
+1809,"Sad , Worried , Sacred , Prayers , Anxious",2021-06-11T12:04:13,5,-2.0,1.0,1,True

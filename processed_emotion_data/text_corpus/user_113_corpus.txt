@@ -1,0 +1,11 @@
+[ENTRY_2046] Tired , Happy , Calm , Stressed , Anxious
+[ENTRY_2047] Busy , Slightly tired , Calm , Nervous , Happy
+[ENTRY_2048] Hungry , Tired , Stressed , nervous , Happy
+[ENTRY_2049] Nervous , Tired , Hungry , Happy , Calm
+[ENTRY_2050] Nervous , Anxious , Jittery , Happy , Tired
+[ENTRY_2051] Bored , Tired , Calm , Neutral , Happy
+[ENTRY_2052] exhausted , Sore , Full , Sleepy , Calm
+[ENTRY_2054] Nauseous , Tired , Sleepy , Calm , Sluggish
+[ENTRY_2055] I feel tired since I’m currently at work . I also feel sore because of neck pain . Otherwise , I feel neutral . I am a bit stressed with my school life because I have midterms and a lot of assignments due .
+[ENTRY_2056] I am currently at work so I feel a bit tired but my coworker is keeping me awake . I feel a little but hungry . I also feel a bit stressed because I know I have school work to do after work .
+[ENTRY_2057] Tired , Full , Calm , Happy , Neutral

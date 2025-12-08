@@ -1,0 +1,4 @@
+[ENTRY_4057] Sunburned , Tired , Busy , Content , Happy
+[ENTRY_4058] Tired , Itchy , Sick , Neutral , Calm
+[ENTRY_4059] Stressed , Tired , Busy , Irritated , Overwhelmed
+[ENTRY_4060] Stressed , Tired , Content , Happy , Annoyed

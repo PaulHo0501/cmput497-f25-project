@@ -1,0 +1,26 @@
+{
+  "user_id": 8,
+  "num_entries": 2,
+  "entries": [
+    {
+      "text_id": 368,
+      "text": "Mediocre , today I ' ve been having dizzy spells , a headache and i am sick to my stomach . I got sick this morning while getting ready .     Went home early from my other job .   Expected not to return tomorrow if symptoms persist . \\n \\ n \\ n",
+      "timestamp": "2021-03-29T13:41:30",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 369,
+      "text": "Sober and somber . My friend just passed away last night . I ' m grief stricken , I have a headache and I do not want to consume anything but weed . I do not want to drink my stomach was not made for this .",
+      "timestamp": "2021-03-30T12:32:23",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

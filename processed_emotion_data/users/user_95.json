@@ -1,0 +1,176 @@
+{
+  "user_id": 95,
+  "num_entries": 17,
+  "entries": [
+    {
+      "text_id": 1195,
+      "text": "Bored , Sleepy , Quiet , Anxious , Annoyed",
+      "timestamp": "2024-10-11T12:11:33",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1196,
+      "text": "I\u2019m feeling content . My afternoon check in meeting with my supervisor was canceled , so I got some time back for myself to study . I am relieved to be done with classes for the week and ready to hopefully recharge over the weekend .",
+      "timestamp": "2024-10-11T17:03:06",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1197,
+      "text": "I am feeling a bit anxious but I\u2019m actively trying to stay calm . I hope to stay alert enough to study for the next few hours so I am trying to regulate my feelings and be positive . I went on a walk earlier and that helped me a lot .",
+      "timestamp": "2024-10-11T22:01:14",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1198,
+      "text": "I am feeling quite sleepy and tired at the moment . Even though I would say that I got a good night ' s sleep , I am not as alert as I usually am when I wake up after sleeping in . This makes me realize that I have been neglecting my rest the past couple of days .",
+      "timestamp": "2024-10-12T12:10:04",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1199,
+      "text": "Stable , Calm , Determined , Focused , Introspective",
+      "timestamp": "2024-10-12T17:03:03",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1200,
+      "text": "I\u2019m currently feeling pretty satisfied . I\u2019ve spent most of my time inside and had a restful day today thankfully . I\u2019m still studying while also trying to relax to get ready for bed . I am hopeful that I will wake up early tomorrow so I will try to keep this calmness in anticipation of this .",
+      "timestamp": "2024-10-12T22:37:53",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1201,
+      "text": "Annoyed , Anxious , Disappointed , Impatient , Nervous",
+      "timestamp": "2024-10-13T17:30:18",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1202,
+      "text": "I am a bit dissatisfied with the progress I\u2019ve made with my studying but excited to get the next few days of exams over with . I am relieved that I do not have any early lectures tomorrow and my third class will be held virtually .",
+      "timestamp": "2024-10-13T22:54:44",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1203,
+      "text": "Stressed , Nervous , Tired , Sleepy , Unfocused",
+      "timestamp": "2024-10-14T12:46:06",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1204,
+      "text": "I am currently feeling a bit stressed about exams . I am also a bit busy and overwhelmed at the moment due to other meetings and deadlines ,, but I am trying to stay focused . I have been distracted for the past couple of days , so I hope to stay on task today .",
+      "timestamp": "2024-10-14T17:27:49",
+      "order": 9,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1205,
+      "text": "Stressed , Impatient , Annoyed , Overwhelmed , Tired",
+      "timestamp": "2024-10-14T22:01:08",
+      "order": 10,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1206,
+      "text": "I feel somewhat relieved as I just finished taking an exam . However , I am still quite stressed , as I have another exam tomorrow . I am trying to feel as calm as I can in order to focus on studying . I am excited for the next couple of days to be done .",
+      "timestamp": "2024-10-15T12:06:34",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1207,
+      "text": "Sleepy , Anxious , Frustrated , Apprehensive , Tired",
+      "timestamp": "2024-10-15T17:03:30",
+      "order": 12,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1208,
+      "text": "Overwhelmed , Frustrated , Upset , Exhausted , Dreadful",
+      "timestamp": "2024-10-15T22:06:38",
+      "order": 13,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1209,
+      "text": "Sleepy , Exhausted , Tired , Stressed , Drained",
+      "timestamp": "2024-10-16T12:13:07",
+      "order": 14,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1210,
+      "text": "Productive , Tired , Stable , Determined , Focused",
+      "timestamp": "2024-10-16T17:04:32",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1211,
+      "text": "Satisfied , Lazy , Introspective , studios , Grateful",
+      "timestamp": "2024-10-16T22:05:16",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

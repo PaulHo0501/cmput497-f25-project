@@ -1,0 +1,98 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2677,I ' m really feeling great . the beautiful weather puts me in a happy mood . I ' m able to go outside and enjoy the day instead of sitting in the house all day . I can take a walk in the park or just sit on my porch and enjoy the fresh air,2021-05-02T12:19:28,0,2.0,1.0,1,False
+2678,as of right now I am feeling great .. enjoying the beautiful weather outside while drinking a nice cold lemonade . knowing summer is coming is making me more happy . now I can ' t wait till official summer comes .\ n,2021-05-02T17:00:44,1,2.0,1.0,1,False
+2694,"chilled , relaxed , happy , rested , cheerful",2022-01-28T15:02:16,2,2.0,1.0,2,True
+2695,"good , happy , excited , smilies , chill",2022-01-28T20:01:14,3,2.0,1.0,2,True
+2696,"tired , headache , hungry , thirsty , lazy",2022-01-29T10:05:24,4,-2.0,0.0,2,True
+2697,"calm , rested , lazy , cozy , chilled",2022-01-29T15:00:58,5,2.0,0.0,2,True
+2698,"calm , relaxed , sleepy , chilled , tired",2022-01-29T20:01:12,6,2.0,0.0,2,True
+2699,"rested , happy , relaxed , good , smiling",2022-01-30T10:01:24,7,0.0,2.0,2,True
+2700,"calm , relaxed , sleepy , chilled , lazy",2022-01-30T20:02:55,8,0.0,0.0,2,True
+2701,"tiredness , slow , need sleep , drowsy , blahh",2022-01-31T10:02:09,9,1.0,2.0,2,True
+2702,"motivated , ready , active , on the go , happy",2022-01-31T15:01:56,10,0.0,2.0,2,True
+2703,"happy , smilies , joyful , Exotic , Dancing",2022-01-31T20:04:11,11,2.0,2.0,2,True
+2704,"calm , relax , little lazy , tired , full",2022-02-02T21:21:11,12,0.0,1.0,2,True
+2705,"happy , smiling , joyful , relaxed , excited",2022-02-03T10:03:07,13,2.0,1.0,2,True
+2706,"lazy , cozy , sleepy , relaxed , chilled",2022-02-03T15:01:50,14,0.0,0.0,2,True
+2707,"sleepy , lazy , drowsy , tired , yawning",2022-02-03T20:01:35,15,0.0,0.0,2,True
+2708,"relaxed , slow , relaxed , energy , chilled",2022-02-04T10:02:58,16,1.0,2.0,2,True
+2709,"excited , smiling , relaxed , happy , joyful",2022-02-04T15:03:42,17,2.0,1.0,2,True
+2710,"tired , bored , lonely , lazy , sad",2022-02-04T20:01:28,18,0.0,1.0,2,True
+2711,"calm , chilled , zoned , related , sleepy",2022-02-05T10:01:06,19,1.0,0.0,2,True
+2712,"happy , exciting , chilled , loved , dancing",2022-02-05T15:35:42,20,2.0,1.0,2,True
+2713,"jumpy , active , happy , excited , smiling",2022-02-05T20:11:04,21,0.0,2.0,2,True
+2679,"excited , ready , happy , motivated , chilled",2022-02-06T10:01:17,22,2.0,1.0,2,True
+2680,"happy , excited , motivated , dancing , joyful",2022-02-06T15:00:48,23,2.0,1.0,2,True
+2681,"tired , sleepy , lazy , sluggish , need rest",2022-02-06T20:01:06,24,0.0,0.0,2,True
+2682,"sleepy , relaxed , chilled , lazy , content",2022-02-07T10:00:46,25,0.0,1.0,2,True
+2683,"energetic , happy , smiling , excited , ready",2022-02-07T15:44:34,26,1.0,2.0,2,True
+2684,"tired , sleepy , lazy , sluggish , blah",2022-02-07T20:00:47,27,0.0,0.0,2,True
+2685,"sleepy , chilled , relaxed , lazy , calm",2022-02-08T10:01:06,28,0.0,1.0,2,True
+2686,"smiling , excellent , happy , rested , dancing",2022-02-08T15:04:15,29,2.0,2.0,2,True
+2687,"calm , sleepy , lazy , relaxed , ready for bed",2022-02-08T20:23:07,30,0.0,0.0,2,True
+2688,"little sleepy , lazy , chilled , relaxed , sluggish",2022-02-09T10:00:36,31,0.0,1.0,2,True
+2689,"lazy , chilled , relaxed , content , happy",2022-02-09T15:16:27,32,0.0,1.0,2,True
+2690,"excited , happy , ready , smiling , chilling",2022-02-09T20:01:25,33,2.0,1.0,2,True
+2691,"relaxing , happy , chill , rested , calm",2022-02-10T10:01:24,34,1.0,1.0,2,True
+2692,"relaxed , chill , comfortable , calm , happy",2022-02-10T15:00:26,35,2.0,0.0,2,True
+2693,"sleepy , sluggish , lazy , Exhausted , zoned out",2022-02-10T20:01:59,36,-1.0,0.0,2,True
+2728,"Sleepy , Lazy , Sluggish , Hungry , Bored",2022-04-29T10:00:00,37,0.0,0.0,3,True
+2729,"Energy , Grea , Happy , Rested , Ready",2022-04-29T15:00:00,38,0.0,2.0,3,True
+2730,"Happy , Excited , Jumpy , Smiling , Joyful",2022-04-29T20:00:00,39,0.0,2.0,3,True
+2731,"Tired , Lazy , Sleepy , Blah , Okay",2022-04-30T10:02:00,40,0.0,1.0,3,True
+2732,"Sleepy , Lazy , Neutral , Relax , Okay",2022-04-30T15:19:00,41,1.0,1.0,3,True
+2733,"Relax , Calm , Chill , Happy , Relax",2022-04-30T20:33:00,42,2.0,0.0,3,True
+2734,"Hungover , Tired , Sluggish , Lazy , Moody",2022-05-01T10:01:00,43,-2.0,0.0,3,True
+2735,"Sleepy , Lazy , Sluggish , Exhausted , Bored",2022-05-01T15:03:00,44,-1.0,0.0,3,True
+2736,"Tired , Hungover , Sick , Lazy , Hungry",2022-05-01T20:11:00,45,0.0,1.0,3,True
+2737,"Relaxed , Happy , Content , Chill , Good",2022-05-02T10:00:00,46,2.0,0.0,3,True
+2738,"Excited , Happy , Great , Active , Good",2022-05-02T15:04:00,47,2.0,1.0,3,True
+2739,"Tired , Lazy , Chill , Relax , Slow",2022-05-02T20:17:00,48,1.0,0.0,3,True
+2740,"Tired , Lazy , Sleepy , Exhausted , Moody",2022-05-03T10:00:00,49,0.0,0.0,3,True
+2741,"Lazy , Relaxed , Slow , Hungry , Tired",2022-05-03T15:00:00,50,0.0,1.0,3,True
+2742,"Relaxed , Chill , Happy , Cozy , Laid back",2022-05-03T20:00:00,51,2.0,0.0,3,True
+2743,"Sleepy , Lazy , Tired , Bored , Lonely",2022-05-04T10:00:00,52,-2.0,0.0,3,True
+2744,"Excited , Happy , Good , Smiling , Relaxed",2022-05-04T15:00:00,53,2.0,1.0,3,True
+2745,"Calm , Tired , Relaxed , Chilled , Happy",2022-05-04T20:01:00,54,1.0,0.0,3,True
+2746,"Calm , Quiet , Relax , Chilled , Happy",2022-05-05T10:33:00,55,0.0,0.0,3,True
+2747,"Chill , Good , Happy , Relaxed , Vining",2022-05-05T15:59:00,56,2.0,0.0,3,True
+2748,"Calm , Relax , Chill , Happy , Content",2022-05-05T20:59:00,57,1.0,0.0,3,True
+2749,"Relaxed , Happy , Chilling , Good , Thankful",2022-05-06T11:43:00,58,2.0,0.0,3,True
+2750,"Happy , Good , Joyful , Anxious , Smiling",2022-05-06T15:01:00,59,2.0,2.0,3,True
+2751,"Happy , Ready , Surprised , Smiling , Jumpy",2022-05-06T20:01:00,60,1.0,2.0,3,True
+2752,"Hungover , Tired , Lazy , Headache , Moody",2022-05-07T10:24:00,61,-1.0,0.0,3,True
+2753,"Sleepy , Relaxed , Vibing , Hungry , Lazy",2022-05-07T15:00:00,62,0.0,1.0,3,True
+2754,"Excited , Dancing , Motivated , Good , Smiling",2022-05-07T20:00:00,63,2.0,1.0,3,True
+2714,"Calm , Relaxed , Chill , Vibes , Happy",2022-05-08T10:00:00,64,1.0,0.0,3,True
+2715,"Good mood , Energetic , Dancing , Smiling , Happy",2022-05-08T15:00:00,65,2.0,1.0,3,True
+2716,"Lazy , Tired , Overwhelmed , Moody , Sluggish",2022-05-08T22:16:00,66,0.0,0.0,3,True
+2717,"Relaxed , Chilling , Happy , Content , Good",2022-05-09T10:00:00,67,0.0,1.0,3,True
+2718,"Happy , Enthusiastic , Smiling , Excited , Dancing",2022-05-09T15:00:00,68,2.0,2.0,3,True
+2719,"ORG , Energized , Ready , Happy , Dance",2022-05-09T20:41:00,69,0.0,2.0,3,True
+2720,"Excited , Smiling , Dancing , Good , Love",2022-05-10T10:00:00,70,2.0,1.0,3,True
+2721,"Joyful , Sunny , Meditate , Dancing , Good",2022-05-10T15:39:00,71,2.0,1.0,3,True
+2722,"Overwhelming , Tired , Busy , Hungry , Bored",2022-05-10T20:58:00,72,0.0,1.0,3,True
+2723,"Tired , Lazy , Chilled , Relaxed , Happy",2022-05-11T10:04:00,73,0.0,1.0,3,True
+2724,"Relaxed , Calm , Chilled , Lazy , Cool",2022-05-11T15:00:00,74,1.0,1.0,3,True
+2725,"Sleepy , Lazy , Chilled , Content , Blah",2022-05-11T20:42:00,75,0.0,1.0,3,True
+2726,"Energetic , Good , Motivated , Active , Happy",2022-05-12T10:10:00,76,0.0,2.0,3,True
+2727,"Sleepy , Lazy , Hot , Thirsty , Bored",2022-05-12T15:25:00,77,0.0,1.0,3,True
+2765,As of right now I am feeling good . I finally got done sleep last night . I’m more relaxed than usual . I had one drink last night and didn’t wake up feeling sluggish from it . Today so far has been a good day,2022-09-01T10:48:45,78,1.0,0.0,4,False
+2766,As of right now I am clocking out of work and heading home . Today was a good day so I am feeling happy and relaxed . I will go home cooked and rest up for tomorrow . Well I will make sure to eat dinner first .,2022-09-01T15:06:39,79,1.0,0.0,4,False
+2767,This is the time that I normally start getting ready to go to sleep . By this time I have already cooked dinner cleaned up showered myself and my kids and start getting ready to lay down . I am tired because I woke up early today,2022-09-01T20:31:47,80,0.0,0.0,4,False
+2768,Today I woke up in a great mood . I was able to get enough sleep and I have a three day weekend coming up . So far work has been good and I hope it continues throughout the day . Time so far has been going pretty fast putting me in a better mood .,2022-09-02T10:01:23,81,2.0,1.0,4,False
+2769,I am finally home from work and instead of having a two day weekend I am going to have a three day weekend . Today went very well at work and time went fast . I went to work in a great mood and left in a great mood . I am going to use this weekend to relax and recharge for Tuesday when I go back to work .,2022-09-02T16:00:54,82,2.0,1.0,4,False
+2770,I started my three weekend off with a nice cold beer and it’s helping me just relax and watch tv . I I been just in a great mood watching movies and sipping and eating . So far I’ve had one but will probably drink two more,2022-09-02T20:08:20,83,1.0,0.0,4,False
+2771,I feel a little sluggish . Last night I had about 3 mix drinks and steer not drinking for a while it did give me a little bit of a hangover . Hopefully after drinking time of water and taking advil the headache does go away ..,2022-09-03T10:01:16,84,-1.0,0.0,4,False
+2772,"Today it’s raining and rain gets me in a sleep and calm mood .   I just want to lay down all day , relax and watch movies while having a cool pumpkin beer . I feel good today . And after drinking my beers I will feel more relaxed .",2022-09-03T17:30:32,85,0.0,0.0,4,False
+2773,After having a couple of pumpkin Samuel Adams   beer I am definitely ready to lay down and go to bed . Normally if I drink towards the evening and I am at home instead of getting into party mode I get more into a relax sleepy mode . After drinking one more I am going to lay down and rest till tomorrow .,2022-09-03T20:43:37,86,0.0,0.0,4,False
+2774,As of right now I can tired and feeling a bit lazy .   After having a couple of the beers last night I did wake up feeling a little more sleepy then I normally would .   Most likely after a small nap I’ll feel more energetic .,2022-09-04T10:04:06,87,0.0,0.0,4,False
+2775,I am on my way to a party and before I left I took a nap so I feel great and I’m planning on having a couple of beers . Probably the same beers I had last night . I might be the only one drinking but I’m fine with that . I’m in a good mood .,2022-09-04T15:35:46,88,2.0,2.0,4,False
+2776,After having a couple of drinks I am feeling pretty nice aka a little drunk . Definitely put me in a happy mood and I’m just sitting here listening to music and enjoying myself . I’ll probably have like two more and then head to bed .,2022-09-04T20:00:38,89,2.0,1.0,4,False
+2777,Today I woke up feeling hungover . After having a couple drinks last night I didn’t drink water before I headed to bed causing me to wake up pretty hungover . There’s also a thunderstorm causing me to be more tired and lazy .,2022-09-05T10:00:48,90,-2.0,0.0,4,False
+2778,This morning I woke up hungover and lazy but now after taking a nap I feel much better . I been active cleaning up and doing laundry . I still fell a bit hungover but it’s not stopping me from moving around and getting my chores done .,2022-09-05T15:14:08,91,0.0,2.0,4,False
+2779,First Day back to work after 3 days off and I need to still get more energy . I’m still in a chill mode and not fully awake and ready . I need to get use to walking up early again . Probably have a Red Bull to wake up .,2022-09-06T12:11:51,92,1.0,0.0,4,False
+2780,It is the end of my work shift so I am in a great mood because I am so ready to go home . I have food ready for me to cook and I’m just going to cook clean up and then just relax . Beginning of my day I was more calm but now I am in a great mood .,2022-09-06T15:00:37,93,2.0,1.0,4,False
+2781,"I already prepared dinner cleaned up and took my kids a bath , So right now my body is tired and I’m ready to go to bed . Especially since the fact that I’ve been up since 6 AM by this time I normally get really tired . Also I was busy preparing everything for tomorrow morning so he caused me to be more tired .",2022-09-06T20:02:44,94,0.0,0.0,4,False
+2782,Today is my Birthday so I woke up in a great mood . Work has been good so far and after work I will be going out for drinks so I’m even in a greater mood . I just been smiles all day . Hopefully today continues to go great for me .,2022-09-07T12:16:17,95,2.0,1.0,4,False
+2783,As of right now I am in such a great mood . I have about 10 minutes till I have to clock out of work and I’m going to head home change my clothes and go out for a birthday dinner . While I’m at his birthday dinner I am going to have several margaritas to celebrate life .,2022-09-07T15:00:44,96,2.0,1.0,4,False

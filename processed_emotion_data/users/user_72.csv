@@ -1,0 +1,6 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4973,"Tired , Stress , Concerned , Happy , Motivated",2024-09-19T12:04:03,0,0.0,1.0,7,True
+4974,"Tired , Concerned , Focused , Determined , Lackluster",2024-09-24T17:22:36,1,-1.0,0.0,7,True
+4975,"Happy , Relaxed , Focused , Full , Inquisitive",2024-09-25T12:08:34,2,1.0,2.0,7,True
+4976,I am jet lagged and happy to be home .   My cat is also very happy to have me home .     Although I am sluggish I feel good and motivated for a productive weekend .    Hopefully to enjoy some Fall activities and drinks,2024-09-27T17:13:57,3,1.0,0.0,7,False
+4977,I feel great .   Got a good sleep and got in some walking .    Have not had any alcohol since Saturday night .    Perfect fall weather .   Xcxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxccccccccccccc \ n \ nXxxxxxxxxxccccccccccccccccccccccccc,2024-09-28T12:33:12,4,1.0,0.0,7,False

@@ -1,0 +1,96 @@
+{
+  "user_id": 52,
+  "num_entries": 9,
+  "entries": [
+    {
+      "text_id": 5135,
+      "text": "Ill , Anxious , Sad , Overwhelmed , Scared",
+      "timestamp": "2021-06-09T12:05:43",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5136,
+      "text": "Sick , Tired , Nervous , Stressed , Fearful",
+      "timestamp": "2021-06-10T12:01:54",
+      "order": 1,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5137,
+      "text": "Tired , Uncomfortable , Lightheaded , Anxious , Dull",
+      "timestamp": "2021-06-11T15:02:57",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5138,
+      "text": "Lonely , Depressed , Stressed , Anxious , Bored",
+      "timestamp": "2021-06-12T12:04:12",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5139,
+      "text": "Surprised , Happy , Content , Special , Confused",
+      "timestamp": "2021-06-13T12:45:07",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5140,
+      "text": "Surprised , Happy , Loved , Anxious , Wired",
+      "timestamp": "2021-06-14T12:18:57",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5141,
+      "text": "Apprehensive , Grateful , Talkative , Tired , Dehydrated",
+      "timestamp": "2021-06-15T12:48:12",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5142,
+      "text": "Tired , Dehydrated , Sluggish , Sick , Numb",
+      "timestamp": "2021-06-16T12:07:39",
+      "order": 7,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5134,
+      "text": "Stressed , Happy , Excited , Talkative , Content",
+      "timestamp": "2021-06-18T12:21:01",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "user_id": 121,
+  "num_entries": 19,
+  "entries": [
+    {
+      "text_id": 2528,
+      "text": "I\u2019m feeling tired . Didn\u2019t sleep good last night . Hungry too because I didn\u2019t have breakfast yet . But I\u2019m excited to watch college football today . Might take a nap soon . Going to birthday party later so excited for that .",
+      "timestamp": "2024-11-09T12:01:52",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2529,
+      "text": "Tired , Sick , Calm , Content , Unwell",
+      "timestamp": "2024-11-09T17:02:01",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2530,
+      "text": "I am currently sick . I think I have the flu . I have chills and I\u2019m sweating . I stayed in bed all day and I don\u2019t feel good . I didn\u2019t eat a lot today . I only had peanut butter and jelly and some oatmeal",
+      "timestamp": "2024-11-09T22:05:58",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2531,
+      "text": "Hot , Content , Calm , Sick , Unwell",
+      "timestamp": "2024-11-10T12:01:47",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2532,
+      "text": "Tired , Calm , Content , Sick , Sleepy",
+      "timestamp": "2024-11-10T17:05:46",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2533,
+      "text": "I am feeling better . Originally was sick but am feeling better . Not as hot anymore . Have school tomorrow but I am not going . Don\u2019t have practice but have lift but missing that too . Feel happier because I am feeling better .",
+      "timestamp": "2024-11-10T22:03:50",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2534,
+      "text": "Calm , Content , Somewhat happy , Tired , Sleepy",
+      "timestamp": "2024-11-11T12:02:12",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2535,
+      "text": "I\u2019m feeling a little happier . My medicine is working and I am feeling better . I took a nap so I\u2019m not as tired . I didn\u2019t sleep as good last night . I just cleaned my car so I\u2019m happy that it\u2019s clean . I am going back to school tomorrow and I\u2019m excited about that .",
+      "timestamp": "2024-11-11T17:01:37",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2536,
+      "text": "The medicine is wearing off . I\u2019m starting to feel sick again . I\u2019m still happy and excited to go back to school tomorrow . I\u2019m going to take the medicine again . Hopefully I sleep better tonight because last night I didn\u2019t sleep too good I took another nap before dinner now I\u2019m just watching a new TV show before Football starts . Feeling happy .",
+      "timestamp": "2024-11-11T22:07:15",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2538,
+      "text": "Feeling not happy but not sad . I slept a lot better last night . still have fever and still feel sick . going back to school today I don\u2019t know about tomorrow yet . Just been watching TV laying on bed past few days .",
+      "timestamp": "2024-11-12T12:15:54",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2539,
+      "text": "I\u2019m feeling pretty good . Not happy or sad . Medicine kicked in and I feel better . Will probably feel sick again once the medicine wears off . Not going back to school today I don\u2019t know about tomorrow yet . I\u2019ve just been watching TV in my bed all day .",
+      "timestamp": "2024-11-12T17:21:38",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2540,
+      "text": "Calm , Content , Somewhat happy , Neutral , Little bored",
+      "timestamp": "2024-11-12T22:36:23",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2541,
+      "text": "Healthy , Calm , Happy , Content , Excited",
+      "timestamp": "2024-11-13T12:01:44",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2542,
+      "text": "Calm , Happy , Content , Neutral , Healthy",
+      "timestamp": "2024-11-13T22:02:02",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2543,
+      "text": "Feeling not as sick anymore , the medicine is really working . I am doing some work that I missed this week . I am going away this weekend on a little getaway . Excited and happy about that . I like my new TV show . I\u2019m watching .",
+      "timestamp": "2024-11-14T12:10:21",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2544,
+      "text": "Kind of tired . Might take a nap . Good football game on tonight . Excited to watch that . Then hockey is on so happy to watch that . Caught up on work this morning from this week of school that I missed . Felt happy I started doing stuff again , related to school .",
+      "timestamp": "2024-11-14T17:53:50",
+      "order": 15,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2545,
+      "text": "Happy , Calm , Content , Neutral , Healthy",
+      "timestamp": "2024-11-14T22:05:44",
+      "order": 16,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2546,
+      "text": "I Slept very good last night . Going on a little getaway with my family this weekend so I\u2019m excited about that . Watch football and hockey last night and my team won finishing up one of the seasons of my show and I\u2019m happy about that .",
+      "timestamp": "2024-11-15T12:01:41",
+      "order": 17,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2547,
+      "text": "Healthy , Calm , Content , Happy , Neutral",
+      "timestamp": "2024-11-15T17:03:12",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

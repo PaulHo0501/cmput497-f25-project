@@ -1,0 +1,146 @@
+{
+  "user_id": 114,
+  "num_entries": 14,
+  "entries": [
+    {
+      "text_id": 2078,
+      "text": "Sad , Lonely , Tired , Nervous , Achey",
+      "timestamp": "2024-09-23T17:19:51",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2079,
+      "text": "Sad , Dejected , Alone , Weary , Glum",
+      "timestamp": "2024-09-24T12:03:10",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2080,
+      "text": "Nervous , Lonely , Bored , Hungry , Tired",
+      "timestamp": "2024-09-24T17:47:02",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2081,
+      "text": "Indifferent , Bored , Tired , Lonely , Sleepy",
+      "timestamp": "2024-09-24T22:20:48",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2082,
+      "text": "Im feeling pretty sluggish and tired . I feel a little bit jittery and wanting to sleep but can ' t . I ' m not feeling either sad or happy just very neutral . I ' m tired and sluggish and kind of just existing at the moment",
+      "timestamp": "2024-09-25T12:17:11",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2083,
+      "text": "Neutral , Content , Comfortable , Okay , Tired",
+      "timestamp": "2024-09-25T17:35:48",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2300,
+      "text": "Content , Satisfied , Sleepy , Peaceful , Relaxed",
+      "timestamp": "2024-09-25T22:26:28",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2301,
+      "text": "Lonely , Bored , Sleepy , Unmotivated , Glum",
+      "timestamp": "2024-09-26T17:36:43",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2302,
+      "text": "Tired , Sleepy , Bored , Thirsty , Lonely",
+      "timestamp": "2024-09-26T22:13:43",
+      "order": 8,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2303,
+      "text": "I feel a little sad today , it might be under the influence of the weather or season , but I just feel a sort of emptiness inside of me . I am also very lonely today , wishing I could just hang out with some friends or something .",
+      "timestamp": "2024-09-27T17:30:49",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2304,
+      "text": "Indifferent , Okay , Neutral , Tired , Comfortable",
+      "timestamp": "2024-09-27T22:16:09",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2305,
+      "text": "Sad , Lonely , Distressed , Bored , Tired",
+      "timestamp": "2024-09-28T17:12:14",
+      "order": 11,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2306,
+      "text": "Tired , Sluggish , Lonely , Bored , Sad",
+      "timestamp": "2024-09-28T22:37:00",
+      "order": 12,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2307,
+      "text": "Im feeling pretty tired and almost like I am catching a slight cold . I don ' t have much energy and although i feel lonely , it ' s not really a high level . I ' m tired mostly , and just want to stay in bed all day today .",
+      "timestamp": "2024-09-29T12:08:33",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

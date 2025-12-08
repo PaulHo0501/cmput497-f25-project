@@ -1,0 +1,36 @@
+{
+  "user_id": 21,
+  "num_entries": 3,
+  "entries": [
+    {
+      "text_id": 1321,
+      "text": "Awake , aware and up early .   Having breakfast and going shopping .   No hangover at all .   I typically get up early every morning no matter what .   Drinking water all night helps with an issues from drinking",
+      "timestamp": "2021-05-04T12:03:19",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 1322,
+      "text": "I\u2019m feeling very relaxed and about to get ready for work at four today .   It\u2019s taco Tuesday and should be busy , also ORG is surging which makes me happy as well .   I tried to nap before work but couldn\u2019t due to my roommate coming home early from work .",
+      "timestamp": "2021-05-04T17:01:07",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 1323,
+      "text": "Spending the night at work a d not drinking .   I\u2019m serving plenty customers alcohol and having fun with them .   I\u2019ll be here till 12 : 30 and then headed home to rest while a storm blows through town .   This has been entertaining to fill these surveys out .   I don\u2019t know what else to say to fill my quota of words .",
+      "timestamp": "2021-05-04T22:02:43",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "user_id": 20,
+  "num_entries": 2,
+  "entries": [
+    {
+      "text_id": 1317,
+      "text": "Stress , Happy , Sad , Upset , Anamosity",
+      "timestamp": "2021-06-14T21:58:50",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1318,
+      "text": "Stress , Relief , Relaxed",
+      "timestamp": "2021-06-15T16:50:37",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+3044,"chill , enthusiastic , snacky , thirsty , clean",2024-10-01T22:05:57,0,1.0,2.0,7,True
+3045,"tired , uncomfortable , hungry , neutral , content",2024-10-02T12:00:49,1,-2.0,0.0,7,True
+3046,I’m dreading checking the produce at my job and I’m drained being at work even though I haven’t been here since Sunday . I don’t look forward to this shift or getting home at 3 am when my fiancé is already asleep .,2024-10-02T22:29:27,2,0.0,1.0,7,False
+3048,"full , uncomfortable , tired , dread , unwell",2024-10-03T12:46:50,3,-1.0,0.0,7,True
+3049,"tired , excited , dread , focused , worried",2024-10-03T17:06:05,4,0.0,1.0,7,True
+3050,"about to drive an hour home with my yelling cat . she hates the car but hopefully there’s no traffic , i really wanna get home and see my girlfriend before i have work at 6 . why 200 words that seems like a lot",2024-10-04T17:00:57,5,0.0,0.0,7,False
+3051,i’m on a break at work and excited to eat my mac n cheese . i wanna go home it’s slow today and this shift is completely dragging . i don’t have the motivation to be energetic so im just skating by and doing the bare minimum,2024-10-04T22:24:26,6,-1.0,0.0,7,False
+3052,i’m at work again . this shift is dead compared to the ones i usually work . i always kinda regret picking up extra shifts and my girlfriend doesn’t like it but i really need the money so im toughing it out . at least i like my coworkers a lot and i can kinda do whatever i want,2024-10-05T17:27:13,7,1.0,2.0,7,False
+3053,upset because i think i missed the 3pm survey (and possibly the 12) but i had this open in my browser so im filling it out anyway . i was just three minutes late to work and im also upset w myself about that bc every minute and every cent counts right now . i really wanted to have a good day and be pumped for this shift because sundays are always busy but my day didn’t end up how i wanted,2024-10-06T20:03:24,8,0.0,1.0,7,False
+3054,i’m disappointed in myself for sleeping so much today but can’t do anything about it so i’m just trying to get stuff done that i meant to do earlier . i’m feeling a little manic too . but honestly content like im not devastated,2024-10-07T22:12:07,9,0.0,0.0,7,False
+3055,"content , talkative , neutral , chill , relaxed",2024-10-08T12:28:33,10,1.0,1.0,7,True
+3056,"excited , happy , high , focused , healthy",2024-10-08T17:23:00,11,2.0,1.0,7,True
+3057,"drunk , happy , worried , mischievous , PERSON",2024-10-08T22:34:31,12,2.0,2.0,7,True
+3059,"full from breakfast , enthusiastic about the day in front of me , nervous for a doctors appointment that i have , grateful for my family and my girlfriend , unsure about the timeline of events today , worried about money",2024-10-10T12:37:16,13,1.0,1.0,7,False
+3060,"uncomfortable , tired , weary , done , annoyed",2024-10-10T17:01:54,14,-2.0,0.0,7,True
+3061,"dismayed that this one is a box and not five words . tired , have to pee , want to go home , dragging , annoyed at ORG , wanting to sit down and not have to get up for a while (about to take my break) extra words here",2024-10-10T22:25:56,15,0.0,1.0,7,False
+3062,a little nervous because my shift lead intimidates me and i don’t work with her often so i feel like kind of rigid and like everything i do is intentional because i don’t want her to think badly of me since im still relatively new . i was really hoping it would just be me and the guys so i could kick back and do less work but she’s leaving at 10 so its fine . i’m bummed i won’t get home til 3 am and won’t see my girlfriend until monday but idek if ill see her because ORG isn’t even closed for the public holiday so she’ll have to cut class to see me,2024-10-12T22:13:15,16,0.0,1.0,7,False
+3063,"sweaty , excited , chill , idk , neutral",2024-10-13T22:42:09,17,0.0,2.0,7,True
+3064,"high , hungry , happy , good , good",2024-10-14T17:15:13,18,1.0,1.0,7,True
+3065,"heavy , focused , relaxed , chill , happy",2024-10-14T22:25:44,19,1.0,1.0,7,True

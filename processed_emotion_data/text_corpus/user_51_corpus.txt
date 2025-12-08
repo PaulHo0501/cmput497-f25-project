@@ -1,0 +1,3 @@
+[ENTRY_5046] Achy , Tired , Anxious
+[ENTRY_5047] Content , Tired , Anxious
+[ENTRY_5048] Upset , Confused , Angry

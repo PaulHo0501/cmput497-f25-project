@@ -1,0 +1,296 @@
+{
+  "user_id": 85,
+  "num_entries": 29,
+  "entries": [
+    {
+      "text_id": 240,
+      "text": "tired , bothered , confused , exhausted , reslient",
+      "timestamp": "2024-09-22T22:54:17",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 241,
+      "text": "Lively , Energetic , Challenged , Comfortable , Quiet",
+      "timestamp": "2024-09-23T12:37:06",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 242,
+      "text": "Tired , Relaxed , Calm , Thoughtful , Safe",
+      "timestamp": "2024-09-23T22:24:18",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 243,
+      "text": "Tired , Busy , Thoughtful , Considerate , Humble",
+      "timestamp": "2024-09-24T12:01:03",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 244,
+      "text": "Exhausted , Tired , Calm , Excited , Hungry",
+      "timestamp": "2024-09-24T17:55:09",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 245,
+      "text": "Tired , Exhausted , Calm , Candid , Humored",
+      "timestamp": "2024-09-24T22:00:34",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 246,
+      "text": "Refreshed , Energetic , Content , Hopeful , Lively",
+      "timestamp": "2024-09-25T17:02:37",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 247,
+      "text": "Relaxed , Alert , Amused , Resilient , Excited",
+      "timestamp": "2024-09-26T12:45:35",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 248,
+      "text": "I am currently working and extremely tired . It is a wet and dreary day . I believe this is affecting my overall mood and energy . I cannot wait to get home and relax . It hasn\u2019t been bad my energy label is just not high .",
+      "timestamp": "2024-09-26T17:33:28",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 260,
+      "text": "I\u2019m bed breaking sleep to take this survey . I\u2019m so tired . I had a pretty long day but it was good , I just need to sleep . After this I\u2019m going right back , I usually have trouble sleeping but not tonight .",
+      "timestamp": "2024-09-26T22:00:36",
+      "order": 9,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 261,
+      "text": "Today is a good day . No major complete issues . Almost end of day where I can go home start laundry and relax . I will get all chores out of the way so I can have an easy relaxed weekend after the work week .",
+      "timestamp": "2024-09-27T17:23:44",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 262,
+      "text": "I\u2019m exhausted and I cannot understand why . I slept good and had a good day . But after I finish this survey I am going to bed , my eyes are ready to close as I type . Could be the change in weather who knows .",
+      "timestamp": "2024-09-27T22:00:31",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 263,
+      "text": "Cold , Content , Lively , Reluctant , Thoughtful",
+      "timestamp": "2024-09-28T12:01:15",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 264,
+      "text": "Relaxed , Mellow , Calm , Optimistic , Hopeful",
+      "timestamp": "2024-09-28T22:01:14",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 265,
+      "text": "Up starting my day , getting prepared for the work week . I went to bed late , but I slept pretty good , didn\u2019t get the chance to do laundry yesterday that\u2019s my goal today and to make some dinner . I will stay in the rest of the day , it\u2019s damp and rainy !",
+      "timestamp": "2024-09-29T12:12:28",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 266,
+      "text": "I was napping and just woke up . It\u2019s a wet dream day . I am about yo make done dinner and find a movie on Netflix to watch or even a documentary . My granddaughter wants me to come over but I\u2019m not leaving the house today",
+      "timestamp": "2024-09-29T17:09:26",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 267,
+      "text": "Folding laundry , ate dinner , and getting ready for bed . After I make my bed , I am exhausted , and I hope to sleep well tonight as I will need to be up by 6am to be to work by 7am . Prepared my lunch and fruits to take for the day . I will need to leave in time .",
+      "timestamp": "2024-09-29T22:00:30",
+      "order": 16,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 268,
+      "text": "Calm , Relaxed , Accomplished , Content , Hopeful",
+      "timestamp": "2024-09-30T17:34:00",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 269,
+      "text": "Calm , Relaxed , Energetic , Content , Optimistic",
+      "timestamp": "2024-09-30T22:00:26",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 271,
+      "text": "Today is a great day for me . I feel lively energy is in full motion . I\u2019m having a great morning , sleep was exceptionally well ! At times I have difficulty sleeping but I slept and arises early to get my day started .",
+      "timestamp": "2024-10-01T12:18:06",
+      "order": 19,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 272,
+      "text": "Calm , Sleepy , Relaxed , Thankful , Grateful",
+      "timestamp": "2024-10-01T17:11:59",
+      "order": 20,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 273,
+      "text": "tired , accomplished , comfortable , clean , blessed",
+      "timestamp": "2024-10-01T22:01:31",
+      "order": 21,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 274,
+      "text": "Pretty calm now , waiting to leave for the day . Start was pretty good and busy , but it had slowed down a great deal .\\ n All seems good so major things happening nor do I have any complaints . A little tired other than that great !",
+      "timestamp": "2024-10-02T17:29:20",
+      "order": 22,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 275,
+      "text": "Tired , Sleepy , Drained , Overworked , Calm",
+      "timestamp": "2024-10-02T22:02:11",
+      "order": 23,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 276,
+      "text": "Busy , Active , Content , Silent , Humble",
+      "timestamp": "2024-10-03T12:08:02",
+      "order": 24,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 277,
+      "text": "Tired , Calm , Relaxed , Interested , Thoughtful",
+      "timestamp": "2024-10-03T22:03:42",
+      "order": 25,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 278,
+      "text": "Today is a great day . The sun is out and it\u2019s elevating my mood . Other than that , I slept very well which was much needed . And I feel like my energy has been revived and elevated ! Hoping for an overall peaceful day !",
+      "timestamp": "2024-10-04T12:47:23",
+      "order": 26,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 287,
+      "text": "Ending of day , looking forward to a satisfying weekend . Need to complete so chores and give back to the community for clothes that I no longer use that are sitting in bins or in my closet . It\u2019s long overdue so I need to start working on it ASAP . I need to purchase something\u2019s off ORG as well . Been off track a little , now I\u2019m back .",
+      "timestamp": "2024-10-04T17:35:28",
+      "order": 27,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 288,
+      "text": "Happy , Optimistic , Hopeful , Thoughtful , Excited",
+      "timestamp": "2024-10-04T22:51:24",
+      "order": 28,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

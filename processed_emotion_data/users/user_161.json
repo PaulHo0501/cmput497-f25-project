@@ -1,0 +1,196 @@
+{
+  "user_id": 161,
+  "num_entries": 19,
+  "entries": [
+    {
+      "text_id": 4098,
+      "text": "Unmotivated , Insecure , Worried , Discontented , Insecure",
+      "timestamp": "2024-10-09T12:04:42",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4099,
+      "text": "I am feeling pretty good .   I am motivated to finish the process of closing the mortgage loan I am working on .   Laughing with my mom .   I feel happy about the opportunity to talking with her since she has dementia and she is alert enough for a discussion .",
+      "timestamp": "2024-10-09T17:01:58",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4100,
+      "text": "I am feeling content with myself .   I am doing the best I can and not responding too emotionally .   I believe that I am getting better with sticking with what I am wanting to do and not running when it gets to hard or doesn\u2019t go the way I want it to .",
+      "timestamp": "2024-10-09T22:03:08",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4101,
+      "text": "Happy , Excited , Peaceful , Serenity , Loved",
+      "timestamp": "2024-10-10T17:05:42",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4102,
+      "text": "Happy , Content , Motivated , Worthy , Loved",
+      "timestamp": "2024-10-10T22:01:26",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4103,
+      "text": "Feeling sad because I lost a close friend who was part of the family to a heart attack .   My Mom and younger brother is taking very hard and I don\u2019t want them to feel sad . Death can come so suddenly when you are not expecting .   My last husband died of a heart attack and I guess it brought back memories .",
+      "timestamp": "2024-10-11T17:10:03",
+      "order": 5,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4104,
+      "text": "Better , Accepted , Loved , Grateful , Cool",
+      "timestamp": "2024-10-11T22:16:47",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4105,
+      "text": "Excited , Happy , Content , Special , Loved",
+      "timestamp": "2024-10-12T12:00:59",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4106,
+      "text": "I am feeling very happy going to church service the scripture always makes me feel happy .   Family is doing well .   Blessed to see another day .   I am feeling happy .   I am grateful and thankful .   I am doing well .   Feeling happy",
+      "timestamp": "2024-10-13T12:03:41",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4107,
+      "text": "Loved , Happy , Serenity , Peace , Confidence",
+      "timestamp": "2024-10-13T17:01:07",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4108,
+      "text": "I feel happy life is going well and working out for my good and learning .   I am in the right place doing the right thing at the right time .   Life is what you choose to make it and I plan on making the rest of my life the best life for me .",
+      "timestamp": "2024-10-13T22:31:53",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4109,
+      "text": "Satisfied , Content , Optimistic , Loved , Challenged",
+      "timestamp": "2024-10-14T12:26:15",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4110,
+      "text": "Hopeful , Glad , Pain , Cool , Grateful",
+      "timestamp": "2024-10-14T17:02:54",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4111,
+      "text": "I am feeling kind of content .   Heard from my daughter as usual not to say hello or check on me but to ask for money .   Does she even care or care for me to help her financially only .   Something has to change with this relationship .",
+      "timestamp": "2024-10-14T22:01:25",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4112,
+      "text": "I am happy that I cleared the air with my daughter .   I am not a confronting type of person but I must learn to be so I can get it out instead of holding feelings in and letting it bother me .   I am happy that I have taken a step to get better and love myself .",
+      "timestamp": "2024-10-15T12:03:04",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4113,
+      "text": "Feeling happy because I am working on walking in my purpose which is being a Mortgage loan officer and helping as many people as I can become homeowners .   So happy I said yes to myself . Be happy and don\u2019t worry .",
+      "timestamp": "2024-10-15T17:20:04",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4114,
+      "text": "Feeling happy with everything got done today .   Trying to make sure important things that need to be done get done . Happy today was a good day . Ending the day strong .   Finishing my day watching a movie .",
+      "timestamp": "2024-10-15T22:01:30",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4115,
+      "text": "Happy , Content , Satisfied , Great , Curious",
+      "timestamp": "2024-10-16T12:01:18",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4116,
+      "text": "Happy , Content , Satisfied , Wise , Glad",
+      "timestamp": "2024-10-16T17:01:18",
+      "order": 18,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

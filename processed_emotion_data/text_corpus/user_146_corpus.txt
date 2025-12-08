@@ -1,0 +1,12 @@
+[ENTRY_3706] Tired , Annoyed , Stressed , Worried , Confused
+[ENTRY_3707] I am tired because I had a long workday . I am stressed about my class and upcoming events . I am excited because I will eat food and watch a TV show . I am relieved because I do not need to work tomorrow .
+[ENTRY_3708] I am feeling active because I got enough sleep . I am feeling calm because I am not working today . I am feeling nervous and hopeful because I need to complete tasks today . I am feeling happy because the weather is nice and cool .\ n
+[ENTRY_3709] Relaxed , Hopeful , Determined , Calm , Excited
+[ENTRY_3710] I am feeling tired because I ate dinner and want to sleep . I am feeling dizzy from looking at my laptop and phone too much . I am feeling determined to study for my test and complete my tasks . I am feeling dreadful about going to work tomorrow .\ n
+[ENTRY_3711] Tired , Sleepy , Annoyed , Frustrated , Bored
+[ENTRY_3712] Calm , Relaxed , Excited , Determined , Scared
+[ENTRY_3713] I feel disappointed and frustrated because studying for my class is difficult . I feel sad because summer is almost over and I did not have much fun . I feel overwhelmed because I still have a lot left to do to prepare for school .
+[ENTRY_3715] Stressed , Worried , Overwhelmed , Frustrated , Annoyed
+[ENTRY_3716] Happy , Proud , Determined , Focused , Bored
+[ENTRY_3717] I am happy because I studied hard and did well on my test . I am determined because I am almost done with my class . I am relieved because I can relax and rest . I am excited because I bought new shoes for school . I am sad that summer is almost over .
+[ENTRY_3718] Nervous , Worried , Conflicted , Scared , Stressed

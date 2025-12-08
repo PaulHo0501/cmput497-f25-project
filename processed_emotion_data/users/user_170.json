@@ -1,0 +1,176 @@
+{
+  "user_id": 170,
+  "num_entries": 17,
+  "entries": [
+    {
+      "text_id": 4325,
+      "text": "I\u2019m feeling stressed but at the same time excited . Stressed because I just finished taking an exam and have another tonight . Excited because it\u2019s almost Thanksgiving Break ! I\u2019m looking forward to Black Friday shopping .",
+      "timestamp": "2024-11-14T12:02:20",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4326,
+      "text": "Tired , Numb , Stressed , Sleepy , Dread",
+      "timestamp": "2024-11-14T17:02:36",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4328,
+      "text": "I\u2019m about to take my exam right now and I haven\u2019t really studied much so I\u2019m feeling especially jittery and nervous . I\u2019m feeling a but of   apprehension as well . I don\u2019t know how this exam and the one that I took this morning would affect my grade . And a little nauseous , I think I might\u2019ve eaten a little too much as a result of stress eating .",
+      "timestamp": "2024-11-14T22:02:38",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4329,
+      "text": "Dizzy , Sluggish , Tired , Guilty , Nervous",
+      "timestamp": "2024-11-15T12:02:26",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4330,
+      "text": "Excited , Drowsy , Indecisive , Unsure , Content",
+      "timestamp": "2024-11-15T17:11:50",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4331,
+      "text": "I feeling content , a little stressed , and excited . I\u2019ve just gotten home from a 3 hour trip and finally got food . Stressed because I have tons of work piled up from the week . I\u2019m also feeling a little excited because after next week , it\u2019ll be Thanksgiving .",
+      "timestamp": "2024-11-15T22:02:27",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4332,
+      "text": "Extremely stressed . I have a bunch of work piled up from the week and half of them are due tonight . I still need to go out to run some errands but I feel so sluggish and tired that I don\u2019t want to move .",
+      "timestamp": "2024-11-16T12:02:08",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4333,
+      "text": "Im currently feeling hopeful , content , and a little bit stressed . I\u2019ve had a good talk with my mentor and made some plans to adjust my schedule so I\u2019m feeling hopefully for the future . At the same time , I\u2019m feeling a littler stressed because I haven\u2019t finished all my assignments that\u2019s due soon .",
+      "timestamp": "2024-11-16T17:02:06",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4334,
+      "text": "I don\u2019t really have any intense feelings right now . Neutral . Numb . It\u2019s the end of the day and I\u2019m halfway there . A little bit stressed , a little bit excited . I\u2019m also feeling a bit conflicted . I\u2019m in a dilemma about what I should be doing .",
+      "timestamp": "2024-11-16T22:14:14",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4335,
+      "text": "I\u2019m feeling happy , excited , and hopeful . I finally finished the assignments that are due and have a few left . Of the few , I\u2019ve already planned accordingly so I think I\u2019ll be able to get things done . Excited because there\u2019s a week left until Thanksgiving Break !",
+      "timestamp": "2024-11-17T12:04:56",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4336,
+      "text": "I\u2019m at work right now and I\u2019m definitely feeling an adrenaline from hustling around trying to get different tasks completed . I\u2019m a little apprehensive as well . And mixed in the midst is tiredness . I\u2019m a bit stress at well . I don\u2019t even know why . It\u2019s a mix of all types of feelings .",
+      "timestamp": "2024-11-17T17:26:51",
+      "order": 10,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4337,
+      "text": "A few minutes ago , I accidentally clicked submit to a quiz without checking my answers . As expected , I got a question wrong . Every time I would tell myself to slow down , to think before I act , but every time I end up doing just the opposite . As a result , I feel very regretful . Thoughts if I should have\u2019s constantly bombard my brain . However , there\u2019s enough reset button .",
+      "timestamp": "2024-11-17T22:02:34",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4338,
+      "text": "I feel a bit sleep . Not sure what the sufficient number of hours is for me . I\u2019ve been averaging maybe 7-8 hours and yet still wake up feeling tired and sleepy the next day . I\u2019m also feeling a bit sluggish . I was supposed to start doing work an hour ago but I ended up procrastinating and scrolling instead .",
+      "timestamp": "2024-11-18T12:02:36",
+      "order": 12,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4339,
+      "text": "Current feelings : guilt , uncertainty , and stress . I feel guilty because I spent the last 4 hours watching a show when I should ' ve started doing my work . Although they ' re not due tomorrow , I have more work planned for tomorrow . If I don ' t complete the planned assignments for today , all the tasks would end up snowballing and building up . I don ' t want that to happen .",
+      "timestamp": "2024-11-18T22:16:20",
+      "order": 13,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4340,
+      "text": "content , hopeful , happy , stressed , excited",
+      "timestamp": "2024-11-19T12:02:07",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4341,
+      "text": "Sad , Uncomfortable , Unsure , Lost , Confused",
+      "timestamp": "2024-11-19T17:23:19",
+      "order": 15,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4342,
+      "text": "Absolutely frustrated , angsty , confused , lost , regretful , unsure ... I made a terrible decision a few hours ago and now I ' m trying to figure out a wait to straighten myself , get a grip on myself , and get back on track so I can move in the right direction . Sometimes it really takes a moment of careless impulsivity to make you question the decisions you make in life .",
+      "timestamp": "2024-11-19T22:06:55",
+      "order": 16,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

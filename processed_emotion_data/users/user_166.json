@@ -1,0 +1,36 @@
+{
+  "user_id": 166,
+  "num_entries": 3,
+  "entries": [
+    {
+      "text_id": 4226,
+      "text": "I ' m currently feeling a sense of contentment and tranquility , like a warm cup of tea on a cozy afternoon . My mind is at ease , and I ' m feeling grateful for the opportunity to connect with others and make a positive impact in their lives . I ' m also feeling a hint of curiosity and excitement , eager to engage in meaningful conversations and learn more about the people I interact with .",
+      "timestamp": "2024-09-11T22:20:17",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4227,
+      "text": "Happy , Grateful , Expressive , accomplished , Accommodative",
+      "timestamp": "2024-09-19T12:27:05",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4229,
+      "text": "Disengagement has become a coping mechanism , a way to temporarily escape the overwhelming pressure and expectations . However , this detachment has also led to feelings of isolation and disconnection from others . Social interactions , once enjoyable , now feel forced and exhausting .",
+      "timestamp": "2024-09-19T17:26:23",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

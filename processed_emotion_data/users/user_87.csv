@@ -1,0 +1,8 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+376,"Tired , Sluggish , Unmotivated , Drained , Sleepy",2024-11-13T12:10:24,0,-2.0,0.0,7,True
+377,"Tired , Drained , Unfocused , Anxious , Unmotivated",2024-11-13T17:30:28,1,-1.0,0.0,7,True
+378,"Anxious , Antsy , Bored , Sleepy , Tired",2024-11-13T22:11:38,2,-1.0,2.0,7,True
+379,I am a bit jittery and anxious . I am feeling pretty awake and focused but anxious about other life events currently . I did get a full night ' s of sleep . I don ' t have anything else to add but it ' s telling me I need more charactera,2024-11-14T12:47:33,3,-1.0,2.0,7,False
+380,"Sleepy , Hungry , Happy , Relaxed , Bored",2024-11-15T22:37:49,4,1.0,1.0,7,True
+381,I am currently very happy and content . Slightly sleepy but solely because I am relaxed and at ease . I am excited about my plans for tonight and currently feeling productive . I am in a positive mindset,2024-11-16T17:01:50,5,2.0,1.0,7,False
+382,I am currently feeling fairly calm and content . I am not overly anxious or stressed . I am a bit sleepy but feel happy about how I spent my day . Overall i have a positive mindset and am in a good place .,2024-11-17T22:15:12,6,2.0,0.0,7,False

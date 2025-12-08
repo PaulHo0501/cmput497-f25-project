@@ -1,0 +1,56 @@
+{
+  "user_id": 24,
+  "num_entries": 5,
+  "entries": [
+    {
+      "text_id": 1410,
+      "text": "Exhausted , Drained , Unfocused , Stressed , Hot",
+      "timestamp": "2021-06-08T12:57:17",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1411,
+      "text": "Tired , Achy , Grumpy , Anxious , Lethargic",
+      "timestamp": "2021-06-09T12:05:19",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1412,
+      "text": "Tired , Headachey , Hot , Sneezy , Grumpy",
+      "timestamp": "2021-06-10T17:04:50",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1413,
+      "text": "tired , frustrated , grumpy , lethargic , hot",
+      "timestamp": "2021-06-11T17:01:48",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1414,
+      "text": "Tired , Lethargic , Nitpicky , Grumpy , Unfocused",
+      "timestamp": "2021-06-11T22:19:34",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

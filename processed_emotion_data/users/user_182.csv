@@ -1,0 +1,7 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4641,"I am tired from the events this week . I am also a little anxious about upcoming events .   This time of year is hard . I am looking forward to summer , but there’s a lot to do before then . I also get anxious when I have a lot of free time . I feel like I have to fill the time .",2024-06-12T17:04:32,0,1.0,1.0,7,False
+4642,"Curious , Spirited , Grateful , Content , Lucky",2024-06-13T12:02:49,1,1.0,2.0,7,True
+4643,"Cranky , Tired , Drained , Aggravated , Frustrated",2024-06-13T22:13:16,2,-2.0,0.0,7,True
+4644,"Calm , Focused , Relaxed , Inquisitive , Grateful",2024-06-14T12:00:45,3,1.0,0.0,7,True
+4645,I am feeling okay . I am nervous about this weekend and how I will make everyone feel special . I have a lot to do . 200 words is a lot of words .   I hope my weekend goes well . Right now my dogs are barking and that is adding to my stress .,2024-06-15T17:21:28,4,-1.0,2.0,7,False
+4646,"I am feeling pretty good . It’s the end of the school year . I am floundering a little bit , because there’s a lot of work to do and I am not sure where to start . I’ll feel better when I get to work tomorrow .",2024-06-17T17:01:01,5,1.0,0.0,7,False

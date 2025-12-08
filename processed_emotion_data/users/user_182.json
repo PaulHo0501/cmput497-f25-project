@@ -1,0 +1,66 @@
+{
+  "user_id": 182,
+  "num_entries": 6,
+  "entries": [
+    {
+      "text_id": 4641,
+      "text": "I am tired from the events this week . I am also a little anxious about upcoming events .   This time of year is hard . I am looking forward to summer , but there\u2019s a lot to do before then . I also get anxious when I have a lot of free time . I feel like I have to fill the time .",
+      "timestamp": "2024-06-12T17:04:32",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4642,
+      "text": "Curious , Spirited , Grateful , Content , Lucky",
+      "timestamp": "2024-06-13T12:02:49",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4643,
+      "text": "Cranky , Tired , Drained , Aggravated , Frustrated",
+      "timestamp": "2024-06-13T22:13:16",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4644,
+      "text": "Calm , Focused , Relaxed , Inquisitive , Grateful",
+      "timestamp": "2024-06-14T12:00:45",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4645,
+      "text": "I am feeling okay . I am nervous about this weekend and how I will make everyone feel special . I have a lot to do . 200 words is a lot of words .   I hope my weekend goes well . Right now my dogs are barking and that is adding to my stress .",
+      "timestamp": "2024-06-15T17:21:28",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4646,
+      "text": "I am feeling pretty good . It\u2019s the end of the school year . I am floundering a little bit , because there\u2019s a lot of work to do and I am not sure where to start . I\u2019ll feel better when I get to work tomorrow .",
+      "timestamp": "2024-06-17T17:01:01",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

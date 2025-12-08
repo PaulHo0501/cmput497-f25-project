@@ -1,0 +1,8 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+3869,"Context , Calm , Engaged , Busy , Interested",2024-07-09T17:01:40,0,2.0,0.0,7,True
+3870,"Right now I feel pretty good about myself and my family . I am participating in a continuing education program which I enjoy and I have plans for the next two days . I also plan to go the the gym this afternoon . however , I am concerned about the November election .\ n \ n",2024-07-11T12:08:43,1,2.0,0.0,7,False
+3871,"Placid , Thoughtful , Concerned , Worried , Tired",2024-07-12T17:10:09,2,-2.0,0.0,7,True
+3872,"I am placid and relaxed . However , I am also thinking about the future for my children and grandchildren , which worries me . I have to run several errands this morning and I would rather be doing something else . I also miss the ability to take trips due to my wife’s illness .",2024-07-13T12:34:22,3,2.0,0.0,7,False
+3873,"I am feeling content and relaxed . Although I worry about the future for my children and grandchildren , I know that I am lucky that they are all doing well . My wife had a stroke four years ago that left her unable to walk without assistance . This has eliminated our travel plans and other plans , but we are dealing with the situation .",2024-07-13T17:16:03,4,2.0,0.0,7,False
+3874,I feel content but worried about the future for my children and grandchildren .   I am somewhat frustrated by our inability to travel due to my wife’s disability caused by a stroke 4 years ago . My life is ok but not exciting .,2024-07-14T12:09:42,5,2.0,0.0,7,False
+3875,"Satisfied , Calm , Concerned , Interested , Busy",2024-07-14T17:45:14,6,1.0,0.0,7,True

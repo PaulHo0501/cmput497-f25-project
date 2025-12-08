@@ -1,0 +1,636 @@
+{
+  "user_id": 11,
+  "num_entries": 63,
+  "entries": [
+    {
+      "text_id": 439,
+      "text": "It was hard to sleep last night so I am very tired . This morning I feel mentally drained and do not want to go to work tonight . My body feels very tired as well , my shoulders and feet are in a lot of pain .",
+      "timestamp": "2021-06-12T12:26:16",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 440,
+      "text": "I am feeling good . At work excited for tonight\u2019s shift . it will be busy and I am ready for it . I don\u2019t feel as tired anymore since I got to work . Everyone else is in a good mood so I am too . Staff meal was good so that helped",
+      "timestamp": "2021-06-12T17:18:50",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 441,
+      "text": "My body is sore from yesterday and my shoulders are killing me . I don\u2019t have to work so I am in a good mood . I ate really late last night so my stomach hurts . I am just somewhat tired but I feel calm and happy that I have a day off to relax",
+      "timestamp": "2021-06-13T12:11:18",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 442,
+      "text": "I feel better than last week because yesterday was my day off . I have time to mentally relax and prepare for the week . I am not looking forward to working an extra day at the restaurant but I need the money so .",
+      "timestamp": "2021-06-14T12:09:02",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 457,
+      "text": "I am exhausted from working late last night . I am opening today at my second job today . Was difficult to fall and stay asleep last night . Feeling very sluggish today . I have to close again so I am anxious about that because I am so tired",
+      "timestamp": "2022-02-16T10:05:52",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 458,
+      "text": "I am feeling less tired than earlier this morning . I have a little more energy going into my shift . I also feel a little less anxious about my upcoming work shift tonight . Overall pretty neutral though",
+      "timestamp": "2022-02-16T16:34:30",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 459,
+      "text": "I am tired and having anxiety feeling very anxious . I am off today so that is helpful . I am a little jittery feel unable to relax . My head feels empty which is causing more anxiety . I will most likely drink today .",
+      "timestamp": "2022-02-17T12:06:21",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 460,
+      "text": "I am exciting because I am off tonight . I am going out . I will be drinking but I do not have an urge to drink . It\u2019s a special occasion . I am happy and calm and peaceful for not having to go into work tonigh",
+      "timestamp": "2022-02-17T15:16:07",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 461,
+      "text": "I drank too much last night and I have anxiety and am very uncomfortable . I have to work both jobs today I\u2019m exhausted . I have such bad anxiety and the thought of going into work sucks . Jittery and tired and anxious",
+      "timestamp": "2022-02-18T10:01:18",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 462,
+      "text": "I had a good day at my first job . Had a cup of coffee feeling good more energized . My anxiety has gone away . I am ready and feeling energized for my closing shift at the restaurant . Anxiety is like a 2 compared to a 7 this morning",
+      "timestamp": "2022-02-18T15:27:03",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 463,
+      "text": "Just finished my night shift . I am tired but I have a lot of energy . It was a good shift no annoying customers . Easy Friday excited to go home . I am hungry and ready to go home and get into bed . I hate having late dinner though",
+      "timestamp": "2022-02-18T21:56:30",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 464,
+      "text": "I\u2019m excited today because I am moving . I\u2019m at my baseline for anxiety and feeling nervous as well as stressed . I do have to opne the restaurant today so that is bothering me because I want to pack and move but overall happy",
+      "timestamp": "2022-02-19T10:04:46",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 465,
+      "text": "I\u2019m at work had a good morning I feel energized and excited and ready to get Saturday over with . I am not anxious or nervous . I\u2019m sure I will crash sooon but for now I am in a great mood . No jitters or baseline anxiety is low",
+      "timestamp": "2022-02-19T15:21:06",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 466,
+      "text": "I am so happy to be at work right now . What an easy night I had . I loved work tonight . Small section good tips no reason not to be happy . No anxiety and I don\u2019t feel like drinking but I might have some wine",
+      "timestamp": "2022-02-19T21:11:38",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 467,
+      "text": "I\u2019m moving today and my family is here helping me so that is exciting . I don\u2019t have to work the restaurant it\u2019s closed Sunday . I do have my second job at 3 which is annoying since I have to move but I feel fine excited",
+      "timestamp": "2022-02-20T10:04:37",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 468,
+      "text": "I\u2019m going into work my second job right now I forgot I picked up a shift moved all morning nervous about my new apartment I\u2019m also exhausted and hate that I have to work again all week starting to resent the restaurant t",
+      "timestamp": "2022-02-20T15:01:24",
+      "order": 15,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 469,
+      "text": "I just finished work I am feeling pretty exhausted mentally and physically . I just want to go to sleep but I have a million more this to do . Feeling anxious about next week but I\u2019m ahead on work for my non restaurant job so that helps",
+      "timestamp": "2022-02-20T20:04:48",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 470,
+      "text": "I am exhausted I packed and moved all night and had to work in between that . I am emotionally drained from personal stuff however my anxiety is pretty low I\u2019d say a 3 . I\u2019m headed into work now than off tonight so that\u2019s good",
+      "timestamp": "2022-02-21T10:02:28",
+      "order": 17,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 471,
+      "text": "I feel fine I\u2019m out to eat with my friends I don\u2019t have   to go into the the restaurant tonight since they are closed . I didn\u2019t work this morning at my second job but it wasn\u2019t bad I only saw a few patients . I have to finish moving tonight I nervous",
+      "timestamp": "2022-02-21T15:10:39",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 472,
+      "text": "I\u2019m sad I am moving out and going through a breakup and haven\u2019t been able to take a day off . I have so much stuff and it\u2019s taking me forever to get everything out of my old apartment . I\u2019m just wxhausted",
+      "timestamp": "2022-02-22T10:16:59",
+      "order": 19,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 473,
+      "text": "I\u2019m exhausted we had a front of the house work meeting early today . So I was in two hours before start time and had a quiz I\u2019m still in the middle of moving it just tired . Now I have to work the whole shift I\u2019m kind of annoyed today",
+      "timestamp": "2022-02-22T15:28:13",
+      "order": 20,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 474,
+      "text": "I don\u2019t really feel anything not happy or sad or nervous . I don\u2019t have any energy I am very tired I guess that is all I feel right now . Shift is almost over it was a slow night not a lot of tips bc it is raining and my next two days are super busy so I\u2019m just blah",
+      "timestamp": "2022-02-22T20:35:45",
+      "order": 21,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 475,
+      "text": "I\u2019m pretty neutral feeling right now . I am at my first job of the day . I have to open the restaurant which I normally close so I get a break in between so that\u2019s annoying . I\u2019m fine though my normal amount of exhaustion",
+      "timestamp": "2022-02-23T10:01:15",
+      "order": 22,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 476,
+      "text": "I\u2019m feeling fine overall . I moved more thing into my apartment between shift . I am at work now had to open alone that was a pain but whatever . The warm weather is making everything feel better so I\u2019m not mad or happy just fine",
+      "timestamp": "2022-02-23T15:08:16",
+      "order": 23,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 477,
+      "text": "We were shorted staff and it was nice outside so it was so busy I had a huge second I was in the weeds the whole time plus I worked this morning I\u2019m just literally exhausted and I have to finish moving by tomorrow everything sucks I want to go to bed",
+      "timestamp": "2022-02-23T21:07:47",
+      "order": 24,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 478,
+      "text": "I have a headache and I\u2019m kind of tired but I have the night off from the restaurant so I\u2019m in a good mood . Yesterday was so busy so I need a little time off . It\u2019s freezing so that\u2019s annoying but overall I have happy anxiety is pretty low",
+      "timestamp": "2022-02-24T10:32:47",
+      "order": 25,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 479,
+      "text": "I\u2019m fine I\u2019m still at work stressed because we are getting a snow storm soon . I have to finishing moving and I\u2019m out of time . I\u2019m just exhausted and really would love to have one full day off . Anxiety is low I\u2019m more annoyed than anything else",
+      "timestamp": "2022-02-24T15:00:50",
+      "order": 26,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 480,
+      "text": "I\u2019m moving I\u2019m tired and I\u2019m sad . I\u2019m going through a bad breakup I\u2019m exhausted I haven\u2019t had a full day off in like two weeks . I\u2019m stressed because I don\u2019t know what to do with my cats anxiety is like a nine right now \\ n",
+      "timestamp": "2022-02-24T20:02:13",
+      "order": 27,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 443,
+      "text": "Im cold it snowed I just had to clean my car off so i don\u2019t know I don\u2019t really feel anything . Really wanted to drink last night was very stressed out and sad but I didn\u2019t do that feels good . Im just over the winter time . I got paid today so I feel a little better about busting my ass all week",
+      "timestamp": "2022-02-25T10:03:02",
+      "order": 28,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 444,
+      "text": "I\u2019m just feeling a little bit anxious right now . I was a little late for work which shouldn\u2019t matter but since I\u2019m supposed to be getting a promotion all eyes are in me . Plus is snowed it was only 7 minutes I couldn\u2019t find Parking I had to interview someone at . Y other job like I\u2019m just busy and exhausted",
+      "timestamp": "2022-02-25T15:12:37",
+      "order": 29,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 445,
+      "text": "It\u2019s busy at work right now . I took a minute to hide in the bathroom bc it was so hectic . I\u2019m fine though full of energy no anxiety really I don\u2019t really have a second to have anxiety so that\u2019s good I think I\u2019ll have a drink tonight though",
+      "timestamp": "2022-02-25T20:03:18",
+      "order": 30,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 446,
+      "text": "I don\u2019t feel anything . I slept pretty well last night I did have a few drinks so maybe that helped me sleep a little easier . I have a long day ahead of me closing the restaurant than I am off Sunday I\u2019m planning to sleep all day",
+      "timestamp": "2022-02-26T10:21:24",
+      "order": 31,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 447,
+      "text": "I had a wake to go to before work today so that wasn\u2019t great , very upsetting . Anxiety was very high of course . Going into work soon for the closing shift . Than I am off tomorrow which is nice . I don\u2019t really know how to feel at the moment",
+      "timestamp": "2022-02-26T15:01:25",
+      "order": 32,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 448,
+      "text": "I don\u2019t know what I\u2019m feeling I\u2019m busy but the night was a blur this was the first second I stopped since we opened . Today kind of sucked so whatever I\u2019m jsut happy I get to sleep in tomorrow I do feel a little on edge but it\u2019s fine",
+      "timestamp": "2022-02-26T21:37:07",
+      "order": 33,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 449,
+      "text": "I\u2019m exhausted I have a head ache I wish I didn\u2019t drink as much as I did plus I mixed things so I\u2019m not feeling to great . It\u2019s my first full day off in like two weeks and I have to finish moving so I\u2019m just tired",
+      "timestamp": "2022-02-27T10:08:10",
+      "order": 34,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 450,
+      "text": "I\u2019m good I have energy and I\u2019m in a good mood for the most part . My anxiety is low but I am spending a lot of money trying to move into my new place so I\u2019m nervous I\u2019ll need pick up more shifts and have no days off again",
+      "timestamp": "2022-02-27T15:09:16",
+      "order": 35,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 451,
+      "text": "I am not really feeling any emotions right now maybe a little sad but my normal exhaustion I need like a week of sleep anxiety is pretty low maybe a 4 overal a relatively nice day off no complaints just pretty baseline emotion wise",
+      "timestamp": "2022-02-27T20:03:35",
+      "order": 36,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 452,
+      "text": "I\u2019m at my non restaurant job this morning which is annoying because I really just need a day to sleep in . I\u2019m all done moving so that is exciting but I\u2019m just like very very exhausted . No anxiety or feelings of being nervous",
+      "timestamp": "2022-02-28T10:27:16",
+      "order": 37,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 453,
+      "text": "I just left work I\u2019m drained it was an exhausting day I had a lot of patients to see . I\u2019m glad I don\u2019t have to go into the restaurant tonight I just need a good nights sleep that\u2019s all but like mentally physically drained",
+      "timestamp": "2022-02-28T15:00:39",
+      "order": 38,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 454,
+      "text": "I\u2019m cleaning a little I don\u2019t really know what I feel . Just like content fine I\u2019m probably sad but I took a little nap so that helped I have so much cleaning in this apartment to do I get some extra days off this week so that will help my mood",
+      "timestamp": "2022-02-28T20:28:30",
+      "order": 39,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 455,
+      "text": "I\u2019m my usually exhaustion I just moved so I\u2019m not sleeping well it\u2019s a little creepy being in a new place . I was late to work today so now my whole day is behind . I\u2019m closing the restaurant tonight I\u2019m praying it won\u2019t be busy but I\u2019m sure it will be whatever I\u2019m just tiewd",
+      "timestamp": "2022-03-01T15:01:14",
+      "order": 40,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 456,
+      "text": "It\u2019s a busy night at work I am kind of anxious and nervous I\u2019m not sure why . I think I had too much caffeine . I\u2019m still tired I\u2019m starting to make mistakes . I\u2019ll probably have one drink tonight I sleep better",
+      "timestamp": "2022-03-01T20:04:34",
+      "order": 41,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 490,
+      "text": "I\u2019m exhausted but in a good way , I\u2019ve been exercising before work to try and calm my anxiety . Work is like busy but steady I have a second right now to do my survey . I\u2019m always sad but I\u2019m going through a break up so",
+      "timestamp": "2022-04-20T20:26:00",
+      "order": 42,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 491,
+      "text": "I just woke up I had a few drinks last night but I feel fine . I have to work today but not until 5 . I haven\u2019t drank in a while so I got a little buzzed but nothing too crazy . I don\u2019t really have any anxiety right now",
+      "timestamp": "2022-04-21T10:00:00",
+      "order": 43,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 492,
+      "text": "I\u2019m good jsut went to pottery switched my shift so I\u2019d have more time in the morning to get things done . So I am closing tonight but who cares . I\u2019m usually off so this is an extra shift I needed the money",
+      "timestamp": "2022-04-21T15:10:00",
+      "order": 44,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 493,
+      "text": "I got attacked by a cat . I\u2019m tired work is steady busy this is usually my day off but I needed the money so whatever . I\u2019m jsut stressed in my normal life I guess it\u2019s a good escape to be extra busy so I don\u2019t mind that I picked up a shift",
+      "timestamp": "2022-04-21T20:53:00",
+      "order": 45,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 494,
+      "text": "I\u2019m sad but it\u2019s fine , going it o work today I\u2019m opening so hopefully I won\u2019t be there too late . It\u2019s getting way busier though but I need the money I guess . I\u2019m exhausted last night wasn\u2019t busy just long .",
+      "timestamp": "2022-04-22T10:14:00",
+      "order": 46,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 495,
+      "text": "I\u2019m fine at at work now opening going to be a busy night but it\u2019s whatever . Went to the gym this morning so that helped with anxiety it is Friday I might drink tonight but I\u2019m not sure yet we\u2019ll see how the day goes",
+      "timestamp": "2022-04-22T15:15:00",
+      "order": 47,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 496,
+      "text": "It was a good shift I feel good is actually have alot of e energy it was so busy but I didn\u2019t really care . I do think I\u2019m going to drink tonight but I\u2019m not sure yet because tomorrow is going to be even busier",
+      "timestamp": "2022-04-22T22:02:00",
+      "order": 48,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 497,
+      "text": "Just woke up I didn\u2019t drink after work but I had a beer when I went home , like half a beer I didn\u2019t actually finish it . I\u2019m tired but I\u2019m going to go to the gym before work . It\u2019s going to be insanely busy tonight",
+      "timestamp": "2022-04-23T10:12:00",
+      "order": 49,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 498,
+      "text": "I\u2019m tired I ran errands today and spent too much money . Eating now before work bc I won\u2019t eat again until probably midnight . I really don\u2019t feel like working tonight it\u2019s going to be so busy , also training a lot of new people is draining",
+      "timestamp": "2022-04-23T15:13:00",
+      "order": 50,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 499,
+      "text": "It was pretty steady and busy . I\u2019m exhausted my back is killing me I trained someone tonight but they did a good job so they were actually helpful . Everything was fine I\u2019m going out tonight after work",
+      "timestamp": "2022-04-23T22:06:00",
+      "order": 51,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 500,
+      "text": "I went out last night after work with co workers we went to the bar than a friends bow I drank quite a bit . I feel fine though might need a nap later n anxiety or anything yet but who knows . Also no work until Tuesday so that\u2019s good",
+      "timestamp": "2022-04-24T10:01:00",
+      "order": 52,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 501,
+      "text": "I\u2019m exhausted I was out for like two days straight . I regret drinking that much but whatever . I\u2019m off today so I\u2019m going to relax and do some cleaning . I\u2019m having a lot of anxiety feelinn very anxious",
+      "timestamp": "2022-04-25T11:05:00",
+      "order": 53,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 502,
+      "text": "I\u2019m exhausted I\u2019m tired I drank for two days in a row which was stupid . I got in an argument with someone from work over something stupid . I\u2019m just sad I\u2019ve been in bed all day which is whatever I have work tomorrow",
+      "timestamp": "2022-04-25T20:01:00",
+      "order": 54,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 503,
+      "text": "Weird vibe at work today . Got in a fight with ORG sous chef drinking over the weekend so that\u2019s kind of uncomfortable , had a bad panic attack last night so I\u2019m just overall exhausted mentally and physically but work should be slow",
+      "timestamp": "2022-04-26T15:46:00",
+      "order": 55,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 504,
+      "text": "Just tired at work today , I had a huge section it was way busier than expected so I had 8 full hackers with liken two turns and I was so drained from yesterday but whatever it\u2019s slowing down now so I\u2019ll be fine",
+      "timestamp": "2022-04-26T20:52:00",
+      "order": 56,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 505,
+      "text": "I\u2019m up early I didn\u2019t drink last night I actually got out of work early and went to bed at a normal time . This week is just going to be rough , but I\u2019ll be fine . Work is actually a good escape these days",
+      "timestamp": "2022-04-27T10:01:00",
+      "order": 57,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 506,
+      "text": "I\u2019m off today , I\u2019m going to the gym than I have my art class and than I have dinner with my grandma at the place I work . Should be a nice little day I\u2019m also going to do some laundry and clean my apartment stuff I have been putting off . I\u2019m good though",
+      "timestamp": "2022-04-28T10:55:00",
+      "order": 58,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 507,
+      "text": "I didn\u2019t work today . I did go out to dinner with my grandma so that was cute . I\u2019m just doing chores and watching tv . I feel content I\u2019m not really nervous or jittery . I had a glass of wine with dinner but that\u2019s it",
+      "timestamp": "2022-04-28T20:29:00",
+      "order": 59,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 481,
+      "text": "I literally just woke up . I overslept I was supposed to be up earlier and get some stuff done before work but whatever . I haven\u2019t been sleeping well at all not sure why . I\u2019m not in the mood to go to work but it\u2019ll be fine",
+      "timestamp": "2022-04-29T10:25:00",
+      "order": 60,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 482,
+      "text": "I\u2019m fine I guess . I\u2019m at work now I opened today with someone else so it wasn\u2019t as much work . I ordered food so at least I ate something before my shift . Going to be a busy night we have an extra server   though so it\u2019ll be all okay",
+      "timestamp": "2022-04-29T15:53:00",
+      "order": 61,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 483,
+      "text": "I just get sad randomly I never know when it\u2019ll happen . I am going through a break up . I love the people I work with but like I wish I had more weekend time that I wasn\u2019t at work . It\u2019s so hard to have a normal life",
+      "timestamp": "2022-04-29T21:23:00",
+      "order": 62,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    }
+  ]
+}

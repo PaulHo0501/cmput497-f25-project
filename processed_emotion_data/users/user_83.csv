@@ -1,0 +1,35 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+5275,"Calm , Tired , Lazy , Content , Relaxed",2024-07-27T12:01:56,0,1.0,0.0,7,True
+5276,"Relaxed , Excited , Calm , Content , Happy",2024-07-27T22:28:03,1,1.0,0.0,7,True
+5277,"Relaxed , Sad , Tired , Depleted , Neutral",2024-07-28T22:21:29,2,0.0,1.0,7,True
+5278,"I feel very tired and sad today . I didn’t sleep well last night , I was up from about one to four AM . I had a lot of anxiety and decided to just finish the book I was reading . Thankfully I eventually went back to sleep , but slept in late today and had to miss my Pilates class . I feel a bit overwhelmed but will just concentrate on my work today .",2024-07-29T12:48:45,3,-1.0,1.0,7,False
+5279,"Tired , Fine , Neutral , Calm , Sad",2024-07-29T17:04:54,4,0.0,0.0,7,True
+5280,"Calm , Content , Satisfied , Tired , Chill",2024-07-29T22:11:21,5,0.0,1.0,7,True
+5281,"Exhausted , Unmotivated , Sluggish , Quiet , Bored",2024-07-30T12:04:27,6,-2.0,0.0,7,True
+5282,"Satisfied , Achieved , Tired , Calm , Content",2024-07-30T17:05:05,7,1.0,0.0,7,True
+5283,"Content , Happy , Tired , Calm , Quiet",2024-07-30T22:12:01,8,0.0,0.0,7,True
+5284,I feel good about myself today . I woke up very tired but motivated myself to wake up early and exercise before I volunteered with my cats . I also have therapy today so I’m feeling much more manageable about things .,2024-07-31T12:26:38,9,1.0,1.0,7,False
+5285,"I feel more calm and content than I did earlier today . I feel accomplished with all I’ve accomplished lately and excited for the future , even though some things can feel overwhelming at times . I am confident they will get better .",2024-07-31T17:13:52,10,1.0,1.0,7,False
+5286,"I feel calm and satisfied from the day . I got a lot done and ended the day by going to my favorite grocery store , ORG with my partner . We had a great time laughing and joking together . Now it feels good to rest at home .",2024-07-31T22:04:44,11,1.0,0.0,7,False
+5287,"Tired , Calm , Satisfied , Confident , Neutral",2024-08-01T12:11:56,12,0.0,0.0,7,True
+1,"Relaxed , Calm , Fulfilled , Sleepy , Content",2024-08-01T22:04:51,13,2.0,0.0,7,True
+2,"Unfocused , Jittery , Disorganized , Tired , Worried",2024-08-02T12:11:15,14,-1.0,2.0,7,True
+3,"Proud , Satisfied , Content , Relaxed , Happy",2024-08-02T17:14:29,15,1.0,0.0,7,True
+4,I feel very satisfied with everything I achieved today . I got a lot of work done and even booked an upcoming trip next month with my fiance . It feels nice to take the Friday evening to relax and watch a documentary .,2024-08-02T22:00:54,16,2.0,0.0,7,False
+5,"Tired , Hopeful , Relaxed , Excited , Content",2024-08-03T12:35:09,17,0.0,0.0,7,True
+6,I feel quite tired now but satisfied . I spent longer than I intended to at my sisters house and I am getting home later than I had planned . It is not a big deal but I am worried that there may be leaks in my apartment since it rained so much . But I try not to worry so much about what I can not control .,2024-08-03T22:08:43,18,0.0,0.0,7,False
+7,I feel pretty good today . I like to have Sundays as a day to rest and recharge for the week . I slept very well last night and I’m looking forward to watching movies today with my fiancé . I feel like it is a well deserved rest day .,2024-08-04T12:15:19,19,1.0,0.0,7,False
+8,I feel good and relaxed today . I am just chilling and watching movies together with my fiancé . It is also nice to cuddle with my cats . It feels like a nice break to not have much to do today . I love to have a relaxing Sunday at home .,2024-08-04T17:06:29,20,0.0,0.0,7,False
+9,"Relaxed , Sluggish , Calm , Content , Optimistic",2024-08-04T22:11:07,21,-1.0,0.0,7,True
+10,"Content , Motivated , Optimistic , Energetic , Hopeful",2024-08-05T12:07:20,22,1.0,1.0,7,True
+12,I am feeling good right now . I got a lot of cleaning done before I have to go to a focus group in the city later this evening . I woke up at about 5 AM today but felt well rested and got an early head start on the work I had to do .,2024-08-05T17:20:05,23,1.0,2.0,7,False
+13,"Accomplished , Content , Tired , Relaxed , Hopeful",2024-08-05T22:04:57,24,-1.0,0.0,7,True
+14,"Secure , Excited , Content , Hopeful , Centered",2024-08-06T12:42:26,25,1.0,1.0,7,True
+15,I feel very relaxed and happy right now . I had a few meetings this morning and felt like I had a productive day and I woke up early again now I have a chance to relax with my fiancé while we watch our favorite show on TV .,2024-08-06T17:26:52,26,2.0,0.0,7,False
+16,I had a very nice day today . It was a great combination of productivity and relaxing . I had a wonderful time chilling with my fiancé and watching our favorite shows together . I am looking forward to having another great day tomorrow .,2024-08-06T22:01:46,27,2.0,0.0,7,False
+17,I feel good right now . I am a bit tired but I am in a pleasant mood and just had therapy . I am also going out to dinner tonight with my fiancé to a restaurant we are excited to try called ORG   . I had a productive morning and went to ORG and did my volunteering .,2024-08-07T17:21:58,28,1.0,0.0,7,False
+18,"Happy , Content , Special , Calm , Excited",2024-08-07T22:30:57,29,2.0,0.0,7,True
+19,"Achieved , Calm , Content , Relaxed , Peaceful",2024-08-08T17:10:03,30,1.0,0.0,7,True
+20,"Content , Calm , Relaxed , Happy , Relieved",2024-08-08T22:21:20,31,2.0,0.0,7,True
+21,"Relieved , Content , Calm , Loved , Lucky",2024-08-09T12:09:19,32,1.0,1.0,7,True
+206,"I am feeling good right now . I woke up feeling very tired this morning , but I ended up having a productive day by getting my bloodwork done and going shopping for an interview I have next week . I feel sleepy right now but relaxed .",2024-08-09T17:00:26,33,-1.0,0.0,7,False

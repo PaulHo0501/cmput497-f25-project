@@ -1,0 +1,108 @@
+[ENTRY_2090] Tired , Not motivated , Lazy , Happy , Sad
+[ENTRY_2091] Tired , Anxious , Sad , Happy , Depressed
+[ENTRY_2092] Sad , Anxious , Happy , Restless , Tired
+[ENTRY_2093] Happy , Tired , Anxious , Neutral , Calm
+[ENTRY_2094] Calm , Happy , Mad , Excited , Anxious
+[ENTRY_2095] Happy , Excited , Anxious , Sleepy , Tired
+[ENTRY_2096] Happy , Excited , Calm , Tired , Hopeful
+[ENTRY_2097] Tired , Anxious , Happy , Sad , Mad
+[ENTRY_2084] Happy , Anxious , In pain , Sad , Neutral
+[ENTRY_2085] Happy , Sad , Mad , Anxious , Tired
+[ENTRY_2086] Happy , Irritated , Sad , Mad , Neutral
+[ENTRY_2087] Mad , Angry , Anxious , Happy , Sad
+[ENTRY_2088] Sleepy , Tired , Sad , Mad , Anxious
+[ENTRY_2089] Happy , Excited , Anxious , Neutral , Sad
+[ENTRY_2115] I did not sleep well so I feel tired . I do not feel like I am read to start the day because I feel sluggish . I feel overwhelmed because I have so much to do today . I wish I would have slept better so I would feel better overall and be ready to tackle the day instead of wanting to stay in bet for the rest of the day .
+[ENTRY_2116] I am feeling pretty happy . After I got ready for the day I felt less sluggish and it’s easier to get everything done that I needed to today . I feel a little tired from not sleeping well But I feel a lot better than I did this morning .
+[ENTRY_2117] I went to the gym after work and made dinner at home so I feel relaxed and accomplished . I feel calmer than I felt in the morning when I woke up because I was stressed out in the morning about the things I have to accomplish all through the day .
+[ENTRY_2118] I Slept pretty well last night so I feel rested and ready to start my day . I don’t feel as anxious or overwhelmed as I did yesterday . I feel pretty happy and in a good mood and overall just feel good . I feel a lot better than yesterday .
+[ENTRY_2119] I had a productive day and feel pretty happy . I feel like I accomplished a lot today . I feel like a had a great day at work and everything went smooth and everyone was nice and happy . I feel like today was a good day overall .
+[ENTRY_2120] I feel somewhat tired because I went to bed super late . I feel a little sluggish but not too bad to start start my day . I kinda regret going to bed so late just because today will be a long day . Overall I just feel neutral not sad but not too happy either .
+[ENTRY_2121] I feel sluggish and tired . I had a long day at work and regretted going out and staying up too late last night . I wish I had more energy to get things done today . I wish I would have slept a little more and better so I would not feel all day today .
+[ENTRY_2122] I am feeling very neutral , not happy but not sad either . I feel like I have accomplished everything I needed today and can just relax for the night because I’ll have a long weekend ahead of me . I just wish I did not feel as sluggish as I did early in the day .
+[ENTRY_2123] I stayed up fairly late last night to finish my homework but I did sleep pretty good so I woke up rested and content . I feel calm and pretty happy and feel like I’m ready to tackle the day . On the weekends I always have a ton of errands and things to do but I’m not anxious or anything today because I slept well last night .
+[ENTRY_2124] I had a long day at work so I just feel sluggish and tired . I feel like today was just crazy busy and I had to deal with a lot which made me feel sluggish and tired . My mood overall is kind of neutral because I am not sad but I’m not very happy either .
+[ENTRY_2125] I have been cleaning my house after work so I just feel very neutral and relaxed . I am not feeling anxious or anything just more of a neutral mood and when I feel like that I feel like cleaning is a good relaxation for me .
+[ENTRY_2126] I slept well last night and feel well rested and pretty happy . I am excited for today because I don’t have to work and get to watch football with friends . I got everything that I needed done early in the week so today I just get to relax and enjoy the day .
+[ENTRY_2127] I’m feeling pretty excited to be able to watch the football game so I am pretty happy . I am feeling nervous just because I want my team to win but overall I’m just feeling happy that I got my week done and over with and can relax today .
+[ENTRY_2128] Got to watch my home team win and I am extremely happy about that . I feel very calm and excited because of our hometown football team and their win . I don’t feel anxious or anything just super happ and very excited .
+[ENTRY_2129] I feel super sluggish because I might have eaten something that did not agree with my stomach so I did not sleep well at all and kept getting sick through the night . I feel like I did not drink too much so it had to be the food that I ate . I wish I did not have to work today because I know I’ll feel sluggish all day .
+[ENTRY_2130] I just do not feel good today so I feel very sluggish and tired . I feel like I am just slumping around because I do not feel good and did not sleep well either . I hope I get to go home and relax for awhile after I get off work and maybe I will start feel better .
+[ENTRY_2131] I have not been feeling well today so I am just laying around the house and feel pretty neutral . I hope I feel better tomorrow after getting some sleep so I can get more done with my day than I did today .
+[ENTRY_2132] Had a pretty long day but I just feel pretty neutral . I am not anxious or exhausted just tired from working a lot . I feel like I need to start making time to go to the gym so I would sleep better through the night .
+[ENTRY_2133] I am feeling fine but kind of stuck . We are having a pretty bad snow storm so my work closed so I will just be stuck in the house all day because the roads are prettty bad . My mood is actually pretty good and I am pretty happy .
+[ENTRY_2134] I feel pretty happy and just relaxed . There is a pretty big winter storm so I just get to sit at home all day because my work closed . I haven’t had a nice relaxing day off in awhile so it’s nice to just hang out
+[ENTRY_2135] I just feel very neutral . Did not do a whole lot today because I was just stuck in the house so I just enjoyed the day off and caught up on some house and homework . It has been a very relaxing and quite day so I was just relaxing .
+[ENTRY_2098] I think I might get another snow day because it is still snowing outside today . I haven’t done a whole lot so I just feel calm and content . I feel like it will be a pretty calm weekend so I don’t really have any plans or a whole lot to do .
+[ENTRY_2099] I am stuck in the house for second day in a row so I am just content and calm at my house . I haven’t done a whole lot yesterday or today and I am not used to being lazy for so many days in a row so it is kind of weird but it is nice
+[ENTRY_2100] I am feeling calm and content . The winter storm has finally stopped but it’s still very cold outside and I am just hanging out in the house . I feel pretty calm and relaxed because I haven’t been doing anything for two days .
+[ENTRY_2101] I have just been hanging out at home for a few days so I just feel calm and content . I have to go to work today but I feel pretty good about it just because I haven’t seen anyone in a few days so it will be nice .
+[ENTRY_2102] I am feeling pretty calm and content . I had a pretty easy shift at work and it was nice to see everyone even though it was a little slow . It was kind of weird to have to talk to so many people after I was at home by myself for awhile .
+[ENTRY_2103] It’s been a pretty good day so I am just pretty happy and relaxed . I got most of my house cleaned so that makes me feel more calm when I have my house clean . I’m probably gonna meet some friends later so I’m pretty happy about that .
+[ENTRY_2104] I stayed out super late last night because I was hanging out with friends and having a good time . I woke up super early and could not fall back asleep so I am just tired . I don’t really have a whole lot going on today so I am excited I can lounge around for a while .
+[ENTRY_2105] I’m feeling okay now . It’s a pretty day so that makes me feel happy . I haven’t done a whole lot today so I am just hanging out and doing some homework . It is nice not to have to rush to get things done since I got two days off early in the week .
+[ENTRY_2106] I feel pretty calm and just sleepy . I had a pretty good day just hanging out and not really doing a whole lot so I am just ready for bed and get ready for tomorrow . Today was pretty uneventful just a quiet day .
+[ENTRY_2107] I have a pretty exciting day today so I am pretty happy . I didn’t sleep too great last night so I just feel a little sluggish . I have a lot to do today but I get to go to a pep rally with my friends tonight so I am pretty excited about that .
+[ENTRY_2108] I got to leave work early and hang out with my friends so I am super happy . Our hometown team is going to super bowl so we went to the pep rally and even though it was freezing it was so awesome so I am feeling very happy .
+[ENTRY_2109] I went out to celebrate with a few of my friends last night and had a super fun time I did not really drink a whole lot because we did not stay out long . I did have a beer and two cocktails . I got home early but did not sleep well at all just kept waking up through the night so I just feel super sluggish and sleepy today because I had to be up very early
+[ENTRY_2110] I have been having a pretty rough day and I just feel super tired and very sluggish . I had a long day at school and it is pretty busy at work today as well so I just feel like I am dragging my feet all day .
+[ENTRY_2111] I am just feeling very neutral and relaxed . I had a long day at work and school and I just want to sit down and hang out at the house . I just feel exhausted because I did not get good sleep last night and wish I could have slept better .
+[ENTRY_2112] I feel pretty calm but pretty tired as well . I went to bed fairly early last night but I just kept waking up through the night so I did not get any quality sleep . I don’t have a long day at work so I am not too worried about it .
+[ENTRY_2113] I’m feeling pretty content today but just kind of sluggish . I had a fairly easy day at work so I am not stressed out but just feel super tired today . I was hoping I would feel better in the afternoon so I could go to the gym but I just don’t feel like it .
+[ENTRY_2114] I feel super tired . I did not get great sleep last night so I am just dragging my feet all day today . Even though today was not very busy for me I still feel very sluggish and tired . I hope I get better sleep tonight so I feel better tomorrow .
+[ENTRY_2149] Tired , Sluggish , Neutral , Sleepy , Anxious
+[ENTRY_2150] Neutral , Tired , Sluggish , Happy
+[ENTRY_2151] Tired , Sluggish , Annoyed
+[ENTRY_2152] Neutral , Content , Happy , Tired
+[ENTRY_2153] Happy , Tired , Calm , Content
+[ENTRY_2154] Neutral , Sluggish , Tired , Anxious
+[ENTRY_2155] Calm , Content , Neutral , Sluggish
+[ENTRY_2156] Neutral , Irritated , Sluggish , In pain
+[ENTRY_2157] Tired , Sluggish , In pain , Annoyed
+[ENTRY_2158] Sluggish , Tired , Mad , Sad , Annoyed
+[ENTRY_2159] Sluggish , Tired , Annoyed , Irritated
+[ENTRY_2160] Sluggish , Tired , Neutral
+[ENTRY_2161] Neutral , Quite , Happy , Calm
+[ENTRY_2162] Calm , Happy , Neutral , Content
+[ENTRY_2163] Quite , Content , Tired , Sluggish , Calm
+[ENTRY_2164] Sluggish , Tired , Quite , Content , Calm
+[ENTRY_2165] Tired , Sluggish , Annoyed , Angry , Mad
+[ENTRY_2166] Tired , Sluggish , Neutral , Quite , Tired
+[ENTRY_2167] Calm , Content , Quite , Neutral
+[ENTRY_2168] Content , Calm , Quite , Happy
+[ENTRY_2169] Quite , Calm , Content , Tired , Happy
+[ENTRY_2170] Calm , Content , Quite , Anxious
+[ENTRY_2171] Neutral , Calm , Quite , Happy , Content
+[ENTRY_2172] Quite , Tired , Sluggish , Irritated , Content
+[ENTRY_2173] Calm , Content , Quiet , Anxious , Happy
+[ENTRY_2174] Neutral , Quiet , Calm , Relaxed , Happy
+[ENTRY_2175] Quiet , Tired , Sleepy , Calm , Content
+[ENTRY_2136] Jittery , Nervous , Anxious , Tired , Sluggish
+[ENTRY_2137] Content , Calm , Quiet , Happy , Anxious
+[ENTRY_2138] Nervous , Anxious , Jittery , Annoyed , Angry
+[ENTRY_2139] Calm , Quiet , Content , Anxious , Sluggish
+[ENTRY_2140] Neutral , Anxious , Irritated , Calm , Annoyed
+[ENTRY_2141] Quiet , Sluggish , Tired , Annoyed , Content
+[ENTRY_2142] Sluggish , Tired , Quiet , Content , Calm
+[ENTRY_2143] Sluggish , Tired , Sleepy , Quiet , Calm
+[ENTRY_2144] Calm , Quiet , Content , Tired , Sluggish
+[ENTRY_2145] Happy , Excited , Content , Quiet , Calm
+[ENTRY_2146] Quiet , Tired , Calm , Sleepy , Anxious
+[ENTRY_2147] Sluggish , Tired , Anxious , Jittery , Irritated
+[ENTRY_2148] Active , Anxious , Jittery , Tired , Sluggish
+[ENTRY_2193] Tired , Neutral , Sleepy , Achy , Exhausted
+[ENTRY_2194] Tired , Sleepy , Sluggish , Irritated , Sad
+[ENTRY_2195] Sluggish , Tired , Irritated , Annoyed , Sleepy
+[ENTRY_2196] Tired , Sleepy , Sluggish , Calm , Sad
+[ENTRY_2197] Sluggish , Tired , Annoyed , Mad , Frustrated
+[ENTRY_2198] Tired , Bored , Sleepy , Annoyed , Neutral
+[ENTRY_2199] Sluggish , Tired , Drowsy , Fatigued , Sleepy
+[ENTRY_2200] Content , Tired , Sleepy , Sluggish , Fatigued
+[ENTRY_2201] Quiet , Content , Annoyed , Irritated , Tired
+[ENTRY_2202] Neutral , Frustrated , Annoyed , Exhausted , Tired
+[ENTRY_2203] Tired , Sleepy , Sluggish , Annoyed , Mad
+[ENTRY_2204] Annoyed , Mad , Angry , Tired , Sluggish
+[ENTRY_2205] Sad , Mad , Irritated , Annoyed , Tired
+[ENTRY_2206] Mad , Annoyed , Angry , Tired , Irritated
+[ENTRY_2207] Sad , Tired , Sluggish , Fatigued , Sleepy
+[ENTRY_2208] Tired , Sluggish , Sleepy , Neutral , Irritated

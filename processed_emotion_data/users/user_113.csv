@@ -1,0 +1,12 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2046,"Tired , Happy , Calm , Stressed , Anxious",2024-10-29T12:09:25,0,2.0,0.0,7,True
+2047,"Busy , Slightly tired , Calm , Nervous , Happy",2024-10-29T17:04:38,1,0.0,1.0,7,True
+2048,"Hungry , Tired , Stressed , nervous , Happy",2024-10-29T22:05:58,2,-1.0,0.0,7,True
+2049,"Nervous , Tired , Hungry , Happy , Calm",2024-10-30T12:16:05,3,1.0,1.0,7,True
+2050,"Nervous , Anxious , Jittery , Happy , Tired",2024-10-30T17:02:29,4,-1.0,2.0,7,True
+2051,"Bored , Tired , Calm , Neutral , Happy",2024-10-31T12:05:12,5,0.0,1.0,7,True
+2052,"exhausted , Sore , Full , Sleepy , Calm",2024-10-31T17:18:52,6,-1.0,0.0,7,True
+2054,"Nauseous , Tired , Sleepy , Calm , Sluggish",2024-10-31T22:03:06,7,-1.0,0.0,7,True
+2055,"I feel tired since I’m currently at work . I also feel sore because of neck pain . Otherwise , I feel neutral . I am a bit stressed with my school life because I have midterms and a lot of assignments due .",2024-11-01T12:17:19,8,0.0,0.0,7,False
+2056,I am currently at work so I feel a bit tired but my coworker is keeping me awake . I feel a little but hungry . I also feel a bit stressed because I know I have school work to do after work .,2024-11-01T17:04:05,9,-1.0,0.0,7,False
+2057,"Tired , Full , Calm , Happy , Neutral",2024-11-01T22:02:59,10,-1.0,0.0,7,True
