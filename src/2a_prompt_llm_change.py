@@ -84,7 +84,6 @@ def evaluate_subtask2a(args):
     OUTPUTS_PATH.mkdir(parents=True, exist_ok=True)
     LOGS_PATH.mkdir(parents=True, exist_ok=True)
     
-    # Sort by user_id and text_id to ensure correct order
     df = df.sort_values(['user_id', 'text_id']).reset_index(drop=True)
     
     model, tokenizer = prepare_model()
@@ -94,19 +93,14 @@ def evaluate_subtask2a(args):
     print(f"Total rows in dataset: {len(df)}")
     
     with open(LOGS_PATH/"subtask2a.txt", 'w', encoding='utf-8') as log_file:
-        # Iterate through all rows (each row represents text_2, compare with previous row as text_1)
         for idx in tqdm(range(len(df)), desc="Processing rows"):
             row = df.iloc[idx]
             
-            # Get current text info (this is TEXT 2)
             text_2 = row['text']
             user_id = row['user_id']
             text_id_2 = row['text_id']
             
-            # Get previous text info (this is TEXT 1)
-            # Use the valence and arousal from the PREVIOUS row
             if idx == 0:
-                # First row has no previous, skip or use dummy values
                 change_text = "0.0, 0.0"
                 all_changes.append(change_text)
                 
@@ -118,9 +112,7 @@ def evaluate_subtask2a(args):
             
             prev_row = df.iloc[idx - 1]
             
-            # Check if same user (consecutive texts from same user)
             if prev_row['user_id'] != user_id:
-                # Different user, this is first text for new user
                 change_text = "0.0, 0.0"
                 all_changes.append(change_text)
                 
@@ -133,7 +125,6 @@ def evaluate_subtask2a(args):
                     break
                 continue
             
-            # Get TEXT 1 info from previous row
             text_1 = prev_row['text']
             valence_1 = prev_row['valence']
             arousal_1 = prev_row['arousal']
@@ -189,18 +180,15 @@ def evaluate_subtask2a(args):
             else:
                 change_text = score_text_match.group(1).strip()
                 
-                # Remove labels if present
                 change_text = re.sub(r'valence_change:\s*', '', change_text)
                 change_text = re.sub(r'arousal_change:\s*', '', change_text)
                 change_text = change_text.strip()
                 
-                # Validate we have 2 values
                 changes_list = [s.strip() for s in change_text.split(',')]
                 if len(changes_list) != 2:
                     print(f"Warning: Expected 2 changes for row {idx}, got {len(changes_list)}")
                     print(f"Changes: {change_text}")
                 else:
-                    # Validate range (-4 to +4)
                     try:
                         valence_change = float(changes_list[0])
                         arousal_change = float(changes_list[1])

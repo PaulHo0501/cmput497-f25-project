@@ -90,13 +90,11 @@ def evaluate_per_sentence(args):
         for text in tqdm(texts, desc="Evaluating sentences"):
             prompt = PER_SENTENCE_PROMPT_TEMPLATE.format(**PER_SENTENCE_RUBRICS, response=text)
             
-            # Phi-4-mini uses chat format
             messages = [
                 {"role": "system", "content": "You are a helpful AI assistant that evaluates text."},
                 {"role": "user", "content": prompt}
             ]
             
-            # Apply chat template
             chat_text = tokenizer.apply_chat_template(
                 messages,
                 tokenize=False,
@@ -193,7 +191,6 @@ def evaluate_per_user(args):
             len_text = len(text_list)
             total_scores = len_text * 2
             
-            # Create numbered list of texts
             numbered_responses = "\n\n".join([f"{i+1}. {text}" for i, text in enumerate(text_list)])
             
             prompt = PER_USER_PROMPT_TEMPLATE.format(
@@ -238,10 +235,8 @@ def evaluate_per_user(args):
             else:
                 score_text = score_text_match.group(1).strip()
                 
-                # Parse the scores and validate count
                 scores_list = [s.strip() for s in score_text.split(',')]
                 
-                # Check if we have the right number of scores
                 if len(scores_list) != total_scores:
                     print(f"Warning: Expected {total_scores} scores for user {user_id}, got {len(scores_list)}")
                     print(f"Scores: {score_text}")

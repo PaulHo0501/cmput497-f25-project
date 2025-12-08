@@ -6,14 +6,14 @@ SUBTASK1_DATAPATH = './data/train_subtask1.csv'
 SUBTASK2B_DATAPATH = './data/train_subtask2b.csv'
 SUBTASK2A_DATAPATH = './data/train_subtask2a.csv'
 
+# Change the files here for direct and indirect llm
 SUBTASK1A_PREDICTION_DATA = './outputs/subtask1_per_sentence.txt'
 SUBTASK1B_PREDICTION_DATA = './outputs/subtask1_per_user.txt'
-SUBTASK2A_PREDICTION_DATA = './outputs/subtask2a_avg.txt'
-SUBTASK2B_PREDICTION_DATA = './outputs/subtask2b_avg.txt'
+SUBTASK2A_PREDICTION_DATA = './outputs/subtask2a_change.txt'
+SUBTASK2B_PREDICTION_DATA = './outputs/subtask2b_change.txt'
 
 
 def read_data_pd(data_path, include_user_id=False):
-    # Read valence, arousal, and optionally user_id
     if include_user_id:
         return pd.read_csv(data_path, usecols=['user_id', 'valence', 'arousal'])
     else:
@@ -33,15 +33,12 @@ def mse_eval(task, checklist, predict_list):
     return result
     
 def mse_eval_1a(checklist, predict_list):
-    # Convert predictions to numpy arrays
     pred_valence = np.array(predict_list['valence'], dtype=float)
     pred_arousal = np.array(predict_list['arousal'], dtype=float)
     
-    # Get ground truth values
     true_valence = checklist['valence'].values
     true_arousal = checklist['arousal'].values
     
-    # Check if lengths match
     if len(pred_valence) != len(true_valence):
         raise ValueError(f"Length mismatch: predictions ({len(pred_valence)}) vs ground truth ({len(true_valence)})")
     
@@ -53,7 +50,6 @@ def mse_eval_1a(checklist, predict_list):
     rmse_valence = np.sqrt(mse_valence)
     rmse_arousal = np.sqrt(mse_arousal)
     
-    # Calculate average MSE and RMSE
     avg_mse = (mse_valence + mse_arousal) / 2
     avg_rmse = (rmse_valence + rmse_arousal) / 2
     
@@ -79,7 +75,6 @@ def mse_eval_1b(checklist, predict_list):
     skipped_users = []
     truncated_users = []
     
-    # Iterate through all users
     for user_id in checklist.keys():
         if user_id not in predict_list:
             # print(f"Warning: User {user_id} not found in predictions, skipping...")
@@ -115,15 +110,14 @@ def mse_eval_1b(checklist, predict_list):
     all_pred_arousal = np.array(all_pred_arousal, dtype=float)
     all_true_arousal = np.array(all_true_arousal, dtype=float)
     
-    # Calculate MSE
+    # MSE
     mse_valence = np.mean((all_pred_valence - all_true_valence) ** 2)
     mse_arousal = np.mean((all_pred_arousal - all_true_arousal) ** 2)
     
-    # Calculate RMSE
+    # RMSE
     rmse_valence = np.sqrt(mse_valence)
     rmse_arousal = np.sqrt(mse_arousal)
     
-    # Calculate average MSE and RMSE
     avg_mse = (mse_valence + mse_arousal) / 2
     avg_rmse = (rmse_valence + rmse_arousal) / 2
     
@@ -143,15 +137,12 @@ def mse_eval_1b(checklist, predict_list):
     return results
 
 def mse_eval_2a(checklist_changes, predict_changes):
-    # Convert predictions to numpy arrays
     pred_delta_valence = np.array(predict_changes['delta_valence'], dtype=float)
     pred_delta_arousal = np.array(predict_changes['delta_arousal'], dtype=float)
     
-    # Get ground truth changes
     true_delta_valence = np.array(checklist_changes['delta_valence'], dtype=float)
     true_delta_arousal = np.array(checklist_changes['delta_arousal'], dtype=float)
     
-    # Remove NaN values
     valid_mask = ~(np.isnan(pred_delta_valence) | np.isnan(pred_delta_arousal) | 
                    np.isnan(true_delta_valence) | np.isnan(true_delta_arousal))
     
@@ -160,22 +151,18 @@ def mse_eval_2a(checklist_changes, predict_changes):
     true_delta_valence = true_delta_valence[valid_mask]
     true_delta_arousal = true_delta_arousal[valid_mask]
     
-    # Check if lengths match
     if len(pred_delta_valence) != len(true_delta_valence):
         raise ValueError(f"Length mismatch: predictions ({len(pred_delta_valence)}) vs ground truth ({len(true_delta_valence)})")
     
     if len(pred_delta_valence) == 0:
         raise ValueError("No valid predictions after removing NaN values")
     
-    # Calculate MSE on CHANGES
     mse_valence = np.mean((pred_delta_valence - true_delta_valence) ** 2)
     mse_arousal = np.mean((pred_delta_arousal - true_delta_arousal) ** 2)
     
-    # Calculate RMSE
     rmse_valence = np.sqrt(mse_valence)
     rmse_arousal = np.sqrt(mse_arousal)
     
-    # Calculate average MSE and RMSE
     avg_mse = (mse_valence + mse_arousal) / 2
     avg_rmse = (rmse_valence + rmse_arousal) / 2
     
@@ -200,7 +187,6 @@ def mse_eval_2b(checklist_changes, predict_changes):
     
     skipped_users = []
     
-    # Iterate through all users
     for user_id in checklist_changes.keys():
         if user_id not in predict_changes:
             skipped_users.append(user_id)
@@ -211,7 +197,7 @@ def mse_eval_2b(checklist_changes, predict_changes):
         pred_delta_valence = predict_changes[user_id]['delta_valence']
         pred_delta_arousal = predict_changes[user_id]['delta_arousal']
         
-        # For Subtask 2B, each user should have exactly a change value
+        # For Subtask 2B
         if isinstance(true_delta_valence, list):
             if len(true_delta_valence) > 0:
                 true_delta_valence = true_delta_valence[0]
@@ -228,19 +214,16 @@ def mse_eval_2b(checklist_changes, predict_changes):
                 skipped_users.append(user_id)
                 continue
         
-        # Skip if any value is NaN
         if np.isnan(pred_delta_valence) or np.isnan(pred_delta_arousal) or \
            np.isnan(true_delta_valence) or np.isnan(true_delta_arousal):
             skipped_users.append(user_id)
             continue
         
-        # Accumulate all changes
         all_pred_delta_valence.append(pred_delta_valence)
         all_true_delta_valence.append(true_delta_valence)
         all_pred_delta_arousal.append(pred_delta_arousal)
         all_true_delta_arousal.append(true_delta_arousal)
     
-    # Convert to numpy arrays
     all_pred_delta_valence = np.array(all_pred_delta_valence, dtype=float)
     all_true_delta_valence = np.array(all_true_delta_valence, dtype=float)
     all_pred_delta_arousal = np.array(all_pred_delta_arousal, dtype=float)
@@ -249,15 +232,12 @@ def mse_eval_2b(checklist_changes, predict_changes):
     if len(all_pred_delta_valence) == 0:
         raise ValueError("No valid predictions after filtering")
     
-    # Calculate MSE on CHANGES
     mse_valence = np.mean((all_pred_delta_valence - all_true_delta_valence) ** 2)
     mse_arousal = np.mean((all_pred_delta_arousal - all_true_delta_arousal) ** 2)
     
-    # Calculate RMSE
     rmse_valence = np.sqrt(mse_valence)
     rmse_arousal = np.sqrt(mse_arousal)
     
-    # Calculate average MSE and RMSE
     avg_mse = (mse_valence + mse_arousal) / 2
     avg_rmse = (rmse_valence + rmse_arousal) / 2
     
@@ -276,7 +256,6 @@ def mse_eval_2b(checklist_changes, predict_changes):
 
 
 def main():
-    # Get validation data
     subtask1_data = read_data_pd(SUBTASK1_DATAPATH)
     subtask1_data_with_user = read_data_pd(SUBTASK1_DATAPATH, include_user_id=True)
     subtask2a_data = read_data_pd(SUBTASK2A_DATAPATH)
@@ -361,14 +340,13 @@ def main():
         
         prev_row = subtask2a_data_sorted.iloc[idx - 1]
         
-        # Calculate ground truth change: Δ1 = v_{t+1} - v_t
+        # Δ1 = v_{t+1} - v_t
         gt_delta_valence = row['valence'] - prev_row['valence']
         gt_delta_arousal = row['arousal'] - prev_row['arousal']
         
         gt_delta_valence_2a.append(gt_delta_valence)
         gt_delta_arousal_2a.append(gt_delta_arousal)
     
-    # Read predicted changes
     pred_delta_valence_2a = []
     pred_delta_arousal_2a = []
     skipped_2a = 0
@@ -377,12 +355,10 @@ def main():
         for line_num, line in enumerate(file, 1):
             line = line.strip()
             
-            # Skip lines with |None| or placeholder 0.0, 0.0
             if '|None|' in line:
                 skipped_2a += 1
                 continue
             
-            # Parse the change values
             cleaned_line = re.sub(r'\([^)]*\)', '', line)
             cleaned_line = cleaned_line.strip()
             
@@ -424,12 +400,11 @@ def main():
         if num_texts < 2:
             continue
         
-        # Split in half
         split_point = (num_texts + 1) // 2
         context_group = user_group.iloc[:split_point]
         predict_group = user_group.iloc[split_point:]
         
-        # Calculate ground truth change: Δavg = avg(future) - avg(context)
+        # Δavg = avg(future) - avg(context)
         avg_context_valence = context_group['valence'].mean()
         avg_context_arousal = context_group['arousal'].mean()
         avg_future_valence = predict_group['valence'].mean()
@@ -520,7 +495,6 @@ def main():
     print("=" * 50)
     print()
 
-    # Prepare changes dict for subtask 2a
     checklist_2a_changes = {
         'delta_valence': gt_delta_valence_2a,
         'delta_arousal': gt_delta_arousal_2a
@@ -531,7 +505,6 @@ def main():
         'delta_arousal': pred_delta_arousal_2a
     }
     
-    # Evaluate subtask 2a
     print("=" * 50)
     print("Subtask 2a Evaluation Results (CHANGES)")
     print("=" * 50)
@@ -552,7 +525,6 @@ def main():
     print("=" * 50)
     print()
 
-    # Evaluate subtask 2b
     print("=" * 50)
     print("Subtask 2b Evaluation Results (CHANGES)")
     print("=" * 50)

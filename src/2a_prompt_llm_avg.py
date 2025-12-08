@@ -68,29 +68,24 @@ def evaluate_subtask2a(args):
     OUTPUTS_PATH.mkdir(parents=True, exist_ok=True)
     LOGS_PATH.mkdir(parents=True, exist_ok=True)
     
-    # Sort by user_id and text_id to ensure correct order
     df = df.sort_values(['user_id', 'text_id']).reset_index(drop=True)
     
     model, tokenizer = prepare_model()
     pattern = re.compile(PATTERN)
-    all_predictions = []  # Stores predicted scores
-    all_changes = []  # Stores calculated changes
+    all_predictions = []
+    all_changes = [] 
     
     print(f"Total rows in dataset: {len(df)}")
     
     with open(LOGS_PATH/"subtask2a_avg.txt", 'w', encoding='utf-8') as log_file:
-        # Iterate through all rows (each row represents text_2, compare with previous row as text_1)
         for idx in tqdm(range(len(df)), desc="Processing rows"):
             row = df.iloc[idx]
             
-            # Get current text info (this is TEXT 2)
             text_2 = row['text']
             user_id = row['user_id']
             text_id_2 = row['text_id']
             
-            # Get previous text info (this is TEXT 1)
             if idx == 0:
-                # First row has no previous, use default prediction
                 prediction_text = "0.0, 0.0"
                 change_text = "0.0, 0.0"
                 all_predictions.append(prediction_text)
@@ -104,9 +99,7 @@ def evaluate_subtask2a(args):
             
             prev_row = df.iloc[idx - 1]
             
-            # Check if same user (consecutive texts from same user)
             if prev_row['user_id'] != user_id:
-                # Different user, this is first text for new user
                 prediction_text = "0.0, 0.0"
                 change_text = "0.0, 0.0"
                 all_predictions.append(prediction_text)
@@ -121,7 +114,6 @@ def evaluate_subtask2a(args):
                     break
                 continue
             
-            # Get TEXT 1 info from previous row
             text_1 = prev_row['text']
             valence_1 = prev_row['valence']
             arousal_1 = prev_row['arousal']
@@ -176,21 +168,18 @@ def evaluate_subtask2a(args):
             else:
                 prediction_text = score_text_match.group(1).strip()
                 
-                # Remove labels if present
                 prediction_text = re.sub(r'valence_score[_\d]*:\s*', '', prediction_text)
                 prediction_text = re.sub(r'arousal_score[_\d]*:\s*', '', prediction_text)
                 prediction_text = re.sub(r'valence[_\d]*:\s*', '', prediction_text)
                 prediction_text = re.sub(r'arousal[_\d]*:\s*', '', prediction_text)
                 prediction_text = prediction_text.strip()
                 
-                # Validate we have 2 values
                 predictions_list = [s.strip() for s in prediction_text.split(',')]
                 if len(predictions_list) != 2:
                     print(f"Warning: Expected 2 scores for row {idx}, got {len(predictions_list)}")
                     print(f"Predictions: {prediction_text}")
                     change_text = "|None|"
                 else:
-                    # Validate range (-2 to +2)
                     try:
                         valence_pred = float(predictions_list[0])
                         arousal_pred = float(predictions_list[1])
@@ -224,12 +213,10 @@ def evaluate_subtask2a(args):
                 print(f"Calculated change: {change_text}")
                 break
     
-    # Save predicted scores
     with open(OUTPUTS_PATH/"subtask2a_predicted_scores_avg.txt", 'w', encoding='utf-8') as output_file:
         for prediction in all_predictions:
             output_file.write(f"{prediction}\n")
     
-    # Save calculated changes (this is what we'll evaluate)
     with open(OUTPUTS_PATH/"subtask2a_avg.txt", 'w', encoding='utf-8') as output_file:
         for change in all_changes:
             output_file.write(f"{change}\n")

@@ -71,15 +71,13 @@ def evaluate_subtask2b(args):
     OUTPUTS_PATH.mkdir(parents=True, exist_ok=True)
     LOGS_PATH.mkdir(parents=True, exist_ok=True)
     
-    # Sort by user_id and text_id
     df = df.sort_values(['user_id', 'text_id']).reset_index(drop=True)
     
     model, tokenizer = prepare_model()
     pattern = re.compile(PATTERN)
-    all_predictions = []  # Stores predicted average scores
-    all_changes = []  # Stores calculated dispositional changes
+    all_predictions = []
+    all_changes = []
     
-    # Group by user_id
     grouped = df.groupby('user_id')
     
     print(f"Number of users: {len(grouped)}")
@@ -95,18 +93,15 @@ def evaluate_subtask2b(args):
                 print(f"Warning: User {user_id} has only {num_texts} text(s), skipping")
                 continue
             
-            # Split in half
-            # If odd number (e.g., 5), split as 3 context, 2 predict
-            split_point = (num_texts + 1) // 2 
+            split_point = (num_texts + 1) // 2
             
             context_group = user_group.iloc[:split_point]
             predict_group = user_group.iloc[split_point:]
             
             num_context_texts = len(context_group)
             num_predict_texts = len(predict_group)
-            expected_scores = 2  # avg_valence, avg_arousal
+            expected_scores = 2 
             
-            # Calculate average valence and arousal from context texts
             avg_valence = context_group['valence'].mean()
             avg_arousal = context_group['arousal'].mean()
             
@@ -116,7 +111,6 @@ def evaluate_subtask2b(args):
             log_file.write(f"Context Average - Valence: {avg_valence:.2f}, Arousal: {avg_arousal:.2f}\n")
             log_file.write(f"{'='*70}\n\n")
             
-            # Format context texts with scores
             context_texts_formatted = []
             for idx, row in context_group.iterrows():
                 text_num = idx + 1
@@ -125,7 +119,6 @@ def evaluate_subtask2b(args):
                 )
             context_texts_str = "\n\n".join(context_texts_formatted)
             
-            # Format predict texts (without scores)
             predict_texts_formatted = []
             for i, (idx, row) in enumerate(predict_group.iterrows(), start=1):
                 predict_texts_formatted.append(
@@ -182,7 +175,6 @@ def evaluate_subtask2b(args):
             else:
                 prediction_text = score_text_match.group(1).strip()
                 
-                # Remove labels if present
                 prediction_text = re.sub(r'avg_valence_score[_\d]*:\s*', '', prediction_text)
                 prediction_text = re.sub(r'avg_arousal_score[_\d]*:\s*', '', prediction_text)
                 prediction_text = re.sub(r'valence_score[_\d]*:\s*', '', prediction_text)
@@ -191,14 +183,12 @@ def evaluate_subtask2b(args):
                 prediction_text = re.sub(r'arousal[_\d]*:\s*', '', prediction_text)
                 prediction_text = prediction_text.strip()
                 
-                # Validate we have the right number of scores
                 scores_list = [s.strip() for s in prediction_text.split(',')]
                 if len(scores_list) != expected_scores:
                     print(f"Warning: Expected {expected_scores} scores for user {user_id}, got {len(scores_list)}")
                     print(f"Predictions: {prediction_text}")
                     change_text = "|None|"
                 else:
-                    # Validate range (-2 to +2)
                     try:
                         avg_valence_pred = float(scores_list[0])
                         avg_arousal_pred = float(scores_list[1])
@@ -232,12 +222,10 @@ def evaluate_subtask2b(args):
                 print(f"Calculated change: {change_text}")
                 break
     
-    # Save predicted average scores
     with open(OUTPUTS_PATH/"subtask2b_predicted_scores_avg.txt", 'w', encoding='utf-8') as output_file:
         for prediction in all_predictions:
             output_file.write(f"{prediction}\n")
     
-    # Save calculated dispositional changes (this is what we'll evaluate)
     with open(OUTPUTS_PATH/"subtask2b_avg.txt", 'w', encoding='utf-8') as output_file:
         for change in all_changes:
             output_file.write(f"{change}\n")

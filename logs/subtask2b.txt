@@ -1,4 +1,28 @@
 ======================================================================
+User 12: 6 total texts
+Context: 4 texts, Predict: 2 texts
+Context Average - Valence: 0.50, Arousal: 0.25
+======================================================================
+
+Context Texts:
+Text 1 (Valence: 1.0, Arousal: 0.0):
+I felt surprisingly calm after waking up. Nothing stressful, just an easy morning.
+...
+
+Predict Texts:
+Text 5:
+I feel fine today. There’s not much emotion but I’m not upset or stressed either.
+...
+
+Response:
+**Reasoning:**
+The emotional pattern in the context shows mild positivity with generally low arousal...
+
+**Result:** slightly brighter, about the same energy
+======================================================================
+
+
+======================================================================
 User 1: 5 total texts
 Context: 3 texts, Predict: 2 texts
 Context Average - Valence: 1.33, Arousal: 1.00

@@ -34,7 +34,7 @@ Now, based on the emotional pattern from these texts, predict the average change
 
 Predict:
 1. Valence score (range: -4 to +4)
-2. Arousal score (range: -4 to +4)
+2. Arousal score (range: -2 to +2)
 
 Your reply format:
 **Reasoning:** <Explain the emotional patterns and your predictions>
@@ -43,7 +43,7 @@ Your reply format:
 
 Format: valence_score, arousal_score
 
-IMPORTANT: Output exactly a pair of numbers (range: -4 to +4 each).
+IMPORTANT: Output exactly a pair of numbers (range: -4 to +4 for valence score and  -2 to +2 for arousal).
 '''
 
 SUBTASK2B_RUBRICS = {
@@ -71,14 +71,12 @@ def evaluate_subtask2b(args):
     OUTPUTS_PATH.mkdir(parents=True, exist_ok=True)
     LOGS_PATH.mkdir(parents=True, exist_ok=True)
     
-    # Sort by user_id and text_id
     df = df.sort_values(['user_id', 'text_id']).reset_index(drop=True)
     
     model, tokenizer = prepare_model()
     pattern = re.compile(PATTERN)
     all_predictions = []
     
-    # Group by user_id
     grouped = df.groupby('user_id')
     
     print(f"Number of users: {len(grouped)}")
@@ -95,8 +93,6 @@ def evaluate_subtask2b(args):
                 print(f"Warning: User {user_id} has only {num_texts} text(s), skipping")
                 continue
             
-            # Split in half
-            # If odd number (e.g., 5), split as 3 context, 2 predict
             split_point = (num_texts + 1) // 2 
             
             context_group = user_group.iloc[:split_point]
@@ -104,9 +100,8 @@ def evaluate_subtask2b(args):
             
             num_context_texts = len(context_group)
             num_predict_texts = len(predict_group)
-            total_scores = num_predict_texts * 2  # 2 scores per text
+            total_scores = num_predict_texts * 2
             
-            # Calculate average valence and arousal from context texts
             avg_valence = context_group['valence'].mean()
             avg_arousal = context_group['arousal'].mean()
             
@@ -116,7 +111,6 @@ def evaluate_subtask2b(args):
             log_file.write(f"Average Valence: {avg_valence:.2f}, Average Arousal: {avg_arousal:.2f}\n")
             log_file.write(f"{'='*70}\n\n")
             
-            # Format context texts with scores
             context_texts_formatted = []
             for idx, row in context_group.iterrows():
                 text_num = idx + 1
@@ -125,7 +119,6 @@ def evaluate_subtask2b(args):
                 )
             context_texts_str = "\n\n".join(context_texts_formatted)
             
-            # Format predict texts (without scores)
             predict_texts_formatted = []
             for i, (idx, row) in enumerate(predict_group.iterrows(), start=1):
                 predict_texts_formatted.append(
@@ -185,27 +178,10 @@ def evaluate_subtask2b(args):
             else:
                 prediction_text = score_text_match.group(1).strip()
                 
-                # Remove labels if present
                 prediction_text = re.sub(r'valence[_\d]*:\s*', '', prediction_text)
                 prediction_text = re.sub(r'arousal[_\d]*:\s*', '', prediction_text)
                 prediction_text = prediction_text.strip()
                 
-                # Validate we have the right number of scores
-                # scores_list = [s.strip() for s in prediction_text.split(',')]
-                # if len(scores_list) != total_scores:
-                #     print(f"Warning: Expected {total_scores} scores for user {user_id}, got {len(scores_list)}")
-                #     print(f"Predictions: {prediction_text}")
-                # else:
-                #     # Validate range (-2 to +2)
-                #     try:
-                #         for score in scores_list:
-                #             score_val = float(score)
-                #             if not (-2 <= score_val <= 2):
-                #                 print(f"Warning: Score out of range [-2, +2] for user {user_id}: {score}")
-                #                 break
-                #     except ValueError:
-                #         print(f"Warning: Could not parse predictions for user {user_id}: {prediction_text}")
-            
             all_predictions.append(prediction_text)
             count +=1
             if args.debug and count == 4:
