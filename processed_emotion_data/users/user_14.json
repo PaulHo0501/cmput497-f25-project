@@ -1,0 +1,36 @@
+{
+  "user_id": 14,
+  "num_entries": 3,
+  "entries": [
+    {
+      "text_id": 724,
+      "text": "In the past twenty four hours I have been feeling very very tired , and a little stressed . I am in my first semester of nursing school , and just started a new job . I just feel tired all the time and have a lack of social life .",
+      "timestamp": "2021-06-08T18:11:57",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 725,
+      "text": "I have been feeling very happy . I have also been feeling very high energy . I have also been feeling more positive . Overall I am feeling very very good . I have been making sure to drink a lot more water which I believe helps",
+      "timestamp": "2021-06-15T16:29:45",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 723,
+      "text": "I fell asleep early and forgot to set my alarm for for . So then I woke up late and I was already supposed to be at work the time I had woke up . So then I had to rush to work and was one hour late thank goodness my boss is nice and let me slide on this one",
+      "timestamp": "2021-06-17T13:11:30",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

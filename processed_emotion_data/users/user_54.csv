@@ -1,0 +1,11 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2035,"cool , hopeful , eager , excited , remoseful",2024-10-09T12:00:48,0,2.0,2.0,7,True
+2076,"i feel very refreshed right now and I am also happy , calm and also have a wonderful day \ nI also feel very calm and also excited \ nI feel contempted and having a great day with no stress \nI feel enthusiast",2024-10-09T17:00:58,1,2.0,1.0,7,False
+2376,"Cool , Calm , Happy , Excited , Feel good",2024-10-10T12:21:45,2,2.0,2.0,7,True
+2448,"Active , Happy , Delighted , Calm , Enthusiast",2024-10-10T17:06:31,3,2.0,0.0,7,True
+2526,How I am feeling currently I feel excited and happy at the moment and doing things that will make me happy and distancing myself from any thing that ' s gonna spoil or disrupt feeling currently \nI do not feel emotionally drained,2024-10-10T22:57:50,4,1.0,2.0,7,False
+2654,"I’m content , my mind is clear , and I’m able to focus on the present rather than worrying about the future or dwelling on the past . so I m satisfied with what I have and I m also happy never allowing anything bothering me",2024-10-11T17:51:11,5,1.0,0.0,7,False
+2941,"Calm , Happy , Enthusiast , Good , Cool",2024-10-12T12:31:58,6,2.0,1.0,7,True
+3036,"Cool , Happy , Calm , Active , Lively",2024-10-12T17:28:22,7,1.0,0.0,7,True
+3135,"Enthusiasts , Active , Lively , Energies , Feel good",2024-10-13T12:55:04,8,2.0,0.0,7,True
+3435,I really feel neutral and not really active because a friend got me angry and instead of apologizing he stood on his words and made me feel bad like I was the one who orchestrated the whole negative drama,2024-10-13T22:54:50,9,0.0,1.0,7,False

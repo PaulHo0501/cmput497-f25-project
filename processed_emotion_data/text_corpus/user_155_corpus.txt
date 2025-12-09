@@ -1,0 +1,12 @@
+[ENTRY_3938] Focused , Tired , Determined , Nervous , Productive
+[ENTRY_3939] Sad , Worried , Relaxed , Contemplated , Na
+[ENTRY_3940] I am feeling calm and content , not much to do today so I can relax and spend quality time with my partner . I had a good sleep so I feel well rested too . I also felt that I had a good evening with a successful score on my exam yesterday night and it was a big stressor , so I ' m happy and content it worked out .
+[ENTRY_3941] Happy , Content , Chill , Relaxed , Calm
+[ENTRY_3942] Sleepy , Content , Calm , Chill , Relaxed
+[ENTRY_3943] Chill , Focused , Relaxed , Calm , At peace
+[ENTRY_3944] Jittery , Nervous , Overwhelmed , Anxious , Weak
+[ENTRY_3945] I am feeling fearful about the future and I am feeling uncertain about the path forward and I am scared and nervous and shaking . Also I am feeling a bit numb and trying to convince my mental state to be calmer .
+[ENTRY_3946] Nervous , Stressed , Suppressed , Jittery , Tense
+[ENTRY_3947] I am feeling pretty calm in the current moment and a bit tired from the busy week . Overall , I feel pretty chill and I do not have too much anxiety in the current moment . I feel pretty peaceful and I do not feel very nervous right now . A little tense , but overall I am calm .
+[ENTRY_3948] calm , focused , chill , relaxed , nottense
+[ENTRY_3949] Calm , Excited , Chill , Happy , Content

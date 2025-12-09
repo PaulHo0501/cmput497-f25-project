@@ -1,0 +1,15 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+431,"I feel tired from the night before and my brain is foggy . I’m having trouble focusing . My voice is raspy and my throat feels kind of sore . There’s some nervousness in my chest but other than that , I feel fine .",2024-08-14T12:24:38,0,-2.0,0.0,7,False
+432,"I currently feel kind of sick in my stomach . It feels like I might throw up but it never happens . I also feel tired , like I need a nap . I don’t really have the anxiety anymore . I’m just tired . That’s basically it though .",2024-08-14T17:01:41,1,-1.0,0.0,7,False
+433,I feel very anxious and stressed right now . I’m thinking about what I have to get done and my future and also personal problems . It’s getting to me right now . It’s hard to focus on the things that matter so that’s adding to it .,2024-08-14T22:01:19,2,-2.0,2.0,7,False
+434,"Focused , Satisfied , Curious , Hungry , Nervous",2024-08-15T12:22:11,3,0.0,2.0,7,True
+435,"Tired , Bored , Unmotivated , Distracted , Stressed",2024-08-15T17:58:58,4,-1.0,0.0,7,True
+436,I’m feeling decent right now . I feel a little behind in my day (which may translate to some stress) and a little distracted . I also feel hungry but dirty (I need a shower) . I also feel bloated . That’s basically it,2024-08-16T12:14:34,5,0.0,2.0,7,False
+437,"Lively , Content , Focused , Energized , Hungry",2024-08-16T17:00:39,6,1.0,2.0,7,True
+438,"Content , Happy , Tired , Slow",2024-08-16T22:27:34,7,0.0,2.0,7,True
+565,"Hungry , Energized , Curious , Determined , Confident",2024-08-17T12:19:35,8,0.0,2.0,7,True
+566,"I feel tensed up . My body (upper back , face , jaw) just feel really tense . I feel sort of annoyed (because of my brother) . I’m feeling hungry , and I’m starting to feel tired . The tense feeling is probably from some stress .",2024-08-17T22:54:58,9,0.0,1.0,7,False
+567,"Tired , Sluggish , Slow , Nervous , Stressed",2024-08-18T12:31:35,10,-1.0,0.0,7,True
+568,I’m feeling kind of overwhelmed right now . Kind of nervous and impatient . I want to do something fun but I know I need to concentrate and get work done on my laptop (personal duties) . I’m trying to stay positive but it’s hard . I feel a little down but I’m pushing through .,2024-08-18T17:00:33,11,0.0,1.0,7,False
+569,"Nervous , Meh , Worried , Exhausted , Stressed",2024-08-18T22:28:09,12,0.0,1.0,7,True
+570,"I’m feeling a pretty nervous feeling about various things . I also feel a hint of excitement and some confusion . My entire body feels really tense , like it needs to be massaged . My stomach also feels weird .",2024-08-19T12:26:26,13,-1.0,2.0,7,False

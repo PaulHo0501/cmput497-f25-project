@@ -1,0 +1,20 @@
+[ENTRY_3646] Tired , Calm , Neutral , Balanced , Focused
+[ENTRY_3647] I am currently feeling a little tired but calm and content . I am not overly joyous , but I do not feel sad or anxious at the moment . I am focused on my work for the day but I do not feel stressed about it .
+[ENTRY_3648] Right now , I feel quite relaxed and happy . I am still a slightly tired , mostly from the work day , but I also feel content and calm . My mood is generally positive and I am not stressed or anxious about anything .
+[ENTRY_3649] Calm , Content , Happy , Relaxed , Balanced
+[ENTRY_3650] I feel a bit jittery coming off of a few work presentations . However , I do not feel stressed , but rather , relieved that they are over . I am feeling energized and positive today overall , and I feel less tired than I usually do at this time of day .
+[ENTRY_3651] I feel very neutral right now . I am not stressed or anxious . I am not feeling any strong emotions at the moment . I am calm , content , ’ and balanced . I am not jittery , tired , sad , or overly joyous .
+[ENTRY_3652] This morning , I am feeling very neutral and contemplative . I am not feeling stressed or anxious . I am not feeling overly joyous or overly sad . I am also not feeling angry . I am feeling quiet and calm .
+[ENTRY_3654] Sad , Nostalgic , Empathetic , Emotional , Sympathetic
+[ENTRY_3655] Right now , I feel somewhat happy and content . I feel very comfortable and calm . I do not feel stressed or anxious . I am excited for the weekend ahead . I am looking forward to having time to rest and spend time with loved ones . I do not feel as sad as I did earlier .
+[ENTRY_3656] Right now I feel happy and content . I am looking forward to a restful and enjoyable weekend . I do not feel anxious or stressed about anything . I do not feel sad or angry . I feel balanced and at ease .
+[ENTRY_3657] Neutral , Calm , Content , Balanced , Relaxed
+[ENTRY_3658] Happy , Calm , Balanced , Relaxed , Hopeful
+[ENTRY_3659] Right now I feel energized and happy . I am hopeful and looking forward to the day . I feel content and balanced . I am not stressed or anxious about anything right now . I feel generally in good spirits .
+[ENTRY_3660] Calm , Content , Positive , Productive , Happy
+[ENTRY_3661] I feel happy and content at this moment . I do not feel stressed or anxious about anything . I feel relaxed and positive . I feel very at ease . I am feeling excitement for the rest of the weekend . My outlook is generally positive .
+[ENTRY_3662] I have felt very happy all day , but right now I feel tired and in need of a nap . However , I do not feel drained or bad . I do not feel sad , anxious , or stressed about anything . I feel quiet and content , as well as relaxed and cozy .
+[ENTRY_3663] Right now I feel somewhat stressed . I am stressed about getting dinner prepared . A series of events happened while making dinner that caused me to feel stressed and anxious . I am starting to feel better thought .
+[ENTRY_3665] Happy , Excited , Balanced , Positive , Energized
+[ENTRY_3666] Tired , Sick , Sluggish , Slow , Sleepy
+[ENTRY_3667] Happy , Tired , Content , Calm , Sleepy

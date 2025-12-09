@@ -1,0 +1,166 @@
+{
+  "user_id": 88,
+  "num_entries": 16,
+  "entries": [
+    {
+      "text_id": 384,
+      "text": "indifferent , mild , tired , unexcited , calm",
+      "timestamp": "2024-11-05T12:07:06",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 385,
+      "text": "energized , accomplished , content , calm , pleased",
+      "timestamp": "2024-11-05T17:02:58",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 386,
+      "text": "full , relaxed , interested , calm , content",
+      "timestamp": "2024-11-05T22:15:17",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 387,
+      "text": "I am currently tired and feel as though I do not want to do anything . I feel sluggish and unmotivated to go about the rest of my day . I am also feeling anxious since I have an important call later on in the day .",
+      "timestamp": "2024-11-06T12:17:34",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 388,
+      "text": "I do not feel overly happy or overly sad currently . I would describe myself as neutral and calm . I have moderate energy and am currently content with how my day is going . I have my phone call soon , but I am not really stressed anymore .",
+      "timestamp": "2024-11-06T17:08:47",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 389,
+      "text": "exhausted , achey , sore , neutral , tired",
+      "timestamp": "2024-11-06T22:05:11",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 395,
+      "text": "anxious , tense , edgey , active , hungry",
+      "timestamp": "2024-11-07T12:36:49",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 396,
+      "text": "I am feeling mostly content currently and a little stressed . A couple of new opportunities came today which is exciting but stressful at the same time since it is all at once . I am pleased though to be receiving them .",
+      "timestamp": "2024-11-07T17:01:59",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 397,
+      "text": "I am currently feeling very happy and excited since I am seeing my friend I haven\u2019t seen for a while now . I am feeling content and enjoying my evening , as well as looking forward to tomorrow and the weekend .",
+      "timestamp": "2024-11-07T22:05:23",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 398,
+      "text": "lively , active , serene , satisfied , happy",
+      "timestamp": "2024-11-08T17:00:55",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 400,
+      "text": "I am currently feeling pretty tired , but I woke up very early today so I believe that is normal . Besides being tired , I have a little bit of a headache and stomach pain , so I am a bit stressed about that .",
+      "timestamp": "2024-11-08T22:05:43",
+      "order": 10,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 401,
+      "text": "unwell , tired , hurt , lazy , impatient",
+      "timestamp": "2024-11-09T17:06:25",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 402,
+      "text": "tired , bored , sick , sore , sluggish",
+      "timestamp": "2024-11-09T22:01:12",
+      "order": 12,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 403,
+      "text": "I woke up feeling better today and currently I am feeling very productive since I am up and walking around . I feel accomplished since I am getting my house chores done and active since I had an early start to my day .",
+      "timestamp": "2024-11-10T12:02:47",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 404,
+      "text": "I am currently feeling somewhat energetic and active . I am feeling productive . I feel accomplished since I finished all my housework and now I am excited to reward myself with some self care . I am also feeling a little hungry .",
+      "timestamp": "2024-11-10T17:08:16",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 405,
+      "text": "I am currently feeling very content . I had a productive day and I am now winding down for the evening . I am pleased since I did my self care routine , which made me feel calm and relaxed . I am satisfied and happy .",
+      "timestamp": "2024-11-10T22:03:12",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

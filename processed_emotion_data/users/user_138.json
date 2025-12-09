@@ -1,0 +1,196 @@
+{
+  "user_id": 138,
+  "num_entries": 19,
+  "entries": [
+    {
+      "text_id": 3466,
+      "text": "Tired , Nervous , Content , Happy , Productive",
+      "timestamp": "2024-11-08T12:36:57",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3467,
+      "text": "I feel tired . I also feel overworked and burnt out . I have 2 children under the age of 3 and I work 3 jobs and it\u2019s a lot . The outcome of the elections stresses me as a women and immigrant . I\u2019m worried about people being more racist and xenophobic and I\u2019m worried about raising my children in this climate",
+      "timestamp": "2024-11-08T17:37:14",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3468,
+      "text": "Hungry , Tired , Happy , Hungry , Drained",
+      "timestamp": "2024-11-08T22:02:17",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3469,
+      "text": "I\u2019m overworked and underpaid and I feel so burned out .   Working 3 jobs and having 2 under 3 aged kids is so tiring , I\u2019m constantly dropping the ball and letting someone down . I just need a break or a vacation . I think about wanting a drink often but I feel like I can\u2019t because I can\u2019t afford being drunk or having a hangover .",
+      "timestamp": "2024-11-09T17:04:04",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3470,
+      "text": "I just ate dinner with the in-laws and now I\u2019m trying to set up their dinner . It\u2019s a very frustrating process as I keep hitting snags . I am sad because I\u2019m missing time with my kids . They are happy and I\u2019m happy that they are happy but I miss them .",
+      "timestamp": "2024-11-09T22:12:08",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3472,
+      "text": "Tired , Disappointed , Anxious , Tired , Content",
+      "timestamp": "2024-11-10T12:37:37",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3473,
+      "text": "Tired , Content , Happy , Nervous , Tired",
+      "timestamp": "2024-11-10T17:07:53",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3474,
+      "text": "It\u2019s been a super long day and I\u2019m going to bed early . I\u2019m very very tired from not sleeping well and just a long day all together . The kids got new beds so they are having a hard time which is making me feel even more tired and burnt out .",
+      "timestamp": "2024-11-11T22:27:26",
+      "order": 7,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3475,
+      "text": "I\u2019m exhausted . The little one bumped her head and had to rush to urgent care to evaluate whether she needs stitches so I feel nervous and worried for my child . And because she\u2019s my child , my anxiety is through the roof .",
+      "timestamp": "2024-11-12T22:05:26",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3476,
+      "text": "I\u2019m happy because I\u2019m home with my family , I\u2019m just so exhausted and tired . But my daughter called me her hero so I\u2019m just so happy and feeling loved . I\u2019m tired from working and lack of sleep but my babies make me so incredibly happy .",
+      "timestamp": "2024-11-13T17:02:09",
+      "order": 9,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3477,
+      "text": "I\u2019m sad because my library card expired and I just realized . This is also the first moment I\u2019m getting to myself in days so it\u2019s nice to just sit in the quiet . I feel content and motivated to get some laundry put away .",
+      "timestamp": "2024-11-13T22:02:50",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3478,
+      "text": "angry , frustrated , tired , tired , tired",
+      "timestamp": "2024-11-14T12:10:44",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3479,
+      "text": "Im sad because I heard one of my friends will be leaving . Im tired from working so much and my children make me feel so happy whenever I\u2019m even just looking at them . So I\u2019m happy , tired , exhausted , stressed , and anxious .",
+      "timestamp": "2024-11-14T17:01:55",
+      "order": 12,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3480,
+      "text": "I\u2019m feeling super tired because I have not had a break from teaching class and back to back meetings all day . Fridays is my busiest and most stressful day . It\u2019s also my happiest day as I\u2019m maximizing my student interaction . I can\u2019t wait to spend the weekend with my kids so I\u2019m also happy . Happy and tired and content .",
+      "timestamp": "2024-11-15T17:26:15",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3482,
+      "text": "Tired , Content , Happy , Exhausted , Happy",
+      "timestamp": "2024-11-15T22:03:37",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3483,
+      "text": "I\u2019m home with the children and they are a lot but I\u2019m also happy because I get to spend time with them . My mother in law is also trying my patience is running thin so I\u2019m trying to hard to feel patient but I am getting frustrated .",
+      "timestamp": "2024-11-16T12:42:07",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3484,
+      "text": "Im so exhausted after running after my kids for 4 hours at ORG    . Im so run down and feel like I\u2019m gonna get sick which would suck because I have 3 jobs . I\u2019m happy my kids had fun but I\u2019m just extremely exhausted .",
+      "timestamp": "2024-11-16T22:02:31",
+      "order": 16,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3485,
+      "text": "Tired , Happy , Content , Excited , Exhausted",
+      "timestamp": "2024-11-18T12:13:32",
+      "order": 17,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3486,
+      "text": "Tired , Quiet , Loved , Happy , Happy",
+      "timestamp": "2024-11-21T17:11:39",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

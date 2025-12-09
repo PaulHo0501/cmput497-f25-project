@@ -1,0 +1,26 @@
+{
+  "user_id": 34,
+  "num_entries": 2,
+  "entries": [
+    {
+      "text_id": 2365,
+      "text": "Drained and rushed . No time to distressed and reset . Having to work despite needing a break due to traumatic event that happened during my shift (a coworker had a bad seizure and I had to call ORG and then immediately get back to servicing customers and answering phones)",
+      "timestamp": "2021-05-02T13:20:28",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 2366,
+      "text": "Went to work and had a normal shift . Was still disheartening because we weren ' t as busy as we should be at this time of year . I know I ' m making less than normal and that causes worry because of bills .",
+      "timestamp": "2021-05-03T12:09:40",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

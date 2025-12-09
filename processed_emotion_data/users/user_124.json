@@ -1,0 +1,406 @@
+{
+  "user_id": 124,
+  "num_entries": 40,
+  "entries": [
+    {
+      "text_id": 2627,
+      "text": "I just woke up after sleeping in late . I feel kind of tired since I went to bed later than I normally do . I don\u2019t like staying up too late because then I sleep in late which makes my sleep schedule complicated . I also was tossing and turning during my sleep which made it less restful than I would like . Once I get outside , exercise , or drink some coffee . I think I will feel a lot better .",
+      "timestamp": "2024-10-31T12:01:26",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2628,
+      "text": "Currently I am feeling very excited because I am about to leave to go to a Halloween party . I am doing my hair and makeup to dress up as PERSON  from the movie Almost Famous . That\u2019s a movie my dad and I really like so it means a lot to me that I am dressing up as her . It\u2019s making me feel happy .",
+      "timestamp": "2024-10-31T17:17:26",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2629,
+      "text": "Right now I am happy because I am with friends for Halloween . Halloween is a nostalgic holiday for me so today made me pretty happy . I\u2019m also really tired so I\u2019m looking forward to going home soon . But overall I am feeling pretty happy and content .",
+      "timestamp": "2024-10-31T22:00:53",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2630,
+      "text": "Tired , Sad , Depressed , Annoyed , Irritated",
+      "timestamp": "2024-11-01T12:50:52",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2631,
+      "text": "Excited , Tired , Hungry , Happy , Love",
+      "timestamp": "2024-11-01T17:05:20",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2633,
+      "text": "Right now I\u2019m feeling ok . I just finished dinner with a Friend that I haven\u2019t seen in a long time so it was nice to catch up with her . However , I am a little sad because I felt there was nothing positive I could share about my life at the current moment .",
+      "timestamp": "2024-11-01T22:47:38",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2634,
+      "text": "Awake , Excited , Happy , Tired , Hopeful",
+      "timestamp": "2024-11-02T12:00:59",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2635,
+      "text": "I am excited because I am on my way to a Halloween party . I get to see some friends that I haven\u2019t seen in a long time so I am happy about that . I also feel a little tired but that\u2019s ok . I feel somewhat lively because I am about to see my friends at the party .",
+      "timestamp": "2024-11-02T22:01:22",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2636,
+      "text": "Neutral , Tired , Melancholy , Tired , Sad",
+      "timestamp": "2024-11-03T12:01:28",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2637,
+      "text": "Sad , Annoyed , Disappointed , Lonely , Hungry",
+      "timestamp": "2024-11-03T17:01:12",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2638,
+      "text": "Sad , Depressed , Lonely , Melancholy , Tired",
+      "timestamp": "2024-11-03T22:21:05",
+      "order": 10,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2639,
+      "text": "Sad , Tired , Worried , Sad , Tired",
+      "timestamp": "2024-11-04T12:12:01",
+      "order": 11,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2640,
+      "text": "Sad , Tired , Sluggish , Worried , Sad",
+      "timestamp": "2024-11-04T17:05:06",
+      "order": 12,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2641,
+      "text": "Honestly right now I just feel kind of numb . I\u2019m kind of sad because I miss my dad and my brother . I\u2019m also sad because my brother hasn\u2019t really been talking to me . I want to see them soon but it\u2019s been hard to keep hope . I also feel a little bit emotionally drained .",
+      "timestamp": "2024-11-04T22:01:04",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2642,
+      "text": "Awake , Alive , Energized , Happy , Alive",
+      "timestamp": "2024-11-05T12:27:43",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2644,
+      "text": "I am feeling ok . I just finished acupuncture which was very relaxing and also made me want to go back to bed . I am slightly happy because I got to speak to my dad today , I miss him very much . I am also looking forward to the dinner I am going to cook tonight .",
+      "timestamp": "2024-11-05T17:05:00",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2645,
+      "text": "Tired , Ok , Excited , Neutral , Sleepy",
+      "timestamp": "2024-11-05T22:01:13",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2646,
+      "text": "Right now I am feeling ok . I have to commute today which is slightly annoying , however I am happy because I found a free parking spot . I am a little tired because I stayed up late watching the election though .",
+      "timestamp": "2024-11-06T12:12:13",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2647,
+      "text": "Right now I am feeling extremely irate . I can\u2019t even process how I am feeling . I hate commuting with a passion and I cannot stand the people I work with . They are evil . I can\u2019t wait until I do not work there anymore and don\u2019t have to commute anymore .",
+      "timestamp": "2024-11-06T17:01:24",
+      "order": 18,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2648,
+      "text": "Sad , Tired , Anxious , Exhausted , Worried",
+      "timestamp": "2024-11-06T22:07:39",
+      "order": 19,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2649,
+      "text": "I am feeling slightly happy because I had a good dream and woke up early . Even though I don\u2019t like waking up early it definitely sets a better pace for my day . I decided to go to bed early and wake up early to do my work . Currently doing my work on the train .",
+      "timestamp": "2024-11-07T12:30:34",
+      "order": 20,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2650,
+      "text": "Currently , I\u2019m feeling extremely tired , exhausted , and emotionally drained . I had a really long day with my commute and woke up too early which is the reason why I\u2019m tired . Additionally I am sad because I had an issue with my advisor .",
+      "timestamp": "2024-11-07T22:26:29",
+      "order": 21,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2651,
+      "text": "Energized , Open , Sad , Stressed , Ok",
+      "timestamp": "2024-11-08T12:27:27",
+      "order": 22,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2652,
+      "text": "I\u2019m feeling ok . I am a little tired but I am happy that it is Friday . I am also happy because I get to see my best friend for dinner tonight . I\u2019m excited to try some new food that I\u2019ve been seeing on my social media .",
+      "timestamp": "2024-11-08T17:38:55",
+      "order": 23,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2653,
+      "text": "Happy , Full , Alive , Happy , Peace",
+      "timestamp": "2024-11-08T22:41:39",
+      "order": 24,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2656,
+      "text": "Tired , Neutral , Sad , Neutral , Lonely",
+      "timestamp": "2024-11-09T12:20:12",
+      "order": 25,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2657,
+      "text": "Right now I feel sort of happy and sort of sad so I guess I have mixed emotions . I just talked to my dad on the phone for the longest amount of time in a while . It was nice to hear his voice and talk to him . We both miss each other so much .",
+      "timestamp": "2024-11-09T17:20:55",
+      "order": 26,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2658,
+      "text": "Right now I feel a little bit tired and that\u2019s why I\u2019m only feeling neutral . However I am chopping with my brother which is something that makes me happy . I was also feeling kind of depressed when I was sitting at my house , but I\u2019m glad that I finally got out .",
+      "timestamp": "2024-11-09T22:20:08",
+      "order": 27,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2659,
+      "text": "I am feeling ok because I want to start my day off on the right foot . I want to go for a run which I think will make me happy . I\u2019m just slightly tired so I am having a little bit of trouble getting my day started . I\u2019m hopeful that today can be a good day .",
+      "timestamp": "2024-11-10T12:03:48",
+      "order": 28,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2660,
+      "text": "Neutral , Tired , Melancholy , Overwhelmed , Ok",
+      "timestamp": "2024-11-10T17:03:03",
+      "order": 29,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2661,
+      "text": "Ok , Neutral , Melancholy , Tired , Sleepy",
+      "timestamp": "2024-11-10T22:08:15",
+      "order": 30,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2662,
+      "text": "This morning I am feeling really tired . I am also feeling extremely annoyed because I have to commute today . That seems to be a point of contention for me . I also am annoyed because I haven\u2019t heard from my dad or brother and that really bothers me .",
+      "timestamp": "2024-11-11T12:14:50",
+      "order": 31,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2663,
+      "text": "Right now I feel a little bit better than I did last night . I got to talk to my dad which made me feel a lot better . I am also happy because I was able to rearrange my schedule today so that I am free to get a lot of work done tomorrow .",
+      "timestamp": "2024-11-11T17:36:48",
+      "order": 32,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2664,
+      "text": "I am currently feeling happy because I just had dinner with my brother . Before this I had a meeting that went well . I am feeling a little bit nervous because there is work that I need to do tonight and tomorrow but overall I feel good .",
+      "timestamp": "2024-11-11T22:03:14",
+      "order": 33,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2665,
+      "text": "Happy , Energized , Understood , Content , Happy",
+      "timestamp": "2024-11-12T12:49:35",
+      "order": 34,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2667,
+      "text": "Right now I\u2019m feeling pretty happy because I finally went to the library and did some work . This is making me feel pretty productive and it\u2019s a good way to spend my time . I\u2019m also looking forward to the dinner that I\u2019m going to be cooking tonight with my brother .",
+      "timestamp": "2024-11-12T17:10:23",
+      "order": 35,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2668,
+      "text": "Happy , Content , Hopeful , Happy , Cheerful",
+      "timestamp": "2024-11-12T22:46:04",
+      "order": 36,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2669,
+      "text": "I am currently feeling energized because I woke up early to start my morning with a run and a coffee from ORG . This was how I started my day yesterday and it put me in a good mood so I decided to do it again today . I am also happy because I made my train by one minute .",
+      "timestamp": "2024-11-13T12:26:01",
+      "order": 37,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2670,
+      "text": "Right now I\u2019m feeling slightly happy because I had a meeting that went well . I\u2019m also happy because I\u2019m on my way home and I will get to see my dog soon . I\u2019m also glad that I started my day off on the right foot .",
+      "timestamp": "2024-11-13T17:47:46",
+      "order": 38,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2671,
+      "text": "Tired , Neutral , Overwhelmed , Ok , Tired",
+      "timestamp": "2024-11-13T22:32:59",
+      "order": 39,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

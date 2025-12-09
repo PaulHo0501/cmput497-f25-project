@@ -1,0 +1,146 @@
+{
+  "user_id": 80,
+  "num_entries": 14,
+  "entries": [
+    {
+      "text_id": 5179,
+      "text": "Confused , Down , Inactive , Drained , Twist",
+      "timestamp": "2024-08-14T12:39:38",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5180,
+      "text": "Sad , Angry , Weak , Tired , Down",
+      "timestamp": "2024-08-15T12:14:48",
+      "order": 1,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5181,
+      "text": "Calm , Relax , Quiet , Freeze , Smooth",
+      "timestamp": "2024-08-15T17:01:30",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5182,
+      "text": "Down , Bittered , sad , Weak , Tired",
+      "timestamp": "2024-08-16T12:26:02",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5183,
+      "text": "Clear , Calm , Jittery , Reflex , Smiley",
+      "timestamp": "2024-08-16T17:02:49",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5184,
+      "text": "Active , Lively , Calm , Jittery , Great",
+      "timestamp": "2024-08-17T12:00:40",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5185,
+      "text": "Feeling greatful , peaceful , calm , twisted , swinging , feeling fine , feeling good , feeling a bit dispirited despite winning a good fairable discount for the day . Feeling a bit down because of my stomach hurt due to stupor yesterday",
+      "timestamp": "2024-08-18T12:26:24",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5186,
+      "text": "Contentment is a warm and comforting feeling , like a gentle smile that spreads through your heart and mind . It ' s a sense of satisfaction and pleasure , where things feel right with the world , and you ' re at peace with your circumstances . In moments of contentment , life feels cozy and familiar , filling you with a sense of calm delight .",
+      "timestamp": "2024-08-19T12:38:48",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5187,
+      "text": "Euphoria is an electrifying and exhilarating feeling , like a burst of energy that courses through your veins , leaving you breathless . In moments of euphoria , life feels like a thrilling adventure , full of possibility and promise , and you ' re ready to take on the world with an unstoppable sense of excitement and abandon .",
+      "timestamp": "2024-08-19T17:54:14",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5188,
+      "text": "A sense of neutrality is a calm and balanced feeling , like a still pond that reflects the surroundings without a ripple . It ' s a state of emotional equilibrium , where neither excitement nor despair dominates , and the mind is clear of strong inclinations . In this state , thoughts and feelings are acknowledged without judgment , and the individual observes their experiences with a detached curiosity .\\ n",
+      "timestamp": "2024-08-20T12:37:37",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5189,
+      "text": "Vitality is an energetic and dynamic feeling , like a   state of being fully engaged and immersed in the moment , where your senses are heightened , and your spirit is lifted . With vitality , every step feels light , every task feels manageable , and every challenge feels like an opportunity to thrive .",
+      "timestamp": "2024-08-20T17:34:56",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5190,
+      "text": "Energetic , Vibrant , Effervescent , Dynamic , Excited",
+      "timestamp": "2024-08-21T12:21:45",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5191,
+      "text": "Vibrant , Excited , Energetic , Promising , Expectant of possibilities",
+      "timestamp": "2024-08-21T17:02:37",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5192,
+      "text": "Strong , Thriving , Motivated , Refreshing , Great",
+      "timestamp": "2024-08-22T12:49:03",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

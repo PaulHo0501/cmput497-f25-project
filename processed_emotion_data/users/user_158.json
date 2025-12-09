@@ -1,0 +1,356 @@
+{
+  "user_id": 158,
+  "num_entries": 35,
+  "entries": [
+    {
+      "text_id": 4023,
+      "text": "Active , Calm , Good , Energetic , Charming",
+      "timestamp": "2024-10-22T12:36:58",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4024,
+      "text": "Lively , Active , Relaxed , Charming , Energetic",
+      "timestamp": "2024-10-22T17:02:24",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4025,
+      "text": "Tired , Sleepy , Good , Hungry , Exhausted",
+      "timestamp": "2024-10-22T22:05:50",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4026,
+      "text": "Happy , Calm , Focused , Determined , Stressfree",
+      "timestamp": "2024-10-23T17:02:55",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4027,
+      "text": "Today I have been having a busy schedule . I have worked for 9 hours . I am feeling tired and exhausted but then also I ' ve got some chores to be done before I sleep . I ' m yet to cook my supper though I am so sleepy .",
+      "timestamp": "2024-10-23T22:07:06",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4028,
+      "text": "Last night I just slept well . I am free from stress . Just woke up today ' s morning energetic and ready to go to work . I think I ' m motivated with life and I have energy to keep me going for the whole day . I have nothing to complain about so far .",
+      "timestamp": "2024-10-24T12:01:26",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4029,
+      "text": "Quiet , Calm , Relaxed , Focused , Good",
+      "timestamp": "2024-10-24T17:30:23",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4030,
+      "text": "Tired , Sleepy , Sluggish , Exhausted , Nervous",
+      "timestamp": "2024-10-24T22:07:09",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4031,
+      "text": "I have already reported to work . Though yesternight I had to drink some wine of which I didn ' t get that drunk . I have nothing stressing me so far I ' m just motivated to finish my work shift . I have not had disagreement with anybody .",
+      "timestamp": "2024-10-25T12:19:11",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4032,
+      "text": "Focused , Determined , Joyful , Relaxed , Good",
+      "timestamp": "2024-10-25T17:04:53",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4033,
+      "text": "Sleepy , Tired , Active , Less energy , Tipsy",
+      "timestamp": "2024-10-25T22:54:56",
+      "order": 10,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4034,
+      "text": "I have just woken up like two hours ago . Yesternight I had a night out with friends . We grabbed some wine and whiskey till late night . Right now I ' m experiencing some hangovers but they are not that bad .",
+      "timestamp": "2024-10-26T12:46:26",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4035,
+      "text": "My evening is going on well . Actually I ' m with my friend who visited and we ' ve been having some chit-chat . I feel I ' m lively and active , we ' ve been talking a lot and reminding ourselves how our friendship has been growing . In general I ' m a happy person right now .",
+      "timestamp": "2024-10-26T17:10:29",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4036,
+      "text": "Hungry , Quiet , Lively , Tired , Sleepy",
+      "timestamp": "2024-10-26T22:25:59",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4037,
+      "text": "Today I woke up in a good mood . I can say my night was well I had best sleep . I am full of energy though have been doing some cleaning . I ' m ready to get started for today ' s tasks since I ' ve nothing disturbing me",
+      "timestamp": "2024-10-27T12:02:20",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4038,
+      "text": "I ' ve been having a good day so far . I feel lively because I ' ve been talking to some of my best friends . We have exchanged ideas and also had to catch up with everything happening in each one of us lifes . I just feel connected with my friends and also we ' re in good terms with one another .",
+      "timestamp": "2024-10-27T17:01:43",
+      "order": 15,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4039,
+      "text": "Tired , Happy , Enthusiastic , Excited , Proud",
+      "timestamp": "2024-10-27T22:16:23",
+      "order": 16,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4040,
+      "text": "Lively , Hopeful , Motivated , Anxious , Refreshed",
+      "timestamp": "2024-10-28T12:01:14",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4041,
+      "text": "Energetic , Productive , Relaxed , Dreamy , Antsy",
+      "timestamp": "2024-10-28T17:11:19",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4042,
+      "text": "Tired , Restless , Reflective , Mystical , Sleepy",
+      "timestamp": "2024-10-28T22:12:29",
+      "order": 19,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4043,
+      "text": "Sad , Irritated , Disrespected , Unmotivated , Bored",
+      "timestamp": "2024-10-29T12:03:50",
+      "order": 20,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4044,
+      "text": "I have not been active at work today as I am used to . It happened that I reported to work a bit late but I didn ' t really like how my supervisor talked to me . I tried to explain everything but it seems like he ' d already prejudged me . I have been in a bad mood almost a whole day . In short I ' m just waiting to finish my shift hours then I go home .",
+      "timestamp": "2024-10-29T17:03:09",
+      "order": 21,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4045,
+      "text": "Neural , Sad , Sleepy , Hungry , Mad",
+      "timestamp": "2024-10-29T22:23:06",
+      "order": 22,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4046,
+      "text": "Calm , Relaxed , Motivated , Focused , Prepared",
+      "timestamp": "2024-10-30T12:24:08",
+      "order": 23,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4047,
+      "text": "Relaxed , Productive , Proud , Determined , Focused",
+      "timestamp": "2024-10-30T17:19:22",
+      "order": 24,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4048,
+      "text": "I have been having a nice day at work . I have had any quarrel with any of my co-workers today . And also today I had to work overtime for one hour because I felt the energy to work more . I have having a video call with my sister and I feel encouraged with everything I ' ve been doing .",
+      "timestamp": "2024-10-30T22:06:14",
+      "order": 25,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4049,
+      "text": "Tired , Exhausted , Sleepy , Sad , Stressed",
+      "timestamp": "2024-10-31T12:02:29",
+      "order": 26,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4050,
+      "text": "I feel a surge of joy , as if everything is finally falling into place . There ' s an excitement bubbling up inside me , filling me with energy and positivity . Every little thing seems brighter , and I can\u2019t help but smile . I\u2019m deeply grateful for this happiness that makes everything feel alive and meaningful .",
+      "timestamp": "2024-10-31T17:09:11",
+      "order": 27,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4051,
+      "text": "Tired , Relaxed , Focused , Proud , Happy",
+      "timestamp": "2024-10-31T22:07:32",
+      "order": 28,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4052,
+      "text": "I feel an incredible sense of liveliness , like energy is radiating from within me . Enthusiasm flows through my every action , adding color to my day . Every task feels exciting , and I\u2019m ready to embrace new opportunities . This vibrant feeling lifts me , making each moment more meaningful .",
+      "timestamp": "2024-11-01T12:04:20",
+      "order": 29,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4053,
+      "text": "As the night deepens , a heavy wave of weariness settles in , drawing my eyelids low and slowing my thoughts . Every muscle feels drained , and my mind longs for rest , pulling me toward sleep ' s gentle embrace . I\u2019m caught in that tender space between wakefulness and dreams , craving the peace of deep rest .",
+      "timestamp": "2024-11-01T22:04:46",
+      "order": 30,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4054,
+      "text": "Sad , Bored , Anxious , Distress , Exhausted",
+      "timestamp": "2024-11-02T17:07:54",
+      "order": 31,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4055,
+      "text": "Relaxed , Motivated , Active , Focused , Determined",
+      "timestamp": "2024-11-03T17:06:23",
+      "order": 32,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4056,
+      "text": "I ' m winding down , feeling sluggish and drained after a long day . My eyes feel heavy , and my body aches slightly from fatigue . Sleep is pulling me in , and I\u2019m ready to give in , hoping for rest to recharge for tomorrow .",
+      "timestamp": "2024-11-03T22:09:57",
+      "order": 33,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4061,
+      "text": "Tired , Exhausted , Unproductive , Sleepy , Normal",
+      "timestamp": "2024-11-04T22:09:44",
+      "order": 34,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

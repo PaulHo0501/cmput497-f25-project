@@ -1,0 +1,86 @@
+{
+  "user_id": 178,
+  "num_entries": 8,
+  "entries": [
+    {
+      "text_id": 4513,
+      "text": "Exhausted , Weird , Uninterested , Disgusted , Disappointed",
+      "timestamp": "2024-09-09T12:56:53",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4514,
+      "text": "I don\u2019t know how I feel right now to be honest\u2026 . I just think so many things at a time and I can\u2019t seem to find a balance to it . I just think that I am a weird person in a weird space . Take me to LOC",
+      "timestamp": "2024-09-11T17:33:20",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4515,
+      "text": "Loved , Smart , Shocked , Stressed , Fun",
+      "timestamp": "2024-09-11T22:40:19",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4516,
+      "text": "I feel normal , just random day in my life , meeting same people , visiting PERSON place , talking to same friends . It\u2019s a bit annoying that my life is a perfect circle . I wish , wishes came true . I would wish for someone else\u2019s life at least I\u2019ll know what to be grateful for",
+      "timestamp": "2024-09-12T12:24:55",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4517,
+      "text": "I\u2019m not sure I enjoyed the bed Mc this week , I hope it fade too . I wish life is like a book I could watch , like in the movies . I would\u2019ve watched my life play and decide on so many decisions I would how to handle situations before it gets the chance to turn ugly",
+      "timestamp": "2024-09-12T22:03:33",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4518,
+      "text": "Got a feeling , but everything\u2018s gonna be all right yeah I\u2019ve got a feeling it is gonna be over very soon and anytime some things something is happening right now . It was funny bad I think PERSON was the best option at the time and realizing now that I could\u2019ve slapped it out , not tantrum he is hard in the butt and I know that I have learned my lesson and I will be more calculated next time when I am in that kind of a situation and I need a way out Simplified , I just think that I should be more peaceful",
+      "timestamp": "2024-09-13T17:34:32",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4519,
+      "text": "\\nOk\u2026 .. so who said that Shopping isn\u2019t therapeutic ?? that definitely is a lie . It\u2019s not understandable why I feel friendship started today already has goosebumps all over me . I haven\u2019t had such energy around me in a long while and it feels like a lost part of me was awakened by that short meeting . I just have to keep praying that my instincts are write and I won\u2019t get disappointed at the end . The energy feels too good to be true",
+      "timestamp": "2024-09-13T22:58:14",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4520,
+      "text": "Hopefull , Sentimental , Judged , Segregated , Introvert",
+      "timestamp": "2024-09-14T17:53:17",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

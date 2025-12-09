@@ -1,0 +1,34 @@
+[ENTRY_5275] Calm , Tired , Lazy , Content , Relaxed
+[ENTRY_5276] Relaxed , Excited , Calm , Content , Happy
+[ENTRY_5277] Relaxed , Sad , Tired , Depleted , Neutral
+[ENTRY_5278] I feel very tired and sad today . I didn’t sleep well last night , I was up from about one to four AM . I had a lot of anxiety and decided to just finish the book I was reading . Thankfully I eventually went back to sleep , but slept in late today and had to miss my Pilates class . I feel a bit overwhelmed but will just concentrate on my work today .
+[ENTRY_5279] Tired , Fine , Neutral , Calm , Sad
+[ENTRY_5280] Calm , Content , Satisfied , Tired , Chill
+[ENTRY_5281] Exhausted , Unmotivated , Sluggish , Quiet , Bored
+[ENTRY_5282] Satisfied , Achieved , Tired , Calm , Content
+[ENTRY_5283] Content , Happy , Tired , Calm , Quiet
+[ENTRY_5284] I feel good about myself today . I woke up very tired but motivated myself to wake up early and exercise before I volunteered with my cats . I also have therapy today so I’m feeling much more manageable about things .
+[ENTRY_5285] I feel more calm and content than I did earlier today . I feel accomplished with all I’ve accomplished lately and excited for the future , even though some things can feel overwhelming at times . I am confident they will get better .
+[ENTRY_5286] I feel calm and satisfied from the day . I got a lot done and ended the day by going to my favorite grocery store , ORG with my partner . We had a great time laughing and joking together . Now it feels good to rest at home .
+[ENTRY_5287] Tired , Calm , Satisfied , Confident , Neutral
+[ENTRY_1] Relaxed , Calm , Fulfilled , Sleepy , Content
+[ENTRY_2] Unfocused , Jittery , Disorganized , Tired , Worried
+[ENTRY_3] Proud , Satisfied , Content , Relaxed , Happy
+[ENTRY_4] I feel very satisfied with everything I achieved today . I got a lot of work done and even booked an upcoming trip next month with my fiance . It feels nice to take the Friday evening to relax and watch a documentary .
+[ENTRY_5] Tired , Hopeful , Relaxed , Excited , Content
+[ENTRY_6] I feel quite tired now but satisfied . I spent longer than I intended to at my sisters house and I am getting home later than I had planned . It is not a big deal but I am worried that there may be leaks in my apartment since it rained so much . But I try not to worry so much about what I can not control .
+[ENTRY_7] I feel pretty good today . I like to have Sundays as a day to rest and recharge for the week . I slept very well last night and I’m looking forward to watching movies today with my fiancé . I feel like it is a well deserved rest day .
+[ENTRY_8] I feel good and relaxed today . I am just chilling and watching movies together with my fiancé . It is also nice to cuddle with my cats . It feels like a nice break to not have much to do today . I love to have a relaxing Sunday at home .
+[ENTRY_9] Relaxed , Sluggish , Calm , Content , Optimistic
+[ENTRY_10] Content , Motivated , Optimistic , Energetic , Hopeful
+[ENTRY_12] I am feeling good right now . I got a lot of cleaning done before I have to go to a focus group in the city later this evening . I woke up at about 5 AM today but felt well rested and got an early head start on the work I had to do .
+[ENTRY_13] Accomplished , Content , Tired , Relaxed , Hopeful
+[ENTRY_14] Secure , Excited , Content , Hopeful , Centered
+[ENTRY_15] I feel very relaxed and happy right now . I had a few meetings this morning and felt like I had a productive day and I woke up early again now I have a chance to relax with my fiancé while we watch our favorite show on TV .
+[ENTRY_16] I had a very nice day today . It was a great combination of productivity and relaxing . I had a wonderful time chilling with my fiancé and watching our favorite shows together . I am looking forward to having another great day tomorrow .
+[ENTRY_17] I feel good right now . I am a bit tired but I am in a pleasant mood and just had therapy . I am also going out to dinner tonight with my fiancé to a restaurant we are excited to try called ORG   . I had a productive morning and went to ORG and did my volunteering .
+[ENTRY_18] Happy , Content , Special , Calm , Excited
+[ENTRY_19] Achieved , Calm , Content , Relaxed , Peaceful
+[ENTRY_20] Content , Calm , Relaxed , Happy , Relieved
+[ENTRY_21] Relieved , Content , Calm , Loved , Lucky
+[ENTRY_206] I am feeling good right now . I woke up feeling very tired this morning , but I ended up having a productive day by getting my bloodwork done and going shopping for an interview I have next week . I feel sleepy right now but relaxed .

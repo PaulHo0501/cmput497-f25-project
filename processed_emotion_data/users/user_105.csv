@@ -1,0 +1,15 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1773,The way I am feeling is tired and sluggish since I just got out of work not to long ago . Other then that I am feeling content and neutral because life is having some uncertainty but I know everything will work its way out with the support and love from my family . I am content and happy thinking of my life now and how things could be different .,2024-11-13T12:24:53,0,-2.0,0.0,7,False
+1774,"Tired , Active , Motivated , Anxious , Good",2024-11-13T17:01:22,1,0.0,2.0,7,True
+1775,"Tired , Motivated , Content , Sluggish , Optimistic",2024-11-13T22:25:31,2,-2.0,0.0,7,True
+1776,"Tired , Content , Optimistic , Relaxed , Neutral",2024-11-14T12:01:19,3,-2.0,0.0,7,True
+1777,"Tired , Content , Fuzzy , Uneasy , Ignored",2024-11-15T12:08:21,4,-2.0,0.0,7,True
+1779,"Worried , Overthinking , Lonely , Unappreciated , Unsure",2024-11-15T17:35:27,5,0.0,1.0,7,True
+1780,Right now I am currently trying to wake up but it’s a little harder for me right now . I want to . go back to sleep but that’s usual for working the night shift . I am thankful that it’s Friday but would rather lay in bed then do anything .,2024-11-15T22:59:57,6,-2.0,0.0,7,False
+1781,Exhausted and tired . I worked overnight and only got about 2 hours of sleep through out the day so I am drained . Sleep is calling my name soon so the tiredness is over powering my other emotions . To be honest typing is taking a lot out of my and making me more tired .,2024-11-16T22:15:38,7,-2.0,0.0,7,False
+1782,"Upbeat , Postive , Thoughtful , Optimistic , Grateful",2024-11-17T12:02:22,8,1.0,2.0,7,True
+1783,"Neutral , Ok , Tired , Thankful , Grateful",2024-11-17T17:01:20,9,0.0,1.0,7,True
+1784,"Uneasy , Neutral , Unsure , Blah , In the middle",2024-11-18T12:02:58,10,0.0,1.0,7,True
+1785,"Sluggish , Tired , Complacent , Neutral , Hurt",2024-11-18T22:01:10,11,-2.0,0.0,7,True
+1786,"Nervous , Uncertainty , Anxiety , Sad , Annoyed",2024-11-19T12:01:09,12,-2.0,2.0,7,True
+1795,I’m not feeling fully awake since waking up not that long ago . I slept around 2 hours and it didn’t help . I’m not feeling like myself a lot of stressors right now in life and financially it’s been rough for my family . Sometimes it’s hard to have hope but need too .,2024-11-19T17:00:58,13,-2.0,0.0,7,False

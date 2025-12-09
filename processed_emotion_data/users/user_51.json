@@ -1,0 +1,36 @@
+{
+  "user_id": 51,
+  "num_entries": 3,
+  "entries": [
+    {
+      "text_id": 5046,
+      "text": "Achy , Tired , Anxious",
+      "timestamp": "2021-06-08T12:04:38",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5047,
+      "text": "Content , Tired , Anxious",
+      "timestamp": "2021-06-10T12:33:53",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 5048,
+      "text": "Upset , Confused , Angry",
+      "timestamp": "2021-06-11T12:00:57",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

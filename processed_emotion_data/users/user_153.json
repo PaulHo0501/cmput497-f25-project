@@ -1,0 +1,156 @@
+{
+  "user_id": 153,
+  "num_entries": 15,
+  "entries": [
+    {
+      "text_id": 3883,
+      "text": "I feel pretty good but my left foot is making my mobility an issue today . Having some difficulty walking but making the best of it . I can complain but there is nothing anyone can do to help me .\\ n \\ nI also would like to know how is it possible to write a minimum of 200 words in two to three sentences . There would be so many commas and semicolons utilized throughout these two to three sentences . I am assuming you meant letters and not words . Please correct this before this becomes a bigger problem for everyone in this study .",
+      "timestamp": "2024-11-13T12:14:02",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3884,
+      "text": "At this moment , I am feeling very calm and relaxed watching tv and getting some work done . I was able to run some errands and completed everything on my list . Now I am giving myself some me time and relaxing on the couch .",
+      "timestamp": "2024-11-13T17:34:11",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3885,
+      "text": "Relaxed , Calm , Content , Full , Attentive",
+      "timestamp": "2024-11-13T22:05:56",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3886,
+      "text": "Alive , In slight pain , Slightly tired , Grateful , Happy",
+      "timestamp": "2024-11-14T12:20:01",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3887,
+      "text": "Calm , Quiet , Appreciative , Happy , Slightly tired",
+      "timestamp": "2024-11-14T17:04:12",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3888,
+      "text": "I\u2019m feeling very calm and relaxed right now since I am home and about to have dinner . The day wasn\u2019t too bad and work was pretty good . No difficult people to deal with which I consider a good day . Listening to some continuing education for an hour and hopefully learning something new .",
+      "timestamp": "2024-11-14T22:18:36",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3889,
+      "text": "Relaxed , Calm , Slight pain , Content , Appreciative",
+      "timestamp": "2024-11-15T12:07:29",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3890,
+      "text": "I\u2019m currently at work right now and not with a patient so I\u2019m pretty relaxed and calm . Sometimes it can get pretty hectic but I do enjoy having some down time to catch up with paperwork and phone messages .",
+      "timestamp": "2024-11-15T17:52:09",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3891,
+      "text": "Content , Kind of happy , Slightly in pain , Slightly nervous , Appreciative",
+      "timestamp": "2024-11-16T12:45:58",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3892,
+      "text": "Very relaxed and happy especially after having my dinner . Now I will sit back and enjoy watching tv for the rest of the night . I will have to go to bed early since I work tomorrow morning . Easier day tomorrow at work so that won\u2019t be bad at all .",
+      "timestamp": "2024-11-16T22:03:13",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3893,
+      "text": "Slightly nervous , Somewhat relaxed , Slight pain from my left foot , Somewhat content , Appreciative",
+      "timestamp": "2024-11-17T12:42:13",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3894,
+      "text": "I\u2019m currently feeling pretty relaxed and happy right now because the work day is done . Have to run a few errands before heading home but that\u2019s no big deal . Very appreciative with everything I have so life is good .",
+      "timestamp": "2024-11-17T17:08:39",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3895,
+      "text": "Right now , I\u2019m currently feeling pretty good . My foot is less swollen and I am able to walk much better which puts me in a good mood . I cannot wait until it\u2019s completely healed so I can do my everyday activities without any pain . Nice day today which is also a plus .",
+      "timestamp": "2024-11-18T12:51:58",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3896,
+      "text": "Calm , Happy , Appreciative , Relaxed , Slightly tired",
+      "timestamp": "2024-11-18T22:54:39",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3897,
+      "text": "Happy , Energetic , Calm , Attentive , Satisfied",
+      "timestamp": "2024-11-19T17:05:22",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[ENTRY_384] indifferent , mild , tired , unexcited , calm
+[ENTRY_385] energized , accomplished , content , calm , pleased
+[ENTRY_386] full , relaxed , interested , calm , content
+[ENTRY_387] I am currently tired and feel as though I do not want to do anything . I feel sluggish and unmotivated to go about the rest of my day . I am also feeling anxious since I have an important call later on in the day .
+[ENTRY_388] I do not feel overly happy or overly sad currently . I would describe myself as neutral and calm . I have moderate energy and am currently content with how my day is going . I have my phone call soon , but I am not really stressed anymore .
+[ENTRY_389] exhausted , achey , sore , neutral , tired
+[ENTRY_395] anxious , tense , edgey , active , hungry
+[ENTRY_396] I am feeling mostly content currently and a little stressed . A couple of new opportunities came today which is exciting but stressful at the same time since it is all at once . I am pleased though to be receiving them .
+[ENTRY_397] I am currently feeling very happy and excited since I am seeing my friend I haven’t seen for a while now . I am feeling content and enjoying my evening , as well as looking forward to tomorrow and the weekend .
+[ENTRY_398] lively , active , serene , satisfied , happy
+[ENTRY_400] I am currently feeling pretty tired , but I woke up very early today so I believe that is normal . Besides being tired , I have a little bit of a headache and stomach pain , so I am a bit stressed about that .
+[ENTRY_401] unwell , tired , hurt , lazy , impatient
+[ENTRY_402] tired , bored , sick , sore , sluggish
+[ENTRY_403] I woke up feeling better today and currently I am feeling very productive since I am up and walking around . I feel accomplished since I am getting my house chores done and active since I had an early start to my day .
+[ENTRY_404] I am currently feeling somewhat energetic and active . I am feeling productive . I feel accomplished since I finished all my housework and now I am excited to reward myself with some self care . I am also feeling a little hungry .
+[ENTRY_405] I am currently feeling very content . I had a productive day and I am now winding down for the evening . I am pleased since I did my self care routine , which made me feel calm and relaxed . I am satisfied and happy .

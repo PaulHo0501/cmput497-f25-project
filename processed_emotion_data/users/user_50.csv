@@ -1,0 +1,19 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4979,Slightly overwhelmed with responsibility and uncertainty around the future . Overall relatively confident in my ability to tackle those responsibilities and face those uncertainties with a few bouts of less confidence here and there .,2021-06-08T14:10:56,0,0.0,2.0,1,False
+4980,Like there’s not enough time in the day to accomplish everything I need to do . Like something important is going to fall through the cracks . I should note that these feelings have little to nothing to do with my employment .,2021-06-09T16:17:00,1,-1.0,2.0,1,False
+4981,I am feeling simultaneously melancholy for a chapter in my life that is closing and excited in anticipation of a new one that is opening soon . The sadness is outweighing the excitement at the moment only because the new chapter hasn’t quite started yet .,2021-06-10T21:13:40,2,-1.0,1.0,1,False
+4982,"I’m heading into my weekend after working 60 hours the last 6 days , so I slept in and am feeling lazy . I’ll spend the afternoon getting myself back to normal . Not sure what else to say , here’s 200 characters .",2021-06-11T13:41:59,3,-1.0,0.0,1,False
+4983,I’ve been feeling pretty peaceful and at ease . I’m in the middle of three days off from work and even though I have lots of other responsibilities at the moment they don’t feel terribly overwhelming and I feel confident in taking them on .,2021-06-12T17:19:52,4,1.0,0.0,1,False
+4984,I have been feeling lighthearted and happy . I spent time with friends during one of my days off and got caught up on some chores and other life responsibilities . That’s about it . Here’s 200 characters .,2021-06-13T12:46:57,5,2.0,1.0,1,False
+4985,I’m starting a new project and meeting new people in a new place so I’m feeling excited and anticipatory and ready to have some fun and make some friends . Here’s some more characters to get to 200 characters .,2021-06-14T12:36:30,6,2.0,2.0,1,False
+4986,I’m feeling excited about the work I’m starting out with . I’m meeting some new people and getting to know them and enjoying the anticipation of fun things to do . Here’s 200 characters to satisfy the character requirement .,2021-06-15T20:46:09,7,2.0,2.0,1,False
+4978,"Yesterday I was feeling overwhelmed and not confident . Today I’m feeling a little better . Still slightly overwhelmed and like there’s not enough time in the day , but less insecure about it right now . I can’t believe that wasn’t 200 characters but here you go .",2021-06-18T15:47:46,8,-1.0,2.0,1,False
+4990,"Wired , Excited , Anticipatory",2022-02-10T15:30:07,9,1.0,2.0,2,True
+4991,"Bored , Calm , Peaceful",2022-02-10T21:45:33,10,1.0,0.0,2,True
+4992,"Lazy , Calm , Lethargic",2022-02-11T11:39:17,11,2.0,0.0,2,True
+4993,"Excited , Ready , Unprepared",2022-02-11T17:29:13,12,1.0,2.0,2,True
+4994,"Anxious , Waiting , Nervous",2022-02-11T20:11:32,13,-1.0,2.0,2,True
+4995,"Sleepy , Calm , Peaceful",2022-02-12T11:45:28,14,2.0,0.0,2,True
+4996,"Meh , Bored , Lazy",2022-02-12T15:05:27,15,0.0,1.0,2,True
+4997,"Energized , Ready , Excited",2022-02-12T20:36:45,16,1.0,2.0,2,True
+4998,"Buzzed , Excited , Anticipatory",2022-02-13T16:03:16,17,2.0,2.0,2,True

@@ -1,0 +1,186 @@
+{
+  "user_id": 93,
+  "num_entries": 18,
+  "entries": [
+    {
+      "text_id": 757,
+      "text": "Tired . I don\u2019t want to get out of bed right now . It\u2019s a weekend , but I have things that need to be done , and I\u2019d rather just lounge in bed and sleep all day . I won\u2019t , but I\u2019d like to .    This has been a hard , grueling week , and I\u2019m depressed .   I would rather escape into sleep , as I don\u2019t feel when I\u2019m asleep .   I have responsibilities , but they can wait for the moment .",
+      "timestamp": "2024-11-02T12:36:06",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 758,
+      "text": "Grumpy , Sad , Frustrated , Exhausted , Grieving",
+      "timestamp": "2024-11-02T17:00:52",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 759,
+      "text": "I feel very sluggish and depressed .   There is a lot of conflict around me in my friend circle , and I really don\u2019t like conflict . I don\u2019t like having to take sides .   I want everyone around me to be friends .",
+      "timestamp": "2024-11-02T22:01:02",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 760,
+      "text": "I\u2019m very sluggish this morning .   I don\u2019t want to go anywhere or do anything . I will try to push myself and do chores today , but my mood is terrible . I have home repairs to make today and I should go to the ATM .   There is nothing I want to do .",
+      "timestamp": "2024-11-03T12:00:52",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 761,
+      "text": "Sad , Tired , Devastated , Bored , Frustrated",
+      "timestamp": "2024-11-03T22:00:52",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 762,
+      "text": "Cranky , Tired , Frustrated , Sad , Grumpy",
+      "timestamp": "2024-11-04T12:03:11",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 763,
+      "text": "Slow , Sad , Tired , Weary , Grieving",
+      "timestamp": "2024-11-04T17:44:20",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 764,
+      "text": "I taking a break and doing something for fun . It is nice not to have to do anything for a bit . This is a good movie too , Strays . I should take more moments like this ; it might be good for me . I also watched some documentaries earlier today and might rewatch Borat .",
+      "timestamp": "2024-11-04T22:01:30",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 765,
+      "text": "Stressed , Angry , Frustrated , Unsupported , Sad",
+      "timestamp": "2024-11-05T12:07:46",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 766,
+      "text": "Annoyed . I have a charge on my building account with no explanation . I locked myself out of my apartment . And I haven\u2019t had a moment\u2019s peace all damn day . The new hire calls every 10 minutes and won\u2019t leave me   alone .",
+      "timestamp": "2024-11-05T17:01:27",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 767,
+      "text": "I am all nervous .   I just took a test , but I won ' t transcribe and turn it in because I know it ' s not a pass .   I ' m all worried about the election and scared of checking election results .   They were bad the last time I looked , even though I know we won ' t know for a few days yet .",
+      "timestamp": "2024-11-05T22:49:31",
+      "order": 10,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 768,
+      "text": "Uh , the election was yesterday .   We\u2019re stuck with the disaster of PERSON  for another 4 years or until his brain burns out , whichever is soonest . This is the worst possible thing that could happen .",
+      "timestamp": "2024-11-06T12:35:24",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 769,
+      "text": "Grieving , Depressed , Despairing , Exhausted , Achy",
+      "timestamp": "2024-11-06T17:01:01",
+      "order": 12,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 770,
+      "text": "Numb , Depressed , Despairing , Frustrated , Tired",
+      "timestamp": "2024-11-07T12:01:16",
+      "order": 13,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 771,
+      "text": "I\u2019m still grieving the election . I want to know what\u2019s going on in the world , but I don\u2019t want to know what\u2019s going on in the world . I do not want to engage with anyone . I want to box myself in my apartment and never leave .",
+      "timestamp": "2024-11-07T17:01:17",
+      "order": 14,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 772,
+      "text": "It will always be after the election . I am in the office and it is pointless for me to be here . I could be being productive at home . I am upset that I have to come into the office for no good reason .",
+      "timestamp": "2024-11-08T12:01:15",
+      "order": 15,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 773,
+      "text": "Bored , Frustrated , Anxious , Fearful , Disgusted",
+      "timestamp": "2024-11-08T17:01:10",
+      "order": 16,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 774,
+      "text": "sorrowful , depressed , despairing , exhausted , numb",
+      "timestamp": "2024-11-08T22:05:36",
+      "order": 17,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "user_id": 137,
+  "num_entries": 14,
+  "entries": [
+    {
+      "text_id": 3433,
+      "text": "Disappointed , Worried , Apprehensive , Concerned",
+      "timestamp": "2024-11-06T12:56:50",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3434,
+      "text": "Uncertain , Motivated , Tentative , Hopeful , Worried",
+      "timestamp": "2024-11-06T17:01:38",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3437,
+      "text": "Feeling calm and content . Feeling hopeful for the future and proud of my baby daughter and her growth over the past few weeks . Feeling unconcerned with the rest of the world as I enjoy a free morning with my family .",
+      "timestamp": "2024-11-07T12:57:55",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3438,
+      "text": "Feeling relaxed and maybe a little bit bored . Mood is relatively neutral and pleased . Feeling stress free and like I should seek out some excitement or an activity to keep busy with . That\u2019s all I\u2019ve got , I\u2019m not sure what else I\u2019m expected to say to reach the character limit .",
+      "timestamp": "2024-11-07T17:01:44",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3439,
+      "text": "I am feeling tired but calm and content . I\u2019m feeling unconcerned about what the future holds and trying to enjoy the here and now . I\u2019m also thinking about the day ahead and how I can make the best use of it .",
+      "timestamp": "2024-11-08T12:01:39",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3440,
+      "text": "Tired , Unfocused , Calm",
+      "timestamp": "2024-11-08T22:02:08",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3441,
+      "text": "Tired , Content , Calm",
+      "timestamp": "2024-11-09T12:50:42",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3442,
+      "text": "I\u2019m feeling calm , content and pleased with life . It\u2019s a relaxing weekend and there\u2019s nothing of note to be concerned about . It\u2019s a slow Saturday without any stress or work to fret over . I\u2019m looking forward to a nice quiet evening as well .",
+      "timestamp": "2024-11-09T17:09:29",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3443,
+      "text": "Happy , Energized , Engaged , Connected",
+      "timestamp": "2024-11-09T22:11:45",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3444,
+      "text": "Feeling energized and happy , calm and content . Everything feels right in the world in this moment . I\u2019m full of joy and I\u2019m feeling excited to spend the rest of the day with people I love and care about .",
+      "timestamp": "2024-11-10T12:33:18",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3445,
+      "text": "I feel relaxed and hopeful , peaceful and excited for the future . I feel connected to life and the world despite imperfections in the background . I feel surrounded by people I love and care about . It feels like a great weekend .",
+      "timestamp": "2024-11-10T17:02:22",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3446,
+      "text": "Happy , Energized , Satisfied , Engaged",
+      "timestamp": "2024-11-11T12:02:09",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3448,
+      "text": "Feeling calm and content but a little bit bored . Things are quiet and relaxed . Feeling a little bit stir crazy and wondering what I can do to stay occupied . Thinking about heading to the gym later and listening to some music .",
+      "timestamp": "2024-11-11T17:09:17",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3449,
+      "text": "Tired , Calm , Content , Happy",
+      "timestamp": "2024-11-11T22:02:10",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

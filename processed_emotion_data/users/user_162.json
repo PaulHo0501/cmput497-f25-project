@@ -1,0 +1,186 @@
+{
+  "user_id": 162,
+  "num_entries": 18,
+  "entries": [
+    {
+      "text_id": 4136,
+      "text": "I am feeling pretty on edge because someone in one of my classes just had a medical emergency , but I also felt on edge and stressed to a lesser extent beforehand . I ' m also feeling a little numb and not \"all there ,\" but not sad or depressed . I am quite aware of my heartbeat , but I am not sure if it ' s actually faster , and I have been a little twitchy all morning . I have found myself biting my lips because I ' m nervous , and my stomach feels a little out of sorts .",
+      "timestamp": "2024-11-11T12:34:49",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4137,
+      "text": "Calm , Sleepy , Contemplative , Quiet , Slightly tense",
+      "timestamp": "2024-11-11T17:01:14",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4138,
+      "text": "I ' m a bit on edge , my stomach feels a little tight , but I also feel somewhat content after talking with my mom . I am kind of in the verge of tears , actually , but I can ' t totally pinpoint why . I ' m feeling conflicting emotions , and I ' m excited to go to sleep tonight",
+      "timestamp": "2024-11-11T22:03:30",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4139,
+      "text": "I am generally happy , in a group of people , and not very stressed . I am feeling fulfilled and like I ' m having fun , but not overexcited or overwhelmingly happy . Still a bit of remaining stress but not too much .",
+      "timestamp": "2024-11-12T17:39:46",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4140,
+      "text": "Tired , Mild , Attentive , Helpful , Resigned",
+      "timestamp": "2024-11-12T22:01:06",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4141,
+      "text": "Tired , Calm , Accomplished , Scattered , Anticipatory",
+      "timestamp": "2024-11-13T17:02:11",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4142,
+      "text": "I am tired , frustrated , and have a tiny headache . I am sleepy and annoyed at some circumstantial things , and I would like to just be asleep . I am also a bit overwhelmed with things at the moment on a sensory level",
+      "timestamp": "2024-11-13T22:01:07",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4143,
+      "text": "I am stressed and my stomach is turning a little bit , I ' m irritated and overthinking , most of it is irritation , and I am also feeling tense . A lot of it is circumstantial but I am quite stressed on several levels",
+      "timestamp": "2024-11-14T12:11:11",
+      "order": 7,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4144,
+      "text": "I am feeling a little pissed off , a little irritated , and not altogether great . I am also overwhelmed and a tiny bit sad , but not a lot . I am ready for the day to be over by now , but I still have lots to do .",
+      "timestamp": "2024-11-14T17:00:12",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4145,
+      "text": "I am multitasking and slightly frustrated , a little overwhelmed , and sort of annoyed , but I also feel sad and like I am walking on eggshells . I also feel stupid and rude to the people around me because of something that my roommate said to me earlier",
+      "timestamp": "2024-11-14T22:08:36",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4146,
+      "text": "Professional , Determined , Accomplished , Happy , Tired",
+      "timestamp": "2024-11-15T12:12:01",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4147,
+      "text": "Happy , Included , Confident , Sleepy , Loved",
+      "timestamp": "2024-11-15T17:07:05",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4148,
+      "text": "Intrigued , Happy , Excited , Nervous , Tired",
+      "timestamp": "2024-11-15T22:00:21",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4149,
+      "text": "Happy , Excited , Funny , Energetic , Loved",
+      "timestamp": "2024-11-16T12:00:32",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4150,
+      "text": "I am sleepy , but I am not sad . I am just tired , a tiny bit frustrated with myself and an assignment I am working on , and thinking a lot . It has been a good day and I am feeling mostly just mild at the moment",
+      "timestamp": "2024-11-16T17:15:29",
+      "order": 14,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4151,
+      "text": "Calm , Happy , Inquisitive , Content , Sleepy",
+      "timestamp": "2024-11-16T22:06:48",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4152,
+      "text": "Stressed , Unsure , Excited , Tired , Hungry",
+      "timestamp": "2024-11-17T17:01:16",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4153,
+      "text": "Happy , Confident , Calm , Active , Determined",
+      "timestamp": "2024-11-18T12:00:57",
+      "order": 17,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

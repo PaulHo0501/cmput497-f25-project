@@ -1,0 +1,20 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4098,"Unmotivated , Insecure , Worried , Discontented , Insecure",2024-10-09T12:04:42,0,-1.0,0.0,7,True
+4099,I am feeling pretty good .   I am motivated to finish the process of closing the mortgage loan I am working on .   Laughing with my mom .   I feel happy about the opportunity to talking with her since she has dementia and she is alert enough for a discussion .,2024-10-09T17:01:58,1,1.0,2.0,7,False
+4100,I am feeling content with myself .   I am doing the best I can and not responding too emotionally .   I believe that I am getting better with sticking with what I am wanting to do and not running when it gets to hard or doesn’t go the way I want it to .,2024-10-09T22:03:08,2,1.0,0.0,7,False
+4101,"Happy , Excited , Peaceful , Serenity , Loved",2024-10-10T17:05:42,3,2.0,2.0,7,True
+4102,"Happy , Content , Motivated , Worthy , Loved",2024-10-10T22:01:26,4,2.0,1.0,7,True
+4103,Feeling sad because I lost a close friend who was part of the family to a heart attack .   My Mom and younger brother is taking very hard and I don’t want them to feel sad . Death can come so suddenly when you are not expecting .   My last husband died of a heart attack and I guess it brought back memories .,2024-10-11T17:10:03,5,-1.0,1.0,7,False
+4104,"Better , Accepted , Loved , Grateful , Cool",2024-10-11T22:16:47,6,1.0,2.0,7,True
+4105,"Excited , Happy , Content , Special , Loved",2024-10-12T12:00:59,7,2.0,2.0,7,True
+4106,I am feeling very happy going to church service the scripture always makes me feel happy .   Family is doing well .   Blessed to see another day .   I am feeling happy .   I am grateful and thankful .   I am doing well .   Feeling happy,2024-10-13T12:03:41,8,2.0,1.0,7,False
+4107,"Loved , Happy , Serenity , Peace , Confidence",2024-10-13T17:01:07,9,2.0,1.0,7,True
+4108,I feel happy life is going well and working out for my good and learning .   I am in the right place doing the right thing at the right time .   Life is what you choose to make it and I plan on making the rest of my life the best life for me .,2024-10-13T22:31:53,10,2.0,1.0,7,False
+4109,"Satisfied , Content , Optimistic , Loved , Challenged",2024-10-14T12:26:15,11,2.0,2.0,7,True
+4110,"Hopeful , Glad , Pain , Cool , Grateful",2024-10-14T17:02:54,12,1.0,1.0,7,True
+4111,I am feeling kind of content .   Heard from my daughter as usual not to say hello or check on me but to ask for money .   Does she even care or care for me to help her financially only .   Something has to change with this relationship .,2024-10-14T22:01:25,13,1.0,0.0,7,False
+4112,I am happy that I cleared the air with my daughter .   I am not a confronting type of person but I must learn to be so I can get it out instead of holding feelings in and letting it bother me .   I am happy that I have taken a step to get better and love myself .,2024-10-15T12:03:04,14,1.0,1.0,7,False
+4113,Feeling happy because I am working on walking in my purpose which is being a Mortgage loan officer and helping as many people as I can become homeowners .   So happy I said yes to myself . Be happy and don’t worry .,2024-10-15T17:20:04,15,2.0,1.0,7,False
+4114,Feeling happy with everything got done today .   Trying to make sure important things that need to be done get done . Happy today was a good day . Ending the day strong .   Finishing my day watching a movie .,2024-10-15T22:01:30,16,2.0,1.0,7,False
+4115,"Happy , Content , Satisfied , Great , Curious",2024-10-16T12:01:18,17,2.0,0.0,7,True
+4116,"Happy , Content , Satisfied , Wise , Glad",2024-10-16T17:01:18,18,2.0,1.0,7,True

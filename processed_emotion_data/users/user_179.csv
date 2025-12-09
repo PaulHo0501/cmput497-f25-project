@@ -1,0 +1,20 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4529,"I’m not bursting with energy but I’m waking with a gentle enthus , My senses are heightened , I want to laugh , I’m alive and I’m feeling it , I feel calm",2024-09-22T22:58:00,0,1.0,1.0,7,True
+4530,"Not really feeling good , Feeling like something is wrong but can’t figure out what , I wish I’m not experiencing this at the moment , Hate it when I can’t reach something I wish to get done , I feel bad",2024-09-23T12:06:34,1,-1.0,1.0,7,True
+4531,I ' m feeling pretty neutral about a lot of things I don ' t have strong feelings either way .\ nI’m not really interested in the outcome . I ' m just okay with whatever happens .\ nI’m really bothered and trying to make it look natural,2024-09-23T22:15:05,2,0.0,1.0,7,False
+4532,"Understanding , Calm , Lively , Calmness , Balance",2024-09-24T12:15:47,3,0.0,1.0,7,True
+4533,"Feeling lost in thoughts with a little touch of sadness , a bit disappointed but not devastated .\ nFeeling mildly nostalgic , happiness mixed a touch of sadness .\ nLonging for someone dearly to me and feeling withdrawn at same time .",2024-09-24T22:45:19,4,-1.0,1.0,7,False
+4534,I’m feeling neither particularly happy or unhappy at the moment just going about my daily routine .\ nEverything seems fairly manageable at the moment with no emotional intensity .\ nMy feelings are neither decidedly positive or negative,2024-09-25T12:08:35,5,0.0,1.0,7,False
+4535,I’m currently feeling the quietness in form of a river flowing through me like a calm ocean .\ nThe quietness has brought me a sense of peace .\ nI might say I Feels so calm and collected in the serene moments,2024-09-25T22:32:57,6,0.0,0.0,7,False
+4536,"Indifferent , No opinion , Undecided , No strong feelings , It’s fine",2024-09-26T17:34:52,7,0.0,1.0,7,True
+4537,"Calm , Unbiased , Composed , Stable , Balance",2024-09-26T22:29:36,8,0.0,1.0,7,True
+4538,"Awaken , Active , Lively , Bold , Vigorous",2024-09-27T12:02:33,9,0.0,2.0,7,True
+4539,"As I settled into the couch , surrounded by th comfort familiarity of home my sluggish body finally began to relax , surrendering to the exhaustion .\ nStruggling to shake of the sluggish tiredness away from my body",2024-09-28T17:55:13,10,-1.0,0.0,7,False
+4540,"Neutral , Calm , Unbiased , Stable , Compose",2024-09-29T12:58:32,11,0.0,1.0,7,True
+4541,"The warm atmosphere seems to enveloped me in a Damp hug , leaving me feeling somewhat sluggish and lethargic , leaving me unable to summon the energy to tackle even the simplest of task .\ nFeels like hitting a wall",2024-09-29T17:14:35,12,-1.0,0.0,7,False
+4542,"I feel the quiet atmosphere enveloped me calming my racing thoughts , soft whispering fills the room calming my disturbed nerves .\ nMy mind feels calm like still pond , flowing to and fro and peaceful like a calm ocean",2024-09-30T12:47:46,13,0.0,0.0,7,False
+4543,"Quiet , Calm , Reserved , Compose , Relaxed",2024-09-30T17:54:05,14,0.0,0.0,7,True
+4544,"I’m feeling quiet in the quiet hours of the morning , as the world awakens , I found solace in the silence , my thoughts awakened and my spirit renewed .\ nThe quiet rhythm of playing sound creates a calming melody washing away my worries and anxiety , my soul feels peaceful",2024-10-01T12:41:02,15,0.0,0.0,7,False
+4545,"Somber , Sad , Pensive , Wistful , Unhappy",2024-10-01T22:47:51,16,-1.0,1.0,7,True
+4546,"Neutral , Unbiased , Detached , Preserve , Unbothered",2024-10-03T12:32:16,17,0.0,1.0,7,True
+4547,"Neutral , Impartial , Serene , Calm , Stable",2024-10-03T17:47:01,18,0.0,1.0,7,True

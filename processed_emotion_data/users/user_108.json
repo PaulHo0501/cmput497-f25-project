@@ -1,0 +1,286 @@
+{
+  "user_id": 108,
+  "num_entries": 28,
+  "entries": [
+    {
+      "text_id": 1878,
+      "text": "Happy , Calm , Excited , Good , Active",
+      "timestamp": "2024-10-14T12:31:38",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1879,
+      "text": "I am currently feeling active , good and happy . Without feeling weak , I have been working and feeling active lately and with the help of my brother around working together , it has been fun and have not been feeling down so I have good",
+      "timestamp": "2024-10-14T17:02:04",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1880,
+      "text": "Feeling good and active . I am not feeling emotional , physical and mentally drained because I am currently working and going about my daily business which nothing is intervening with it and not stresses or nervous about anything",
+      "timestamp": "2024-10-14T22:02:17",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1881,
+      "text": "I am feeling calm and relax . I am on the sofa resting , telling good and not worried of anything around just focusing on the positive things I can get done and contribute . So I am good and fine and optimistic about my work .",
+      "timestamp": "2024-10-15T12:03:00",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1882,
+      "text": "Calm , Cool , Relaxed , Reserved , Gentle",
+      "timestamp": "2024-10-15T17:23:33",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1883,
+      "text": "Happy , Active , Calm , Relax , Lovely",
+      "timestamp": "2024-10-16T12:04:30",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1885,
+      "text": "I am feeling good and active . I am not down or feeling depressed . I have a strong mind and I am happy right now . I have been smiling and wondering how blessed I am which brings joy to my heart and that makes me feel good",
+      "timestamp": "2024-10-16T17:01:28",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1886,
+      "text": "Happy , Active , Strong , Lovely , Calm",
+      "timestamp": "2024-10-17T12:02:24",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1887,
+      "text": "Calm , Relax , Active , Alert , Happy",
+      "timestamp": "2024-10-17T17:06:09",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1888,
+      "text": "Calm , Relax , Happy , Active , Strong",
+      "timestamp": "2024-10-18T12:11:39",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1889,
+      "text": "Excited , Calm , Lovely , Happy , Active",
+      "timestamp": "2024-10-18T17:09:05",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1890,
+      "text": "I am currently feeling good and calm , happy . This is because I am off from work today so I will be chance to rest and get lot of things done and also do my chores , little cleaning and so on . So I am relaxed of not having to think of anything",
+      "timestamp": "2024-10-19T12:01:49",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1891,
+      "text": "Happy , Calm , Active , Excited , Relaxed",
+      "timestamp": "2024-10-20T12:06:50",
+      "order": 12,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1892,
+      "text": "I am currently happy and good to go . I have no worries and I am feeling refreshed and relaxed even with the situation around . I never back down been happy . I am currently active also and willing to go miles to get with so ever I want to get",
+      "timestamp": "2024-10-20T17:01:29",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1893,
+      "text": "Happy , Calm , Excited , Relaxed , Joyful",
+      "timestamp": "2024-10-21T12:06:28",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1894,
+      "text": "I am fine , happy and good . And I am currently active and doing activities gladly . I am currently excited with the way things are going , I not nervous or emotionally affected in any way because I did not allow anything to affect my joy and I have keep things that too",
+      "timestamp": "2024-10-21T17:04:28",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1896,
+      "text": "I am currently happy and feeling calm because everything is going as plan and having control of things around . I am happy because even at my work place things are working well with no complications . I feel strong and healthy because I eat well and feel health I ' m and out",
+      "timestamp": "2024-10-22T12:07:48",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1897,
+      "text": "Happy , Calm , Strong , Lovely , Active",
+      "timestamp": "2024-10-22T17:01:28",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1898,
+      "text": "I am feeling super good because I had a good news from my cousin , therefore I am feeling active and happy . I have been good and going out tonight to celebrate with a few friends on the good news . I am excited about the people around me and what I have been enjoying since the month began too",
+      "timestamp": "2024-10-23T12:36:32",
+      "order": 18,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1899,
+      "text": "I feeling active and good . I   not nervous about anything , no stress . I am not emotional   drained at all but I am active and strong . No reason to think negatively or be depressed and feeling okay and to crown it all I am very happy",
+      "timestamp": "2024-10-23T17:58:33",
+      "order": 19,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1900,
+      "text": "Happy , Excited , Active , Joyful , Good",
+      "timestamp": "2024-10-23T22:47:05",
+      "order": 20,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1901,
+      "text": "Happy , Active , Strong , Excited , Good",
+      "timestamp": "2024-10-24T12:05:17",
+      "order": 21,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1902,
+      "text": "I am currently happy and good . I am excited and joyful . I am not nervous or sad about anything , talkless of been depressed . I am feeling good and active with no complain about anything . I am up and grateful about life and I am not down with any thought whatsoever",
+      "timestamp": "2024-10-24T17:09:38",
+      "order": 22,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1903,
+      "text": "I am currently feeling good and active . I am not bothered about thing around , I am feeling excited and happy . I am not depressed or feeling ill toward anyone or coworkers I am strong and feeling good .",
+      "timestamp": "2024-10-25T12:02:35",
+      "order": 23,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1904,
+      "text": "I am currently fine and good . No form of depression or stress . I am feeling happy and active . I don ' t feel down in any way or thinking about any thing . I am not sad but happy with the things going on in my life currently .",
+      "timestamp": "2024-10-25T17:27:57",
+      "order": 24,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1905,
+      "text": "At the moment and right now I feel excites because I get to have amazing and wonderful time with family , friends we get to talk about amazing things and doing fun stuffs together like playing games and watching series together which always mke me happy and less worried about life hitches",
+      "timestamp": "2024-10-26T17:23:30",
+      "order": 25,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1911,
+      "text": "Happy , Calm , Excited , Joyful , Rejoicing",
+      "timestamp": "2024-10-26T22:08:17",
+      "order": 26,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1912,
+      "text": "I am happy and currently active without any form of depression or nervous . I am currently excited and calm , I am not nervous and worried about anything I am good and not depressed at all . I am not thicking about anything bad and not feeling sad",
+      "timestamp": "2024-10-27T12:01:42",
+      "order": 27,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

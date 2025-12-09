@@ -1,0 +1,156 @@
+{
+  "user_id": 163,
+  "num_entries": 15,
+  "entries": [
+    {
+      "text_id": 4172,
+      "text": "relaxed , worried , happy , determined , stressed",
+      "timestamp": "2024-12-06T12:02:15",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4173,
+      "text": "motivated , content , overwhelmed , invigorated , neutral",
+      "timestamp": "2024-12-06T17:00:40",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4174,
+      "text": "tired , worried , unmotivated , tired , disappointed",
+      "timestamp": "2024-12-07T17:46:56",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4175,
+      "text": "I feel motivated , encouraged , and looking forward to having a more positive outlook on my day . I also feel lucky and fortunate to be where I am today because I\u2019ve reflected on my priorities and actions . feeling slightly stressed , but I know that I can overcome the feeling .",
+      "timestamp": "2024-12-08T17:05:21",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4176,
+      "text": "grounded , neutral , relaxed , tired , relaxed",
+      "timestamp": "2024-12-08T22:25:52",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4177,
+      "text": "happy , relaxed , rested , calm , content",
+      "timestamp": "2024-12-09T12:50:21",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4178,
+      "text": "congested , tired , aches , sleepy , tired",
+      "timestamp": "2024-12-09T22:18:57",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4179,
+      "text": "relaxed , congested , sick , tired , content",
+      "timestamp": "2024-12-10T17:45:56",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4180,
+      "text": "relaxed , happy , comfortable , calm , restless",
+      "timestamp": "2024-12-10T22:50:30",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4181,
+      "text": "After a week of not getting quality sleep aka sleep deprivation , I unfortunately am coming down with a cold . I feel sluggish , tired , congested , dizzy , and downtrodden . I don\u2019t feel motivated to do anything at the moment .",
+      "timestamp": "2024-12-11T12:32:46",
+      "order": 9,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4182,
+      "text": "sleepy , relief , content , carefree , nervous",
+      "timestamp": "2024-12-12T12:27:42",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4183,
+      "text": "tired , sleepy , happy , sore , excited",
+      "timestamp": "2024-12-16T12:56:56",
+      "order": 11,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4184,
+      "text": "calm , rested , healthy , sleepy , motivated",
+      "timestamp": "2024-12-16T17:00:43",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4185,
+      "text": "Came back to school , returned to my room . Feeling content but nervous about upcoming assessments that I should\u2019ve studied for . Currently slightly anxious but looking forward to being busy today and getting back into the groove .",
+      "timestamp": "2024-12-19T12:21:09",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4186,
+      "text": "happy , content , relaxed , free , productive",
+      "timestamp": "2024-12-19T21:59:17",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

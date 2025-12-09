@@ -1,0 +1,3 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1317,"Stress , Happy , Sad , Upset , Anamosity",2021-06-14T21:58:50,0,-1.0,0.0,1,True
+1318,"Stress , Relief , Relaxed",2021-06-15T16:50:37,1,-1.0,1.0,1,True

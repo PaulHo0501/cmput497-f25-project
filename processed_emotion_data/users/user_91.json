@@ -1,0 +1,316 @@
+{
+  "user_id": 91,
+  "num_entries": 31,
+  "entries": [
+    {
+      "text_id": 651,
+      "text": "Happy , Relaxed , Excited , Enthusiastic , Energetic",
+      "timestamp": "2024-10-26T17:04:35",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 652,
+      "text": "I am feeling relaxed . I am happy i attended homecoming today and was able to hang out with friends and coworkers to have a fun day . I am also feeling ready for tomorrow since I have some stressful projects coming up .",
+      "timestamp": "2024-10-26T22:25:57",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 653,
+      "text": "I am currently feeling very calm . I am completing the work I said I would do today , which makes me happy . I am also sad that I couldn\u2019t do my campus job today because of a transport issue , but it\u2019s ok .",
+      "timestamp": "2024-10-27T17:00:33",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 654,
+      "text": "Happy , Energetic , Enthusiastic , Hungry , Focused",
+      "timestamp": "2024-10-27T22:03:20",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 655,
+      "text": "I am currently feeling tired but I am also very happy . I was able to eat a good breakfast at work today which was nice , and got a decent night\u2019s sleep last night which I am happy about . I am also hungry at the moment .",
+      "timestamp": "2024-10-28T17:01:29",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 656,
+      "text": "I am currently feeling happy . I am in class helping other students learn and giving them advice about how to solve the problems we are being given in the class . I am glad to be collaborating with them .",
+      "timestamp": "2024-10-28T22:09:03",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 657,
+      "text": "Calm , Relaxed , Hungry , Happy , Enthusiastic",
+      "timestamp": "2024-10-29T17:00:51",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 658,
+      "text": "Happy , Joyful , Excited , Content , Hungry",
+      "timestamp": "2024-10-29T22:32:59",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 660,
+      "text": "Currently I am feeling content . I woke up feeling refreshed and am very energized at the moment . I am excited to go to class today because we are going to do some group work today and I have friends in class to see .",
+      "timestamp": "2024-10-30T17:08:07",
+      "order": 8,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 661,
+      "text": "I am feeling very happy right now . I am attending an event that my roommate is hosting on campus . I am helping out with it and having a good time hanging out . I am also feeling kind if tired , I was up late last night .",
+      "timestamp": "2024-10-30T22:51:42",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 662,
+      "text": "I am currently feeling very happy . I am at work helping my boss get through some projects for the day . I am also excited for today since it\u2019s halloween . I will be going to a party with my girlfriend tonight to have a good time and enjoy ourselves .",
+      "timestamp": "2024-10-31T12:21:28",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 663,
+      "text": "I am currently feeling very happy . I am excited for Halloween and parties and a lot of other fun activities that are happening tonight . I am also content because I think I did a good job at work today . I was going around helping my boss .",
+      "timestamp": "2024-10-31T17:01:24",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 664,
+      "text": "Enthusiastic , Happy , Joyful , Excited , Energetic",
+      "timestamp": "2024-10-31T22:04:08",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 665,
+      "text": "I am currently feeling very happy . Halloween was fun last night , and I had a good time hanging out with people and going out for the night . I also am glad to have met some new people who were really cool last night .",
+      "timestamp": "2024-11-01T17:00:40",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 666,
+      "text": "Happy , Joyful , Content , Full , Excited",
+      "timestamp": "2024-11-01T22:00:59",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 667,
+      "text": "I am currently feeling very happy but also very tired . I was up late last night and I had to wake up early today for work . My work for the day is a large shift that is a very important conference for the ORG on campus .",
+      "timestamp": "2024-11-02T12:23:00",
+      "order": 15,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 668,
+      "text": "Happy , Excited , Enthusiastic , Tired , Content",
+      "timestamp": "2024-11-02T17:01:00",
+      "order": 16,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 669,
+      "text": "I am currently feeling very happy right now because I am watching one of my favorite hockey teams play and they are winning . I am also feeling tired from not sleeping well last night and getting woken up early this morning to loud banging in my dorm .",
+      "timestamp": "2024-11-03T17:16:58",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 671,
+      "text": "Tired , Happy , Hopeful , Content , Full",
+      "timestamp": "2024-11-03T22:13:59",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 672,
+      "text": "Happy , Tired , Enthusiastic , Content , Excited",
+      "timestamp": "2024-11-04T17:24:48",
+      "order": 19,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 673,
+      "text": "I am currently feeling very annoyed . I missed the survey from this morning so I know I probably won\u2019t be getting that extra bonus for completing all of them . I am otherwise feeling decent , slightly tired .",
+      "timestamp": "2024-11-04T22:16:59",
+      "order": 20,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 674,
+      "text": "Tired , Exhausted , Quiet , Content , Hungry",
+      "timestamp": "2024-11-05T17:15:38",
+      "order": 21,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 675,
+      "text": "Tired , Anxious , Exhausted , Slow , Sluggish",
+      "timestamp": "2024-11-05T22:05:56",
+      "order": 22,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 676,
+      "text": "I am currently feeling stressed out because I am late for my class . I woke up late today and took a long time to get ready for class . I am also slightly annoyed because I stopped myself from investing in some stocks last night and now they have all shot up from the election .",
+      "timestamp": "2024-11-06T17:30:06",
+      "order": 23,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 677,
+      "text": "I am currently feeling very tired and sluggish . I definitely need to fix my sleep schedule tonight and go to bed early , especially since I have work early in the morning tomorrow and the day after . It would also be nice to wake up before 12pm normally .",
+      "timestamp": "2024-11-06T22:12:46",
+      "order": 24,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 678,
+      "text": "I am currently feeling very tired . I have not been getting very good sleep the past week or so , and it is getting very annoying having little sleep each night or waking up super late and starting my day late . I had to buy melatonin for this issue .",
+      "timestamp": "2024-11-07T12:07:41",
+      "order": 25,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 679,
+      "text": "Tired , Hyper , Anxious , Nervous , Exhausted",
+      "timestamp": "2024-11-07T17:01:07",
+      "order": 26,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 680,
+      "text": "I am currently feeling very tired from today . I drank an energy drink before to keep myself awake to do some work throughout the day and so I can fall asleep easily tonight . It didn\u2019t work too well and I didn\u2019t get much work done .",
+      "timestamp": "2024-11-07T22:02:51",
+      "order": 27,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 682,
+      "text": "Tired , Energetic , Full , Happy , Excited",
+      "timestamp": "2024-11-08T12:06:16",
+      "order": 28,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 683,
+      "text": "Tired , Hungry , Happy , Energetic , Hopeful",
+      "timestamp": "2024-11-08T17:16:46",
+      "order": 29,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 684,
+      "text": "Tired , Anxious , Happy , Doubtful , Excited",
+      "timestamp": "2024-11-08T22:03:18",
+      "order": 30,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

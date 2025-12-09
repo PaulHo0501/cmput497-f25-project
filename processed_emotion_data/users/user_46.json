@@ -1,0 +1,76 @@
+{
+  "user_id": 46,
+  "num_entries": 7,
+  "entries": [
+    {
+      "text_id": 4724,
+      "text": "Excited , Wore out , Driven",
+      "timestamp": "2021-03-30T15:10:59",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 4725,
+      "text": "Awake , Fun , Happy , Drowsy",
+      "timestamp": "2021-03-31T15:48:35",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 4726,
+      "text": "Tired , Intense , Content , Happy , Wore out",
+      "timestamp": "2021-04-02T14:26:01",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 4727,
+      "text": "Excited , Tired , Happy",
+      "timestamp": "2021-04-03T12:05:49",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 4728,
+      "text": "Content , Happy , Excited , Calm , Relieved",
+      "timestamp": "2021-04-04T16:20:14",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 4729,
+      "text": "Bored , Happy , Full , Tired",
+      "timestamp": "2021-04-05T12:23:02",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 4730,
+      "text": "Excited , Bored , Bummed out , Tired",
+      "timestamp": "2021-04-06T16:16:49",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

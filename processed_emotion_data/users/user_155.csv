@@ -1,0 +1,13 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+3938,"Focused , Tired , Determined , Nervous , Productive",2024-11-01T17:04:05,0,0.0,1.0,7,True
+3939,"Sad , Worried , Relaxed , Contemplated , Na",2024-11-01T22:06:07,1,-1.0,1.0,7,True
+3940,"I am feeling calm and content , not much to do today so I can relax and spend quality time with my partner . I had a good sleep so I feel well rested too . I also felt that I had a good evening with a successful score on my exam yesterday night and it was a big stressor , so I ' m happy and content it worked out .",2024-11-02T12:49:51,2,1.0,0.0,7,False
+3941,"Happy , Content , Chill , Relaxed , Calm",2024-11-02T17:32:45,3,1.0,1.0,7,True
+3942,"Sleepy , Content , Calm , Chill , Relaxed",2024-11-03T12:04:16,4,0.0,1.0,7,True
+3943,"Chill , Focused , Relaxed , Calm , At peace",2024-11-04T12:19:49,5,1.0,1.0,7,True
+3944,"Jittery , Nervous , Overwhelmed , Anxious , Weak",2024-11-04T22:30:36,6,-1.0,1.0,7,True
+3945,I am feeling fearful about the future and I am feeling uncertain about the path forward and I am scared and nervous and shaking . Also I am feeling a bit numb and trying to convince my mental state to be calmer .,2024-11-07T17:17:07,7,-2.0,2.0,7,False
+3946,"Nervous , Stressed , Suppressed , Jittery , Tense",2024-11-08T12:34:29,8,-1.0,1.0,7,True
+3947,"I am feeling pretty calm in the current moment and a bit tired from the busy week . Overall , I feel pretty chill and I do not have too much anxiety in the current moment . I feel pretty peaceful and I do not feel very nervous right now . A little tense , but overall I am calm .",2024-11-08T17:45:35,9,0.0,1.0,7,False
+3948,"calm , focused , chill , relaxed , nottense",2024-11-09T17:04:20,10,1.0,1.0,7,True
+3949,"Calm , Excited , Chill , Happy , Content",2024-11-09T22:18:26,11,1.0,1.0,7,True

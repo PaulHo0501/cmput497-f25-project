@@ -1,0 +1,376 @@
+{
+  "user_id": 57,
+  "num_entries": 37,
+  "entries": [
+    {
+      "text_id": 11,
+      "text": "Calm , Excited , Happy , Calm , Calm",
+      "timestamp": "2024-10-26T12:00:25",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 205,
+      "text": "When I came home I felt invigorated after a good gym workout . I cooked and ate lunch . Post meal and shower , I am feeling calm , sleepy and relaxed . I am going to a Halloween party tonight so I am also excited . However , I am anticipating being tired after the party is over .",
+      "timestamp": "2024-10-26T17:00:22",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 216,
+      "text": "Anticipating , Tired , Excited , Happy , Calm",
+      "timestamp": "2024-10-26T22:00:27",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 227,
+      "text": "tired , sleepy , calm , tired , sleepy",
+      "timestamp": "2024-10-27T12:06:58",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 238,
+      "text": "I am feeling somewhat tired currently because last night my friends and I went out to a halloween party and came back home late . However , I am also feeling full after a good lunch and productive post cleaning .",
+      "timestamp": "2024-10-27T17:12:00",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 259,
+      "text": "tired , calm , free , happy , chill",
+      "timestamp": "2024-10-27T22:01:50",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 270,
+      "text": "I am feeling somewhat tired . I woke up early this morning so I could get some work done before heading to lectures . I am feeling motivated to get a workout in later . I am looking forward to getting through the week so I can enjoy the weekend events .",
+      "timestamp": "2024-10-28T12:05:42",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 289,
+      "text": "I am feeling tired but happy that I have gotten through my lectures and quiz and have come home . I am feeling motivated to finish my assignment so that I can take a break and possibly nap . I am somewhat distracted thinking about cooking dinner in some time .",
+      "timestamp": "2024-10-28T17:00:20",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 302,
+      "text": "calm , full , tired , calm , full",
+      "timestamp": "2024-10-28T22:19:40",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 303,
+      "text": "tired , anticipating , happy , calm , calm",
+      "timestamp": "2024-10-29T12:00:13",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 357,
+      "text": "tired , anticipating , full , tired , anticipating",
+      "timestamp": "2024-10-29T17:05:53",
+      "order": 10,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 372,
+      "text": "I am currently tired . I am doing a night shift at the hospital . I am anticipating the night ahead . I am feeling full from dinner . I had some popcorn which made me happy . I am somewhat uncomfortable because it is hot here .",
+      "timestamp": "2024-10-29T22:00:18",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 374,
+      "text": "Tired , Calm , Exhausted , Tired , Calm",
+      "timestamp": "2024-10-30T12:53:53",
+      "order": 12,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 375,
+      "text": "tired , calm , content , tired , calm",
+      "timestamp": "2024-10-30T17:00:15",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 383,
+      "text": "I am feeling tired on my night shift at the hospital . I am full from my dinner . I am calm and content . I am anticipating the night ahead and the assignments I need to complete . I am looking forward to my anniversary tomorrow .",
+      "timestamp": "2024-10-30T22:05:01",
+      "order": 14,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 399,
+      "text": "tired , hungry , calm , tired , calm",
+      "timestamp": "2024-10-31T12:00:56",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 417,
+      "text": "I am currently feeling slightly tired and anticipating the rest of the day . In a little while I have to head out to my night shift . I am feeling calm . I feel full from lunch . I am happy because today is my dating anniversary .",
+      "timestamp": "2024-10-31T17:39:10",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 428,
+      "text": "tired , calm , content , tired , calm",
+      "timestamp": "2024-10-31T22:00:19",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 564,
+      "text": "tired , calm , content , tired , focused",
+      "timestamp": "2024-11-01T12:00:18",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 578,
+      "text": "Hungry , Content , Calm , Content , Calm",
+      "timestamp": "2024-11-01T17:19:59",
+      "order": 19,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 589,
+      "text": "I am feeling calm and content . I am looking forward to the weekend and visiting my mom back home . I am happy because we had dinner together and had some ice cream . I am somewhat tired from the week . I am glad I don\u2019t have to go back for more nights .",
+      "timestamp": "2024-11-01T22:31:47",
+      "order": 20,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 600,
+      "text": "I am feeling calm and content after going out for dinner with my family . We also stopped to get some dessert after dinner . I am feeling peaceful and determined to get some studying done tonight . I am looking forward to tomorrow .",
+      "timestamp": "2024-11-02T22:00:22",
+      "order": 21,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 623,
+      "text": "Callm , Content , Peaceful , Calm , Content",
+      "timestamp": "2024-11-03T12:00:24",
+      "order": 22,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 634,
+      "text": "I am feeling tired and slightly sluggish . I am also feeling accomplished because I have completed my prep for the coming week . I am feeling good because I have also caught up on some studying as well as housework . I am looking forward to going to bed to rest soon .",
+      "timestamp": "2024-11-03T22:00:43",
+      "order": 23,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 645,
+      "text": "I am feeling neutral and slightly tired . I did not sleep well last night because I slept on the couch . My partner is sick and I am hoping not to get sick . I am feeling motivated to get some studying done today for my exam coming up .",
+      "timestamp": "2024-11-04T12:09:25",
+      "order": 24,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 646,
+      "text": "I am feeling tired after getting home from a long day of lectures . I am anticipating more studying now that I am home . I am looking forward to getting some laundry folded and making dinner later . I am anticipating my day tomorrow on a new unit .",
+      "timestamp": "2024-11-04T17:34:59",
+      "order": 25,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 647,
+      "text": "Calm , Content , Tired , Calm , Content",
+      "timestamp": "2024-11-04T22:00:24",
+      "order": 26,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 648,
+      "text": "I am currently feeling tired . I woke up very early for my shift at the hospital and did not have a good night ' s sleep . I am looking forward to see my family tonight in order to celebrate my birthday . I am happy they live nearby and will be able to visit .",
+      "timestamp": "2024-11-05T12:02:46",
+      "order": 27,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 649,
+      "text": "I am feeling tired because I have been on shift since 6am . I am looking forward to go home soon and head out so I can vote . I am excited and happy my family is coming to see me tonight . We are going to celebrate my birthday .",
+      "timestamp": "2024-11-05T17:00:20",
+      "order": 28,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 650,
+      "text": "I am feeling very happy because my family came to celebrate my birthday with me . They brought me cake , flowers and gifts . I am anticipating going in for my early shift tomorrow . I am somewhat nervous to give a presentation .",
+      "timestamp": "2024-11-05T22:31:40",
+      "order": 29,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 659,
+      "text": "I am feeling tired . I got to my shift very early in the morning and am looking forward to going home . I am anticipating a presentation during the middle of the day today . I am looking forward to being done with it and getting back to studies .",
+      "timestamp": "2024-11-06T12:20:34",
+      "order": 30,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 670,
+      "text": "I am feeling tired and ready to go home . I am anticipating my turn to present at work . I am looking forward to getting home and getting some housework done . I have a lot of work to do once I am able to leave . I am looking forward to the weekend .",
+      "timestamp": "2024-11-06T17:00:24",
+      "order": 31,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 681,
+      "text": "I am feeling tired now that I am home from a long day at work . I am full from a delicious dinner . I am anticipating my day tomorrow because I have a big case in the morning and this will be my last day on the unit . I am looking forward to being done .",
+      "timestamp": "2024-11-06T22:00:27",
+      "order": 32,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 685,
+      "text": "I am feeling somewhat out of sorts . I have been working really early and long hours this month . I am looking forward to being done with this rotation . I am happy that I will get to go out this weekend to celebrate my birthday . I am curious as to where we are going .",
+      "timestamp": "2024-11-07T17:01:13",
+      "order": 33,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 686,
+      "text": "Calm , Tired , Calm , Tired , Calm",
+      "timestamp": "2024-11-07T22:02:53",
+      "order": 34,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 687,
+      "text": "Calm , Content , Rested , Calm , Content",
+      "timestamp": "2024-11-08T12:02:11",
+      "order": 35,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 688,
+      "text": "calm , content , happy , calm , content",
+      "timestamp": "2024-11-08T17:00:33",
+      "order": 36,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

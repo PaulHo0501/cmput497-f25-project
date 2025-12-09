@@ -1,0 +1,206 @@
+{
+  "user_id": 131,
+  "num_entries": 20,
+  "entries": [
+    {
+      "text_id": 3044,
+      "text": "chill , enthusiastic , snacky , thirsty , clean",
+      "timestamp": "2024-10-01T22:05:57",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3045,
+      "text": "tired , uncomfortable , hungry , neutral , content",
+      "timestamp": "2024-10-02T12:00:49",
+      "order": 1,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3046,
+      "text": "I\u2019m dreading checking the produce at my job and I\u2019m drained being at work even though I haven\u2019t been here since Sunday . I don\u2019t look forward to this shift or getting home at 3 am when my fianc\u00e9 is already asleep .",
+      "timestamp": "2024-10-02T22:29:27",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3048,
+      "text": "full , uncomfortable , tired , dread , unwell",
+      "timestamp": "2024-10-03T12:46:50",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3049,
+      "text": "tired , excited , dread , focused , worried",
+      "timestamp": "2024-10-03T17:06:05",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3050,
+      "text": "about to drive an hour home with my yelling cat . she hates the car but hopefully there\u2019s no traffic , i really wanna get home and see my girlfriend before i have work at 6 . why 200 words that seems like a lot",
+      "timestamp": "2024-10-04T17:00:57",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3051,
+      "text": "i\u2019m on a break at work and excited to eat my mac n cheese . i wanna go home it\u2019s slow today and this shift is completely dragging . i don\u2019t have the motivation to be energetic so im just skating by and doing the bare minimum",
+      "timestamp": "2024-10-04T22:24:26",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3052,
+      "text": "i\u2019m at work again . this shift is dead compared to the ones i usually work . i always kinda regret picking up extra shifts and my girlfriend doesn\u2019t like it but i really need the money so im toughing it out . at least i like my coworkers a lot and i can kinda do whatever i want",
+      "timestamp": "2024-10-05T17:27:13",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3053,
+      "text": "upset because i think i missed the 3pm survey (and possibly the 12) but i had this open in my browser so im filling it out anyway . i was just three minutes late to work and im also upset w myself about that bc every minute and every cent counts right now . i really wanted to have a good day and be pumped for this shift because sundays are always busy but my day didn\u2019t end up how i wanted",
+      "timestamp": "2024-10-06T20:03:24",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3054,
+      "text": "i\u2019m disappointed in myself for sleeping so much today but can\u2019t do anything about it so i\u2019m just trying to get stuff done that i meant to do earlier . i\u2019m feeling a little manic too . but honestly content like im not devastated",
+      "timestamp": "2024-10-07T22:12:07",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3055,
+      "text": "content , talkative , neutral , chill , relaxed",
+      "timestamp": "2024-10-08T12:28:33",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3056,
+      "text": "excited , happy , high , focused , healthy",
+      "timestamp": "2024-10-08T17:23:00",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3057,
+      "text": "drunk , happy , worried , mischievous , PERSON",
+      "timestamp": "2024-10-08T22:34:31",
+      "order": 12,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3059,
+      "text": "full from breakfast , enthusiastic about the day in front of me , nervous for a doctors appointment that i have , grateful for my family and my girlfriend , unsure about the timeline of events today , worried about money",
+      "timestamp": "2024-10-10T12:37:16",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3060,
+      "text": "uncomfortable , tired , weary , done , annoyed",
+      "timestamp": "2024-10-10T17:01:54",
+      "order": 14,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3061,
+      "text": "dismayed that this one is a box and not five words . tired , have to pee , want to go home , dragging , annoyed at ORG , wanting to sit down and not have to get up for a while (about to take my break) extra words here",
+      "timestamp": "2024-10-10T22:25:56",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3062,
+      "text": "a little nervous because my shift lead intimidates me and i don\u2019t work with her often so i feel like kind of rigid and like everything i do is intentional because i don\u2019t want her to think badly of me since im still relatively new . i was really hoping it would just be me and the guys so i could kick back and do less work but she\u2019s leaving at 10 so its fine . i\u2019m bummed i won\u2019t get home til 3 am and won\u2019t see my girlfriend until monday but idek if ill see her because ORG isn\u2019t even closed for the public holiday so she\u2019ll have to cut class to see me",
+      "timestamp": "2024-10-12T22:13:15",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3063,
+      "text": "sweaty , excited , chill , idk , neutral",
+      "timestamp": "2024-10-13T22:42:09",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3064,
+      "text": "high , hungry , happy , good , good",
+      "timestamp": "2024-10-14T17:15:13",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3065,
+      "text": "heavy , focused , relaxed , chill , happy",
+      "timestamp": "2024-10-14T22:25:44",
+      "order": 19,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

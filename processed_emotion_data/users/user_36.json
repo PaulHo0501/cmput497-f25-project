@@ -1,0 +1,116 @@
+{
+  "user_id": 36,
+  "num_entries": 11,
+  "entries": [
+    {
+      "text_id": 2492,
+      "text": "I am doing well . Getting ready for work . It is going to be a good day .   Other than it being cold .   But I am working inside today until 8 pm \\ nThen I get to go home to my best friend whom I love dearly . Everyday is a good day",
+      "timestamp": "2022-01-22T11:03:16",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2493,
+      "text": "I am feeling OK .   A little anxious because I have to move , but dealing with it and staying positive ..   everything will work out well .   200 characters ia a lot to say how I feel though . Still not enough",
+      "timestamp": "2022-01-22T16:22:38",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2494,
+      "text": "I am feeling pretty good right now and only getting better .. I am trying to stay very   positive on everything that is going on in my life .. I am making the best out of what I can ..   that is all that any of us can do ..",
+      "timestamp": "2022-01-22T20:32:50",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2495,
+      "text": "At this very moment I am feeling very content and pretty happy .   I have made some choices and decisions and I am quite satisfied in the choices and decisions that I have made today .   Also the buccaneers are on television .",
+      "timestamp": "2022-01-23T15:08:37",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2496,
+      "text": "I just got home from a very long day of work and can now relax .   I an very happy I have the next two days off and I can try to take care of certain situations therefore I am quite happy and content right now ..",
+      "timestamp": "2022-01-23T20:03:16",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2497,
+      "text": "At this current moment I am feeling currently happy .   It is my day off and I am relaxing and this always makes me happy .   It is very cold in GPE this week but I am dealing with that and staying warm and happy .",
+      "timestamp": "2022-01-24T15:02:19",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2498,
+      "text": "I am very content and calm right now .   I was just sitting by the bon fire enjoying the night even though it is pretty cold out for GPE .   Life is good and it is only gonna get better from here on out .",
+      "timestamp": "2022-01-24T20:01:49",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2499,
+      "text": "I am feeling pretty happy today just like most days .   I am content and satisfied with my life right now .   I am hoping for everything to move in a very positive direction and keep my life on track which I think should happen .",
+      "timestamp": "2022-01-26T16:04:09",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2500,
+      "text": "I am feeling somewhat content today .   It is kind of gloomy and cold outside today but I am trying to still keep my spirits up .   Life is good at the moment and it is only going to get better as the year goes on .",
+      "timestamp": "2022-01-28T15:04:27",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2490,
+      "text": "I am currently feeling Okay and somewhat content .   Life keeps throwing me curveball but I have to hang in there and stay strong .   Things will have to get better soon .   Still not enough words , uou really need to lower the limit .",
+      "timestamp": "2022-01-31T20:01:03",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": false
+    },
+    {
+      "text_id": 2491,
+      "text": "I am very happy today although things are not in line I am feeling positive that they will be .   As long as we keep a positive attitude positive things will happen .   So therefore things are good right now .",
+      "timestamp": "2022-02-02T21:17:18",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": false
+    }
+  ]
+}

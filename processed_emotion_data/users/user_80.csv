@@ -1,0 +1,15 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+5179,"Confused , Down , Inactive , Drained , Twist",2024-08-14T12:39:38,0,0.0,1.0,7,True
+5180,"Sad , Angry , Weak , Tired , Down",2024-08-15T12:14:48,1,-2.0,1.0,7,True
+5181,"Calm , Relax , Quiet , Freeze , Smooth",2024-08-15T17:01:30,2,0.0,0.0,7,True
+5182,"Down , Bittered , sad , Weak , Tired",2024-08-16T12:26:02,3,-1.0,1.0,7,True
+5183,"Clear , Calm , Jittery , Reflex , Smiley",2024-08-16T17:02:49,4,0.0,1.0,7,True
+5184,"Active , Lively , Calm , Jittery , Great",2024-08-17T12:00:40,5,0.0,1.0,7,True
+5185,"Feeling greatful , peaceful , calm , twisted , swinging , feeling fine , feeling good , feeling a bit dispirited despite winning a good fairable discount for the day . Feeling a bit down because of my stomach hurt due to stupor yesterday",2024-08-18T12:26:24,6,0.0,1.0,7,False
+5186,"Contentment is a warm and comforting feeling , like a gentle smile that spreads through your heart and mind . It ' s a sense of satisfaction and pleasure , where things feel right with the world , and you ' re at peace with your circumstances . In moments of contentment , life feels cozy and familiar , filling you with a sense of calm delight .",2024-08-19T12:38:48,7,1.0,1.0,7,False
+5187,"Euphoria is an electrifying and exhilarating feeling , like a burst of energy that courses through your veins , leaving you breathless . In moments of euphoria , life feels like a thrilling adventure , full of possibility and promise , and you ' re ready to take on the world with an unstoppable sense of excitement and abandon .",2024-08-19T17:54:14,8,1.0,2.0,7,False
+5188,"A sense of neutrality is a calm and balanced feeling , like a still pond that reflects the surroundings without a ripple . It ' s a state of emotional equilibrium , where neither excitement nor despair dominates , and the mind is clear of strong inclinations . In this state , thoughts and feelings are acknowledged without judgment , and the individual observes their experiences with a detached curiosity .\ n",2024-08-20T12:37:37,9,1.0,0.0,7,False
+5189,"Vitality is an energetic and dynamic feeling , like a   state of being fully engaged and immersed in the moment , where your senses are heightened , and your spirit is lifted . With vitality , every step feels light , every task feels manageable , and every challenge feels like an opportunity to thrive .",2024-08-20T17:34:56,10,0.0,2.0,7,False
+5190,"Energetic , Vibrant , Effervescent , Dynamic , Excited",2024-08-21T12:21:45,11,1.0,2.0,7,True
+5191,"Vibrant , Excited , Energetic , Promising , Expectant of possibilities",2024-08-21T17:02:37,12,1.0,1.0,7,True
+5192,"Strong , Thriving , Motivated , Refreshing , Great",2024-08-22T12:49:03,13,0.0,2.0,7,True

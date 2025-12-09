@@ -1,0 +1,46 @@
+{
+  "user_id": 31,
+  "num_entries": 4,
+  "entries": [
+    {
+      "text_id": 1961,
+      "text": "over the weekend , my friends dad and dog both died so i have been feeling sorry for him and helping him book travel to GPE to be with his family . It\u2019s pretty much all i have spent time or energy on .",
+      "timestamp": "2021-03-30T12:35:54",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 1962,
+      "text": "i am still feeling the same as i was yesterday ; sad for my friend . i had a nice meal last night and was able to spend some time on myself yesterday which made me happy . i would like to be more productive on my days off .",
+      "timestamp": "2021-03-31T12:03:38",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 1963,
+      "text": "i ran my fastest 5k ever yesterday ! i have been doing a running workout program for one week and am proud of myself for sticking to it . i usually lose interest/drive in workout programs pretty quickly but i have done the workouts every day so far",
+      "timestamp": "2021-04-01T12:21:54",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 1964,
+      "text": "i did not have restful sleep last night . i had \u201cserver nightmares\u201d and woke up in a panic this morning . i had a good night at work last night but i really did not want to be there for some reason ; despite working with my favorite people",
+      "timestamp": "2021-04-02T12:14:39",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "user_id": 173,
+  "num_entries": 6,
+  "entries": [
+    {
+      "text_id": 4438,
+      "text": "Excited , Hopeful , Tired , Annoyed , Optimistic",
+      "timestamp": "2024-10-26T12:13:33",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4439,
+      "text": "Tired , Annoyed , Sick , Frustrated , Exhausted",
+      "timestamp": "2024-10-27T17:01:19",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4440,
+      "text": "Tired , Rested , Sick , Content , Ready",
+      "timestamp": "2024-10-27T22:57:53",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4441,
+      "text": "Tired , Content , Accomplished , Frustrated , Hopeful",
+      "timestamp": "2024-10-28T22:01:21",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4442,
+      "text": "I\u2019m feeling good , happy , and accomplished at this moment . I\u2019ve had a good day with loved ones and have been relaxing and just enjoying the day . Its refreshing to have a day without too many plans or too much going on . I\u2019m really enjoying the day so far .",
+      "timestamp": "2024-11-01T17:50:48",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4443,
+      "text": "Tired , Proud , Stressed , Excited , Nervous",
+      "timestamp": "2024-11-04T12:07:31",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

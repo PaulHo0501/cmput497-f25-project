@@ -1,0 +1,6 @@
+[ENTRY_1804] Happy , Fun , Talking , Excited , Ready
+[ENTRY_1805] Fine , Happy , Calm , Cherry , Relaxed
+[ENTRY_1806] Rested , Relaxed , Friendly , Outgoing , Happy
+[ENTRY_1807] Tired , Defeated , Alone , Scared , Worried
+[ENTRY_1808] Sad , Depressed , Worried , Alone , Afraid
+[ENTRY_1809] Sad , Worried , Sacred , Prayers , Anxious

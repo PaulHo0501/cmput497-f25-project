@@ -1,0 +1,2 @@
+[ENTRY_1317] Stress , Happy , Sad , Upset , Anamosity
+[ENTRY_1318] Stress , Relief , Relaxed

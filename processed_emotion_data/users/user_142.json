@@ -1,0 +1,106 @@
+{
+  "user_id": 142,
+  "num_entries": 10,
+  "entries": [
+    {
+      "text_id": 3586,
+      "text": "I am tired from getting up several times last night with my 94 year old mother who is home on hospice . I am also concerned about my adult son who lives in GPE and is on the spectrum . He is in his senior year of college and has hit a rough patch .",
+      "timestamp": "2024-11-12T12:01:44",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3587,
+      "text": "I am feeling a little tired because I was up a lot last night with my mother . I have to keep track of her getting up at night to use the bathroom so that she doesn\u2019t fall . The hospice nurse came to evaluate my mom for a catheter . I\u2019m sharing this information with my sister and mom so that we can decide how to proceed .",
+      "timestamp": "2024-11-12T17:01:54",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3588,
+      "text": "Anxious , Empathetic , Frustrated , Concerned , Sad",
+      "timestamp": "2024-11-12T22:22:22",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3589,
+      "text": "Tired , Frustrated , Drained , Stressed , Anxious",
+      "timestamp": "2024-11-13T12:02:20",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3590,
+      "text": "I\u2019m currently feeling happy because the hospice aide was here and it gave me a chance to leave my mother\u2019s house . I stay here 24 hours a day during the weeks that I am slated to care for my mother . My sister and I take turns caretaking my mom and it\u2019s usually on a weekly schedule . I was abide to use this time to go for a walk at the bay which isn\u2019t far from here . The sunshine and exercise always help me to recharge .",
+      "timestamp": "2024-11-13T17:01:53",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3591,
+      "text": "Tired , A bit hopeful , Anxious , A touch pessimistic , Perseverant",
+      "timestamp": "2024-11-13T22:04:36",
+      "order": 5,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3592,
+      "text": "I\u2019m currently feeling neutral - neither sad nor happy . The electrician is here at my mom\u2019s house to fix some electrical issues she was having so I\u2019m glad that I was able to get an electrician here . I spoke to my son last night and he\u2019s still very anxious about passing the last 2 courses he needs to complete before his senior year project . I know that talking with me helped him vent his stress and hopefully allow him get some relief . It is hard to hear your adult son who is on the autism spectrum so upset especially when he\u2019s so far away . I\u2019m hoping that he can get through this math class roadblock so that he can finish his degree and hopefully move further north to be around his family and friends . He is very isolated from his support system in GPE . It\u2019s sometimes hard to know where I can be of support that assists him and doesn\u2019t enable him .",
+      "timestamp": "2024-11-14T12:03:42",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3593,
+      "text": "I am feeling content right now as I have been able to accomplish a lot of things today . I worked with my sister to get my mother to consider a catheter which was recommended for her by the hospice staff . I interpreted the nurse\u2019s concerns and my sister\u2019s explanation of support for the procedure so it feels like we are making progress . My mom\u2019s issue with an overactive bladder has interfered with her sleep as well as my sister and I as her live in caregivers . She is currently getting up every 1-2 hours around the clock to use the bathroom . She is getting exhausted and has fallen twice . I also got a 2 hour break today while the hospice aide was here . I was able to go for a nice walk on the beach and it was refreshing .",
+      "timestamp": "2024-11-14T17:03:39",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3594,
+      "text": "I\u2019m currently nervous because I went to my audiologist appointment today and she saw what appears to be a tick in my left ear . After calling all the local ENT offices I finally got a doctor to see me today . I\u2019m currently waiting to see the doctor . I\u2019m also feeling disappointed as my mother has resisted having the catheter inserted that would address all her overactive bladder issues and allow all of us to sleep through the night .",
+      "timestamp": "2024-11-15T17:54:05",
+      "order": 8,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3595,
+      "text": "Calm , Organized , Communicative , Teamwork , On track",
+      "timestamp": "2024-11-16T17:01:43",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "user_id": 39,
+  "num_entries": 9,
+  "entries": [
+    {
+      "text_id": 2947,
+      "text": "Energetic , Content , Calm",
+      "timestamp": "2021-03-30T12:07:34",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2948,
+      "text": "Happy , Nuetral , Comfortable",
+      "timestamp": "2021-03-31T12:07:03",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2949,
+      "text": "Energetic , Happy , Content",
+      "timestamp": "2021-04-03T13:01:19",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2950,
+      "text": "Sad , Unmotivated , Content",
+      "timestamp": "2021-04-06T13:17:16",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2951,
+      "text": "Happy , Content , Motivated",
+      "timestamp": "2021-04-07T12:19:09",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2943,
+      "text": "Happy , Content , Motivated",
+      "timestamp": "2021-04-08T12:20:43",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2944,
+      "text": "Tired , Content , ORG",
+      "timestamp": "2021-04-09T12:30:02",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2945,
+      "text": "Calm , Content , Little tired",
+      "timestamp": "2021-04-11T12:28:16",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2946,
+      "text": "Happy , Motivated , Content",
+      "timestamp": "2021-04-12T12:01:51",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

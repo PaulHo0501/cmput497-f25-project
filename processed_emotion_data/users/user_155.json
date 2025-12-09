@@ -1,0 +1,126 @@
+{
+  "user_id": 155,
+  "num_entries": 12,
+  "entries": [
+    {
+      "text_id": 3938,
+      "text": "Focused , Tired , Determined , Nervous , Productive",
+      "timestamp": "2024-11-01T17:04:05",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3939,
+      "text": "Sad , Worried , Relaxed , Contemplated , Na",
+      "timestamp": "2024-11-01T22:06:07",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3940,
+      "text": "I am feeling calm and content , not much to do today so I can relax and spend quality time with my partner . I had a good sleep so I feel well rested too . I also felt that I had a good evening with a successful score on my exam yesterday night and it was a big stressor , so I ' m happy and content it worked out .",
+      "timestamp": "2024-11-02T12:49:51",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3941,
+      "text": "Happy , Content , Chill , Relaxed , Calm",
+      "timestamp": "2024-11-02T17:32:45",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3942,
+      "text": "Sleepy , Content , Calm , Chill , Relaxed",
+      "timestamp": "2024-11-03T12:04:16",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3943,
+      "text": "Chill , Focused , Relaxed , Calm , At peace",
+      "timestamp": "2024-11-04T12:19:49",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3944,
+      "text": "Jittery , Nervous , Overwhelmed , Anxious , Weak",
+      "timestamp": "2024-11-04T22:30:36",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3945,
+      "text": "I am feeling fearful about the future and I am feeling uncertain about the path forward and I am scared and nervous and shaking . Also I am feeling a bit numb and trying to convince my mental state to be calmer .",
+      "timestamp": "2024-11-07T17:17:07",
+      "order": 7,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3946,
+      "text": "Nervous , Stressed , Suppressed , Jittery , Tense",
+      "timestamp": "2024-11-08T12:34:29",
+      "order": 8,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3947,
+      "text": "I am feeling pretty calm in the current moment and a bit tired from the busy week . Overall , I feel pretty chill and I do not have too much anxiety in the current moment . I feel pretty peaceful and I do not feel very nervous right now . A little tense , but overall I am calm .",
+      "timestamp": "2024-11-08T17:45:35",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3948,
+      "text": "calm , focused , chill , relaxed , nottense",
+      "timestamp": "2024-11-09T17:04:20",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3949,
+      "text": "Calm , Excited , Chill , Happy , Content",
+      "timestamp": "2024-11-09T22:18:26",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1292,"Content , Calm , Happy , Indifferent , Fine",2022-04-30T20:06:00,0,2.0,0.0,3,True
+1293,"Calm , Tired , Slightly anxious , Distracted , Nuetral",2022-05-01T10:05:00,1,0.0,0.0,3,True
+1294,"Slightly anxious , Time crunched , Quiet , Neutral , Easy",2022-05-01T15:00:00,2,0.0,1.0,3,True
+1295,"Content , Excited , At home , Happy , Jazzed",2022-05-01T22:29:00,3,2.0,1.0,3,True
+1296,"Calm , Excited , Content , Capable , Tired",2022-05-02T10:07:00,4,1.0,2.0,3,True
+1297,"Focused , Content , Excited , Happy , Optimistic",2022-05-02T15:05:00,5,2.0,2.0,3,True
+1298,"Content , Happy , Excited , Tired , Calm",2022-05-03T10:41:00,6,2.0,0.0,3,True
+1299,"Content , Calm , Tired , Comfortable , Fine",2022-05-04T12:09:00,7,1.0,0.0,3,True
+1300,"Content , Calm , Chill , Neutral , Excited",2022-05-05T15:33:00,8,1.0,1.0,3,True
+1301,"Slightly anxious , Slightly annoyed , Excited , Content , Jittery",2022-05-07T10:22:00,9,-1.0,2.0,3,True

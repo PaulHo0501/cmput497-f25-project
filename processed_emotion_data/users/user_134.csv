@@ -1,0 +1,15 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+3122,"I woke up today and struggled to get out of bed . When I left my bed , I was extremely tired and lethargic and wanted to get back in it . I had to go to college , so I pushed through anyway . I was tired when I arrived at my first class , and was late due to my aforementioned struggle to get out of bed .",2024-10-16T12:34:06,0,-2.0,0.0,7,False
+3123,"Hungry , Impatient , Restless , Nervous , Lethargic",2024-10-16T17:01:00,1,0.0,1.0,7,True
+3125,"Procrastinating , Moody , Happy , Satisfied , Lethargic",2024-10-16T22:15:22,2,1.0,1.0,7,True
+3126,"Lethargic , Sleepy , Moody , Worried , Anxious",2024-10-17T12:00:57,3,-1.0,0.0,7,True
+3127,"Agitated , Content , Restless , Happy , Joyous",2024-10-17T17:02:27,4,0.0,2.0,7,True
+3128,"Lethargic , Neutral , Unmotivated , Content , Sleepy",2024-10-17T22:03:03,5,0.0,1.0,7,True
+3129,I stayed up until 3 A . M . yesterday because I had too much caffeine but feel okay today . I am anxious because I have to do my English Midterm today . I also need to brush my teeth and dreading it . I don ' t really want to do anything ever .,2024-10-18T12:30:02,6,-2.0,0.0,7,False
+3130,"I am currently feeling like I am a wet dish rag , to say the least . I literally didn ' t do anything today except masturbate which made me feel like a failure . I would say that I am not feeling bad , but not feeling good .",2024-10-18T22:01:16,7,0.0,1.0,7,False
+3131,"Neutral , Lethargic , Anxious , Content , Melancholic",2024-10-19T17:09:24,8,0.0,1.0,7,True
+3132,"Sluggish , Uncomfortable , Lethargic , Anxious , Nervous",2024-10-19T22:01:36,9,-1.0,0.0,7,True
+3133,"I went to counseling today to discuss my issues and felt like I could tackle them . I had a very pleasant morning and felt better than usual . I had a good enjoyable lunch too , it was a cheeseburger ! Nothing will stop me today .",2024-10-20T17:48:14,10,0.0,1.0,7,False
+3134,"I did not complete my math homework yesterday that I had a week to do and felt like a useless failure . I did get out of bed today at a reasonable time , and math class was slightly interesting , so I guess I ' m happy . Slightly joyous , even .",2024-10-21T12:44:43,11,1.0,1.0,7,False
+3137,I just finished my Javascript Exam and am confident I got 100 % so I feel accomplished ! I am feeling quite tired and lazy though . I have to do my math homework . I don ' t feel as useless as I did this morning .,2024-10-22T17:41:12,12,-1.0,0.0,7,False
+3138,"My headlights on my car was not working which made me scared . I have to hit the center console on the car in order to get it to work , which made me anxious and frightened . I felt like a failure today because I didn ' t go to math class .",2024-10-22T22:01:04,13,0.0,0.0,7,False

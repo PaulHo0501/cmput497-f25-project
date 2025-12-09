@@ -1,0 +1,66 @@
+{
+  "user_id": 47,
+  "num_entries": 6,
+  "entries": [
+    {
+      "text_id": 4762,
+      "text": "Didn\u2019t sleep well so I\u2019m pretty groggy and sleepy . Bloated and dehydrated from the alcohol which makes me feel worse about myself usually . I\u2019m not feeling as bad as sometimes though . Not as nauseous as normal .",
+      "timestamp": "2021-06-08T12:39:36",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4763,
+      "text": "A little nauseous but energetic . I cleaned for 3-4 hours and got a good workout from that which helped . Overall , I\u2019m feeling ok besides nausea which is a common occurrence for me . The cleaning chemicals may have also contributed ?",
+      "timestamp": "2021-06-08T17:24:02",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4764,
+      "text": "I am feeling ok this morning . I didn\u2019t sleep well per usual and woke up a few times and got about 6 hours total which is actually a good number for me but it was interrupted so nor the most restful . I had a migraine last night and starting to feel like it might creep in again .",
+      "timestamp": "2021-06-10T12:03:39",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4765,
+      "text": "Feeling okay . Have been working on a project since 9am this morning so my back hurts lol . I have thought about having a drink already which I\u2019m trying to keep myself busy and wait until at least 5pm .",
+      "timestamp": "2021-06-10T17:31:42",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4766,
+      "text": "I had a glass of wine at 5pm and then ended up taking a nap an hour and a half later and just woke up so I\u2019m feeling a little tired still . Don\u2019t feel like having another glass of wine at the moment but maybe after dinner ?",
+      "timestamp": "2021-06-10T22:01:55",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4767,
+      "text": "Feeling pretty good . I don\u2019t think I woke up once during the night and finally woke up at 9 : 30am which is later than normal so I got some solid sleep and I definitely needed it ! Feel relaxed this morning .",
+      "timestamp": "2021-06-11T12:05:36",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

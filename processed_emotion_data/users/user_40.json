@@ -1,0 +1,2066 @@
+{
+  "user_id": 40,
+  "num_entries": 206,
+  "entries": [
+    {
+      "text_id": 3218,
+      "text": "I\u2019m going expenses loss of income due to ORG open project the recent loss of my mother health issues and coping with that it\u2019s hard when you have numerous things to do As I said before I am trying my best to exercise eat healthy and have a open mind sat",
+      "timestamp": "2021-06-08T17:17:27",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3219,
+      "text": "Today I am feeling anxious because I am trying to do something simple as set up a pole and every which way of ways I\u2019m trying to make it right at keeps coming out horrible however I have to try my best until it\u2019s done right I\u2019m not give up",
+      "timestamp": "2021-06-09T12:07:16",
+      "order": 1,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3233,
+      "text": "Happy , Emotional , Sad , Motivation , Jittery",
+      "timestamp": "2022-01-21T10:04:51",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3234,
+      "text": "Happy , Excited , Sad , Bored , Active",
+      "timestamp": "2022-01-21T16:04:56",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3235,
+      "text": "Funny , Thoughtful , Sad , Happy , Anxiety",
+      "timestamp": "2022-01-21T20:02:10",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3236,
+      "text": "Beautiful , Happy , Mad , Motivation , Encouraging",
+      "timestamp": "2022-01-22T10:04:21",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3237,
+      "text": "Sleepy , Hungry , Happy , Excited , Jittery",
+      "timestamp": "2022-01-22T15:01:20",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3238,
+      "text": "Tired , Hungry , Thankful , Excited , Cold",
+      "timestamp": "2022-01-22T20:01:02",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3239,
+      "text": "Happy , Encourage , Motivation , Anxious , Goals",
+      "timestamp": "2022-01-23T10:09:42",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3240,
+      "text": "Hungry , Excited , Planning , Happy , Thinking",
+      "timestamp": "2022-01-23T15:01:42",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3241,
+      "text": "Full , Happy , Excited , Motivational , Secure",
+      "timestamp": "2022-01-23T20:01:12",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3242,
+      "text": "Empathy , Emotional , Missing , Sad , Happy",
+      "timestamp": "2022-01-24T10:03:24",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3243,
+      "text": "Overweight , Anxiety , Emotions , Sad , Positive",
+      "timestamp": "2022-01-24T15:11:08",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3244,
+      "text": "Tired , Hungry , Sad , Emotional , Jittery",
+      "timestamp": "2022-01-24T20:12:28",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3245,
+      "text": "Happy , Excited , Motivation , Encourage , Tired",
+      "timestamp": "2022-01-25T11:00:11",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3246,
+      "text": "Gym , Workout , Motivation , Happy , Excited",
+      "timestamp": "2022-01-25T15:20:00",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3247,
+      "text": "Calm , Tired , Relaxed , Happy , Excited",
+      "timestamp": "2022-01-25T20:01:23",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3248,
+      "text": "Gym , Motivation , Hungry , Exhausted , Happy",
+      "timestamp": "2022-01-26T10:02:53",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3249,
+      "text": "Hungry , Tired , Emotional , Sad , Nervous",
+      "timestamp": "2022-01-26T15:01:13",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3250,
+      "text": "Thoughtful , Happy , Anxiety , Motivation , Tired",
+      "timestamp": "2022-01-26T20:01:19",
+      "order": 19,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3251,
+      "text": "Hungry , Excited , Motivation , Encourage , Happy",
+      "timestamp": "2022-01-27T10:02:22",
+      "order": 20,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3252,
+      "text": "Gym , Motivation , Energy , Excited , Sad",
+      "timestamp": "2022-01-27T20:06:00",
+      "order": 21,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3253,
+      "text": "Hungry , EmptionL , Excited , Tired , Calm",
+      "timestamp": "2022-01-28T15:16:43",
+      "order": 22,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3254,
+      "text": "Tired , Happy , Active , Motivational , Successful",
+      "timestamp": "2022-01-28T20:16:01",
+      "order": 23,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3255,
+      "text": "Happy , Grateful , Motivated , Energetic , Active",
+      "timestamp": "2022-01-29T10:01:14",
+      "order": 24,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3256,
+      "text": "Cold , Sore , Tired , Sad , Neutral",
+      "timestamp": "2022-01-29T15:02:03",
+      "order": 25,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3257,
+      "text": "Sore , Tired , Pain , Sad , Anxiety",
+      "timestamp": "2022-01-29T20:01:13",
+      "order": 26,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3220,
+      "text": "Cold , Worried , Relaxing , Anxious , Waiting",
+      "timestamp": "2022-01-30T10:01:09",
+      "order": 27,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3221,
+      "text": "Full , Excited , Mindful , Loved , Touched",
+      "timestamp": "2022-01-30T15:15:02",
+      "order": 28,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3222,
+      "text": "Upset , Angry , Mad , Emotional , Hungry",
+      "timestamp": "2022-01-30T20:21:25",
+      "order": 29,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3223,
+      "text": "Happy , Excited , Anxious , Nervous , Motivation",
+      "timestamp": "2022-01-31T10:02:57",
+      "order": 30,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3224,
+      "text": "Hungry , Tired , Sore , Inspiring , Happy",
+      "timestamp": "2022-01-31T15:17:13",
+      "order": 31,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3225,
+      "text": "Tired , Sore , Hungry , Motivation , Excited",
+      "timestamp": "2022-01-31T20:22:38",
+      "order": 32,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3226,
+      "text": "Hopeful , Energy , Happy , Sad , Hungry",
+      "timestamp": "2022-02-02T22:44:44",
+      "order": 33,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3227,
+      "text": "Hungry , Tired , Emotional , Edge , Anxiety",
+      "timestamp": "2022-02-03T10:10:37",
+      "order": 34,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3228,
+      "text": "Happy , Pretty , Overjoyed , Anxiety , Excited",
+      "timestamp": "2022-02-03T15:01:22",
+      "order": 35,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3229,
+      "text": "Happy , Late , Excited , Hopeful , Adventure",
+      "timestamp": "2022-02-03T20:13:43",
+      "order": 36,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3230,
+      "text": "Energy , Belief ., Motivation , Active , Happy",
+      "timestamp": "2022-02-04T10:17:47",
+      "order": 37,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3231,
+      "text": "Happy , Respected , Hopeful , Energy , Active",
+      "timestamp": "2022-02-04T15:01:16",
+      "order": 38,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3232,
+      "text": "Happy , Excited , Motivation , Energy , Mindful",
+      "timestamp": "2022-02-04T20:05:32",
+      "order": 39,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 3275,
+      "text": "I\u2019m feeling Happy anxiety overwhelmed all at once happens when I am waiting to hear an answer but being hopeful for some good news . Also thinking postally on the news I\u2019m waiting on with good positive results and outcome for my future .",
+      "timestamp": "2022-04-22T20:18:00",
+      "order": 40,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3276,
+      "text": "I am feeling energetic planning on attending the gym for a spin workout class . After the gym I am heading home to get ready to go to brunch with a bunch of friends . I\u2019m very excited \\ n about that .   Catching up and eating yummy food seems to be what excites me now on a Sunday",
+      "timestamp": "2022-04-23T10:01:00",
+      "order": 41,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3277,
+      "text": "I\u2019m getting ready to going to dinner with my boyfriend I\u2019m hungry And excited to get dressed up and do my makeup .   Then we are meeting with friends for drinks in GPE   should be a fun evening",
+      "timestamp": "2022-04-23T15:01:00",
+      "order": 42,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3278,
+      "text": "Tired ! had a nice meeting friends for dinner . Then I did some shopping at ORG for a new blender to do some smoothies for breakfast on the morning . I am feeling a little hopeful loosing some weight",
+      "timestamp": "2022-04-23T20:00:00",
+      "order": 43,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3279,
+      "text": "I\u2019m feeling very excited I started planning a fun birthday week . We are going to GPE  and GPE . I am excited to be planning outfits excursions and places to see and go . This will be my first time visiting both places",
+      "timestamp": "2022-04-24T10:04:00",
+      "order": 44,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3280,
+      "text": "I\u2019m feeling hungry . Getting dressed now to go to the grocery store . Tonight\u2019s dinner will be lemon shrimp scampi .   After dinner we plan on watching a movie . I\u2019m excited for dessert as well . Just looking forward to a relaxing Sunday doing pretty much nothing",
+      "timestamp": "2022-04-24T15:12:00",
+      "order": 45,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3281,
+      "text": "I feel tired . I had a nice shrimp scampi dinner . Dinner was delicious . We watched reruns of tv shows after dinner .   For dessert we had special donuts with frosting . Today was a long day I am ready to go to bed and relax",
+      "timestamp": "2022-04-24T20:00:00",
+      "order": 46,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3282,
+      "text": "I\u2019m feeling energetic . I have a spin class later on this morning .   I am hoping I get some energy after the class .   I am going to go grocery shopping for the week after the class . I like to get everything out the way",
+      "timestamp": "2022-04-25T10:02:00",
+      "order": 47,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3283,
+      "text": "I\u2019m feeling hungry and tired .   I\u2019m going to make myself a chicken salad bowl for dinner and I will prep for a few more days .   Once I\u2019m going doing that I will take the dogs out for a walk . It\u2019s still chilly out I look forward to warmer weather",
+      "timestamp": "2022-04-25T15:00:00",
+      "order": 48,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3284,
+      "text": "Tired . I had a long day cooked dinner and went to the gym with a intense workout . I got a lot done today which makes me feel good I got a lot accomplished . I\u2019m going to walk my dog and head to bed early tonight .",
+      "timestamp": "2022-04-25T20:02:00",
+      "order": 49,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3285,
+      "text": "Not feeling well today .   I woke up to horrible stomach cramps , so today I will take An easy . During the day , because this evening we are going to a play to see pretty woman . I have not   seen this play before .",
+      "timestamp": "2022-04-26T10:08:00",
+      "order": 50,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3286,
+      "text": "Excited I\u2019m going with my boyfriend to see a broadway play tonight . This is my first time so I am very excited for that . First we are going to have dinner . My first time getting dressed up in a long time",
+      "timestamp": "2022-04-26T15:08:00",
+      "order": 51,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3287,
+      "text": "I\u2019m feeling active watching a broadway play . There is an intermission . I had a nice steak dinner earlier . I going home to bed , I am so tired from all the festivities today . I really enjoyed so far . Haven\u2019t done things like since before covid .",
+      "timestamp": "2022-04-26T20:50:00",
+      "order": 52,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3288,
+      "text": "I didn\u2019t sleep well last night so I am feeling very tired this morning .   Once I feel better I am going to shower and get ready to clean the upstairs .   I need to accomplish something today to feel better about myself .",
+      "timestamp": "2022-04-27T10:01:00",
+      "order": 53,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3289,
+      "text": "Feeling productive just got done cleaning the bathroom hopefully I can finish cleaning the upstairs fully spring cleaning .   Then I am cooking steak for dinner so I am excited for a yummy meal . I haven\u2019t had steak in while so I\u2019m already hungry for dinner .",
+      "timestamp": "2022-04-27T15:04:00",
+      "order": 54,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3290,
+      "text": "I\u2019m actively organizing my kitchen . From the spices to putting the plates in order and to make everything consistent . I\u2019m getting new kitchen cabinets so I\u2019m organizing everything until they come in .",
+      "timestamp": "2022-04-27T20:20:00",
+      "order": 55,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3291,
+      "text": "Getting ready . Just got done doing my hair , I still have to do my makeup and find a outfit I actually like .   Meeting an old college friend I haven\u2019t seen in 10 years for lunch .   I\u2019m pretty excited about today .",
+      "timestamp": "2022-04-28T10:22:00",
+      "order": 56,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3292,
+      "text": "Getting ready to cook dinner .   I placed an order to have the food delivered .   I am making salmon with rice and broccoli for dinner , with after dinner cocktails . Then excited to watch a movie later on tonight with a bunch of old friends .",
+      "timestamp": "2022-04-28T15:04:00",
+      "order": 57,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3293,
+      "text": "I am so exhausted from the day I had . I meal prep and went to the gym and got an amazing workout in and after went shopping at the mall got summer clothes . I had a very active day . I am on chill mode and going to bed early .",
+      "timestamp": "2022-04-28T20:20:00",
+      "order": 58,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3294,
+      "text": "I woke up not feeling well . Today I am I am feeling very lazy .   I am going to order food to be delivered . Even though I hate paying the extra fee to have delivered . After breakfast I will take a shower and just relax until I feel better and not push myself .",
+      "timestamp": "2022-04-29T10:00:00",
+      "order": 59,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3295,
+      "text": "I\u2019m really not doing to much right now . I\u2019m still on bed not feeling well .   It sucks when you don\u2019t feel good and you want to do things and you can\u2019t . I will take an easy today and have a fresh start tomorrow . I\u2019m going to take a bath hopefully I will feel better .",
+      "timestamp": "2022-04-29T15:28:00",
+      "order": 60,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3296,
+      "text": "I am feeling a little better . My boyfriend is over he is making me homemade chicken soup , hopefully that makes me feel better .   Tomorrow I have my nieces birthday party u hope I am feeling better for that . The weather is a good so that is a good sign .",
+      "timestamp": "2022-04-29T20:00:00",
+      "order": 61,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3297,
+      "text": "I am having a delicious breakfast with my best friend . I am having we are finally seeing each other .   After breakfast we are getting relaxing massages and heading to the nail salon . Fun relaxing girls day . It\u2019s still cold so I will probably stay home tonight .",
+      "timestamp": "2022-04-30T10:01:00",
+      "order": 62,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3298,
+      "text": "I\u2019m currently waiting on triple a since my car battery\u2019s died . The only plus to waiting around is that the weather is absolutely beautiful today . I think now we will be doing takeout for dinner versus cooking at home . Hopefully dinner is good then going home to relax .",
+      "timestamp": "2022-04-30T15:00:00",
+      "order": 63,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3299,
+      "text": "I just got home from having dinner . I am so full and tired . I woke up extremely early this morning so I am definitely feeling exhausted now . So I am going to find a good movie and probably fall asleep pretty soon .",
+      "timestamp": "2022-04-30T20:03:00",
+      "order": 64,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3258,
+      "text": "I am doing a full spring cleaning today i am doing one room at a time . You never realized how quickly dirt adds up . Once I get the full spring cleaning finished I am cleaning my closet .   Sort out the close and get rid of .",
+      "timestamp": "2022-05-01T10:05:00",
+      "order": 65,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3259,
+      "text": "Currently watching a thriller movie . Today has been a chill day not doing too much . There is a lot I have to do today and I have not done much at all . Tomorrow is a new start to the week . We shall see .",
+      "timestamp": "2022-05-01T15:00:00",
+      "order": 66,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3260,
+      "text": "Currently watching a movie . The movie is pretty long . It\u2019s almost over as long as the movie was I truly enjoyed which I normally don\u2019t watch movies . Thinking of going to the store for dessert after the movie .",
+      "timestamp": "2022-05-01T20:00:00",
+      "order": 67,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3261,
+      "text": "I\u2019m not really doing much right now . I just went and got myself a coffee , so I\u2019m sitting down finishing it . After I\u2019m don\u2019s I may do a workout routine to keep myself busy . It\u2019s raining today I will probably stay in .",
+      "timestamp": "2022-05-02T10:00:00",
+      "order": 68,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3262,
+      "text": "Driving to the car lot to pick up my boyfriend\u2019s car we\u2019ll he is driving . his car broke down yesterday so it\u2019s finally fixed . Heading to dinner after getting the card in the mood for something yummy . Thinking of getting NORP tonight .",
+      "timestamp": "2022-05-02T15:01:00",
+      "order": 69,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3263,
+      "text": "Getting ready to take a shower .   I have to help my friend read scripts for her acting class later on tonight . Something I don\u2019t like to do at all but I am being a great friend helping . Not sure what I am doing tomorrow .",
+      "timestamp": "2022-05-02T20:00:00",
+      "order": 70,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3264,
+      "text": "I woke up late today . I am sitting around having a coffee . I am thinking of what I want to eat for breakfast today . I am trying to go the healthy route the next couple of weeks . I am trying to loose 15 pounds for my birthday in July . If I put my mind into it I can do it .",
+      "timestamp": "2022-05-03T10:00:00",
+      "order": 71,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3265,
+      "text": "I\u2019m cleaning at home . I\u2019m trying to tackle one task at a time . I\u2019m trying to do a very deep cleaning . It\u2019s like you start one project and you go to the next . My boyfriend is making dinner tonight . I\u2019m happy I don\u2019t have to do that .",
+      "timestamp": "2022-05-03T15:11:00",
+      "order": 72,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3266,
+      "text": "Just got down cooking dinner . I\u2019m laying down relaxing .   I\u2019m probably going to just watch a movie or show . I\u2019m not really in the mood to do much tonight . Tomorrow I plan on doing some shopping for the house .",
+      "timestamp": "2022-05-03T20:01:00",
+      "order": 73,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3267,
+      "text": "Getting ready to pick my friend up . I have to pick up my friend from the car lot and kill some time while she gets her car fixed . I am going to go to the outlets with her . Hopefully we find some good shopping finds . Then go out for lunch later .",
+      "timestamp": "2022-05-04T10:00:00",
+      "order": 74,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3268,
+      "text": "Just got done shopping . I\u2019m sitting in my car finishing a coffee from ORG .   I have ally more organizing to do at home probably do that . After my boyfriend is making baked chicken dinner sounds good .",
+      "timestamp": "2022-05-04T15:31:00",
+      "order": 75,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3269,
+      "text": "Getting ready to take bath . I\u2019m so tired I did slot of errands today . After that I will probably find a good movie and go to bed early . The robot vacuum is helping me clean . I\u2019m thankful I don\u2019t have to do that part of cleaning .",
+      "timestamp": "2022-05-04T20:00:00",
+      "order": 76,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3270,
+      "text": "I\u2019m reading different articles on a healthy cleanse something I can actually follow through on more than an hour . After doing this I am going for a run and then I will come home to get ready for work .",
+      "timestamp": "2022-05-05T10:00:00",
+      "order": 77,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3271,
+      "text": "Just got done studying my new cleanse to see what I need to eat and drink and what I shouldn\u2019t .   My boyfriend is making fish for dinner tonight . Today is day one of my cleanse and I feel great so far which is a good feeling to have starting something new .",
+      "timestamp": "2022-05-05T15:03:00",
+      "order": 78,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3272,
+      "text": "Currently looking for a pair of sneakers online . Can\u2019t decide on the kind or color I want to jog and do every day errands in . After this I will head upstairs and prep for tomorrow and get clothes ready .",
+      "timestamp": "2022-05-05T20:06:00",
+      "order": 79,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3273,
+      "text": "I got dressed and ready for my run . I am currently having breakfast now . I think after breakfast and my run I will do some decor house shopping . I like to go to thrift stores also it\u2019s just a long day digging to find goods .",
+      "timestamp": "2022-05-06T10:00:00",
+      "order": 80,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3274,
+      "text": "I\u2019m feeling energetic I went to the gym I did a couple miles this morning . I organized the bathroom closet . Now I am getting ready to prepare dinner . It\u2019s also Friday so that makes me happy . Not sure what I am doing tonight yet . It\u2019s also raining .",
+      "timestamp": "2022-05-06T15:55:00",
+      "order": 81,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": false
+    },
+    {
+      "text_id": 3317,
+      "text": "I am feeling happy . I went to a charity event today . It was a lot of fun and lots of funds were raised which makes me very happy . I am so tired I am looking forward to going to bed now . I am starting vacation next week it gives me something to look forward to .",
+      "timestamp": "2022-08-29T20:44:14",
+      "order": 82,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3318,
+      "text": "I started boxing up clothing in my house to pack . I keep catching myself over pack things I no longer need . Many sentimental memories that are just hard to throw away priceless items . I am moving along though .",
+      "timestamp": "2022-08-30T10:00:16",
+      "order": 83,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3319,
+      "text": "Just landed in GPE for vacation .   I am very happy to be in GPE although it looks like raining weather all week .   I look forward to working out outside and think nice walks on the beach .   The ocean is so beautiful here compared to back home :",
+      "timestamp": "2022-08-30T16:40:14",
+      "order": 84,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3320,
+      "text": "I just arrived in LOC  GPE . Just had the most delicious steak dinner .   It came with sweet potato\u2019s . I am very tired from flying all day . I am looking forward to getting a good nights sleep . I would like to go to the beach early .",
+      "timestamp": "2022-08-30T20:14:29",
+      "order": 85,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3321,
+      "text": "I very happy on vacation mode .   Went for a five mike walk today . We walked to a wonderful breakfast place on the island . Soon we will be walking back up the hotel to enjoy the sun until the rain comes . There is a lot of rain showers .",
+      "timestamp": "2022-08-31T10:06:29",
+      "order": 86,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3322,
+      "text": "I just went on a walk on the beach . Relaxing now . Figuring out what to do for lunch today . After lunch I most likely will take a nap I feel so tired but I am truly enjoying myself which is so important for my mind body and soul .",
+      "timestamp": "2022-08-31T15:28:00",
+      "order": 87,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3323,
+      "text": "I am still enjoying vacation . Also today is my anniversary with my boyfriend . We just had the most amazing NORP dinner in LOC  . Looking forward to my pajamas and going to sleep Early again . The sun really tires you out .",
+      "timestamp": "2022-08-31T20:20:10",
+      "order": 88,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3324,
+      "text": "I just had the most amazing breakfast . We had breakfast at the hotel we were going to walk a few miles . So we decided let\u2019s have a convent morning and stay .   I am going to try getting less sun today before I have too much .",
+      "timestamp": "2022-09-01T10:11:12",
+      "order": 89,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3325,
+      "text": "I\u2019m having a aggravating day . But now I am going to relax in the pool . I had lunch a little while ago it was not the best lunch . The food was undercooked . I am looking forward to having a nice dinner . We are going to go later so we can enjoy more pool time .",
+      "timestamp": "2022-09-01T15:06:05",
+      "order": 90,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3326,
+      "text": "I just had an amazing dinner again as the same restaurant as last night . It was that good we went back again . I\u2019m tired the sun is very tiring . Tomorrow we are leaving in so said but it was fun . I look forward to coming back . Also getting sleep .",
+      "timestamp": "2022-09-01T20:05:12",
+      "order": 91,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3327,
+      "text": "I woke up feeling tired and stressed thinking about my move . However I do look forward to decorating and starting new memories . It\u2019s crazy to think a month from now I will be in a new home . Also I hope I find a home with a pool in it .",
+      "timestamp": "2022-09-02T10:00:45",
+      "order": 92,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3328,
+      "text": "Getting dressed to go on a five mile walk . I am really starting to enough walking per day to enjoy it . I like walking to enjoy my dinner and what I am going to eat calories wise . It makes you think before having dessert and messing the diet up . It\u2019s a hard battle to watch each day . I like the progress I have made .",
+      "timestamp": "2022-09-02T15:00:42",
+      "order": 93,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3329,
+      "text": "Tonight is my friends birthday . There is about 20 of us celebrating dinner tonight .   Tonight I am eating dinner and dessert . There is such a big lay out . Food makes me so happy it makes me laugh . I look forward to laughs and good times .",
+      "timestamp": "2022-09-02T20:15:55",
+      "order": 94,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3330,
+      "text": "Just had breakfast .   I am so tired for some reason today . I hate days like that where you want to do so much but you just don\u2019t have the motivation . I\u2019m looking forward to relaxing later on already and it\u2019s only the morning right now . Maybe I will have a burst of energy .",
+      "timestamp": "2022-09-03T10:00:39",
+      "order": 95,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3331,
+      "text": "I\u2019m feeling happy and positive with moving into a new home . I bought some new linens today and candles . It\u2019s a start for the new home . Today I am meeting my friends from college for dinner I haven\u2019t seen in 10 years looking forward to the dinner later on .",
+      "timestamp": "2022-09-03T15:01:02",
+      "order": 96,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3332,
+      "text": "Currently I am very relaxed . I am enjoying the pool and jacuzzi . Looking forward to watching the ORG  and ORG  football game . ORG  is ranked number five in the country while ORG  is number two in the country .",
+      "timestamp": "2022-09-03T20:01:13",
+      "order": 97,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3333,
+      "text": "I am feeling totally relaxed this beautiful morning . I had a very restful sleep last night and woke up with a great start to the day . I am getting ready to go shopping at the outlets . I am looking for a new outfit for this evening with my friends .",
+      "timestamp": "2022-09-04T10:03:45",
+      "order": 98,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3334,
+      "text": "I feel very happy . It\u2019s a beautiful day , the sun is shining and I\u2019m getting ready to have dinner with close friends . I haven\u2019t seen them in awhile so there should be a lot of laughs . My cousin and his wife are coming as well . They recently had a baby girl .",
+      "timestamp": "2022-09-04T15:00:52",
+      "order": 99,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3335,
+      "text": "Just relaxing . I\u2019m sitting on my front porch waiting for my college friend to come over the house and join me in relaxing on this Labor Day weekend . It was a crazy summer but I still has a lot of fun . Not looking for to the winter .",
+      "timestamp": "2022-09-04T20:07:30",
+      "order": 100,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3336,
+      "text": "I\u2019m deciding what I want to make myself for breakfast . I woke up tired today . I couldn\u2019t sleep well last night . I ended up watching a few shows . By the time I went to bed it was almost 1am . Today is Labor Day party .",
+      "timestamp": "2022-09-05T10:12:07",
+      "order": 101,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3337,
+      "text": "I\u2019m currently at a Labor Day party . Enjoying time with friends and family . Since GPE you really have to enjoy times like this . It\u2019s all almost 100 degrees today . The pool feel like a bathtub . I am fortunate to be in a pool .",
+      "timestamp": "2022-09-05T15:36:36",
+      "order": 102,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3338,
+      "text": "Just had an amazing dinner . We went to an NORP restaurant . I had chicken parmigiana with pasta . After dinner we had ice cream . It was really good . Tomorrow starts my diet so I ate what I wanted today . Tomorrow is a new day .",
+      "timestamp": "2022-09-05T21:50:23",
+      "order": 103,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3339,
+      "text": "I   organizing my clothes for the work week . I like to be organized I feel like my mornings start off better if I am prepared . After that I am going to make pancakes for breakfast . That is something I never make . It will be nice for a change .",
+      "timestamp": "2022-09-06T10:00:54",
+      "order": 104,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3340,
+      "text": "Today I am pretty aggravated dealing with my insurance company . I have serious mold issues in my condo and the insurance company is dragging their feet in attempting to resolve the issues . I have contacted my attorney to see what my rights are .",
+      "timestamp": "2022-09-06T15:26:31",
+      "order": 105,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3341,
+      "text": "I am currently feeling relaxed . Finally . I had a hectic day dealing with the insurance company regarding the mold in my condo . I still need to touch base with them in the morning and try to get a resolution to the mold problem .",
+      "timestamp": "2022-09-06T20:00:44",
+      "order": 106,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3300,
+      "text": "It\u2019s been a distracting morning . My boyfriends email was hacked and our phones are ringing nonstop . It\u2019s been one thing after another this morning . If things get better I may have motivation to go for a walk . My motivation is low to do anything at the moment .",
+      "timestamp": "2022-09-07T10:00:58",
+      "order": 107,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3301,
+      "text": "I am trying to help my boyfriend who\u2019s email was hacked . I am trying to help him . He has a old email address it\u2019s very distracting . I hope I can get this resolved for him today . We had a long morning .",
+      "timestamp": "2022-09-07T15:01:07",
+      "order": 108,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3302,
+      "text": "I am still very frustrated with the mold issue in my condo . I have never encountered anything like this . The insurance company is still dragging their feet . Hopefully this can be resolved soon as I can accumulating a huge credit card bill .",
+      "timestamp": "2022-09-07T20:03:41",
+      "order": 109,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3303,
+      "text": "I am feeling overwhelmed this morning . My email account was hacked yesterday and I\u2019m trying to contact as many people as possible to let them know I didn\u2019t send those crazy emails . This is becoming a nightmare . The hackers sent disturbing emails to many of my friends .",
+      "timestamp": "2022-09-08T10:08:06",
+      "order": 110,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3304,
+      "text": "I\u2019m feeling a lot better now . I hired an attorney to handle my insurance case . I am also having an early dinner with my love . He is so handsome . He ordered for me . Simply amazing . Tomorrow he has planned a wonderful day at the beach . \\n .",
+      "timestamp": "2022-09-08T15:55:21",
+      "order": 111,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3305,
+      "text": "I am very anxious . I was just told by my realtor the deposit check for my home was not received . Not it\u2019s a waiting game until tomorrow . We shall see still waiting on the adjuster to come out for the condo . It has been one thing after another this week . I am look forward to a fresh start this week .",
+      "timestamp": "2022-09-08T20:04:36",
+      "order": 112,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3306,
+      "text": "Just had breakfast with my boyfriend . We have a lot to do this morning . There is still the mold issue in the condo we have to have taken care of . Hopefully today is a better day with good news . It\u2019s been a very stressful week .",
+      "timestamp": "2022-09-09T10:01:16",
+      "order": 113,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3307,
+      "text": "I just went for a swim . Trying to enjoy the last few days of summer weather . I am looking forward to the cool morning and nights breezes . I hate the winter and snow . That\u2019s something I should be to by now .",
+      "timestamp": "2022-09-09T15:08:06",
+      "order": 114,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3308,
+      "text": "Just got done cleaning . I am supposed to meet my friend tomorrow for breakfast . I am really looking forward to that hopefully tomorrow we can go somewhere else . I have to work tomorrow I am looking forward to seeing my coworkers .",
+      "timestamp": "2022-09-09T21:17:27",
+      "order": 115,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3309,
+      "text": "Just went to the gym had a very nice work out . I design a workout plan on which area I like to work out each time I go to the gym . I am excited I am looking forward to a transformation I have to remember it won\u2019t happen overnight .",
+      "timestamp": "2022-09-10T10:03:18",
+      "order": 116,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3310,
+      "text": "I am looking forward to the holiday gala end of summer I am going to . I did my hair and make up and I have a very pretty dress I am looking forward to a good time meeting new people and maybe new friends . Tomorrow I have to work so I will enjoy tonight .",
+      "timestamp": "2022-09-10T15:34:40",
+      "order": 117,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3311,
+      "text": "I am feeling great tonight . We are at a fundraiser . The entertainment is a four seasons tribute group . The food and appetizers are wonderful . Can\u2019t wait for the second act . The lead is supposed to be as great as PERSON  .",
+      "timestamp": "2022-09-10T20:17:43",
+      "order": 118,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3312,
+      "text": "I woke up in a great mood today . My boyfriend and I went to breakfast I treated myself and had pancakes with chocolate chips and with cream . Later on this morning we will go for a 5 mile jog . If I have time I will go home and clean the house .",
+      "timestamp": "2022-09-11T10:46:04",
+      "order": 119,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3313,
+      "text": "I have work later on tonight I am going to the grocery store to mail prep for the week . I like to have things ready and an order to grab for work this way I am all set . I would like to also plan on going to the gym tomorrow morning and having a go to work out .",
+      "timestamp": "2022-09-11T15:08:16",
+      "order": 120,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3314,
+      "text": "Today is a good day at work I have been very busy it is now slowing down .   \\nI am looking forward to going home taking a shower and doing my nails later on tonight . I have a very pretty nail polish I am looking forward to using .",
+      "timestamp": "2022-09-11T20:03:57",
+      "order": 121,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3315,
+      "text": "I am still working with their insurance on an insurance claim was the amount of mold in the home . There is several phone calls that I have to make today including the adjusters and the insurance . Hopefully I make some accomplishments with my phone calls today .",
+      "timestamp": "2022-09-12T10:03:07",
+      "order": 122,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3316,
+      "text": "I got a lot done today . I made several phone calls to the adjuster for the mold issue at the condo hopefully I have some new news that will generate this issue . Tomorrow I am off from work I plan on relaxing .",
+      "timestamp": "2022-09-12T15:47:35",
+      "order": 123,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": false
+    },
+    {
+      "text_id": 3359,
+      "text": "I just got down cleaning up from dinner . I\u2019m just relaxing then getting ready for working in the morning . I feel motivated because there is a lot of things to be happy about . Tomorrow I will be doing some shopping for the house .",
+      "timestamp": "2023-03-08T21:02:32",
+      "order": 124,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3360,
+      "text": "I am feeling somewhat active today . I really didn\u2019t get much sleep last night . I hate nights like that .   tossing and turning . Later on , I am going for a walk on a beautiful trail or something . I am looking forward to today .",
+      "timestamp": "2023-03-09T10:01:16",
+      "order": 125,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3361,
+      "text": "I just got home . I did some grocery shopping and doing some shopping for the house . I am going to go back to organizing my closet later on tonight . I look forward to the outcome .. I bought hangers that I desperately need it . Then his TV relaxing .",
+      "timestamp": "2023-03-09T16:30:30",
+      "order": 126,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3362,
+      "text": "I\u2019m getting ready for bed I had a very long day at work I have a headache . I am going to take a nice hot shower with the lavender hopefully it well these trust me and make me feel better . I still have to organize my closet tomorrow .",
+      "timestamp": "2023-03-09T20:13:11",
+      "order": 127,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3363,
+      "text": "I woke up with a bad headache today . I\u2019m just relaxing for now . I have to work later on this morning .   Tomorrow I\u2019m off . I plan on meeting at this beautiful restaurant named ORG it\u2019s bright and pretty . I love it there .",
+      "timestamp": "2023-03-10T10:04:01",
+      "order": 128,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3364,
+      "text": "At work it\u2019s been a very busy day . I served a very nice family . I love meeting new people and interacting . That\u2019s the best part of my job . I am looking forward to being home before the major snowstorm later on this evening .",
+      "timestamp": "2023-03-10T15:12:04",
+      "order": 129,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3365,
+      "text": "I just got home from work . I am very tired . I had a very long day . I am going to go home . Give my dog a bath and go to sleep early .. \\ntomorrow I am furniture shopping for the house . I love shopping for furniture , so I\u2019m very excited about that ..",
+      "timestamp": "2023-03-10T20:07:48",
+      "order": 130,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3366,
+      "text": "I just took a shower and got dressed . I am currently getting ready for work . I am still trying to organize my room . I keep pulling out more pens which means more stuff . Then relaxing hopefully when this is done .\\ nHope to have the organization done by the end of this weekend .",
+      "timestamp": "2023-03-11T10:08:38",
+      "order": 131,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3367,
+      "text": "I just got home from work . \\nI am going to go grocery shopping . There is nothing in the house . I will also go to ORG  . I wanted to look at the grills after that I\u2019m going home and going to sleep . I had a long day .",
+      "timestamp": "2023-03-11T16:03:19",
+      "order": 132,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3368,
+      "text": "I just got home a little while ago from doing errands . I am looking forward to relaxing and not doing much . I having McDonald\u2019s for dinner tonight . I am so looking forward to yummy fast food . I got a Big Mac and nuggets . Also some fries .",
+      "timestamp": "2023-03-11T20:27:04",
+      "order": 133,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3369,
+      "text": "I had a very busy morning trying to book my flights for PERSON . I\u2019m going in may to a bachelor party . I\u2019m very excited . I\u2019m going to go to work soon . Then come back and relax the rest of this Sunday . I like to relax on sundays especially in the morning .",
+      "timestamp": "2023-03-12T11:19:27",
+      "order": 134,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3370,
+      "text": "I\u2019m at ORG  having a coffee . My car is giving me problems . I need to bring it to my mechanic as soon as possible and have them analysis the problems . The car keeps skipping especially when I try to accelerate . I\u2019m afraid the it\u2019s going to shut down on me and I\u2019ll have to get a tow .",
+      "timestamp": "2023-03-12T15:48:01",
+      "order": 135,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3371,
+      "text": "I just got done cleaning . I clean the house thoroughly today . I I am so tired . I cannot wait to go to bed . I am off of work tomorrow in the morning . I am going walking . We are getting a bad snow storm . I hope it\u2019s not as bad as they say it is , I do not want to deal with us now . Just happy I don\u2019t have to drive in it .",
+      "timestamp": "2023-03-12T21:59:50",
+      "order": 136,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3372,
+      "text": "I am getting ready to go to the grocery store . We are expecting a huge storm . It\u2019s also very cold out , so I am pretty sure the snow will happen . You never know if I will or will not come then I plan on doing some errands . Nothing crazy I just want to make sure I have food in the house because we will be stuck home for a couple days .",
+      "timestamp": "2023-03-13T10:03:16",
+      "order": 137,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3373,
+      "text": "I just went to the grocery store . I bought stuff to make chicken soup for the storm for the evening . I am hungry now I am going to ask my boyfriend what he wants to have for lunch . Hopefully he would suggest cooking some thing it\u2019s pretty cold out so I\u2019m not doing much .",
+      "timestamp": "2023-03-13T15:06:51",
+      "order": 138,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3374,
+      "text": "I am relaxing , watching TV with my boyfriend . We went to the grocery store and bought food for the storm . We also picked up his car today which was fixed . We were both relieved to have an extra vehicle back . Just relaxing the rest of the night . Not much to do it\u2019s very cold .",
+      "timestamp": "2023-03-13T20:05:57",
+      "order": 139,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3375,
+      "text": "The snow and I\u2019m coming . I am happy I don\u2019t have to work today . I am going to shovel my driveway . I know it\u2019s weird but I like to shovel as I got to work out . It\u2019s very cold and windy . Today is a better cold snow day . I am just happy to be home tomorrow I have to work so I will relax as much as I can today .",
+      "timestamp": "2023-03-14T10:09:18",
+      "order": 140,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3376,
+      "text": "I\u2019m just organizing I\u2019m not leaving . The house is still snowing . The snow is gone bad but there is some flurries is stuck a little bit . There was a lot of cancellations today because of the weather I don\u2019t like driving in bad weather so I will just stay home . Probably organize stuff .",
+      "timestamp": "2023-03-14T15:54:34",
+      "order": 141,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3377,
+      "text": "Still relaxing still snowing out .   I\u2019m going to be taking a shower and go to bed soon .   I\u2019m hungry but instead of snacking I\u2019m going to exercise a little bit . I have an event the end of the month I like to be prepared for .   So I will be watching what I eat the next two weeks .",
+      "timestamp": "2023-03-14T20:10:16",
+      "order": 142,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3378,
+      "text": "I woke up feeling very anxious . I am having issues with the heat in my house . The heater is making very loud and banging sounds throughout the night . It is very hard to have a good sleep . I might take a nap early tonight before I go to work that is pretty much at .",
+      "timestamp": "2023-03-15T10:08:13",
+      "order": 143,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3379,
+      "text": "I had a very busy day . I am on break having a boost bowl which is a protein bowl . It\u2019s good and healthy . I am meeting an old friend . From college later on . It\u2019s very cold out there\u2019s not much I would like to do in the cold weather . Other than eat and watch a really good movie .",
+      "timestamp": "2023-03-15T15:03:09",
+      "order": 144,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3380,
+      "text": "I just got home and I started cooking dinner . I mean pasta with homemade sauce with meatballs . I am going to go organize my closet again . I made a lot of progress . I am tired . I will be going to sleep soon . The hour change really messed me up .",
+      "timestamp": "2023-03-15T20:01:13",
+      "order": 145,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3381,
+      "text": "I\u2019m at the gym right now I just finished a spin class I plan on going to the gym three times a week it feels really good once your hair and getting a workout in . I am leaving soon . Then heading to work i kinda have a busy day today . But happy I went to the gym !",
+      "timestamp": "2023-03-16T10:05:44",
+      "order": 146,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3382,
+      "text": "I had a very busy day I went to the gym . I am feeling very active , so I am getting as much done as possible today and when I get home from work , I am hoping to have a good dinner and I am really been doing good on my diet , so I want to keep up the good work .",
+      "timestamp": "2023-03-16T15:15:37",
+      "order": 147,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3383,
+      "text": "I just got home . I\u2019m ready to go to bed . I am very tired . I am also hungry too . I got some pictures to hang up in my room . I look forward to doing that maybe II just got home . I\u2019m ready to go to bed . I am very tired . I am also hungry to . I got some pictures to hang up in my room . I look forward to doing that maybe over the weekend . For now I am just relaxing till until bed .",
+      "timestamp": "2023-03-16T20:13:35",
+      "order": 148,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3342,
+      "text": "I feel very active today . I have been moving around furniture since 6 o\u2019clock in the morning . I don\u2019t mind it because I feel like it\u2019s a good work out . I have to go to work later on for now I am just relaxing until then it\u2019s still very cold out .",
+      "timestamp": "2023-03-17T10:23:01",
+      "order": 149,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3343,
+      "text": "I just did my hair and make up I\u2019m getting ready for work and felt good to do my make up and make myself feel pretty . I figured why not . It\u2019s the weekend so I didn\u2019t . I am going to dye my hair later on tonight and needs to be done so bad I look forward to doing it .",
+      "timestamp": "2023-03-17T15:28:38",
+      "order": 150,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3344,
+      "text": "I had a busy night at work . I don\u2019t feel the greatest . I\u2019m looking forward to going home and going to sleep early tonight . Tomorrow I have a baby shower I plan on attending \\n . Doing errands for the house that\u2019s about it .",
+      "timestamp": "2023-03-17T20:06:28",
+      "order": 151,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3345,
+      "text": "I\u2019m out having breakfast with my boyfriend . I trying to be healthy but it\u2019s so hard when you have yummy breakfast choices . Today I\u2019m going to do some stuff around the house . There is slot to do you .   My bf is going to the store later to make steaks on the grill .",
+      "timestamp": "2023-03-18T10:00:53",
+      "order": 152,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3346,
+      "text": "Cooking on the grill tonight we decided on having filet mignon , shrimp peppers and onions and potatoes . afterwards we will relax and watch a movie . We decided to stay home tonight and not do much .   I am very happy .",
+      "timestamp": "2023-03-18T17:20:16",
+      "order": 153,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3347,
+      "text": "Currently , I am planning a trip with my boyfriend to GPE . We are both trying to see what dates work best with our schedule . \\nWe are going in April . I can\u2019t wait . It\u2019s so cold \\nin GPE . It\u2019s spring but it\u2019s very cold and windy and makes it feel like winter .",
+      "timestamp": "2023-03-18T20:12:32",
+      "order": 154,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3348,
+      "text": "I am going to go to ORG and buy some dishes , glasses , and silverware for the house . \\nThen we will go look for a patio furniture . I\u2019m not sure which work I would like to go with their as many options . probably which is more affordable .",
+      "timestamp": "2023-03-19T10:02:47",
+      "order": 155,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3349,
+      "text": "I am relaxing eating and watching tv . Just having a small snack . I am planning what to have for dinner . Not sure what to have I am craving NORP food . However I would have to stay away from the carbs . Trying to stay good on my diet .",
+      "timestamp": "2023-03-19T15:01:01",
+      "order": 156,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3350,
+      "text": "I\u2019m getting ready for bed . I had a very long day I organize a lot and I did a lot of moving around the house so my body is sore and tired . I died my hair jet black my favorite color for my hair . I love it for the spring time I was very nice tomorrow I have work and nothing much going on .",
+      "timestamp": "2023-03-19T21:05:44",
+      "order": 157,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3351,
+      "text": "I woke up early and went to the gym . I had a hour workout that had a protein shake before I came home . I then went to the park to take my dogs for a walk . I had a very active morning . Heading to work soon hopefully the day goes by fast .",
+      "timestamp": "2023-03-20T10:09:48",
+      "order": 158,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3352,
+      "text": "I\u2019m getting ready to hang up photos of my room . I just went shopping for home decor . I am thinking of what designs I will like to design the house while there is many options . I don\u2019t know if I want floral or leopard print . It",
+      "timestamp": "2023-03-20T15:39:50",
+      "order": 159,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3353,
+      "text": "I am doing a little online shopping for a house . I love somebody designs . I love the silver mero work and Crystal requests and glamour . I am going for this is the first time I ever decorated my life . My mom has always done it .",
+      "timestamp": "2023-03-20T20:37:23",
+      "order": 160,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3354,
+      "text": "I am currently moving furniture around . I am returning a piece of furniture I ordered . And decided to buy something now . It\u2019s very hard of decorating a house and happy stressful . Today I am going to dinner with my brother-in-law and sister-in-law . That should be a lot of fun .",
+      "timestamp": "2023-03-21T10:02:28",
+      "order": 161,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3355,
+      "text": "I am at the nail salon getting my nails done . Very relaxing and soothing . I love getting beauty treatments done . I\u2019m going to get my eye lashes done sometime this week . I also have to start saving money .",
+      "timestamp": "2023-03-21T15:00:46",
+      "order": 162,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3356,
+      "text": "I had dinner with brother and sister and law . We had a delicious dinner at a new NORP restaurant . I was very statistics with my meal .   I would definitely eat there again . I look forward to new restaurants . I like NORP the most for different flavors .",
+      "timestamp": "2023-03-21T20:27:54",
+      "order": 163,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3357,
+      "text": "I just took a shower . I am trying to organize the house before I leave for the day . I am going to take my dogs for a walk . Spring is here so I am trying to enjoy the beautiful weather . We have weed in months for . It\u2019s close by a lot better than the snow .",
+      "timestamp": "2023-03-22T10:00:53",
+      "order": 164,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3358,
+      "text": "Heading to work now . I hope a nice day is to come . I also hope that I am very busy and I make very good money today and meet lovely people tomorrow I am off . I am looking forward to being off from work and relaxing . it\u2019s still pretty cold out went through some stuff around the house .",
+      "timestamp": "2023-03-22T15:01:40",
+      "order": 165,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": false
+    },
+    {
+      "text_id": 3398,
+      "text": "Today is a cold summer day . I am working to find a wedding dress to wear to my friends weekend wedding . I am not feeling my best weight wise so it\u2019s not fun shopping when you feel that way . However , if they give me motivation to start my diet this last week and exercise something I have not been consistent work for sometime now .",
+      "timestamp": "2023-06-22T10:35:44",
+      "order": 166,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3399,
+      "text": "I am currently taking a break . I got a lot done earlier today organizing and finding a dress for the wedding . I am happy . I found some thing he says it was very stressful not knowing what to wear . I just have to figure out what shoes I should wear to the wedding that one girl with the dress . After work , I like to buy a pocketbook and accessories .",
+      "timestamp": "2023-06-22T15:05:38",
+      "order": 167,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3400,
+      "text": "I just got home . I am going to take a shower and relax . I feel like I had a very long day and I has been busy . Tomorrow I am off . I am looking forward to doing a lot of errands . I am going on a cruise next month to celebrate my birthday . I hope I can find some dresses for air up and dress and a nice NORP style .",
+      "timestamp": "2023-06-22T20:27:22",
+      "order": 168,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3401,
+      "text": "I am currently organizing a bunch of dresses I no longer want . I am saying to myself . When was the last time you were any of this effort has been more than two years . I am putting it in my donation pile . Sometimes keeping old clothes could be pressure .",
+      "timestamp": "2023-06-23T10:23:07",
+      "order": 169,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3402,
+      "text": "My friend dropped off Chick-fil-A for me to have for lunch . It was so good and tasty . I feel like taking a nap now I am messed up on my diet but it\u2019s OK . I am thinking of a diet plan that would be the easiest for my lifestyle changes very hard at times .",
+      "timestamp": "2023-06-23T15:04:41",
+      "order": 170,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3403,
+      "text": "I just got home . My cousin invited me to dinner to celebrate her birthday . I just have to get ready . The weather is crappy it\u2019s maintained me feeling lazy like I don\u2019t want to do anything it\u2019s pretty cold also .",
+      "timestamp": "2023-06-23T20:02:45",
+      "order": 171,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3404,
+      "text": "I had a busy morning . I took my dog for a walk down and saw it raining so we had to hurry back home . I am going to go get a coffee right now . It is very much needed after this morning . That rain isn\u2019t helping it\u2019s making me tired . today my friend from GPE  is coming to visit and a wedding this weekend .",
+      "timestamp": "2023-06-24T10:07:31",
+      "order": 172,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3405,
+      "text": "Trying to see what time my friend will be coming today from GPE  . Tomorrow is the wedding and I haven\u2019t felt good about myself so I hate dressing up . I think it\u2019s giving me anxiety thinking about it . Monday is the gold tournament after work .",
+      "timestamp": "2023-06-24T15:18:29",
+      "order": 173,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3406,
+      "text": "I just got home . I am very tired . I am sitting on the deck enjoying the sunlight a little longer until it gets dark . I am probably going to go to bed early tonight . Tomorrow is the wedding so I have to prepare myself for a long day tomorrow .",
+      "timestamp": "2023-06-24T20:03:39",
+      "order": 174,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3407,
+      "text": "I just got out of the shower . I am getting dressed . I have to pick my friend up from the train station this morning . There is a lot we have to do yet . I still have to find a pair of shoes for the wedding . The wedding is until 5 PM but until then it will be a rush all day .",
+      "timestamp": "2023-06-25T10:06:39",
+      "order": 175,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3408,
+      "text": "Getting ready to drive for the wedding . We are going to look for somewhere to use the bathroom . Before we started driving the drivers over an hour long , we go pick up our friend on the way . I should be a fun night and a long night ahead of us .",
+      "timestamp": "2023-06-25T15:16:01",
+      "order": 176,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3409,
+      "text": "I\u2019m currently at my friends wedding we just had dinner . Now we are dancing . After the wedding we are going to the hotel to continue to have some fun . It\u2019s a very beautiful acceptance and beautiful day . I am very happy to be here .",
+      "timestamp": "2023-06-25T20:27:20",
+      "order": 177,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3410,
+      "text": "I am taking an easy today . I really don\u2019t feel my greatest . The weather is off that\u2019s why I feel not well . We are going to a golf tournament later on today . For a charity . I hope I feel better later on today .",
+      "timestamp": "2023-06-26T15:00:43",
+      "order": 178,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3411,
+      "text": "I am currently feeling full . I just had dinner at a charity event . The food was amazing . They had pasta , fish , boneless short ribs , and filet . They also had all kinds of desserts . Ice cream , cake , donuts , and apple pie .",
+      "timestamp": "2023-06-26T20:00:56",
+      "order": 179,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3412,
+      "text": "I am getting ready to leave for work . I just walked . My dog is still raining outside and it is so cold for a summer . I am looking forward to going on my cruise and a few weeks . This is some thing I have planned for a long time . I\u2019m excited for new adventures and new people to meet .",
+      "timestamp": "2023-06-27T10:03:48",
+      "order": 180,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3413,
+      "text": "I have I have had a busy day . I ran around all morning . I went to the gym then I came back home and worked out again . I\u2019ll before work .. tonight my friend is visiting from out of town . I haven\u2019t seen her in 15 years . I can\u2019t wait to see her after so long .",
+      "timestamp": "2023-06-27T15:16:34",
+      "order": 181,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3414,
+      "text": "I am sitting outside , relaxing . I just got home from work . Tomorrow is another busy day for me . I have a lot of things to do in the morning before I go to work . I look forward to the weekend I am off I have been on the constant go with barely any sleep .",
+      "timestamp": "2023-06-27T20:10:17",
+      "order": 182,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3415,
+      "text": "Today is another rainy day . I wanted to take my dog for a walk today but I couldn\u2019t . I have to go to work later on tonight so I will do what I can in the house until then . Today is a very gloomy day . I don\u2019t feel like doing anything . I am looking forward to the weekend of being off and doing nothing . I want one weekend to relax .",
+      "timestamp": "2023-06-28T10:08:32",
+      "order": 183,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3416,
+      "text": "I don\u2019t feel great today . I woke up feeling a little while say and as a day is going on I feel worse . I hope I feel better later . If I don\u2019t feel better , I will go home sick . I hate when I don\u2019t feel my greatest . Still looking forward to the weekend .",
+      "timestamp": "2023-06-28T15:10:28",
+      "order": 184,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3417,
+      "text": "I just got home . I still don\u2019t feel that great . I will be going to bed early after I meal prep my food . I can\u2019t wait for the weekend to come . I just need time to myself and relax . Tomorrow I work . The weather is supposed to be nice .",
+      "timestamp": "2023-06-28T20:05:58",
+      "order": 185,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3418,
+      "text": "I\u2019m getting ready to leave for work . Today is another rainy day this summer hasn\u2019t been that great at all . I am looking forward to the weekend I am off . Tomorrow I work a double but it\u2019s OK because I have that weekend off Saturday I am getting together for brunch with my friends to celebrate a friends birthday .",
+      "timestamp": "2023-06-29T10:04:44",
+      "order": 186,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3419,
+      "text": "I had a very busy day . Work had been very busy . I am in a happy mood bc I\u2019m off this weekend . Hopefully the weather stays nice and sunny I hate when it rains . 8 am also hoping did nice weather on the cruise ship . Westbound hard to judge .",
+      "timestamp": "2023-06-29T15:10:11",
+      "order": 187,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3420,
+      "text": "I had a busy day . Before I went to work I went to ORG  to pick up a new dining set for outside . It was a lot of work to pack and put together . It is a beautiful set . I look forward to using it . Hopefully I will have a pool this summer . I really want One . We shall see how this goes .",
+      "timestamp": "2023-06-29T21:05:50",
+      "order": 188,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3421,
+      "text": "Hey sorry packing and organizing for my cruise . It has been a busy morning . There is a lot I have to do yet , so I am not sure what to pack or brain that\u2019s like once you\u2019re there or you were there and there is no turning back on the stuff that you forgot to pack . I am looking forward to work . I am off this weekend . It has been a long week .",
+      "timestamp": "2023-06-30T10:02:32",
+      "order": 189,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3422,
+      "text": "Just a busy day . I just don\u2019t feel the greatest that is what is making the day longer . I am off this week int which is making me happy . I am happy to just to just relax . So I won\u2019t be doing too much this weekend .",
+      "timestamp": "2023-06-30T15:45:57",
+      "order": 190,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3423,
+      "text": "I am getting ready to go home from work . I had a very long week , but I am very excited . I am off this weekend . I am not sure exactly what I have planned , but it should be exciting that I am off and then I have the cruise the plan for .",
+      "timestamp": "2023-06-30T20:07:36",
+      "order": 191,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3384,
+      "text": "I went for a walk this morning with my boyfriend . After the walk we went for breakfast . We are now deciding what to have for a late lunch . For some reason I am hungry again even though I had breakfast .",
+      "timestamp": "2023-07-01T11:51:41",
+      "order": 192,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3385,
+      "text": "I just got home a little weekend . I go as the Fourth of July . So everywhere I go is extremely busy . There are so lots of traffic and people out today traveling . I am going to have a small barbecue at my house later on today .",
+      "timestamp": "2023-07-01T15:03:58",
+      "order": 193,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3386,
+      "text": "I have some friends over we are making pizzas on the pizza over . My boyfriend keeps over and under cooking . The pizza . It\u2019s a lot of fun . It\u2019s a present I bought for fathers days . I\u2019m excited to eat some good pizza like GPE  .",
+      "timestamp": "2023-07-01T20:40:15",
+      "order": 194,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3387,
+      "text": "I just got to ORG  . With my boyfriend .\\ nWe are going to have breakfast and then we are going back to the house to do some organizing the weekend went by too fast already . Back to work tomorrow I go .",
+      "timestamp": "2023-07-02T10:41:15",
+      "order": 195,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3388,
+      "text": "I am currently relaxing . I am watching reruns of forensic files that is my favorite TV show so I am very excited that there is refunds in new episodes today that I have not seen . Tomorrow we are meeting for some friends for a picnic . That\u2019s about it because I am ORG .",
+      "timestamp": "2023-07-02T15:48:33",
+      "order": 196,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3389,
+      "text": "I lost power at my house earlier . The power is back on it was stressful with it being out earlier . A transformation blew . Tomorrow is back to work for me my time off went by so quickly . I love being off in the summer .",
+      "timestamp": "2023-07-02T22:00:59",
+      "order": 197,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3390,
+      "text": "I am getting ready to go to work . I am tired from the weekend . Today should be busy with the holiday . Tomorrow I am going to a barbecue with family and friends I am looking forward to that . I love spending time with love ones .",
+      "timestamp": "2023-07-03T10:20:42",
+      "order": 198,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3391,
+      "text": "Getting ready to have dinner with my boyfriend . He is making steak on the grill . I am excited for the dinner he is cooking . I love having sex on the grill . We are also going to have dessert later on . I found his vanilla bean ice cream in the freezer upstairs that we didn\u2019t know we had .",
+      "timestamp": "2023-07-03T17:00:48",
+      "order": 199,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3392,
+      "text": "I am getting ready to go home soon . We are going to have a few burgers even though PERSON is so holiday tomorrow so we are going to celebrate . Then weather doesn\u2019t look too bad , so I\u2019m not sure how busy tomorrow will be but tonight was very busy after the party . I am going to go home and go to sleep . Today was a long day .",
+      "timestamp": "2023-07-03T20:33:17",
+      "order": 200,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3393,
+      "text": "I have had a very busy morning . I took my dog out for a walk . It is the Fourth of July . It was supposed to rain all day but it has been sunny and muggy . I have a very busy day once I go into work . The fourth as I know where they this week of the year . .",
+      "timestamp": "2023-07-04T11:08:22",
+      "order": 201,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3394,
+      "text": "I had a busy day so far . Work was very busy . I am happy to be leaving soon . I\u2019m starving I can\u2019t wait to go home and have some left overs from the picnic we went to yesterday . The rain ruined lots of plans .",
+      "timestamp": "2023-07-04T16:10:01",
+      "order": 202,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3395,
+      "text": "I am having a very sad morning . My old coworker has passed away . I haven\u2019t seen him for sometime , but it makes me so sad to lose love ones today I am going to take a slow . I do have to work later today . Just very sad . very busy but help me get through the day today .",
+      "timestamp": "2023-07-05T10:00:50",
+      "order": 203,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3396,
+      "text": "I am having lunch with my boyfriend . It was a nice surprise lunch . I am having lobster rolls I am so excited to have lobster . Later on today we are going shopping . I have some final things to do before my cruise which I \\ n So excited for .",
+      "timestamp": "2023-07-05T15:30:37",
+      "order": 204,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    },
+    {
+      "text_id": 3397,
+      "text": "I just got home a little while ago . I am very tired . Today was a long exhausting day . Tomorrow my friend is coming over to visit . I haven\u2019t seen in a long time so I am very excited to see her . Will probably make pizza on the pizza oven , which is a very fun .",
+      "timestamp": "2023-07-05T20:24:28",
+      "order": 205,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": false
+    }
+  ]
+}

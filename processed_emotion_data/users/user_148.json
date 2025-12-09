@@ -1,0 +1,106 @@
+{
+  "user_id": 148,
+  "num_entries": 10,
+  "entries": [
+    {
+      "text_id": 3773,
+      "text": "Tired , Drained , Exhausted",
+      "timestamp": "2024-11-10T12:02:10",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3774,
+      "text": "I\u2019m at work I\u2019m feeling fine . I definitely wish that I was at home . I feel   kind of tired but I\u2019m moreso on the neutral side of things . I don\u2019t feel drained probably because it is early . I tend to start feeling drained later on in the day",
+      "timestamp": "2024-11-11T12:15:41",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3775,
+      "text": "Busy , Active , Lively",
+      "timestamp": "2024-11-11T17:11:56",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3776,
+      "text": "Tired , Sleepy , Overwhelmed",
+      "timestamp": "2024-11-11T22:27:48",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3777,
+      "text": "Nervous , Sleepy , Over it",
+      "timestamp": "2024-11-12T12:05:32",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3778,
+      "text": "It\u2019s the midday , I am feeling sluggish . I want to go home but I have two and a half hours left on my shift . I didn\u2019t get to get a coffee so I am feeling tired and I don\u2019t think I have the best mood . My Cheif gave me an unnecessary amount of work so I am annoyed .",
+      "timestamp": "2024-11-12T17:30:52",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3779,
+      "text": "Calm , Satisfied , Content",
+      "timestamp": "2024-11-12T22:01:59",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3780,
+      "text": "Tired , Exhausted , Sleepy",
+      "timestamp": "2024-11-13T22:09:48",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3781,
+      "text": "Happy , Fulfilled , Excited",
+      "timestamp": "2024-11-14T12:02:37",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3782,
+      "text": "Active , Hard working , Energized",
+      "timestamp": "2024-11-14T17:05:13",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

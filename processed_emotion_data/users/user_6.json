@@ -1,0 +1,216 @@
+{
+  "user_id": 6,
+  "num_entries": 21,
+  "entries": [
+    {
+      "text_id": 307,
+      "text": "Tired , Calm , Exhausted , Happy , Content",
+      "timestamp": "2022-02-12T22:19:32",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 308,
+      "text": "Calm , Relaxed , Happy , Focused , Hungry",
+      "timestamp": "2022-02-13T20:21:12",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 309,
+      "text": "Frustrated , Angry , Tired , Hungry , Excited",
+      "timestamp": "2022-02-14T20:51:50",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 310,
+      "text": "Happy , Excited , Sore , Hungry , Celebrating",
+      "timestamp": "2022-02-15T12:17:14",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 311,
+      "text": "hungover , tired , exhausted , happy , excited",
+      "timestamp": "2022-02-16T10:40:46",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 312,
+      "text": "Exhausted , Sleepy , Content , Happy , Celebrating",
+      "timestamp": "2022-02-17T15:00:49",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 313,
+      "text": "Tired , Calm , Relaxed , Content , Positive",
+      "timestamp": "2022-02-17T20:00:44",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 314,
+      "text": "Calm , Happy , Relaxed , Busy , Gracious",
+      "timestamp": "2022-02-18T10:01:24",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 315,
+      "text": "Happy , Relieved , Tired , Hungry , Optimistic",
+      "timestamp": "2022-02-19T20:56:13",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 316,
+      "text": "Sore , Exhausted , Happy , Grateful , Eager",
+      "timestamp": "2022-02-20T21:52:40",
+      "order": 9,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 304,
+      "text": "Tired , Exhausted , Sleepy , Calm , Positive",
+      "timestamp": "2022-02-21T22:59:42",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 305,
+      "text": "Sore , Fatigued , Happy , Anxious , Disappointed",
+      "timestamp": "2022-02-22T10:00:40",
+      "order": 11,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 306,
+      "text": "Tired , Sore , Productive , Optimistic , Hungry",
+      "timestamp": "2022-02-24T10:00:33",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 321,
+      "text": "Anxious , Eager , Excited , Happy , Positive",
+      "timestamp": "2022-05-15T10:03:00",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 322,
+      "text": "Content , Happy , Positive , Hungry , Eager",
+      "timestamp": "2022-05-16T12:47:00",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 323,
+      "text": "Hungry , Starved , Eager , Tired , Relaxed",
+      "timestamp": "2022-05-16T15:06:00",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 324,
+      "text": "Tired , Exhausted , Hungry , Calm , Neutral",
+      "timestamp": "2022-05-18T20:07:00",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 325,
+      "text": "Calm , Happy , Positive , Peaceful , Hopeful",
+      "timestamp": "2022-05-19T10:09:00",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 326,
+      "text": "Calm , Bored , Lazy , Unmotivated , Eager",
+      "timestamp": "2022-05-19T16:19:00",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 327,
+      "text": "Hungry , Impatient , Tired , Bored , Exhausted",
+      "timestamp": "2022-05-19T20:34:00",
+      "order": 19,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 328,
+      "text": "Busy , Irritated , Hungry , Anxious , Frustrated",
+      "timestamp": "2022-05-20T15:02:00",
+      "order": 20,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    }
+  ]
+}

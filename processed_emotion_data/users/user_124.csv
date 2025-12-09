@@ -1,0 +1,41 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+2627,"I just woke up after sleeping in late . I feel kind of tired since I went to bed later than I normally do . I don’t like staying up too late because then I sleep in late which makes my sleep schedule complicated . I also was tossing and turning during my sleep which made it less restful than I would like . Once I get outside , exercise , or drink some coffee . I think I will feel a lot better .",2024-10-31T12:01:26,0,-1.0,0.0,7,False
+2628,Currently I am feeling very excited because I am about to leave to go to a Halloween party . I am doing my hair and makeup to dress up as PERSON  from the movie Almost Famous . That’s a movie my dad and I really like so it means a lot to me that I am dressing up as her . It’s making me feel happy .,2024-10-31T17:17:26,1,1.0,2.0,7,False
+2629,Right now I am happy because I am with friends for Halloween . Halloween is a nostalgic holiday for me so today made me pretty happy . I’m also really tired so I’m looking forward to going home soon . But overall I am feeling pretty happy and content .,2024-10-31T22:00:53,2,1.0,1.0,7,False
+2630,"Tired , Sad , Depressed , Annoyed , Irritated",2024-11-01T12:50:52,3,0.0,2.0,7,True
+2631,"Excited , Tired , Hungry , Happy , Love",2024-11-01T17:05:20,4,1.0,2.0,7,True
+2633,"Right now I’m feeling ok . I just finished dinner with a Friend that I haven’t seen in a long time so it was nice to catch up with her . However , I am a little sad because I felt there was nothing positive I could share about my life at the current moment .",2024-11-01T22:47:38,5,0.0,1.0,7,False
+2634,"Awake , Excited , Happy , Tired , Hopeful",2024-11-02T12:00:59,6,1.0,1.0,7,True
+2635,I am excited because I am on my way to a Halloween party . I get to see some friends that I haven’t seen in a long time so I am happy about that . I also feel a little tired but that’s ok . I feel somewhat lively because I am about to see my friends at the party .,2024-11-02T22:01:22,7,1.0,2.0,7,False
+2636,"Neutral , Tired , Melancholy , Tired , Sad",2024-11-03T12:01:28,8,0.0,1.0,7,True
+2637,"Sad , Annoyed , Disappointed , Lonely , Hungry",2024-11-03T17:01:12,9,-1.0,1.0,7,True
+2638,"Sad , Depressed , Lonely , Melancholy , Tired",2024-11-03T22:21:05,10,-2.0,1.0,7,True
+2639,"Sad , Tired , Worried , Sad , Tired",2024-11-04T12:12:01,11,-1.0,1.0,7,True
+2640,"Sad , Tired , Sluggish , Worried , Sad",2024-11-04T17:05:06,12,-1.0,1.0,7,True
+2641,Honestly right now I just feel kind of numb . I’m kind of sad because I miss my dad and my brother . I’m also sad because my brother hasn’t really been talking to me . I want to see them soon but it’s been hard to keep hope . I also feel a little bit emotionally drained .,2024-11-04T22:01:04,13,0.0,1.0,7,False
+2642,"Awake , Alive , Energized , Happy , Alive",2024-11-05T12:27:43,14,1.0,2.0,7,True
+2644,"I am feeling ok . I just finished acupuncture which was very relaxing and also made me want to go back to bed . I am slightly happy because I got to speak to my dad today , I miss him very much . I am also looking forward to the dinner I am going to cook tonight .",2024-11-05T17:05:00,15,0.0,1.0,7,False
+2645,"Tired , Ok , Excited , Neutral , Sleepy",2024-11-05T22:01:13,16,0.0,1.0,7,True
+2646,"Right now I am feeling ok . I have to commute today which is slightly annoying , however I am happy because I found a free parking spot . I am a little tired because I stayed up late watching the election though .",2024-11-06T12:12:13,17,0.0,1.0,7,False
+2647,Right now I am feeling extremely irate . I can’t even process how I am feeling . I hate commuting with a passion and I cannot stand the people I work with . They are evil . I can’t wait until I do not work there anymore and don’t have to commute anymore .,2024-11-06T17:01:24,18,-2.0,1.0,7,False
+2648,"Sad , Tired , Anxious , Exhausted , Worried",2024-11-06T22:07:39,19,-1.0,1.0,7,True
+2649,I am feeling slightly happy because I had a good dream and woke up early . Even though I don’t like waking up early it definitely sets a better pace for my day . I decided to go to bed early and wake up early to do my work . Currently doing my work on the train .,2024-11-07T12:30:34,20,1.0,1.0,7,False
+2650,"Currently , I’m feeling extremely tired , exhausted , and emotionally drained . I had a really long day with my commute and woke up too early which is the reason why I’m tired . Additionally I am sad because I had an issue with my advisor .",2024-11-07T22:26:29,21,-1.0,1.0,7,False
+2651,"Energized , Open , Sad , Stressed , Ok",2024-11-08T12:27:27,22,-1.0,1.0,7,True
+2652,I’m feeling ok . I am a little tired but I am happy that it is Friday . I am also happy because I get to see my best friend for dinner tonight . I’m excited to try some new food that I’ve been seeing on my social media .,2024-11-08T17:38:55,23,0.0,1.0,7,False
+2653,"Happy , Full , Alive , Happy , Peace",2024-11-08T22:41:39,24,1.0,1.0,7,True
+2656,"Tired , Neutral , Sad , Neutral , Lonely",2024-11-09T12:20:12,25,0.0,1.0,7,True
+2657,Right now I feel sort of happy and sort of sad so I guess I have mixed emotions . I just talked to my dad on the phone for the longest amount of time in a while . It was nice to hear his voice and talk to him . We both miss each other so much .,2024-11-09T17:20:55,26,0.0,1.0,7,False
+2658,"Right now I feel a little bit tired and that’s why I’m only feeling neutral . However I am chopping with my brother which is something that makes me happy . I was also feeling kind of depressed when I was sitting at my house , but I’m glad that I finally got out .",2024-11-09T22:20:08,27,0.0,1.0,7,False
+2659,I am feeling ok because I want to start my day off on the right foot . I want to go for a run which I think will make me happy . I’m just slightly tired so I am having a little bit of trouble getting my day started . I’m hopeful that today can be a good day .,2024-11-10T12:03:48,28,0.0,1.0,7,False
+2660,"Neutral , Tired , Melancholy , Overwhelmed , Ok",2024-11-10T17:03:03,29,0.0,1.0,7,True
+2661,"Ok , Neutral , Melancholy , Tired , Sleepy",2024-11-10T22:08:15,30,0.0,1.0,7,True
+2662,This morning I am feeling really tired . I am also feeling extremely annoyed because I have to commute today . That seems to be a point of contention for me . I also am annoyed because I haven’t heard from my dad or brother and that really bothers me .,2024-11-11T12:14:50,31,-2.0,0.0,7,False
+2663,Right now I feel a little bit better than I did last night . I got to talk to my dad which made me feel a lot better . I am also happy because I was able to rearrange my schedule today so that I am free to get a lot of work done tomorrow .,2024-11-11T17:36:48,32,0.0,1.0,7,False
+2664,I am currently feeling happy because I just had dinner with my brother . Before this I had a meeting that went well . I am feeling a little bit nervous because there is work that I need to do tonight and tomorrow but overall I feel good .,2024-11-11T22:03:14,33,1.0,1.0,7,False
+2665,"Happy , Energized , Understood , Content , Happy",2024-11-12T12:49:35,34,1.0,2.0,7,True
+2667,Right now I’m feeling pretty happy because I finally went to the library and did some work . This is making me feel pretty productive and it’s a good way to spend my time . I’m also looking forward to the dinner that I’m going to be cooking tonight with my brother .,2024-11-12T17:10:23,35,1.0,1.0,7,False
+2668,"Happy , Content , Hopeful , Happy , Cheerful",2024-11-12T22:46:04,36,2.0,1.0,7,True
+2669,I am currently feeling energized because I woke up early to start my morning with a run and a coffee from ORG . This was how I started my day yesterday and it put me in a good mood so I decided to do it again today . I am also happy because I made my train by one minute .,2024-11-13T12:26:01,37,1.0,2.0,7,False
+2670,Right now I’m feeling slightly happy because I had a meeting that went well . I’m also happy because I’m on my way home and I will get to see my dog soon . I’m also glad that I started my day off on the right foot .,2024-11-13T17:47:46,38,1.0,1.0,7,False
+2671,"Tired , Neutral , Overwhelmed , Ok , Tired",2024-11-13T22:32:59,39,0.0,1.0,7,True

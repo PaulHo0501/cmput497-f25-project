@@ -1,0 +1,316 @@
+{
+  "user_id": 103,
+  "num_entries": 31,
+  "entries": [
+    {
+      "text_id": 1492,
+      "text": "I\u2019m feeling irritable and annoyed . I feel anxious and just like mad . I feel like I should have slept more but it\u2019s impossible because people are shutting doors . Everyone is annoying cause they talk back and don\u2019t know how to do things right .",
+      "timestamp": "2024-10-05T12:02:41",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1493,
+      "text": "I feel okay . Watching the football game . I have work tomorrow . Drinking my morning coffee and had yogurt . Figuring out what I need to do this week . Planning what to wear and thinking ahead , my youngest child has a picture day so I have to figure out what he\u2019s wearing .",
+      "timestamp": "2024-10-06T12:13:36",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1494,
+      "text": "I\u2019m tired . Need a nap . Dreading having to go to work tomorrow . Missing my boyfriend and not looking forward to the full work week . I don\u2019t like one of my coteachers . She\u2019s kind of annoying . She\u2019s lazy and constantly makes excuses for herself .",
+      "timestamp": "2024-10-06T17:11:55",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1495,
+      "text": "Tired , Relaxed , Sleepy , Anxious , Ready",
+      "timestamp": "2024-10-06T22:42:41",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1496,
+      "text": "Annoyed , Irritated , Tired , Defeated , Resigned",
+      "timestamp": "2024-10-07T17:11:05",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1497,
+      "text": "Okay , Good , Tired , Relaxed , Calm",
+      "timestamp": "2024-10-07T22:00:58",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1499,
+      "text": "At work , dealing with students , trying to be prepared is annoying . Dealing with different variables like laptops etc . admin keeps telling us what strategies to try and enforcing us to do them is unrealistic based on students\u2019 levels . I have a lazy co-teacher who is super negative and just breathes out sighs a lot . Irritating .",
+      "timestamp": "2024-10-08T12:00:19",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1500,
+      "text": "Tired , Relaxed , Regular , Easygoing , Mellow",
+      "timestamp": "2024-10-08T17:00:32",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1501,
+      "text": "Irritated , Tired , Anxious , Annoyed , Ready for bed",
+      "timestamp": "2024-10-08T22:02:34",
+      "order": 8,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1502,
+      "text": "Good , Done , Hopeful , Meh , Regular",
+      "timestamp": "2024-10-09T12:31:10",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1503,
+      "text": "Headache , Tired , Exerted , Fatigued , Frustrated",
+      "timestamp": "2024-10-09T17:01:26",
+      "order": 10,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1504,
+      "text": "I have a headache . I\u2019m not feeling well but okay since I\u2019m watching survivor . Took a Tylenol and drank some water so hopefully the headache will go away . Work is annoying because coworkers are lazy and don\u2019t know how to contribute .",
+      "timestamp": "2024-10-09T22:01:23",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1505,
+      "text": "Good , Content , Complete , Normal , Fine",
+      "timestamp": "2024-10-10T17:00:38",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1506,
+      "text": "Irritated because my son is driving me Insane . He reads with a funny voice that reminds me of an annoying student at school . He slams his body against my bed . It\u2019s super annoying . I don\u2019t like it when I have to repeat myself . And he doesn\u2019t listen the first second or third time .",
+      "timestamp": "2024-10-10T22:05:49",
+      "order": 13,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1507,
+      "text": "Tired . My boyfriend and his son is over and I made dinner . It was good . His son was doing an essay and finished . I said we should read it but he didn\u2019t want us to read it so lied about it . It was so obvious he was lying though but he insisted he wasn\u2019t .",
+      "timestamp": "2024-10-11T22:53:51",
+      "order": 14,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1508,
+      "text": "Happy it is Saturday . Nice to have a 3day weekend . Going to go with the kids to the dog park . We just had breakfast , eggs , bacon . Made some pancake fish with my boyfriend\u2019s contraption . We\u2019re going to make eggplant later .",
+      "timestamp": "2024-10-12T12:01:21",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1510,
+      "text": "I feel great but tired . Went to the dog park with the kids , played with some dogs , then went to GPE , where it was by a beach with some water and there was buildings in the horizon , it was peaceful and beautiful . Relaxing . Although my oldest was acting miserable because her dogs feet would be dirty and she didn\u2019t want to responsible for giving her dog a bath .",
+      "timestamp": "2024-10-12T17:03:41",
+      "order": 16,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1511,
+      "text": "Super irritated and mad . My oldest daughter didn\u2019t want to give her dog a bath but she\u2019s the only one who can because he can get growly with anyone else . I was trying to get my middle child to bathe him but he wasn\u2019t having it . I told my oldest to just get him into the shower and I\u2019ll deal with it . She said \u201cit wasn\u2019t fair to her\u201d . She proceeds to bathe him but leaves him in there wet instead of Drying him . I go in there and try to dry him but he\u2019s growling at me .",
+      "timestamp": "2024-10-12T22:16:24",
+      "order": 17,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1512,
+      "text": "Irritated , Angry , Frustrated , Annoyed , Pissed",
+      "timestamp": "2024-10-13T12:31:15",
+      "order": 18,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1513,
+      "text": "Relaxed , Tired , Okay , Meh , Sleepy",
+      "timestamp": "2024-10-13T22:00:56",
+      "order": 19,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1514,
+      "text": "Happy to have a Monday off . Just in bed , watching ORG . Relaxing before having to go Back to work tomorrow . Will probably clean up a bit and work on what I\u2019m doing in my classes for the week . I feel good .",
+      "timestamp": "2024-10-14T12:00:56",
+      "order": 20,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1515,
+      "text": "Ready for bed , Tired , Relax , Okay , Quiet",
+      "timestamp": "2024-10-14T22:30:06",
+      "order": 21,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1516,
+      "text": "I have a period called common planning that ORG placed on us because of the superintendent . Ideally , you meet with teachers who teach the same subject and discuss what you\u2019re teaching etc . I\u2019m stuck with a bunch of annoying idiotic teachers who just complain and lie . I find it really annoying and a complete waste of time .",
+      "timestamp": "2024-10-15T12:00:51",
+      "order": 22,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1517,
+      "text": "Okay , Relieved , Fine , Tired , Complacent",
+      "timestamp": "2024-10-15T17:01:02",
+      "order": 23,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1518,
+      "text": "Happy , Cheerful , Delighted , Winning , Joyous",
+      "timestamp": "2024-10-15T22:01:21",
+      "order": 24,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1519,
+      "text": "Just taught 3 classes back to back . I feel okay but a bit tired and sore . I have my period but half my day is over so that\u2019s good . Enjoying the Fall weather and half the week is already over so glad about that . Looking forward to the weekend .",
+      "timestamp": "2024-10-16T12:36:06",
+      "order": 25,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1521,
+      "text": "Tired , Exhausted , Spent , Depleted , Fatigued",
+      "timestamp": "2024-10-16T22:01:21",
+      "order": 26,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1522,
+      "text": "Finally finished classes . Kind of a hectic day . Didn\u2019t even eat my lunch . Just had a clementine . Was go go go all day . Trying to catch up on grading . Tired . Looking forward to tomorrow being Friday . Upside , my coteacher wasn\u2019t here today and class went smoother than when she\u2019s there .",
+      "timestamp": "2024-10-17T15:54:43",
+      "order": 27,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1523,
+      "text": "Tired , Exhausted , Foggy , Spent , Fatigued",
+      "timestamp": "2024-10-17T22:11:37",
+      "order": 28,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1563,
+      "text": "Happy , Excited , Relaxed , Relieved , Friyay",
+      "timestamp": "2024-10-18T17:01:11",
+      "order": 29,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1564,
+      "text": "I feel super tired and depleted . I woke up at 4am and checked the time and couldn\u2019t fall back asleep . I feel exhausted . Hoping to go hiking tomorrow . Currently laying in bed and going to watch dateline .",
+      "timestamp": "2024-10-18T22:04:29",
+      "order": 30,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[ENTRY_5013] Active , Excited , Hoped , Enthusiastic , Brave
+[ENTRY_5014] I feel down , as though feeling feverish , for some reasons I feel it ' s because of the anxiety and overall stress I ' ve had recently ,\ nIn the past week I ' ve had more to drink but less food , that too may be part of the reasons
+[ENTRY_5015] I ' m alright , \nIt ' s been a hectic day , I ' ve had a few drinks and as well tried to be active but I feel weak , this is something I ' ve felt these past few days \nI ' d like to be more active so hoping to be strong as soon as possible
+[ENTRY_5016] Active , Hopeful , Excited , Energized , Glad
+[ENTRY_5017] Neutral , Happy , Hopeful , Thoughtful , Okay
+[ENTRY_5018] I am currently feeling alright \ nA hectic day but am ok \ nHad a few drinks \nAmong other things I feel tired \ nI feel stressed and nervous \ nUncertain about some things but I believe everything will be fine \nI am currently feeling alright \ nA hectic day but am ok \ nHad a few drinks \nAmong other things I feel tired \ nI feel stressed and nervous \ nUncertain about some things but I believe everything will be fine
+[ENTRY_5019] I ' m alright , today is better than the previous day \ nEverything seems good \ nI ' m available to my emotions \ nI recognize myself and take my feelings into account \nI ' m alright , today is better than the previous day \ nEverything seems good \ nI ' m available to my emotions \ nI recognize myself and take my feelings into account
+[ENTRY_5020] Stressed , Sluggish , Tired , Exhausted , Weak
+[ENTRY_5021] Neutral , Okay , Hopeful , Edgy , Happy

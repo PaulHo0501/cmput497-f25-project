@@ -1,0 +1,96 @@
+{
+  "user_id": 73,
+  "num_entries": 9,
+  "entries": [
+    {
+      "text_id": 5013,
+      "text": "Active , Excited , Hoped , Enthusiastic , Brave",
+      "timestamp": "2024-10-08T22:01:56",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5014,
+      "text": "I feel down , as though feeling feverish , for some reasons I feel it ' s because of the anxiety and overall stress I ' ve had recently ,\\ nIn the past week I ' ve had more to drink but less food , that too may be part of the reasons",
+      "timestamp": "2024-10-09T12:01:57",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5015,
+      "text": "I ' m alright , \\nIt ' s been a hectic day , I ' ve had a few drinks and as well tried to be active but I feel weak , this is something I ' ve felt these past few days \\nI ' d like to be more active so hoping to be strong as soon as possible",
+      "timestamp": "2024-10-09T17:05:08",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5016,
+      "text": "Active , Hopeful , Excited , Energized , Glad",
+      "timestamp": "2024-10-10T12:16:14",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5017,
+      "text": "Neutral , Happy , Hopeful , Thoughtful , Okay",
+      "timestamp": "2024-10-10T17:05:52",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5018,
+      "text": "I am currently feeling alright \\ nA hectic day but am ok \\ nHad a few drinks \\nAmong other things I feel tired \\ nI feel stressed and nervous \\ nUncertain about some things but I believe everything will be fine \\nI am currently feeling alright \\ nA hectic day but am ok \\ nHad a few drinks \\nAmong other things I feel tired \\ nI feel stressed and nervous \\ nUncertain about some things but I believe everything will be fine",
+      "timestamp": "2024-10-10T22:01:32",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5019,
+      "text": "I ' m alright , today is better than the previous day \\ nEverything seems good \\ nI ' m available to my emotions \\ nI recognize myself and take my feelings into account \\nI ' m alright , today is better than the previous day \\ nEverything seems good \\ nI ' m available to my emotions \\ nI recognize myself and take my feelings into account",
+      "timestamp": "2024-10-11T12:03:39",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5020,
+      "text": "Stressed , Sluggish , Tired , Exhausted , Weak",
+      "timestamp": "2024-10-11T17:01:01",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5021,
+      "text": "Neutral , Okay , Hopeful , Edgy , Happy",
+      "timestamp": "2024-10-11T22:56:18",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}
