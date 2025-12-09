@@ -1,6 +1,6 @@
 import argparse
 from pathlib import Path
-from typing import Tuple
+from typing import Dict, List, Tuple
 
 import numpy as np
 import polars as pl
@@ -11,258 +11,357 @@ from torch.optim import AdamW
 from torch.utils.data import DataLoader, Dataset, Subset
 from transformers import DistilBertModel, DistilBertTokenizer
 
-from prepare_datasets import DATASET_PATH, prepare_df
-
 MODEL_NAME = "distilbert-base-uncased"
-MAX_SEQUENCE_LENGTH = 256
-MAX_TOKEN_LENGTH = 512
+MAX_SEQUENCE_LENGTH = 128
+MAX_TOKEN_LENGTH = 128
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 TEST_SIZE = 0.2
 RANDOM_STATE = 51
 DISTILBERT_HIDDEN_DIM = 768
 BATCH_SIZE = 8
-MODEL_PATH = 'models/distilbert-bilstm_{}.pt'
 
-class CustomDataset(Dataset):
-    def __init__(self, original_df: pl.DataFrame, y_name: str):
-        self.processed_df: pl.DataFrame = original_df.with_columns(((pl.col(y_name) + 2) / 4).alias(f'{y_name}_normalized')).group_by('user_id').agg(
-            pl.col('text_id').implode().alias('text_ids'),
+PATH_TRAIN_1 = 'data/train_subtask1.csv'
+PATH_TRAIN_2A = 'data/train_subtask2a.csv'
+PATH_TRAIN_2B = 'data/train_subtask2b.csv'
+
+
+class DatasetSubtask1(Dataset):
+    def __init__(self, df: pl.DataFrame, y_name: str):
+        # Sort by user and time
+        df = df.sort(["user_id", "timestamp"])
+        
+        target_col = y_name
+        
+        if target_col not in df.columns:
+            df = df.with_columns(pl.lit(0.0).alias(target_col))
+
+        self.processed_df = df.group_by('user_id').agg(
             pl.col('text').implode().alias('texts'),
-            pl.col(f'{y_name}').implode().alias(f"{y_name}s"),
-            pl.col(f'{y_name}_normalized').implode().alias(f"scores"),
+            pl.col(target_col).implode().alias('targets')
         )
+        
         self.tokenizer = DistilBertTokenizer.from_pretrained(MODEL_NAME)
-        embedder_instance = DistilBertModel.from_pretrained(MODEL_NAME, device_map=DEVICE)
-        self.embedder = embedder_instance
+        self.embedder = DistilBertModel.from_pretrained(MODEL_NAME, device_map=DEVICE)
         self.embedder.eval()
 
     def __len__(self):
         return self.processed_df.height
 
     def __getitem__(self, index):
-        row: dict = self.processed_df.row(index, named=True)
+        row = self.processed_df.row(index, named=True)
+        
         text_embeddings = self.encode_texts(row['texts'])
-        pad_len = MAX_SEQUENCE_LENGTH - text_embeddings.size(0)
-        padding_tensor = torch.zeros(pad_len, text_embeddings.size(1), dtype=torch.float32)
-        padded_embeddings = torch.cat([text_embeddings, padding_tensor], dim=0)
-        score_tensor = torch.tensor(row['scores'], dtype=torch.float32)
-        score_padding = torch.full((pad_len,), -1.0, dtype=torch.float32)
-        padded_scores = torch.cat([score_tensor, score_padding], dim = 0)
-        mask = torch.cat([torch.ones(len(row['scores']), dtype=torch.bool), torch.zeros(pad_len, dtype=torch.bool)])
+        current_seq_len = text_embeddings.size(0)
+
+        raw_targets = row['targets'][:MAX_SEQUENCE_LENGTH]
+        
+        clean_targets = [t if t is not None else 0.0 for t in raw_targets]
+        target_tensor = torch.tensor(clean_targets, dtype=torch.float32)
+
+        pad_len = MAX_SEQUENCE_LENGTH - current_seq_len
+        
+        padding_emb = torch.zeros(pad_len, text_embeddings.size(1), dtype=torch.float32)
+        padded_embeddings = torch.cat([text_embeddings, padding_emb], dim=0)
+        
+        target_padding = torch.zeros(pad_len, dtype=torch.float32)
+        padded_targets = torch.cat([target_tensor, target_padding], dim=0)
+        
+        mask = torch.ones(current_seq_len, dtype=torch.bool)
+        mask_padding = torch.zeros(pad_len, dtype=torch.bool)
+        full_mask = torch.cat([mask, mask_padding])
+
         return {
             "embeddings": padded_embeddings,
-            "targets": padded_scores,
-            "mask": mask,
-            'user_id': row['user_id']
+            "targets": padded_targets,
+            "mask": full_mask,
+            "user_id": row['user_id']
         }
-
-    def get_unique_user_ids(self):
-        return self.processed_df['user_id'].unique()
 
     @torch.no_grad()
     def encode_texts(self, texts):
+        texts = texts[:MAX_SEQUENCE_LENGTH]
         embeddings_list = []
-        for text in texts:
-            encoded_input = self.tokenizer(text, 
-                                          padding='max_length', 
-                                          truncation=True, 
-                                          max_length=MAX_TOKEN_LENGTH,
-                                          return_tensors='pt')
-            input_ids = encoded_input['input_ids'].to(DEVICE)
-            attention_mask = encoded_input['attention_mask'].to(DEVICE)
-            output = self.embedder(input_ids=input_ids, attention_mask=attention_mask)
-            cls_embedding = output.last_hidden_state[:, 0, :].squeeze(0).cpu()
-            embeddings_list.append(cls_embedding)
-        return torch.stack(embeddings_list)
+        for i in range(0, len(texts), 32):
+            batch_texts = texts[i:i+32]
+            encoded = self.tokenizer(batch_texts, padding='max_length', truncation=True, 
+                                     max_length=MAX_TOKEN_LENGTH, return_tensors='pt')
+            input_ids = encoded['input_ids'].to(DEVICE)
+            mask = encoded['attention_mask'].to(DEVICE)
+            output = self.embedder(input_ids=input_ids, attention_mask=mask)
+            embeddings_list.append(output.last_hidden_state[:, 0, :].cpu())
+        
+        if len(embeddings_list) > 0:
+            return torch.cat(embeddings_list, dim=0)
+        else:
+            return torch.empty(0, 768)
 
-class BiLSTMRegressor(nn.Module):
-    def __init__(self, lstm_hidden_dim=256, num_lstm_layers=1, dropout_rate=0.3):
-        super(BiLSTMRegressor, self).__init__()
-        self.lstm_hidden_dim = lstm_hidden_dim
-        self.bilstm = nn.LSTM(
+
+class DatasetSubtask2A(Dataset):
+    def __init__(self, df: pl.DataFrame, y_name: str):
+        df = df.sort(["user_id", "timestamp"])
+        target_col = f"state_change_{y_name}"
+        if target_col not in df.columns:
+            df = df.with_columns(pl.lit(0.0).alias(target_col))
+
+        self.processed_df = df.group_by('user_id').agg(
+            pl.col('text').implode().alias('texts'),
+            pl.col(target_col).implode().alias('targets')
+        )
+        self.tokenizer = DistilBertTokenizer.from_pretrained(MODEL_NAME)
+        self.embedder = DistilBertModel.from_pretrained(MODEL_NAME, device_map=DEVICE)
+        self.embedder.eval()
+
+    def __len__(self):
+        return self.processed_df.height
+
+    def __getitem__(self, index):
+        row = self.processed_df.row(index, named=True)
+        text_embeddings = self.encode_texts(row['texts'])
+        current_seq_len = text_embeddings.size(0)
+
+        raw_targets = row['targets'][:MAX_SEQUENCE_LENGTH] 
+        clean_targets = [t if t is not None else 0.0 for t in raw_targets]
+        target_tensor = torch.tensor(clean_targets, dtype=torch.float32)
+
+        pad_len = MAX_SEQUENCE_LENGTH - current_seq_len
+        padding_emb = torch.zeros(pad_len, text_embeddings.size(1), dtype=torch.float32)
+        padded_embeddings = torch.cat([text_embeddings, padding_emb], dim=0)
+        
+        target_padding = torch.zeros(pad_len, dtype=torch.float32)
+        padded_targets = torch.cat([target_tensor, target_padding], dim=0)
+        
+        mask = torch.ones(current_seq_len, dtype=torch.bool)
+        if current_seq_len > 0:
+            mask[-1] = False 
+        
+        mask_padding = torch.zeros(pad_len, dtype=torch.bool)
+        full_mask = torch.cat([mask, mask_padding])
+
+        return {
+            "embeddings": padded_embeddings,
+            "targets": padded_targets,
+            "mask": full_mask,
+            "user_id": row['user_id']
+        }
+
+    @torch.no_grad()
+    def encode_texts(self, texts):
+        texts = texts[:MAX_SEQUENCE_LENGTH]
+        embeddings_list = []
+        for i in range(0, len(texts), 32):
+            batch_texts = texts[i:i+32]
+            encoded = self.tokenizer(batch_texts, padding='max_length', truncation=True, 
+                                     max_length=MAX_TOKEN_LENGTH, return_tensors='pt')
+            input_ids = encoded['input_ids'].to(DEVICE)
+            mask = encoded['attention_mask'].to(DEVICE)
+            output = self.embedder(input_ids=input_ids, attention_mask=mask)
+            embeddings_list.append(output.last_hidden_state[:, 0, :].cpu())
+        if len(embeddings_list) > 0: return torch.cat(embeddings_list, dim=0)
+        else: return torch.empty(0, 768)
+
+
+class DatasetSubtask2B(Dataset):
+    def __init__(self, df: pl.DataFrame, y_name: str):
+        df = df.sort(["user_id", "timestamp"])
+        target_col = f"disposition_change_{y_name}"
+        if target_col not in df.columns:
+            df = df.with_columns(pl.lit(0.0).alias(target_col))
+
+        df = df.filter(pl.col("group") == 2)
+        self.processed_df = df.group_by('user_id').agg(
+            pl.col('text').implode().alias('texts'),
+            pl.col(target_col).first().alias('target') 
+        )
+        self.tokenizer = DistilBertTokenizer.from_pretrained(MODEL_NAME)
+        self.embedder = DistilBertModel.from_pretrained(MODEL_NAME, device_map=DEVICE)
+        self.embedder.eval()
+
+    def __len__(self):
+        return self.processed_df.height
+
+    def __getitem__(self, index):
+        row = self.processed_df.row(index, named=True)
+        text_embeddings = self.encode_texts(row['texts'])
+        target = torch.tensor(row['target'], dtype=torch.float32)
+        
+        pad_len = MAX_SEQUENCE_LENGTH - text_embeddings.size(0)
+        padding_tensor = torch.zeros(pad_len, text_embeddings.size(1), dtype=torch.float32)
+        padded_embeddings = torch.cat([text_embeddings, padding_tensor], dim=0)
+        
+        return {
+            "embeddings": padded_embeddings,
+            "target": target, 
+            "actual_len": text_embeddings.size(0) 
+        }
+
+    @torch.no_grad()
+    def encode_texts(self, texts):
+        texts = texts[:MAX_SEQUENCE_LENGTH]
+        embeddings_list = []
+        for i in range(0, len(texts), 32):
+            batch = texts[i:i+32]
+            encoded = self.tokenizer(batch, padding='max_length', truncation=True, max_length=MAX_TOKEN_LENGTH, return_tensors='pt')
+            embeddings_list.append(self.embedder(encoded['input_ids'].to(DEVICE), encoded['attention_mask'].to(DEVICE)).last_hidden_state[:, 0, :].cpu())
+        if len(embeddings_list) > 0: return torch.cat(embeddings_list, dim=0)
+        else: return torch.empty(0, 768)
+
+
+class ModelSubtask1(nn.Module):
+    def __init__(self, lstm_hidden_dim=256, num_layers=1):
+        super().__init__()
+        self.lstm = nn.LSTM(
             input_size=DISTILBERT_HIDDEN_DIM,
             hidden_size=lstm_hidden_dim,
-            num_layers=num_lstm_layers,
-            bidirectional=True,
-            batch_first=True,
+            num_layers=num_layers,
+            bidirectional=True, 
+            batch_first=True
         )
-        self.dropout = nn.Dropout(dropout_rate)
+        self.dropout = nn.Dropout(0.3)
         self.regressor = nn.Linear(lstm_hidden_dim * 2, 1)
 
-    def forward(self, batched_text_embeddings):
-        lstm_output, _ = self.bilstm(batched_text_embeddings)
-        x = self.dropout(lstm_output)
-        scores = self.regressor(x)
-        return scores.squeeze(-1)
+    def forward(self, x):
+        out, _ = self.lstm(x)
+        out = self.dropout(out)
+        return self.regressor(out).squeeze(-1) 
 
-def parse_args():
-    parser = argparse.ArgumentParser(
-        prog='DistilBERT-BiLSTM for subtask 1, SemEval 2026 Task 2',
-        description='Run the DistilBERT-BiLSTM for subtask 1 to predict Valence and/or Arousal score for sequence of texts',
-    )
-    parser.add_argument('-m', '--mode',
-                        default='both',
-                        type=str,
-                        choices=['both', 'valence', 'arousal'],
-                        help='train for valence, arousal, or both')
-    parser.add_argument('-e', '--epochs',
-                        default=1,
-                        type=int,
-                        help="Number of epochs for training")
-    args = parser.parse_args()
-    return args
 
-def get_data_loaders(dataset, indices, batch_size, shuffle=True):
-    subset = Subset(dataset, indices)
-    loader = DataLoader(subset, batch_size=batch_size, shuffle=shuffle)
-    return loader
+class ModelSubtask2A(nn.Module):
+    def __init__(self, lstm_hidden_dim=256, num_layers=1):
+        super().__init__()
+        self.lstm = nn.LSTM(
+            input_size=DISTILBERT_HIDDEN_DIM,
+            hidden_size=lstm_hidden_dim,
+            num_layers=num_layers,
+            bidirectional=False,
+            batch_first=True
+        )
+        self.regressor = nn.Linear(lstm_hidden_dim, 1)
 
-VALENCE_MIN = -2.0
-VALENCE_MAX = 2.0
-VALENCE_RANGE = VALENCE_MAX - VALENCE_MIN
+    def forward(self, x):
+        out, _ = self.lstm(x)
+        return self.regressor(out).squeeze(-1)
 
-def calculate_metrics(predictions: np.ndarray, targets: np.ndarray) -> Tuple[float, float]:
-    """Calculates RMSE and Accuracy after denormalization and rounding."""
-    
-    pred_denormalized = predictions * VALENCE_RANGE + VALENCE_MIN
-    target_denormalized = targets * VALENCE_RANGE + VALENCE_MIN
-    
-    final_pred_scores = np.round(pred_denormalized).clip(VALENCE_MIN, VALENCE_MAX)
-    
-    mse = np.mean((target_denormalized - final_pred_scores) ** 2, dtype=float)
-    rmse = np.sqrt(mse)
-    
-    return mse, rmse
+class ModelSubtask2B(nn.Module):
+    def __init__(self, lstm_hidden_dim=256):
+        super().__init__()
+        self.lstm = nn.LSTM(
+            input_size=DISTILBERT_HIDDEN_DIM,
+            hidden_size=lstm_hidden_dim,
+            bidirectional=True, 
+            batch_first=True
+        )
+        self.dropout = nn.Dropout(0.3)
+        self.regressor = nn.Linear(lstm_hidden_dim * 2, 1)
 
-def evaluate_model(model, dataloader, criterion, y_name, fold_num=None):
+    def forward(self, x):
+        out, (hn, cn) = self.lstm(x)
+        final_h = torch.cat((hn[-2], hn[-1]), dim=1) 
+        x = self.dropout(final_h)
+        return self.regressor(x).squeeze(-1)
+
+
+def train_epoch(model, loader, optimizer, criterion, mode='1'):
+    model.train()
+    total_loss = 0
+    for batch in loader:
+        emb = batch['embeddings'].to(DEVICE)
+        optimizer.zero_grad()
+        
+        preds = model(emb)
+        
+        if mode in ['1', '2a']:
+            targets = batch['targets'].to(DEVICE)
+            mask = batch['mask'].to(DEVICE)
+            preds = preds.flatten()[mask.flatten()]
+            targets = targets.flatten()[mask.flatten()]
+        else: 
+            targets = batch['target'].to(DEVICE)
+            
+        loss = criterion(preds, targets)
+        loss.backward()
+        optimizer.step()
+        total_loss += loss.item()
+    return total_loss / len(loader)
+
+def eval_epoch(model, loader, criterion, mode='1'):
     model.eval()
-    total_loss = 0.0
-    all_true_scores = []
-    all_pred_scores = []
+    all_preds = []
+    all_targets = []
+    total_loss = 0
     
     with torch.no_grad():
-        for batch in dataloader:
-            embeddings = batch['embeddings'].to(DEVICE)
-            normalized_targets = batch['targets'].to(DEVICE)
-            mask = batch['mask'].to(DEVICE)
+        for batch in loader:
+            emb = batch['embeddings'].to(DEVICE)
+            preds = model(emb)
             
-            normalized_predictions = model(embeddings)
-            
-            flat_predictions = normalized_predictions.flatten()[mask.flatten()]
-            flat_targets = normalized_targets.flatten()[mask.flatten()]
-            
-            loss = criterion(flat_predictions, flat_targets)
-            total_loss += loss.item()
-            
-            all_pred_scores.extend(flat_predictions.cpu().numpy())
-            all_true_scores.extend(flat_targets.cpu().numpy())
-            
-    all_pred_scores_np = np.array(all_pred_scores)
-    all_true_scores_np = np.array(all_true_scores)
-
-    mse, rmse = calculate_metrics(all_pred_scores_np, all_true_scores_np)
-    avg_loss = total_loss / len(dataloader)
-    
-    print(f"{y_name.capitalize()} Fold: {fold_num} - Dev Loss: {avg_loss:.4f} | RMSE: {rmse:.4f} | MSE: {mse:.2f}")
-        
-    return {'val_loss': avg_loss, 'rmse': rmse, 'mse': mse}
-
-def group_cross_validate(full_dataset: CustomDataset, y_name='valence', num_epochs=1):
-    all_indices = np.arange(len(full_dataset))
-    ss = ShuffleSplit(n_splits=1, test_size=TEST_SIZE, random_state=RANDOM_STATE)
-    train_dev_indices, test_indices = next(ss.split(all_indices))
-    kf = KFold(n_splits=5, shuffle=True, random_state=RANDOM_STATE)
-    all_fold_metrics = []
-    criterion = nn.MSELoss()
-    for fold, (train_subset_indices, dev_subset_indices) in enumerate(kf.split(train_dev_indices)):
-        train_indices = train_dev_indices[train_subset_indices]
-        dev_indices = train_dev_indices[dev_subset_indices]
-        print(f"{'*'*20} Fold {fold + 1}/5 {'*'*20}")
-        model = BiLSTMRegressor().to(DEVICE)
-        optimizer = AdamW(model.parameters(), lr=2e-5)
-        train_loader = get_data_loaders(full_dataset, train_indices, BATCH_SIZE, shuffle=True)
-        dev_loader = get_data_loaders(full_dataset, dev_indices, BATCH_SIZE, shuffle=True)
-        for epoch in range(num_epochs):
-            model.train()
-            epoch_loss = 0.0
-            for batch in train_loader:
-                embeddings = batch['embeddings'].to(DEVICE)
-                normalized_targets = batch['targets'].to(DEVICE)
+            if mode in ['1', '2a']:
+                targets = batch['targets'].to(DEVICE)
                 mask = batch['mask'].to(DEVICE)
-                optimizer.zero_grad()
-                normalized_predictions = model(embeddings)
-                flat_predictions = normalized_predictions.flatten()[mask.flatten()]
-                flat_targets = normalized_targets.flatten()[mask.flatten()]
-                loss = criterion(flat_predictions, flat_targets)
-                loss.backward()
-                optimizer.step()
-                epoch_loss += loss.item()
-            avg_train_loss = epoch_loss / len(train_loader)
-            print(f"Fold {fold+1} - Epoch {epoch+1}/{num_epochs} - Train Loss: {avg_train_loss:.4f}")
-        fold_metrics = evaluate_model(model, dev_loader, criterion, y_name=y_name, fold_num=fold+1)
-        all_fold_metrics.append(fold_metrics)
-    print("\n" + "="*50)
-    print("CV Mean Performance Report")
-    print(f"Mean RMSE across 5 folds: {np.mean([m['rmse'] for m in all_fold_metrics]):.4f}")
-    print(f"Mean MSE across 5 folds: {np.mean([m['mse'] for m in all_fold_metrics]):.2f}")
-    print("="*50)
-    
-    
-    print("\n" + "#"*50)
-    print("Final Model Training & Test Set Evaluation")
-    print("#"*50)
-    
-    final_model = BiLSTMRegressor().to(DEVICE)
-    final_optimizer = AdamW(final_model.parameters(), lr=2e-5)
-    
-    train_loader = get_data_loaders(full_dataset, train_dev_indices, BATCH_SIZE, shuffle=True)
-    test_loader = get_data_loaders(full_dataset, test_indices, BATCH_SIZE, shuffle=False)
-    
-    for epoch in range(num_epochs):
-        final_model.train()
-        epoch_loss = 0.0
-        for batch in train_loader:
-            embeddings = batch['embeddings'].to(DEVICE)
-            normalized_targets = batch['targets'].to(DEVICE)
-            mask = batch['mask'].to(DEVICE)
-            final_optimizer.zero_grad()
-            normalized_predictions = final_model(embeddings)
-            flat_predictions = normalized_predictions.flatten()[mask.flatten()]
-            flat_targets = normalized_targets.flatten()[mask.flatten()]
-            loss = criterion(flat_predictions, flat_targets)
-            loss.backward()
-            final_optimizer.step()
-            epoch_loss += loss.item()
-        avg_train_loss = epoch_loss / len(train_loader)
-        print(f"Final - Epoch {epoch+1}/{num_epochs} - Train Loss: {avg_train_loss:.4f}") 
-        
-    final_test_metrics = evaluate_model(final_model, test_loader, criterion, y_name=y_name, fold_num="FINAL TEST")
-    
-    print("\n" + "*"*50)
-    print("Final Performance (Unseen Data)")
-    print(f"RMSE: {final_test_metrics['rmse']:.4f}")
-    print(f"MSE: {final_test_metrics['mse']:.2f}")
-    print("*"*50)
-    model_path = Path(MODEL_PATH.format(y_name))
-    model_path.parent.mkdir(parents=True, exist_ok=True)
-    torch.save(final_model.state_dict(), model_path)
-    print("Model saved successfully")
-    return all_fold_metrics, final_test_metrics
+                flat_p = preds.flatten()[mask.flatten()]
+                flat_t = targets.flatten()[mask.flatten()]
+                all_preds.extend(flat_p.cpu().numpy())
+                all_targets.extend(flat_t.cpu().numpy())
+                loss = criterion(flat_p, flat_t)
+            else:
+                targets = batch['target'].to(DEVICE)
+                all_preds.extend(preds.cpu().numpy())
+                all_targets.extend(targets.cpu().numpy())
+                loss = criterion(preds, targets)
+                
+            total_loss += loss.item()
 
-def make_dataset(df: pl.DataFrame, y_name='valence'):
-    df = df.drop(['timestamp', 'collection_phase', 'is_words'])
-    dataset = CustomDataset(df, y_name=y_name)
-    return dataset
+    if len(all_targets) > 0:
+        mse = np.mean((np.array(all_targets) - np.array(all_preds))**2)
+    else:
+        mse = 0.0
+    return mse, total_loss / len(loader)
+
 
 def main():
-    args = parse_args()
-    df = prepare_df(DATASET_PATH)
-    if args.mode in ['both', 'valence']:
-        dataset = make_dataset(df, y_name='valence')
-        group_cross_validate(dataset, y_name='valence', num_epochs=args.epochs)
-    if args.mode in ['both', 'arousal']:
-        dataset = make_dataset(df, y_name='arousal')
-        group_cross_validate(dataset, y_name='arousal', num_epochs=args.epochs)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--task', type=str, required=True, choices=['1', '2a', '2b'])
+    parser.add_argument('--target', type=str, default='valence', choices=['valence', 'arousal'])
+    parser.add_argument('--epochs', type=int, default=3)
+    args = parser.parse_args()
+
+    print(f"Running Task {args.task} for target {args.target}...")
+
+    if args.task == '1':
+        df = pl.read_csv(PATH_TRAIN_1)
+        if "timestamp" in df.columns: df = df.with_columns(pl.col("timestamp").str.to_datetime())
+        dataset = DatasetSubtask1(df, args.target)
+        model = ModelSubtask1().to(DEVICE)
+
+    elif args.task == '2a':
+        df = pl.read_csv(PATH_TRAIN_2A)
+        if "timestamp" in df.columns: df = df.with_columns(pl.col("timestamp").str.to_datetime())
+        dataset = DatasetSubtask2A(df, args.target)
+        model = ModelSubtask2A().to(DEVICE)
+    
+    else: 
+        df = pl.read_csv(PATH_TRAIN_2B)
+        if "timestamp" in df.columns: df = df.with_columns(pl.col("timestamp").str.to_datetime())
+        dataset = DatasetSubtask2B(df, args.target)
+        model = ModelSubtask2B().to(DEVICE)
+
+    indices = np.arange(len(dataset))
+    train_idx, val_idx = next(ShuffleSplit(test_size=0.2, random_state=RANDOM_STATE).split(indices))
+    
+    train_loader = DataLoader(Subset(dataset, train_idx), batch_size=BATCH_SIZE, shuffle=True)
+    val_loader = DataLoader(Subset(dataset, val_idx), batch_size=BATCH_SIZE, shuffle=False)
+
+    optimizer = AdamW(model.parameters(), lr=1e-4) 
+    criterion = nn.MSELoss()
+
+    for epoch in range(args.epochs):
+        train_loss = train_epoch(model, train_loader, optimizer, criterion, mode=args.task)
+        val_mse, val_loss = eval_epoch(model, val_loader, criterion, mode=args.task)
+        print(f"Epoch {epoch+1}: Train Loss {train_loss:.4f} | Val Loss {val_loss:.4f} | Val MSE {val_mse:.4f} | Val RMSE {np.sqrt(val_mse):.4f}")
+
+    save_path = f"models/model_task{args.task}_{args.target}.pt"
+    Path(save_path).parent.mkdir(parents=True, exist_ok=True)
+    torch.save(model.state_dict(), save_path)
+    print(f"Model saved to {save_path}")
 
 if __name__ == '__main__':
     main()
