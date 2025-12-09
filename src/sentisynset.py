@@ -16,7 +16,7 @@ try:
 except LookupError:
     nltk.download('averaged_perceptron_tagger')
     nltk.download('wordnet')
-    nltk.download('punkt')
+    nltk.download('punkt_tab_english')
 
 MANUAL_VA_MAP = {
     'joy':          {'v': 0.90,  'a': 0.70},
