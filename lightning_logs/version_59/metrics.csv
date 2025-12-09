@@ -1,0 +1,4 @@
+arousal val_MAE,arousal val_MAPE,arousal val_RMSE,arousal val_SMAPE,epoch,step,train_loss_epoch,train_loss_step,val_loss,valence val_MAE,valence val_MAPE,valence val_RMSE,valence val_SMAPE
+,,,,0,49,,1.5711772441864014,,,,,
+0.5099592804908752,20971028.0,0.6233196258544922,1.105231523513794,0,63,,,1.4457948207855225,0.5902860164642334,14808218.0,0.822475254535675,0.8919785022735596
+,,,,0,63,1.7162301540374756,,,,,,
