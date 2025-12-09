@@ -27,7 +27,6 @@ MANUAL_VA_MAP = {
     'disgust':      {'v': -0.70, 'a': 0.40},
     'surprise':     {'v': 0.10,  'a': 0.90},
     'anticipation': {'v': 0.30,  'a': 0.60},
-    # Fallbacks for Polarity
     'positive':     {'v': 0.80,  'a': 0.00}, 
     'negative':     {'v': -0.80, 'a': 0.00}
 }
