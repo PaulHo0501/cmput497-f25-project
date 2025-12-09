@@ -116,25 +116,19 @@ def get_data_loaders(dataset, indices, batch_size, shuffle=True):
     subset = Subset(dataset, indices)
     loader = DataLoader(subset, batch_size=batch_size, shuffle=shuffle)
     return loader
-# Assuming all imports and class definitions (CustomDataset, BiLSTMRegressor) are as provided above.
-# Define constants needed for denormalization:
+
 VALENCE_MIN = -2.0
 VALENCE_MAX = 2.0
-VALENCE_RANGE = VALENCE_MAX - VALENCE_MIN # 4.0
+VALENCE_RANGE = VALENCE_MAX - VALENCE_MIN
 
-# Define a function to calculate metrics
 def calculate_metrics(predictions: np.ndarray, targets: np.ndarray) -> Tuple[float, float]:
     """Calculates RMSE and Accuracy after denormalization and rounding."""
     
-    # 1. Denormalize
     pred_denormalized = predictions * VALENCE_RANGE + VALENCE_MIN
     target_denormalized = targets * VALENCE_RANGE + VALENCE_MIN
     
-    # 2. Final discrete prediction (Rounding and Clipping)
     final_pred_scores = np.round(pred_denormalized).clip(VALENCE_MIN, VALENCE_MAX)
     
-    # 3. Calculate Metrics
-    # RMSE
     mse = np.mean((target_denormalized - final_pred_scores) ** 2, dtype=float)
     rmse = np.sqrt(mse)
     
@@ -152,25 +146,20 @@ def evaluate_model(model, dataloader, criterion, y_name, fold_num=None):
             normalized_targets = batch['targets'].to(DEVICE)
             mask = batch['mask'].to(DEVICE)
             
-            # Forward pass
             normalized_predictions = model(embeddings)
             
-            # Masked Loss Calculation
             flat_predictions = normalized_predictions.flatten()[mask.flatten()]
             flat_targets = normalized_targets.flatten()[mask.flatten()]
             
             loss = criterion(flat_predictions, flat_targets)
             total_loss += loss.item()
             
-            # Collect data for metrics
             all_pred_scores.extend(flat_predictions.cpu().numpy())
             all_true_scores.extend(flat_targets.cpu().numpy())
             
-    # Convert lists to NumPy arrays
     all_pred_scores_np = np.array(all_pred_scores)
     all_true_scores_np = np.array(all_true_scores)
 
-    # Calculate final metrics
     mse, rmse = calculate_metrics(all_pred_scores_np, all_true_scores_np)
     avg_loss = total_loss / len(dataloader)
     
@@ -218,7 +207,6 @@ def group_cross_validate(full_dataset: CustomDataset, y_name='valence', num_epoc
     print(f"Mean MSE across 5 folds: {np.mean([m['mse'] for m in all_fold_metrics]):.2f}")
     print("="*50)
     
-    # 3. --- Final Evaluation on the Test Set ---
     
     print("\n" + "#"*50)
     print("Final Model Training & Test Set Evaluation")
@@ -227,12 +215,10 @@ def group_cross_validate(full_dataset: CustomDataset, y_name='valence', num_epoc
     final_model = BiLSTMRegressor().to(DEVICE)
     final_optimizer = AdamW(final_model.parameters(), lr=2e-5)
     
-    # Create DataLoader for the entire training pool
     train_loader = get_data_loaders(full_dataset, train_dev_indices, BATCH_SIZE, shuffle=True)
     test_loader = get_data_loaders(full_dataset, test_indices, BATCH_SIZE, shuffle=False)
     
-    # Train the final model on the entire training pool (train_val_indices)
-    for epoch in range(num_epochs): # Use same number of epochs or tune it
+    for epoch in range(num_epochs):
         final_model.train()
         epoch_loss = 0.0
         for batch in train_loader:
@@ -250,7 +236,6 @@ def group_cross_validate(full_dataset: CustomDataset, y_name='valence', num_epoc
         avg_train_loss = epoch_loss / len(train_loader)
         print(f"Final - Epoch {epoch+1}/{num_epochs} - Train Loss: {avg_train_loss:.4f}") 
         
-    # Evaluate on the FINAL, completely unseen test set
     final_test_metrics = evaluate_model(final_model, test_loader, criterion, y_name=y_name, fold_num="FINAL TEST")
     
     print("\n" + "*"*50)
