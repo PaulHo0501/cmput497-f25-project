@@ -232,10 +232,10 @@ class ModelSubtask2A(nn.Module):
             input_size=DISTILBERT_HIDDEN_DIM,
             hidden_size=lstm_hidden_dim,
             num_layers=num_layers,
-            bidirectional=False,
+            bidirectional=True,
             batch_first=True
         )
-        self.regressor = nn.Linear(lstm_hidden_dim, 1)
+        self.regressor = nn.Linear(lstm_hidden_dim * 2, 1)
 
     def forward(self, x):
         out, _ = self.lstm(x)
