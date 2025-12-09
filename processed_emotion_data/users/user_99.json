@@ -1,0 +1,146 @@
+{
+  "user_id": 99,
+  "num_entries": 14,
+  "entries": [
+    {
+      "text_id": 1376,
+      "text": "I am tired and a little anxious because I had to have a blood draw at the doctors this morning which made me feel sick . Right now I am happy because I just got a coffee and am starting on some work but I feel hungry and have a slight headache .",
+      "timestamp": "2024-11-07T12:20:31",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1377,
+      "text": "Peaceful , Thoughtful , Focused , Calm , Content",
+      "timestamp": "2024-11-07T17:35:57",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1378,
+      "text": "I am feeling a little anxious because I have to drive into the city today for work and I am worried about the traffic and getting my work done . I am happy because of the beautiful weather and overall feel pretty good today with a fair amount of energy .",
+      "timestamp": "2024-11-08T12:16:00",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1379,
+      "text": "Chill , Relaxed , Hungry , Content , Restless",
+      "timestamp": "2024-11-08T22:07:18",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1380,
+      "text": "I am a little tired from a doctors appointment early this morning but am enjoying my coffee . I am feeling a bit unmotivated to get work done because I\u2019m tired and it\u2019s the weekend which is frustrating because I need to get it done .",
+      "timestamp": "2024-11-09T12:01:23",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1381,
+      "text": "Angsty , Tired , Calm , Warm , Thoughtful",
+      "timestamp": "2024-11-09T22:01:51",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1382,
+      "text": "I just had breakfast with family so I am happy . I am starting to get energized for the day and I am looking forward to going on a hike . I feel a little stressed because I have a lot to get done tomorrow and because I have to start injections for a medical treatment .",
+      "timestamp": "2024-11-10T12:04:23",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1383,
+      "text": "Happy , Chill , Pensive , Tired , Jittery",
+      "timestamp": "2024-11-10T17:30:46",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1384,
+      "text": "Quiet , Relaxed , Chill , Bored , Calm",
+      "timestamp": "2024-11-10T22:04:45",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1385,
+      "text": "I am feeling anxious because of medical appointments and because I am waiting for responses to important emails as well as important meetings that I need to prep for this week . I am happy because the sun came out and I talked to my mom but I am pretty tired .",
+      "timestamp": "2024-11-11T12:21:47",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1386,
+      "text": "I am still feeling anxious because I haven\u2019t gotten a response to an important email and I still have a lot of work to get done . I went on a nice ride which made me feel calmer and I am hopeful that the rest of the day will be productive .",
+      "timestamp": "2024-11-11T17:27:16",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1387,
+      "text": "I just finished eating so I feel full and glad for my food . I am anxious to administer my medication tonight but I am excited to relax and watch a movie . I feel pretty calm otherwise and am feeling pretty alert/good from my workout just before dinner .",
+      "timestamp": "2024-11-11T22:01:24",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1388,
+      "text": "I feel good because my doctors appointment this morning went well but I am a little anxious about future monitoring appointments and an upcoming procedure . I am feeling energized because I had coffee and a bit of a delicious donut .",
+      "timestamp": "2024-11-12T12:21:15",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1389,
+      "text": "anxious , tired , emotional , wired , unfocused",
+      "timestamp": "2024-11-12T17:02:23",
+      "order": 13,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

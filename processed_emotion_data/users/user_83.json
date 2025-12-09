@@ -1,0 +1,346 @@
+{
+  "user_id": 83,
+  "num_entries": 34,
+  "entries": [
+    {
+      "text_id": 5275,
+      "text": "Calm , Tired , Lazy , Content , Relaxed",
+      "timestamp": "2024-07-27T12:01:56",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5276,
+      "text": "Relaxed , Excited , Calm , Content , Happy",
+      "timestamp": "2024-07-27T22:28:03",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5277,
+      "text": "Relaxed , Sad , Tired , Depleted , Neutral",
+      "timestamp": "2024-07-28T22:21:29",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5278,
+      "text": "I feel very tired and sad today . I didn\u2019t sleep well last night , I was up from about one to four AM . I had a lot of anxiety and decided to just finish the book I was reading . Thankfully I eventually went back to sleep , but slept in late today and had to miss my Pilates class . I feel a bit overwhelmed but will just concentrate on my work today .",
+      "timestamp": "2024-07-29T12:48:45",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5279,
+      "text": "Tired , Fine , Neutral , Calm , Sad",
+      "timestamp": "2024-07-29T17:04:54",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5280,
+      "text": "Calm , Content , Satisfied , Tired , Chill",
+      "timestamp": "2024-07-29T22:11:21",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5281,
+      "text": "Exhausted , Unmotivated , Sluggish , Quiet , Bored",
+      "timestamp": "2024-07-30T12:04:27",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5282,
+      "text": "Satisfied , Achieved , Tired , Calm , Content",
+      "timestamp": "2024-07-30T17:05:05",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5283,
+      "text": "Content , Happy , Tired , Calm , Quiet",
+      "timestamp": "2024-07-30T22:12:01",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5284,
+      "text": "I feel good about myself today . I woke up very tired but motivated myself to wake up early and exercise before I volunteered with my cats . I also have therapy today so I\u2019m feeling much more manageable about things .",
+      "timestamp": "2024-07-31T12:26:38",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5285,
+      "text": "I feel more calm and content than I did earlier today . I feel accomplished with all I\u2019ve accomplished lately and excited for the future , even though some things can feel overwhelming at times . I am confident they will get better .",
+      "timestamp": "2024-07-31T17:13:52",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5286,
+      "text": "I feel calm and satisfied from the day . I got a lot done and ended the day by going to my favorite grocery store , ORG with my partner . We had a great time laughing and joking together . Now it feels good to rest at home .",
+      "timestamp": "2024-07-31T22:04:44",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5287,
+      "text": "Tired , Calm , Satisfied , Confident , Neutral",
+      "timestamp": "2024-08-01T12:11:56",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1,
+      "text": "Relaxed , Calm , Fulfilled , Sleepy , Content",
+      "timestamp": "2024-08-01T22:04:51",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2,
+      "text": "Unfocused , Jittery , Disorganized , Tired , Worried",
+      "timestamp": "2024-08-02T12:11:15",
+      "order": 14,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3,
+      "text": "Proud , Satisfied , Content , Relaxed , Happy",
+      "timestamp": "2024-08-02T17:14:29",
+      "order": 15,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4,
+      "text": "I feel very satisfied with everything I achieved today . I got a lot of work done and even booked an upcoming trip next month with my fiance . It feels nice to take the Friday evening to relax and watch a documentary .",
+      "timestamp": "2024-08-02T22:00:54",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5,
+      "text": "Tired , Hopeful , Relaxed , Excited , Content",
+      "timestamp": "2024-08-03T12:35:09",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 6,
+      "text": "I feel quite tired now but satisfied . I spent longer than I intended to at my sisters house and I am getting home later than I had planned . It is not a big deal but I am worried that there may be leaks in my apartment since it rained so much . But I try not to worry so much about what I can not control .",
+      "timestamp": "2024-08-03T22:08:43",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 7,
+      "text": "I feel pretty good today . I like to have Sundays as a day to rest and recharge for the week . I slept very well last night and I\u2019m looking forward to watching movies today with my fianc\u00e9 . I feel like it is a well deserved rest day .",
+      "timestamp": "2024-08-04T12:15:19",
+      "order": 19,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 8,
+      "text": "I feel good and relaxed today . I am just chilling and watching movies together with my fianc\u00e9 . It is also nice to cuddle with my cats . It feels like a nice break to not have much to do today . I love to have a relaxing Sunday at home .",
+      "timestamp": "2024-08-04T17:06:29",
+      "order": 20,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 9,
+      "text": "Relaxed , Sluggish , Calm , Content , Optimistic",
+      "timestamp": "2024-08-04T22:11:07",
+      "order": 21,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 10,
+      "text": "Content , Motivated , Optimistic , Energetic , Hopeful",
+      "timestamp": "2024-08-05T12:07:20",
+      "order": 22,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 12,
+      "text": "I am feeling good right now . I got a lot of cleaning done before I have to go to a focus group in the city later this evening . I woke up at about 5 AM today but felt well rested and got an early head start on the work I had to do .",
+      "timestamp": "2024-08-05T17:20:05",
+      "order": 23,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 13,
+      "text": "Accomplished , Content , Tired , Relaxed , Hopeful",
+      "timestamp": "2024-08-05T22:04:57",
+      "order": 24,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 14,
+      "text": "Secure , Excited , Content , Hopeful , Centered",
+      "timestamp": "2024-08-06T12:42:26",
+      "order": 25,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 15,
+      "text": "I feel very relaxed and happy right now . I had a few meetings this morning and felt like I had a productive day and I woke up early again now I have a chance to relax with my fianc\u00e9 while we watch our favorite show on TV .",
+      "timestamp": "2024-08-06T17:26:52",
+      "order": 26,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 16,
+      "text": "I had a very nice day today . It was a great combination of productivity and relaxing . I had a wonderful time chilling with my fianc\u00e9 and watching our favorite shows together . I am looking forward to having another great day tomorrow .",
+      "timestamp": "2024-08-06T22:01:46",
+      "order": 27,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 17,
+      "text": "I feel good right now . I am a bit tired but I am in a pleasant mood and just had therapy . I am also going out to dinner tonight with my fianc\u00e9 to a restaurant we are excited to try called ORG   . I had a productive morning and went to ORG and did my volunteering .",
+      "timestamp": "2024-08-07T17:21:58",
+      "order": 28,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 18,
+      "text": "Happy , Content , Special , Calm , Excited",
+      "timestamp": "2024-08-07T22:30:57",
+      "order": 29,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 19,
+      "text": "Achieved , Calm , Content , Relaxed , Peaceful",
+      "timestamp": "2024-08-08T17:10:03",
+      "order": 30,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 20,
+      "text": "Content , Calm , Relaxed , Happy , Relieved",
+      "timestamp": "2024-08-08T22:21:20",
+      "order": 31,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 21,
+      "text": "Relieved , Content , Calm , Loved , Lucky",
+      "timestamp": "2024-08-09T12:09:19",
+      "order": 32,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 206,
+      "text": "I am feeling good right now . I woke up feeling very tired this morning , but I ended up having a productive day by getting my bloodwork done and going shopping for an interview I have next week . I feel sleepy right now but relaxed .",
+      "timestamp": "2024-08-09T17:00:26",
+      "order": 33,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "user_id": 10,
+  "num_entries": 4,
+  "entries": [
+    {
+      "text_id": 407,
+      "text": "Tired , Exhausted , Calm , Content , Happy",
+      "timestamp": "2021-06-09T12:11:03",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 408,
+      "text": "Content , Calm , Sleepy , Lazy , Relaxed",
+      "timestamp": "2021-06-10T17:08:20",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 409,
+      "text": "Content , Calm , Relaxed , Happy",
+      "timestamp": "2021-06-11T12:03:33",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 410,
+      "text": "Calm , Content , Happy , Relaxed",
+      "timestamp": "2021-06-11T17:18:21",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

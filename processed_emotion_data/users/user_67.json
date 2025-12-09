@@ -1,0 +1,96 @@
+{
+  "user_id": 67,
+  "num_entries": 9,
+  "entries": [
+    {
+      "text_id": 4796,
+      "text": "Calm , Happy , Relaxed , N/a , N/a",
+      "timestamp": "2024-11-02T17:36:49",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4797,
+      "text": "I ' m feeling excited because I am playing some video games . I am later going to eat some food outside . Then later I might be on my phone and play some more video games . Then be on the phone and then sleep",
+      "timestamp": "2024-11-02T22:17:52",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4798,
+      "text": "Good , Happy , Calm , Excited , Thinking",
+      "timestamp": "2024-11-03T17:55:40",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4799,
+      "text": "Calm , Content , Happy , Relaxed , Thinking",
+      "timestamp": "2024-11-03T22:15:08",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4800,
+      "text": "Calm , Happy , Normal , Relaxed , Neutral",
+      "timestamp": "2024-11-04T17:33:33",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4801,
+      "text": "I currently feel neutral . I don ' t feel happy or sad i just feel normal . I went outside for a little while went to buy groceries , did some exercise for 30 minutes . I will later eat something quick and take a quick shower and rest",
+      "timestamp": "2024-11-04T22:12:21",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4802,
+      "text": "Calm , Sleepy , Tired , Relaxed , Not active",
+      "timestamp": "2024-11-05T22:17:46",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4803,
+      "text": "I currently feel tired since I had to wake up early in the morning to get some blood work and tests done . I feel kind of dizzy since they took five tubes of blood . But it ' s normal for the blood tests since I am checking if I have any type of sickness or just in general my health but nothing serious . I just have to eat something and drink plenty of water",
+      "timestamp": "2024-11-07T12:50:50",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4805,
+      "text": "I am currently feeling tired because I slept late . I will later do some chores and do some exercise and go outside and run for a little bit to get some cardio in . Later I will do some side gigs and earn some extra cash",
+      "timestamp": "2024-11-08T12:00:30",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

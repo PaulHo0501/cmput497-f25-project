@@ -1,0 +1,31 @@
+[ENTRY_651] Happy , Relaxed , Excited , Enthusiastic , Energetic
+[ENTRY_652] I am feeling relaxed . I am happy i attended homecoming today and was able to hang out with friends and coworkers to have a fun day . I am also feeling ready for tomorrow since I have some stressful projects coming up .
+[ENTRY_653] I am currently feeling very calm . I am completing the work I said I would do today , which makes me happy . I am also sad that I couldn’t do my campus job today because of a transport issue , but it’s ok .
+[ENTRY_654] Happy , Energetic , Enthusiastic , Hungry , Focused
+[ENTRY_655] I am currently feeling tired but I am also very happy . I was able to eat a good breakfast at work today which was nice , and got a decent night’s sleep last night which I am happy about . I am also hungry at the moment .
+[ENTRY_656] I am currently feeling happy . I am in class helping other students learn and giving them advice about how to solve the problems we are being given in the class . I am glad to be collaborating with them .
+[ENTRY_657] Calm , Relaxed , Hungry , Happy , Enthusiastic
+[ENTRY_658] Happy , Joyful , Excited , Content , Hungry
+[ENTRY_660] Currently I am feeling content . I woke up feeling refreshed and am very energized at the moment . I am excited to go to class today because we are going to do some group work today and I have friends in class to see .
+[ENTRY_661] I am feeling very happy right now . I am attending an event that my roommate is hosting on campus . I am helping out with it and having a good time hanging out . I am also feeling kind if tired , I was up late last night .
+[ENTRY_662] I am currently feeling very happy . I am at work helping my boss get through some projects for the day . I am also excited for today since it’s halloween . I will be going to a party with my girlfriend tonight to have a good time and enjoy ourselves .
+[ENTRY_663] I am currently feeling very happy . I am excited for Halloween and parties and a lot of other fun activities that are happening tonight . I am also content because I think I did a good job at work today . I was going around helping my boss .
+[ENTRY_664] Enthusiastic , Happy , Joyful , Excited , Energetic
+[ENTRY_665] I am currently feeling very happy . Halloween was fun last night , and I had a good time hanging out with people and going out for the night . I also am glad to have met some new people who were really cool last night .
+[ENTRY_666] Happy , Joyful , Content , Full , Excited
+[ENTRY_667] I am currently feeling very happy but also very tired . I was up late last night and I had to wake up early today for work . My work for the day is a large shift that is a very important conference for the ORG on campus .
+[ENTRY_668] Happy , Excited , Enthusiastic , Tired , Content
+[ENTRY_669] I am currently feeling very happy right now because I am watching one of my favorite hockey teams play and they are winning . I am also feeling tired from not sleeping well last night and getting woken up early this morning to loud banging in my dorm .
+[ENTRY_671] Tired , Happy , Hopeful , Content , Full
+[ENTRY_672] Happy , Tired , Enthusiastic , Content , Excited
+[ENTRY_673] I am currently feeling very annoyed . I missed the survey from this morning so I know I probably won’t be getting that extra bonus for completing all of them . I am otherwise feeling decent , slightly tired .
+[ENTRY_674] Tired , Exhausted , Quiet , Content , Hungry
+[ENTRY_675] Tired , Anxious , Exhausted , Slow , Sluggish
+[ENTRY_676] I am currently feeling stressed out because I am late for my class . I woke up late today and took a long time to get ready for class . I am also slightly annoyed because I stopped myself from investing in some stocks last night and now they have all shot up from the election .
+[ENTRY_677] I am currently feeling very tired and sluggish . I definitely need to fix my sleep schedule tonight and go to bed early , especially since I have work early in the morning tomorrow and the day after . It would also be nice to wake up before 12pm normally .
+[ENTRY_678] I am currently feeling very tired . I have not been getting very good sleep the past week or so , and it is getting very annoying having little sleep each night or waking up super late and starting my day late . I had to buy melatonin for this issue .
+[ENTRY_679] Tired , Hyper , Anxious , Nervous , Exhausted
+[ENTRY_680] I am currently feeling very tired from today . I drank an energy drink before to keep myself awake to do some work throughout the day and so I can fall asleep easily tonight . It didn’t work too well and I didn’t get much work done .
+[ENTRY_682] Tired , Energetic , Full , Happy , Excited
+[ENTRY_683] Tired , Hungry , Happy , Energetic , Hopeful
+[ENTRY_684] Tired , Anxious , Happy , Doubtful , Excited

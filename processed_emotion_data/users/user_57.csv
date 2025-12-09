@@ -1,0 +1,38 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+11,"Calm , Excited , Happy , Calm , Calm",2024-10-26T12:00:25,0,1.0,0.0,7,True
+205,"When I came home I felt invigorated after a good gym workout . I cooked and ate lunch . Post meal and shower , I am feeling calm , sleepy and relaxed . I am going to a Halloween party tonight so I am also excited . However , I am anticipating being tired after the party is over .",2024-10-26T17:00:22,1,0.0,0.0,7,False
+216,"Anticipating , Tired , Excited , Happy , Calm",2024-10-26T22:00:27,2,0.0,1.0,7,True
+227,"tired , sleepy , calm , tired , sleepy",2024-10-27T12:06:58,3,-2.0,0.0,7,True
+238,"I am feeling somewhat tired currently because last night my friends and I went out to a halloween party and came back home late . However , I am also feeling full after a good lunch and productive post cleaning .",2024-10-27T17:12:00,4,0.0,1.0,7,False
+259,"tired , calm , free , happy , chill",2024-10-27T22:01:50,5,0.0,0.0,7,True
+270,I am feeling somewhat tired . I woke up early this morning so I could get some work done before heading to lectures . I am feeling motivated to get a workout in later . I am looking forward to getting through the week so I can enjoy the weekend events .,2024-10-28T12:05:42,6,-1.0,0.0,7,False
+289,I am feeling tired but happy that I have gotten through my lectures and quiz and have come home . I am feeling motivated to finish my assignment so that I can take a break and possibly nap . I am somewhat distracted thinking about cooking dinner in some time .,2024-10-28T17:00:20,7,-1.0,0.0,7,False
+302,"calm , full , tired , calm , full",2024-10-28T22:19:40,8,1.0,0.0,7,True
+303,"tired , anticipating , happy , calm , calm",2024-10-29T12:00:13,9,0.0,0.0,7,True
+357,"tired , anticipating , full , tired , anticipating",2024-10-29T17:05:53,10,-1.0,0.0,7,True
+372,I am currently tired . I am doing a night shift at the hospital . I am anticipating the night ahead . I am feeling full from dinner . I had some popcorn which made me happy . I am somewhat uncomfortable because it is hot here .,2024-10-29T22:00:18,11,0.0,0.0,7,False
+374,"Tired , Calm , Exhausted , Tired , Calm",2024-10-30T12:53:53,12,-2.0,0.0,7,True
+375,"tired , calm , content , tired , calm",2024-10-30T17:00:15,13,0.0,0.0,7,True
+383,I am feeling tired on my night shift at the hospital . I am full from my dinner . I am calm and content . I am anticipating the night ahead and the assignments I need to complete . I am looking forward to my anniversary tomorrow .,2024-10-30T22:05:01,14,-1.0,0.0,7,False
+399,"tired , hungry , calm , tired , calm",2024-10-31T12:00:56,15,0.0,0.0,7,True
+417,I am currently feeling slightly tired and anticipating the rest of the day . In a little while I have to head out to my night shift . I am feeling calm . I feel full from lunch . I am happy because today is my dating anniversary .,2024-10-31T17:39:10,16,0.0,1.0,7,False
+428,"tired , calm , content , tired , calm",2024-10-31T22:00:19,17,0.0,0.0,7,True
+564,"tired , calm , content , tired , focused",2024-11-01T12:00:18,18,0.0,0.0,7,True
+578,"Hungry , Content , Calm , Content , Calm",2024-11-01T17:19:59,19,0.0,1.0,7,True
+589,I am feeling calm and content . I am looking forward to the weekend and visiting my mom back home . I am happy because we had dinner together and had some ice cream . I am somewhat tired from the week . I am glad I don’t have to go back for more nights .,2024-11-01T22:31:47,20,1.0,1.0,7,False
+600,I am feeling calm and content after going out for dinner with my family . We also stopped to get some dessert after dinner . I am feeling peaceful and determined to get some studying done tonight . I am looking forward to tomorrow .,2024-11-02T22:00:22,21,2.0,0.0,7,False
+623,"Callm , Content , Peaceful , Calm , Content",2024-11-03T12:00:24,22,1.0,0.0,7,True
+634,I am feeling tired and slightly sluggish . I am also feeling accomplished because I have completed my prep for the coming week . I am feeling good because I have also caught up on some studying as well as housework . I am looking forward to going to bed to rest soon .,2024-11-03T22:00:43,23,-1.0,0.0,7,False
+645,I am feeling neutral and slightly tired . I did not sleep well last night because I slept on the couch . My partner is sick and I am hoping not to get sick . I am feeling motivated to get some studying done today for my exam coming up .,2024-11-04T12:09:25,24,0.0,1.0,7,False
+646,I am feeling tired after getting home from a long day of lectures . I am anticipating more studying now that I am home . I am looking forward to getting some laundry folded and making dinner later . I am anticipating my day tomorrow on a new unit .,2024-11-04T17:34:59,25,-1.0,0.0,7,False
+647,"Calm , Content , Tired , Calm , Content",2024-11-04T22:00:24,26,0.0,0.0,7,True
+648,I am currently feeling tired . I woke up very early for my shift at the hospital and did not have a good night ' s sleep . I am looking forward to see my family tonight in order to celebrate my birthday . I am happy they live nearby and will be able to visit .,2024-11-05T12:02:46,27,0.0,0.0,7,False
+649,I am feeling tired because I have been on shift since 6am . I am looking forward to go home soon and head out so I can vote . I am excited and happy my family is coming to see me tonight . We are going to celebrate my birthday .,2024-11-05T17:00:20,28,0.0,0.0,7,False
+650,"I am feeling very happy because my family came to celebrate my birthday with me . They brought me cake , flowers and gifts . I am anticipating going in for my early shift tomorrow . I am somewhat nervous to give a presentation .",2024-11-05T22:31:40,29,2.0,1.0,7,False
+659,I am feeling tired . I got to my shift very early in the morning and am looking forward to going home . I am anticipating a presentation during the middle of the day today . I am looking forward to being done with it and getting back to studies .,2024-11-06T12:20:34,30,0.0,0.0,7,False
+670,I am feeling tired and ready to go home . I am anticipating my turn to present at work . I am looking forward to getting home and getting some housework done . I have a lot of work to do once I am able to leave . I am looking forward to the weekend .,2024-11-06T17:00:24,31,0.0,0.0,7,False
+681,I am feeling tired now that I am home from a long day at work . I am full from a delicious dinner . I am anticipating my day tomorrow because I have a big case in the morning and this will be my last day on the unit . I am looking forward to being done .,2024-11-06T22:00:27,32,1.0,0.0,7,False
+685,I am feeling somewhat out of sorts . I have been working really early and long hours this month . I am looking forward to being done with this rotation . I am happy that I will get to go out this weekend to celebrate my birthday . I am curious as to where we are going .,2024-11-07T17:01:13,33,-1.0,0.0,7,False
+686,"Calm , Tired , Calm , Tired , Calm",2024-11-07T22:02:53,34,0.0,0.0,7,True
+687,"Calm , Content , Rested , Calm , Content",2024-11-08T12:02:11,35,0.0,1.0,7,True
+688,"calm , content , happy , calm , content",2024-11-08T17:00:33,36,1.0,1.0,7,True

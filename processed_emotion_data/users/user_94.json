@@ -1,0 +1,156 @@
+{
+  "user_id": 94,
+  "num_entries": 15,
+  "entries": [
+    {
+      "text_id": 793,
+      "text": "Happy , Amazed , Alive , Lively , Good",
+      "timestamp": "2024-11-06T12:01:53",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 794,
+      "text": "Quite \" is an intensifier that means \"really ,\" \"completely ,\" \"rather ,\" \"exceptionally ,\" or \"actually \". It ' s used to add strength to an adjective or adverb , but not as much as \"really \" or \"very \". For example , \"Blue jays are quite common in this area \" means that blue jays are noticeably common , more common than you might expect . \\n",
+      "timestamp": "2024-11-06T17:07:27",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 795,
+      "text": "Calm means free from agitation , excitement , or passion . Here are some ways to describe something as calm : \\n \\nSerene : A calm , peaceful , or tranquil state . When used to describe people , it can suggest dignity , composure , and graciousness . When used to describe nature , it can suggest mellowness . \\n",
+      "timestamp": "2024-11-07T12:01:38",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 796,
+      "text": "Sadness is an emotion that can be described as a feeling of unhappiness , sorrow , or grief . It can also be characterized by feelings of loss , disappointment , helplessness , or despair . When someone is sad , they may withdraw from others , become lethargic or quiet , or cry",
+      "timestamp": "2024-11-07T17:05:23",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 797,
+      "text": "Feeling calm is a mental state of peace and quiet , free from agitation , excitement , or disturbance . It can also be described as a state of serenity , tranquility , or peace . When you feel calm , your body may experience the following physical changes : Lowered heart rate , Reduced blood pressure , Decreased feelings of anger and frustration \\ n",
+      "timestamp": "2024-11-08T12:02:24",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 798,
+      "text": "Active , Awake , Mobile , Energetic , Agile",
+      "timestamp": "2024-11-08T17:36:20",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 799,
+      "text": "Feeling alive is a state of being that involves experiencing the full range of human emotions , including hopes , fears , and losses . It can also mean being present in the moment , and being fully engaged in the things you do",
+      "timestamp": "2024-11-09T12:10:52",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 800,
+      "text": "Happy , Good , Hyped up , Stress free , Living good",
+      "timestamp": "2024-11-09T17:03:26",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 811,
+      "text": "Feeling neutral is a calm , measured emotion that can mean feeling indifferent , nothing in particular , or a lack of preference . It can also mean being impartial , unbiased , or disinterested . Some say that feeling neutral can help you : Detach from a situation , See things more clearly , Think more creatively , Make better decisions , and Move forward \\ n",
+      "timestamp": "2024-11-10T12:02:45",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 812,
+      "text": "Slow , Sluggish , Dull , Not interested , Down",
+      "timestamp": "2024-11-10T17:03:43",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 813,
+      "text": "Gentle , Quiet , Calm , Cool , Lowkey",
+      "timestamp": "2024-11-11T12:01:43",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 814,
+      "text": "Sad , Feeling down , Depressed , At my lowest , Down",
+      "timestamp": "2024-11-11T17:04:08",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 815,
+      "text": "Chilled , Collected , Calm , Lowkey , Peaceful",
+      "timestamp": "2024-11-11T22:38:15",
+      "order": 12,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 968,
+      "text": "It ' s also normal to have an \"off \" day or two , and it can be a good opportunity to check in with yourself . If you ' re feeling \"off \" for more than a couple of days , you can try reflecting on what ' s going on and asking yourself some non-judgmental questions . \\n",
+      "timestamp": "2024-11-12T12:11:30",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 969,
+      "text": "Sadness is a common emotion that can be characterized by a low mood or feeling down . It can be caused by a number of things , including : Disappointing events , Major life changes , Loss , Memories from childhood , and A painful situation that was blocked out . \\n",
+      "timestamp": "2024-11-12T17:08:09",
+      "order": 14,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

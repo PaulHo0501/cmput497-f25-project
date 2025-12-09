@@ -1,0 +1,17 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+384,"indifferent , mild , tired , unexcited , calm",2024-11-05T12:07:06,0,0.0,1.0,7,True
+385,"energized , accomplished , content , calm , pleased",2024-11-05T17:02:58,1,0.0,2.0,7,True
+386,"full , relaxed , interested , calm , content",2024-11-05T22:15:17,2,2.0,0.0,7,True
+387,I am currently tired and feel as though I do not want to do anything . I feel sluggish and unmotivated to go about the rest of my day . I am also feeling anxious since I have an important call later on in the day .,2024-11-06T12:17:34,3,-2.0,0.0,7,False
+388,"I do not feel overly happy or overly sad currently . I would describe myself as neutral and calm . I have moderate energy and am currently content with how my day is going . I have my phone call soon , but I am not really stressed anymore .",2024-11-06T17:08:47,4,0.0,1.0,7,False
+389,"exhausted , achey , sore , neutral , tired",2024-11-06T22:05:11,5,-2.0,0.0,7,True
+395,"anxious , tense , edgey , active , hungry",2024-11-07T12:36:49,6,-2.0,2.0,7,True
+396,I am feeling mostly content currently and a little stressed . A couple of new opportunities came today which is exciting but stressful at the same time since it is all at once . I am pleased though to be receiving them .,2024-11-07T17:01:59,7,2.0,0.0,7,False
+397,"I am currently feeling very happy and excited since I am seeing my friend I haven’t seen for a while now . I am feeling content and enjoying my evening , as well as looking forward to tomorrow and the weekend .",2024-11-07T22:05:23,8,2.0,1.0,7,False
+398,"lively , active , serene , satisfied , happy",2024-11-08T17:00:55,9,2.0,0.0,7,True
+400,"I am currently feeling pretty tired , but I woke up very early today so I believe that is normal . Besides being tired , I have a little bit of a headache and stomach pain , so I am a bit stressed about that .",2024-11-08T22:05:43,10,-1.0,0.0,7,False
+401,"unwell , tired , hurt , lazy , impatient",2024-11-09T17:06:25,11,-2.0,0.0,7,True
+402,"tired , bored , sick , sore , sluggish",2024-11-09T22:01:12,12,-1.0,0.0,7,True
+403,I woke up feeling better today and currently I am feeling very productive since I am up and walking around . I feel accomplished since I am getting my house chores done and active since I had an early start to my day .,2024-11-10T12:02:47,13,0.0,2.0,7,False
+404,I am currently feeling somewhat energetic and active . I am feeling productive . I feel accomplished since I finished all my housework and now I am excited to reward myself with some self care . I am also feeling a little hungry .,2024-11-10T17:08:16,14,1.0,2.0,7,False
+405,"I am currently feeling very content . I had a productive day and I am now winding down for the evening . I am pleased since I did my self care routine , which made me feel calm and relaxed . I am satisfied and happy .",2024-11-10T22:03:12,15,2.0,0.0,7,False

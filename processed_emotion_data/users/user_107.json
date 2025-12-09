@@ -1,0 +1,176 @@
+{
+  "user_id": 107,
+  "num_entries": 17,
+  "entries": [
+    {
+      "text_id": 1841,
+      "text": "I\u2019m feeling very tired and having little energy . I find it hard to get out of bed . All the stress has been weighing on me lately and it just seems too much to handle . I\u2019m also feeling very lonely , but because of my ankle injury , I can\u2019t go out to meet my friends .",
+      "timestamp": "2024-08-04T12:01:14",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1842,
+      "text": "I feel like I\u2019m in a rut , unable to get out . I hear my abusive ex\u2019s voice in my head \u201cyou\u2019re too passive . You\u2019re wallowing in self-pity . \u201d Maybe he\u2019s right . Maybe I don\u2019t have to willpower to continue .",
+      "timestamp": "2024-08-04T17:00:58",
+      "order": 1,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1843,
+      "text": "I am feeling ok or neutral this morning . Although my situation is not ideal as I am facing a lot of stress right now , but I can choose to be kind to myself and respond to the life stress with calmness .",
+      "timestamp": "2024-08-05T12:10:15",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1844,
+      "text": "I drank too much coffee . I am feeling jittery and anxious . My heart rate is higher than normal . I feel like I\u2019m on edge . Also I\u2019m feeling lonely and down . I wish I could travel with my friends together .",
+      "timestamp": "2024-08-05T17:14:59",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1845,
+      "text": "Angry , Irritated , Annoyed , Bothered , Sad",
+      "timestamp": "2024-08-05T22:54:35",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1846,
+      "text": "I find it hard to have motivation to do anything . I feel a sense of loss : loss of confidence and identity . I am not sure who I am or what I want anymore . I feel like it\u2019s easier to just sleep all day and not think about anything .",
+      "timestamp": "2024-08-06T12:01:19",
+      "order": 5,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1847,
+      "text": "I am moving slowly , feeling listless . I am standing in a crowded , bustling train station , but I am feeling very alone . I feel like no one wants me . I crave connection and love but I have been hurt too many times .",
+      "timestamp": "2024-08-06T17:03:07",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1848,
+      "text": "Tired , Exhausted , Content , Chill , Supported",
+      "timestamp": "2024-08-06T22:46:36",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1849,
+      "text": "Tired , Unmotivated , Exhausted , Drained , Fatigued",
+      "timestamp": "2024-08-07T12:22:56",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1850,
+      "text": "I don\u2019t feel like I did a good job at my job interview today . I feel bad about myself . I have a lot of criticism about myself . I\u2019m trying to challenge my inner critic but I\u2019m still feeling down . I know I need to be more patient with myself and my progress .",
+      "timestamp": "2024-08-07T17:01:57",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1852,
+      "text": "I feel overwhelmed . There is so much to do and so little time . I feel the urge to pull away and hide myself from all my responsibilities . But I have to resist the urge , because although it provides temporary relief , it won\u2019t help me in the long run\u2014it will actually make me hate myself more and make my long-term anxiety worse .",
+      "timestamp": "2024-08-07T22:12:23",
+      "order": 10,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1853,
+      "text": "My cat is sick , and I am very worried for him . I was in such an anxious state that I missed my job interview so now I feel really bad about myself . I\u2019m having a lot of thoughts of self-blame , and I\u2019m feeling nervous , worried , anxious , and down .",
+      "timestamp": "2024-08-08T17:00:41",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1854,
+      "text": "Nervous , Worried , Anxious , Stressed , Jittery",
+      "timestamp": "2024-08-08T22:19:29",
+      "order": 12,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1855,
+      "text": "My cat is in pain . I am very worried about him , but I also have a job interview soon and have to prepare for that . The constant stress is making me very tired . I feel like I do not have enough energy to handle the day .",
+      "timestamp": "2024-08-09T12:54:43",
+      "order": 13,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1856,
+      "text": "Tired , Drained , Worried , Nervous , Sad",
+      "timestamp": "2024-08-09T17:25:15",
+      "order": 14,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1857,
+      "text": "Relieved , Content , Connected , Accomplished , Tired",
+      "timestamp": "2024-08-10T17:10:27",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1858,
+      "text": "Worried , Content , Relieved , Excited , Anxious",
+      "timestamp": "2024-08-10T22:15:13",
+      "order": 16,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

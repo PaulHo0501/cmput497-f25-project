@@ -1,0 +1,56 @@
+{
+  "user_id": 19,
+  "num_entries": 5,
+  "entries": [
+    {
+      "text_id": 1308,
+      "text": "Pain , Fatigue , Tired , Busy , Swamped",
+      "timestamp": "2021-06-10T12:01:06",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1309,
+      "text": "Tired , Anxious , Overwhelmed , Scattered , Under pressure",
+      "timestamp": "2021-06-11T12:06:56",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1310,
+      "text": "Tired , Busy , Annoyed , Overwhelmed , Swamped",
+      "timestamp": "2021-06-12T12:01:41",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1311,
+      "text": "Tired , Stressed , Overwhelmed , Busy , Behind",
+      "timestamp": "2021-06-13T12:04:47",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1312,
+      "text": "Stressed , Busy , Running behind , Unappreciated , Tired",
+      "timestamp": "2021-06-14T12:01:34",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

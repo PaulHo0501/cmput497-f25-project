@@ -1,0 +1,206 @@
+{
+  "user_id": 77,
+  "num_entries": 20,
+  "entries": [
+    {
+      "text_id": 5114,
+      "text": "I feel emotionally drained , nervous and stressed which is leading to physical and mental exhaustion , fears , anxiety and other physical symptoms like rapid heart beats , sweating which is as a result of work pressure , financial constraints , relationship conflicts and lastly my drinking problems .",
+      "timestamp": "2024-11-09T12:05:19",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5115,
+      "text": "Stressed , Drained , Unbothered , Tired , Quiet",
+      "timestamp": "2024-11-09T17:01:38",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5116,
+      "text": "Exhausted , Tired , Worried , Nervous , Anxiety",
+      "timestamp": "2024-11-10T17:31:51",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5117,
+      "text": "Currently i feel stressed both emotionally , financially and physically . I am currently drained and looking forward to the day maybe something might happen . In short I\u2019m anxious of what is to come even though I\u2019m just here",
+      "timestamp": "2024-11-12T12:04:05",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5118,
+      "text": "I have an overwhelming feeling of being emotionally drained , nervous and stressed which is leading to physical and mental exhaustion . I have lack of motivation , energy and enthusiasm which is caused by a lot of factors which i guess are stress , trauma and maybe overcommitting",
+      "timestamp": "2024-11-12T17:37:52",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5119,
+      "text": "Drained , Vexed , Angry , Worried , Sad",
+      "timestamp": "2024-11-14T17:03:01",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5120,
+      "text": "Drained , Tired , Nervous , Stressed , Unhappy",
+      "timestamp": "2024-11-15T12:01:52",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5121,
+      "text": "Tired , Down , Drained , Unhappy , Unstable",
+      "timestamp": "2024-11-15T17:11:14",
+      "order": 7,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5122,
+      "text": "I have an overwhelming feeling of being emotionally drained , nervous and stressed which is leading to physical and mental exhaustion . I have lack of motivation , energy and enthusiasm which is caused by a lot of factors which i guess are stress , trauma and maybe overcommitting . Like i said in the earlier studies this is how i feel most of the time",
+      "timestamp": "2024-11-17T17:03:13",
+      "order": 8,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5123,
+      "text": "It\u2019s still a new day . I\u2019m at work , I\u2019m still active not yet drunk , but I\u2019m still unhappy , nervous , anxious and worried about my life and every other thing surrounding me . I\u2019m hopeful nonetheless about my situation . Any small provocation today I might find solace in my bottles here",
+      "timestamp": "2024-11-18T12:43:20",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5124,
+      "text": "Unbothered , Relaxed , Neutral , Active , Hopeful",
+      "timestamp": "2024-11-19T12:46:05",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5125,
+      "text": "I have an overwhelming feeling of being emotionally drained , nervous and stressed which is leading to physical and mental exhaustion . I have lack of motivation , energy and enthusiasm which is caused by a lot of factors which i guess are stress , trauma and maybe overcommitting .",
+      "timestamp": "2024-11-19T17:01:43",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5126,
+      "text": "I have an overwhelming feeling of being emotionally drained , nervous and stressed which is leading to physical and mental exhaustion . I have lack of motivation , energy and enthusiasm which is caused by a lot of factors which i guess are stress , trauma and maybe overcommitting . I was triggered by a lot of things today . I hope it gets better though",
+      "timestamp": "2024-11-19T22:04:29",
+      "order": 12,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5127,
+      "text": "Unbothered , Lively , Hopeful , Jovial , Emotionally unavailable",
+      "timestamp": "2024-11-20T12:05:22",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5128,
+      "text": "I feel emotionally drained and stressed . I\u2019m currently facing pressure from all angles (family , friends , workplace , myself) i kind of owe it to them to be successful . I have a lot to achieve and most times i find myself at the bottom of the bottles drowning my emotions and looking for a way out of these responsibilities",
+      "timestamp": "2024-11-20T17:02:53",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5129,
+      "text": "I have an overwhelming feeling of being emotionally drained , nervous and stressed which is leading to physical and mental exhaustion . I have lack of motivation , energy and enthusiasm which is caused by a lot of factors which i guess are stress , trauma and maybe overcommitting , as i have said in the previous survey this is how i feel most of the time",
+      "timestamp": "2024-11-21T12:31:38",
+      "order": 15,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5130,
+      "text": "I have this feeling of being emotionally drained , nervous and stressed which is leading to physical and mental exhaustion . I have lack of motivation , energy and enthusiasm which is caused by a lot of factors which i guess are stress , trauma and maybe overcommitting to a particular thing , person or project . I feel this way almost everyday , I\u2019m hoping for a change but I don\u2019t know when it will commence",
+      "timestamp": "2024-11-21T22:21:18",
+      "order": 16,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5131,
+      "text": "Unbothered , Unhappy , Tired , Down , Emotional",
+      "timestamp": "2024-11-22T12:06:14",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5132,
+      "text": "Drunk , Pain , Emotional , Drained , Tired",
+      "timestamp": "2024-11-22T17:03:34",
+      "order": 18,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5133,
+      "text": "Drunk , High , Unbothered , Tired , Numb",
+      "timestamp": "2024-11-22T22:03:05",
+      "order": 19,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

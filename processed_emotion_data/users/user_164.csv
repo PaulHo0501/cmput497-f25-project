@@ -1,0 +1,10 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4187,"Tired , Thoughtful , Busy",2024-07-19T12:01:27,0,0.0,1.0,7,True
+4188,"A little anxious about work related matters and completing projects that have to be resolved soon , but also excited for the weekend and the opportunity to relax and spend time with friends and family .",2024-07-19T17:02:04,1,1.0,1.0,7,False
+4189,"Excited , Nervous , Anticipatory , Zen , Calm before storm",2024-07-21T12:01:21,2,1.0,0.0,7,True
+4190,"I’m doing fine . Nervous about our home purchase , and if we’re making the right decisions , or if we’re in over our heads . But I’m also excited about the prospect of making this a reality . We’ll see what happens .",2024-07-21T17:00:37,3,1.0,1.0,7,False
+4191,"Nervous , Excited , Thoughtful , Na , An",2024-07-21T22:04:52,4,1.0,1.0,7,True
+4192,"Concerned about our housing situation , and lack of long term plans . Not sure if we should build , but kind of leaning towards it , even though it seems insane . But I ' m not sure what other real options we have , given our finances and the market .",2024-07-22T12:01:12,5,1.0,1.0,7,False
+4193,"I ' m nervous about our housing situation , and finding a place to live that will work for us . I want everyone to be happy , but to live in a small apartment , for 2 years minimum , could be very hard when we ' re trying to fit in to a new place . But what else are we supposed to do ?",2024-07-22T17:26:25,6,0.0,1.0,7,False
+4194,"Tired , Bored , Cool , Na , Maybe",2024-07-22T22:00:32,7,0.0,1.0,7,True
+4195,"Still concerned about the housing situation . Not making much progress unfortunately . It ' s kind of all I can think about these days , which is more than somewhat distracting at work , and makes it hard to focus on completing tasks that need to be done .",2024-07-23T12:01:12,8,0.0,1.0,7,False

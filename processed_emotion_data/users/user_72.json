@@ -1,0 +1,56 @@
+{
+  "user_id": 72,
+  "num_entries": 5,
+  "entries": [
+    {
+      "text_id": 4973,
+      "text": "Tired , Stress , Concerned , Happy , Motivated",
+      "timestamp": "2024-09-19T12:04:03",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4974,
+      "text": "Tired , Concerned , Focused , Determined , Lackluster",
+      "timestamp": "2024-09-24T17:22:36",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4975,
+      "text": "Happy , Relaxed , Focused , Full , Inquisitive",
+      "timestamp": "2024-09-25T12:08:34",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4976,
+      "text": "I am jet lagged and happy to be home .   My cat is also very happy to have me home .     Although I am sluggish I feel good and motivated for a productive weekend .    Hopefully to enjoy some Fall activities and drinks",
+      "timestamp": "2024-09-27T17:13:57",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4977,
+      "text": "I feel great .   Got a good sleep and got in some walking .    Have not had any alcohol since Saturday night .    Perfect fall weather .   Xcxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxccccccccccccc \\ n \\ nXxxxxxxxxxccccccccccccccccccccccccc",
+      "timestamp": "2024-09-28T12:33:12",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

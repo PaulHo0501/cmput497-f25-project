@@ -1,0 +1,146 @@
+{
+  "user_id": 96,
+  "num_entries": 14,
+  "entries": [
+    {
+      "text_id": 1229,
+      "text": "Woke up haphazardly from a turbulent dream . Feeling currently nervous awaiting the outcome of the election . Concerned about the future . Stressed out about assignments due this week and feeling behind on them .",
+      "timestamp": "2024-11-05T12:04:50",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1230,
+      "text": "I feel tired and drained after working . Having to eat feels laborious . I feel emotionally detached as if I\u2019m running on auto-pilot , and just numb . I want to sleep and shut my eyes . I am nervous about the work deadlines and also election results .",
+      "timestamp": "2024-11-05T22:18:58",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1231,
+      "text": "Stressed , Threatened , Depressed , Anxious , Restless",
+      "timestamp": "2024-11-06T12:11:21",
+      "order": 2,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1232,
+      "text": "Drained , Angry , Frustrated , Unseen , Paranoid",
+      "timestamp": "2024-11-06T17:06:35",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1233,
+      "text": "Disheartened , Lethargic , Brain dead , Nervous , Uncertain",
+      "timestamp": "2024-11-06T22:01:13",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1234,
+      "text": "Feeling detached and dissociated from the world . Feeling reserved and wanting to be alone . Feel the need for reflection and introspection . Want to unload thoughts in writing . Less angry and frustrated since yesterday .",
+      "timestamp": "2024-11-07T12:30:11",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1235,
+      "text": "Feeling more energy . Recovering from the blues . Eating a good meal and rest helped . Stressed about the work remaining . Looking forward to seeing close friends tomorrow . Weather is very nice , but unusual and concerning .",
+      "timestamp": "2024-11-07T17:17:07",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1236,
+      "text": "I feel calm but sad . I am tired and sleepy . I have trouble focusing on my tasks . I am also having trouble shutting out dark thoughts or concerns about the future . I am worried about the days to come and feel insecure about the future .",
+      "timestamp": "2024-11-07T22:21:43",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1237,
+      "text": "I am feeling tired because I could not sleep well . I am dreading going to work , but I am excited to see my friends after work . I am feeling nervous about deadlines and changes occurring in my life and yet I am looking forward to change as well .",
+      "timestamp": "2024-11-08T12:00:50",
+      "order": 8,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1238,
+      "text": "Hungry , Tired , Enthusiastic , Eager , Nervous",
+      "timestamp": "2024-11-08T22:01:02",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1239,
+      "text": "I am feeling exhausted from the day before . I feel sad that I can\u2019t rest today . I feel anxious of the lack of time to meet my deadlines . I feel pressure to do well at work and not make mistakes . I feel dreadful for the coming week .",
+      "timestamp": "2024-11-09T12:47:48",
+      "order": 10,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1240,
+      "text": "Lazy , Sore , Ambivalent , Conflicted , Introspective",
+      "timestamp": "2024-11-09T22:01:20",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1241,
+      "text": "Hungry , Relieved , Tired , Dull , Sleepy",
+      "timestamp": "2024-11-10T22:03:06",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1242,
+      "text": "Restless , Sore , Overwhelmed , Confused , Stressed",
+      "timestamp": "2024-11-11T12:00:53",
+      "order": 13,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+307,"Tired , Calm , Exhausted , Happy , Content",2022-02-12T22:19:32,0,2.0,0.0,2,True
+308,"Calm , Relaxed , Happy , Focused , Hungry",2022-02-13T20:21:12,1,1.0,2.0,2,True
+309,"Frustrated , Angry , Tired , Hungry , Excited",2022-02-14T20:51:50,2,0.0,1.0,2,True
+310,"Happy , Excited , Sore , Hungry , Celebrating",2022-02-15T12:17:14,3,1.0,2.0,2,True
+311,"hungover , tired , exhausted , happy , excited",2022-02-16T10:40:46,4,-2.0,0.0,2,True
+312,"Exhausted , Sleepy , Content , Happy , Celebrating",2022-02-17T15:00:49,5,-2.0,0.0,2,True
+313,"Tired , Calm , Relaxed , Content , Positive",2022-02-17T20:00:44,6,0.0,0.0,2,True
+314,"Calm , Happy , Relaxed , Busy , Gracious",2022-02-18T10:01:24,7,2.0,0.0,2,True
+315,"Happy , Relieved , Tired , Hungry , Optimistic",2022-02-19T20:56:13,8,1.0,2.0,2,True
+316,"Sore , Exhausted , Happy , Grateful , Eager",2022-02-20T21:52:40,9,-2.0,0.0,2,True
+304,"Tired , Exhausted , Sleepy , Calm , Positive",2022-02-21T22:59:42,10,0.0,1.0,2,True
+305,"Sore , Fatigued , Happy , Anxious , Disappointed",2022-02-22T10:00:40,11,-1.0,2.0,2,True
+306,"Tired , Sore , Productive , Optimistic , Hungry",2022-02-24T10:00:33,12,0.0,1.0,2,True
+321,"Anxious , Eager , Excited , Happy , Positive",2022-05-15T10:03:00,13,0.0,2.0,3,True
+322,"Content , Happy , Positive , Hungry , Eager",2022-05-16T12:47:00,14,2.0,0.0,3,True
+323,"Hungry , Starved , Eager , Tired , Relaxed",2022-05-16T15:06:00,15,0.0,1.0,3,True
+324,"Tired , Exhausted , Hungry , Calm , Neutral",2022-05-18T20:07:00,16,0.0,0.0,3,True
+325,"Calm , Happy , Positive , Peaceful , Hopeful",2022-05-19T10:09:00,17,2.0,0.0,3,True
+326,"Calm , Bored , Lazy , Unmotivated , Eager",2022-05-19T16:19:00,18,0.0,1.0,3,True
+327,"Hungry , Impatient , Tired , Bored , Exhausted",2022-05-19T20:34:00,19,-2.0,0.0,3,True
+328,"Busy , Irritated , Hungry , Anxious , Frustrated",2022-05-20T15:02:00,20,-1.0,2.0,3,True

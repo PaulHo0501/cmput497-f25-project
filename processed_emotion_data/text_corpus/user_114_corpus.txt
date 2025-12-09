@@ -1,0 +1,14 @@
+[ENTRY_2078] Sad , Lonely , Tired , Nervous , Achey
+[ENTRY_2079] Sad , Dejected , Alone , Weary , Glum
+[ENTRY_2080] Nervous , Lonely , Bored , Hungry , Tired
+[ENTRY_2081] Indifferent , Bored , Tired , Lonely , Sleepy
+[ENTRY_2082] Im feeling pretty sluggish and tired . I feel a little bit jittery and wanting to sleep but can ' t . I ' m not feeling either sad or happy just very neutral . I ' m tired and sluggish and kind of just existing at the moment
+[ENTRY_2083] Neutral , Content , Comfortable , Okay , Tired
+[ENTRY_2300] Content , Satisfied , Sleepy , Peaceful , Relaxed
+[ENTRY_2301] Lonely , Bored , Sleepy , Unmotivated , Glum
+[ENTRY_2302] Tired , Sleepy , Bored , Thirsty , Lonely
+[ENTRY_2303] I feel a little sad today , it might be under the influence of the weather or season , but I just feel a sort of emptiness inside of me . I am also very lonely today , wishing I could just hang out with some friends or something .
+[ENTRY_2304] Indifferent , Okay , Neutral , Tired , Comfortable
+[ENTRY_2305] Sad , Lonely , Distressed , Bored , Tired
+[ENTRY_2306] Tired , Sluggish , Lonely , Bored , Sad
+[ENTRY_2307] Im feeling pretty tired and almost like I am catching a slight cold . I don ' t have much energy and although i feel lonely , it ' s not really a high level . I ' m tired mostly , and just want to stay in bed all day today .

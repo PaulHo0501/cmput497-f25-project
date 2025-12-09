@@ -1,0 +1,186 @@
+{
+  "user_id": 50,
+  "num_entries": 18,
+  "entries": [
+    {
+      "text_id": 4979,
+      "text": "Slightly overwhelmed with responsibility and uncertainty around the future . Overall relatively confident in my ability to tackle those responsibilities and face those uncertainties with a few bouts of less confidence here and there .",
+      "timestamp": "2021-06-08T14:10:56",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4980,
+      "text": "Like there\u2019s not enough time in the day to accomplish everything I need to do . Like something important is going to fall through the cracks . I should note that these feelings have little to nothing to do with my employment .",
+      "timestamp": "2021-06-09T16:17:00",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4981,
+      "text": "I am feeling simultaneously melancholy for a chapter in my life that is closing and excited in anticipation of a new one that is opening soon . The sadness is outweighing the excitement at the moment only because the new chapter hasn\u2019t quite started yet .",
+      "timestamp": "2021-06-10T21:13:40",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4982,
+      "text": "I\u2019m heading into my weekend after working 60 hours the last 6 days , so I slept in and am feeling lazy . I\u2019ll spend the afternoon getting myself back to normal . Not sure what else to say , here\u2019s 200 characters .",
+      "timestamp": "2021-06-11T13:41:59",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4983,
+      "text": "I\u2019ve been feeling pretty peaceful and at ease . I\u2019m in the middle of three days off from work and even though I have lots of other responsibilities at the moment they don\u2019t feel terribly overwhelming and I feel confident in taking them on .",
+      "timestamp": "2021-06-12T17:19:52",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4984,
+      "text": "I have been feeling lighthearted and happy . I spent time with friends during one of my days off and got caught up on some chores and other life responsibilities . That\u2019s about it . Here\u2019s 200 characters .",
+      "timestamp": "2021-06-13T12:46:57",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4985,
+      "text": "I\u2019m starting a new project and meeting new people in a new place so I\u2019m feeling excited and anticipatory and ready to have some fun and make some friends . Here\u2019s some more characters to get to 200 characters .",
+      "timestamp": "2021-06-14T12:36:30",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4986,
+      "text": "I\u2019m feeling excited about the work I\u2019m starting out with . I\u2019m meeting some new people and getting to know them and enjoying the anticipation of fun things to do . Here\u2019s 200 characters to satisfy the character requirement .",
+      "timestamp": "2021-06-15T20:46:09",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4978,
+      "text": "Yesterday I was feeling overwhelmed and not confident . Today I\u2019m feeling a little better . Still slightly overwhelmed and like there\u2019s not enough time in the day , but less insecure about it right now . I can\u2019t believe that wasn\u2019t 200 characters but here you go .",
+      "timestamp": "2021-06-18T15:47:46",
+      "order": 8,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 4990,
+      "text": "Wired , Excited , Anticipatory",
+      "timestamp": "2022-02-10T15:30:07",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 4991,
+      "text": "Bored , Calm , Peaceful",
+      "timestamp": "2022-02-10T21:45:33",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 4992,
+      "text": "Lazy , Calm , Lethargic",
+      "timestamp": "2022-02-11T11:39:17",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 4993,
+      "text": "Excited , Ready , Unprepared",
+      "timestamp": "2022-02-11T17:29:13",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 4994,
+      "text": "Anxious , Waiting , Nervous",
+      "timestamp": "2022-02-11T20:11:32",
+      "order": 13,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 4995,
+      "text": "Sleepy , Calm , Peaceful",
+      "timestamp": "2022-02-12T11:45:28",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 4996,
+      "text": "Meh , Bored , Lazy",
+      "timestamp": "2022-02-12T15:05:27",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 4997,
+      "text": "Energized , Ready , Excited",
+      "timestamp": "2022-02-12T20:36:45",
+      "order": 16,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 4998,
+      "text": "Buzzed , Excited , Anticipatory",
+      "timestamp": "2022-02-13T16:03:16",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    }
+  ]
+}

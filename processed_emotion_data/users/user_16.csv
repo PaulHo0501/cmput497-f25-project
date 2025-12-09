@@ -1,0 +1,77 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+822,"Tired , Stressed , Exhausted , Annoyed",2021-05-04T12:11:22,0,-1.0,0.0,1,True
+823,"Exhausted , Invisible , Sore , Morose",2021-05-05T21:33:02,1,0.0,1.0,1,True
+824,"Tired , Unappreciated , Lonely",2021-05-06T12:03:49,2,1.0,0.0,1,True
+825,"Frustrated , Tired , Annoyed",2021-05-07T12:28:59,3,0.0,1.0,1,True
+826,"Annoyed , Frustrated , Unheard , Misunderstood",2021-05-08T12:46:49,4,-1.0,2.0,1,True
+827,"Tired , Frustrated , Misunderstood",2021-05-09T12:40:11,5,-2.0,0.0,1,True
+828,"Invisible , Drained , Frustrated",2021-05-10T15:56:13,6,-2.0,0.0,1,True
+829,"Drained , Sluggish , Annoyed",2021-05-11T12:12:00,7,0.0,1.0,1,True
+830,"Refreshed , Energetic , Enthusiastic , Hopeful",2021-05-12T12:48:40,8,2.0,0.0,1,True
+816,"Blah , Quiet , Uninterested , Ignored",2021-05-13T12:38:22,9,0.0,0.0,1,True
+817,"Refreshed , Releived , Content",2021-05-14T12:02:23,10,1.0,1.0,1,True
+818,"Annoyed , Frustrated , Anxious",2021-05-15T12:57:14,11,0.0,1.0,1,True
+819,"Neutral , Blah , Uninspired",2021-05-16T12:02:49,12,0.0,1.0,1,True
+820,"Overwhelmed , Lonely , Annoyed",2021-05-17T13:26:43,13,-2.0,0.0,1,True
+821,"Excited , Anxious , Calm , Mellow",2021-05-18T12:00:23,14,2.0,1.0,1,True
+844,"Anxious , Nervous , Exhausted",2022-01-26T10:01:24,15,-2.0,2.0,2,True
+845,"Anxious , Stressed , Tired",2022-01-26T15:33:17,16,-1.0,0.0,2,True
+846,"Bored , Tired , Hungry",2022-01-26T20:18:39,17,-1.0,0.0,2,True
+847,"Calm , Mellow , Relaxed",2022-01-27T12:55:17,18,0.0,1.0,2,True
+848,"Chill , Fine , Mellow",2022-01-27T16:17:09,19,0.0,1.0,2,True
+849,"Drained , Tired , Melancholy",2022-01-27T22:13:41,20,0.0,1.0,2,True
+850,"Nervous , Anxious , Sad",2022-01-28T10:28:27,21,-1.0,2.0,2,True
+851,"Nervous , Anxious , Apprehensive",2022-01-28T15:00:58,22,-1.0,2.0,2,True
+852,"Annoyed , Misunderstood , Frustrated",2022-01-28T20:15:55,23,0.0,2.0,2,True
+853,"Calm , Anxious , Unmotivated",2022-01-29T15:38:22,24,0.0,1.0,2,True
+854,"Happy , Neutral , Normal",2022-01-29T20:20:52,25,0.0,2.0,2,True
+855,"Anxious , Neutral , Confused , Sluggish , Tired",2022-01-30T12:06:34,26,0.0,1.0,2,True
+856,"Anxious , Annoyed , Peeved",2022-01-30T15:36:49,27,0.0,1.0,2,True
+857,"Tired , Anxious , Nervous , Frustrated",2022-01-31T10:03:58,28,-1.0,2.0,2,True
+858,"Relieved , Calm , Mellow , Anxious",2022-01-31T15:11:47,29,0.0,1.0,2,True
+859,"Calm , Mellow , Relaxed",2022-01-31T21:26:44,30,0.0,1.0,2,True
+860,"Tired , Drained , Mellow",2022-02-02T20:01:17,31,0.0,1.0,2,True
+861,"Chill , Relaxed , Calm , Mellow , Grateful",2022-02-03T15:04:24,32,2.0,0.0,2,True
+862,"Sore , Tired , Calm , Mellow , Full",2022-02-03T20:28:44,33,-1.0,0.0,2,True
+831,"Achey , Exhausted , Sore",2022-02-04T10:01:23,34,-1.0,0.0,2,True
+832,"Relaxed , Mellow , cAlm",2022-02-04T15:14:57,35,1.0,0.0,2,True
+833,"Tired , Sore , Calm",2022-02-05T10:06:40,36,-2.0,0.0,2,True
+834,"Anxious , Chill , Tired",2022-02-05T15:36:44,37,1.0,2.0,2,True
+835,"Mellow , Relaxed , Tired , Content",2022-02-06T10:00:47,38,2.0,0.0,2,True
+836,"Prepared , Mellow , Stress free",2022-02-06T15:03:52,39,2.0,0.0,2,True
+837,"Drained , Zapped , Lethargic",2022-02-07T12:39:02,40,-1.0,0.0,2,True
+838,"Anxious , Dreading , Unmotivated",2022-02-07T15:03:27,41,0.0,1.0,2,True
+839,"Happy , Calm , Excited",2022-02-08T10:00:49,42,2.0,2.0,2,True
+840,"Happy , Tired , Fulfilled",2022-02-08T15:07:19,43,2.0,0.0,2,True
+841,"Mellow , Relaxed , Calm",2022-02-08T20:09:01,44,2.0,0.0,2,True
+842,"Tired , Excited , Happy",2022-02-09T10:28:19,45,0.0,1.0,2,True
+843,"Hungry , Mellow , Excited",2022-02-09T15:34:04,46,1.0,1.0,2,True
+867,I am feeling anxious and also have a headache . I am prepping for a procedure tomorrow which is making me nervous but is also frustrating and i am hungry because I’m supposed to be on a liquid diet and all I want to do is eat something .,2022-04-27T20:35:00,47,-2.0,0.0,3,False
+868,"I am feeling tired and sleepy . I Had a procedure done today , so I’m at home resting and can’t stop sleeping . Tired , worn out , lethargic , lazy . Why does this force me to write so much for my answer … . I don’t have enough to report lol",2022-04-28T15:19:00,48,-2.0,0.0,3,False
+869,"Feeling pretty good and refreshed after my weekend and heading into work today . Hoping that the ORG draft being in town will be lucrative this weekend for me , but hopefully nothing too crazy ! Lol \nFeeling calm mellow ready to work !",2022-04-29T15:01:00,49,2.0,0.0,3,False
+870,"Just relaxing with our dogs and my boyfriend before I go to work later . Feeling mellow and relaxed , happy to have time with my boyfriend and the dogs before work which will likely be hectic and crazy .",2022-04-30T10:03:00,50,2.0,0.0,3,False
+871,"Just got to work , feeling quiet calm mellow , trying to chill for a few minutes before i start my shift . Anxious because I realized my health card is expiring next month and the health department is still backed up so the soonest appointment I can make isn’t until august which is stressing me out .",2022-04-30T15:24:00,51,0.0,1.0,3,False
+872,"Feeling very foggy and tired today . Yesterday was a long night at work , not busy just exhausting . Plus the puppy woke me up a lot last night , and I had a pretty good gym session this morning too so I am feeling pooped today ! But gonna pull myself together for another night at work !",2022-05-01T15:04:00,52,-1.0,0.0,3,False
+873,"Just working , getting kinda annoyed with all of the requests to fill out these surveys , multiple times a day , especially when I’m at work . Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah",2022-05-01T21:23:00,53,0.0,1.0,3,False
+874,"Happy that it’s my weekend . Was a long and slow week at work , had a couple of interesting characters come into the bar this week so that was fun . Just running errands and doing chores today , mellow calm content , happy to be off .",2022-05-03T11:09:00,54,0.0,1.0,3,False
+875,Bored at work . Very slow and not alot going on . Very strange week . Bored bored bored bored bored bored bored bored bored boring boring boring boring boring boring boring boring boring boring boring boring boring,2022-05-03T20:45:00,55,0.0,1.0,3,False
+876,"It’s my weekend and just running errands and enjoying my days off from work . Feeling productive and calm , happy to spend time with my boyfriend and our four dogs . That is all . Blah blah blah blah blah",2022-05-04T10:47:00,56,2.0,0.0,3,False
+877,Just relaxing at home after running errands . Enjoying my day offf with the dogs and just chillin at home . Kahfmgnosifufn akdhbtkosi dishhskfi suwuhfkkoah sjjdhhduinkahs Kathryn iSight my jsbsvni Sindhis jahsusi,2022-05-04T15:55:00,57,0.0,1.0,3,False
+863,"It’s windy AF outside this weekend which means no one wants to go to the bar . So it’s been a very slow weekend , not making alot of money so it’s been rough and I’m frustrated . It’s super annoying when the weather/something you can’t control effects your ability to make money so much",2022-05-08T15:03:00,58,0.0,1.0,3,False
+864,"It’s my Friday , so I’m excited about that . But also very tired after a long and boring weekend at work . Hope that business will pick up soon . Would like to make some money and plan some trips for this summer !",2022-05-09T15:23:00,59,-1.0,0.0,3,False
+865,Feeling sluggish and tired today . It’s my weekend but I’m exhausted from work and just want to relax with the dogs . Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah,2022-05-10T16:13:00,60,-1.0,0.0,3,False
+866,Annoyed with today . Feeling like I get taken advantage of . I always put aside what I want to do so that I can spend time with my boyfriend and his son but they will never reciprocate and do what i want to do . So in order to do stuff that interests me i always have to do it alone .,2022-05-10T20:20:00,61,0.0,1.0,3,False
+887,"Relaxed , Calm , Mellow , Accomplished",2022-08-31T21:07:48,62,1.0,0.0,4,True
+888,"Tired , Eager , Anxious",2022-09-01T10:02:28,63,0.0,1.0,4,True
+889,"Hungry , Relaxed , Tired",2022-09-01T15:03:14,64,0.0,1.0,4,True
+890,"Tired , Hugry , Exhausted",2022-09-01T20:31:43,65,-2.0,0.0,4,True
+891,"Tired , Anxious , Uncomfortable",2022-09-02T10:06:33,66,0.0,1.0,4,True
+892,"PERSON , Ready for work , It’s my Monday !",2022-09-02T15:02:50,67,0.0,1.0,4,True
+893,"Exhausted , Tired , Worn out , Unenthusiastic",2022-09-02T20:09:53,68,-2.0,0.0,4,True
+894,"Tired , Drained , Unmotivated",2022-09-03T10:00:37,69,-2.0,0.0,4,True
+895,"Mellow , Tired , Want to check out",2022-09-03T15:11:50,70,0.0,1.0,4,True
+896,"Content , Relaxed , Working",2022-09-03T20:37:39,71,1.0,1.0,4,True
+897,"Exhausted , Worn out , Mentally and physically drained",2022-09-04T10:00:36,72,-2.0,0.0,4,True
+898,"Tired , Sluggish , Exhausted",2022-09-05T11:11:54,73,-2.0,0.0,4,True
+899,"Relaxed , Normal , Fine , Going to work",2022-09-05T15:35:44,74,-1.0,0.0,4,True
+900,"Working , Calm , Slow",2022-09-05T20:17:26,75,0.0,1.0,4,True

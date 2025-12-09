@@ -1,0 +1,146 @@
+{
+  "user_id": 134,
+  "num_entries": 14,
+  "entries": [
+    {
+      "text_id": 3122,
+      "text": "I woke up today and struggled to get out of bed . When I left my bed , I was extremely tired and lethargic and wanted to get back in it . I had to go to college , so I pushed through anyway . I was tired when I arrived at my first class , and was late due to my aforementioned struggle to get out of bed .",
+      "timestamp": "2024-10-16T12:34:06",
+      "order": 0,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3123,
+      "text": "Hungry , Impatient , Restless , Nervous , Lethargic",
+      "timestamp": "2024-10-16T17:01:00",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3125,
+      "text": "Procrastinating , Moody , Happy , Satisfied , Lethargic",
+      "timestamp": "2024-10-16T22:15:22",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3126,
+      "text": "Lethargic , Sleepy , Moody , Worried , Anxious",
+      "timestamp": "2024-10-17T12:00:57",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3127,
+      "text": "Agitated , Content , Restless , Happy , Joyous",
+      "timestamp": "2024-10-17T17:02:27",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3128,
+      "text": "Lethargic , Neutral , Unmotivated , Content , Sleepy",
+      "timestamp": "2024-10-17T22:03:03",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3129,
+      "text": "I stayed up until 3 A . M . yesterday because I had too much caffeine but feel okay today . I am anxious because I have to do my English Midterm today . I also need to brush my teeth and dreading it . I don ' t really want to do anything ever .",
+      "timestamp": "2024-10-18T12:30:02",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3130,
+      "text": "I am currently feeling like I am a wet dish rag , to say the least . I literally didn ' t do anything today except masturbate which made me feel like a failure . I would say that I am not feeling bad , but not feeling good .",
+      "timestamp": "2024-10-18T22:01:16",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3131,
+      "text": "Neutral , Lethargic , Anxious , Content , Melancholic",
+      "timestamp": "2024-10-19T17:09:24",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3132,
+      "text": "Sluggish , Uncomfortable , Lethargic , Anxious , Nervous",
+      "timestamp": "2024-10-19T22:01:36",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3133,
+      "text": "I went to counseling today to discuss my issues and felt like I could tackle them . I had a very pleasant morning and felt better than usual . I had a good enjoyable lunch too , it was a cheeseburger ! Nothing will stop me today .",
+      "timestamp": "2024-10-20T17:48:14",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3134,
+      "text": "I did not complete my math homework yesterday that I had a week to do and felt like a useless failure . I did get out of bed today at a reasonable time , and math class was slightly interesting , so I guess I ' m happy . Slightly joyous , even .",
+      "timestamp": "2024-10-21T12:44:43",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3137,
+      "text": "I just finished my Javascript Exam and am confident I got 100 % so I feel accomplished ! I am feeling quite tired and lazy though . I have to do my math homework . I don ' t feel as useless as I did this morning .",
+      "timestamp": "2024-10-22T17:41:12",
+      "order": 12,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3138,
+      "text": "My headlights on my car was not working which made me scared . I have to hit the center console on the car in order to get it to work , which made me anxious and frightened . I felt like a failure today because I didn ' t go to math class .",
+      "timestamp": "2024-10-22T22:01:04",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "user_id": 79,
+  "num_entries": 23,
+  "entries": [
+    {
+      "text_id": 5156,
+      "text": "I presently have mixed feelings - tipsy , euphoria and enthusiastic . A perfect combo for the Sunday unwinding . The whole week was mentally and psychologically draining though . It ' s been quite a fun day with family and friends outside enjoying the cool evening breeze .",
+      "timestamp": "2024-09-08T17:57:16",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5157,
+      "text": "Feeling neutral , no special feelings at all . Hoping to keep up with the new week ahead . Being an optimistic I wish and pray for the best . My optimism is at a all time high right now with great lookouts ahead .",
+      "timestamp": "2024-09-09T12:06:37",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5158,
+      "text": "Currently feeling neutral , no emotional , psychological or mental stress available at the moment with no anxieties or stresses clouding my thoughts , a clear sense of mind and clear sense of purpose . Nothing more nothing less",
+      "timestamp": "2024-09-09T17:18:07",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5159,
+      "text": "Positive , Optimistic , Calm , Energetic , Quite",
+      "timestamp": "2024-09-10T17:17:10",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5160,
+      "text": "Happy , Contentment , Gratitude , Love , Pride",
+      "timestamp": "2024-09-11T12:36:27",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5161,
+      "text": "Calm , Optimistic , Light , Aspirational , Nervous",
+      "timestamp": "2024-09-11T17:02:23",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5162,
+      "text": "Nervous , Jittery , Active , Optimistic , Calm",
+      "timestamp": "2024-09-12T12:49:30",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5163,
+      "text": "Today , I feel grateful and appreciative because God gave me another day to live , and I ' m happy because of it . I realize that we should not always let the day pass without thanking our creator . And also to my family for always supporting me and keeping me motivated . I knew my journey to the dream and goals in my life would not be an easy .",
+      "timestamp": "2024-09-12T17:25:31",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5164,
+      "text": "I currently feel okay , a little bit hooked up with work chores and getting to   settle down for the day is taking more than I initially expected . I expectedly a warm day with great emotions unfortunately the atmosphere isn ' t as welcoming as it supposed to .",
+      "timestamp": "2024-09-13T12:19:32",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5165,
+      "text": "Dismay , Homesick , Neutral , Nervous , Jittery",
+      "timestamp": "2024-09-13T17:14:35",
+      "order": 9,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5166,
+      "text": "Happy , Calm , Joyful , Observational , Truthful",
+      "timestamp": "2024-09-13T22:59:17",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5167,
+      "text": "I feel now that I am a person worthy of attention , the I have knowledge and capabilities that are needed in the world , that I can support an intelligent conversation and negotiate like a pro . Notwithstanding the nature of the conversation , I feel so powerful right now after defending a very crucial project in front of guests and VIPs .",
+      "timestamp": "2024-09-14T12:16:20",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5168,
+      "text": "Happy , Enthusiastic , Optimistic , Fun , Agile",
+      "timestamp": "2024-09-14T17:57:59",
+      "order": 12,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5169,
+      "text": "Exhausted , Tired , Down , Refueling , Made",
+      "timestamp": "2024-09-15T12:05:03",
+      "order": 13,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5170,
+      "text": "Happy , Anxious , Cslm , Suspense , Nervous",
+      "timestamp": "2024-09-15T17:12:46",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5171,
+      "text": "Quiet , Calm , Observant , Optimistic , Happy",
+      "timestamp": "2024-09-16T12:59:53",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5172,
+      "text": "Lively , Enthusiastic , Calm , Inspiration , Hope",
+      "timestamp": "2024-09-16T17:15:11",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5173,
+      "text": "Calm , Focus , Optimistic , Nervous , Tired",
+      "timestamp": "2024-09-17T17:22:44",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5174,
+      "text": "Feelings are messages from your body and mind about how you are experiencing something emotionally . They are not right or wrong , good or bad , but are instead a reflection of what is happening in the moment . I am feeling lost . I am not satisfied with myself . I have seen the best version of myself and try to keep it consistent",
+      "timestamp": "2024-09-17T22:59:19",
+      "order": 18,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5175,
+      "text": "I am feeling much better now , though tired and sluggish but I consider my current situation and feelings not worst as compared to others . There isn ' t much to do now and nothing stressful . Though tired , fatigued and calm , I experience much inner peace at the moment with less worries over some things I cannot control .",
+      "timestamp": "2024-09-18T12:23:41",
+      "order": 19,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5176,
+      "text": "Lively , Nervous , Calm , Proud , Glad",
+      "timestamp": "2024-09-18T17:08:18",
+      "order": 20,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 5177,
+      "text": "My initial feelings right about now is that I think the day is going to be hard but at the same time easy . I say its going to be hard because , of the level that the work I ' ve got to do . I say its going to be easy because if I focus and complete all of my assignments right then the day will go by easy",
+      "timestamp": "2024-09-19T12:44:04",
+      "order": 21,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 5178,
+      "text": "Honestly not too well , I feel less affectionate to the the things I used to like , just today I got a text from my sister with a not too good content . It actually feels so horrible to have received such news few hours ago . I ' m just all by myself , quite , calm and composed so as not to draw unnecessary attention and sympathy to myself .",
+      "timestamp": "2024-09-19T17:39:00",
+      "order": 22,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

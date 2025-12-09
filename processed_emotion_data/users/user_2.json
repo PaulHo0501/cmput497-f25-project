@@ -1,0 +1,1776 @@
+{
+  "user_id": 2,
+  "num_entries": 177,
+  "entries": [
+    {
+      "text_id": 23,
+      "text": "Productive , Tired , Active , Pleased , Busy",
+      "timestamp": "2021-06-08T15:11:55",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 24,
+      "text": "Productive , Busy , Content",
+      "timestamp": "2021-06-11T17:10:13",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 25,
+      "text": "Relaxed , Content , Comfy , Happy , Calm",
+      "timestamp": "2021-06-15T16:35:44",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 22,
+      "text": "Productive , Relaxed , Happy , Content",
+      "timestamp": "2021-06-18T15:36:22",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 34,
+      "text": "Relaxed , Rested , Happy , Pleased , Content",
+      "timestamp": "2022-02-11T12:51:15",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 35,
+      "text": "Content , Calm , Relaxed , Hungry , Happy",
+      "timestamp": "2022-02-11T15:01:04",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 36,
+      "text": "Refreshed , Relaxed , Motivated , Happy , Content",
+      "timestamp": "2022-02-12T20:06:00",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 37,
+      "text": "Relaxed , Rested , Calm , Comfy , Content",
+      "timestamp": "2022-02-14T15:01:30",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 38,
+      "text": "Relaxed , Content , Comfy",
+      "timestamp": "2022-02-14T20:55:39",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 39,
+      "text": "Studious , Motivated , Calm , Relaxed , Content",
+      "timestamp": "2022-02-15T15:16:55",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 40,
+      "text": "Studious , Calm , Relaxed , Attentive , Content",
+      "timestamp": "2022-02-15T20:02:31",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 41,
+      "text": "Sleepy , Awake , Comfy , Relaxed , Content",
+      "timestamp": "2022-02-16T11:56:54",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 42,
+      "text": "Working , Busy , Pleased , Hungry , Active",
+      "timestamp": "2022-02-17T15:03:31",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 43,
+      "text": "Studious , Relaxed , Focused , Hungry , Attentive",
+      "timestamp": "2022-02-17T20:01:03",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 44,
+      "text": "Tired , Comfy , Awake , Chilly , Relaxed",
+      "timestamp": "2022-02-18T10:16:46",
+      "order": 14,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 45,
+      "text": "Relaxed , Productive , Calm , Comfy , Content",
+      "timestamp": "2022-02-18T20:07:53",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 46,
+      "text": "Sleepy , Awake , Rested , Relaxed , Comfy",
+      "timestamp": "2022-02-19T12:49:41",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 47,
+      "text": "Busy , Productive , Content , Relaxed , Waiting",
+      "timestamp": "2022-02-19T15:05:34",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 48,
+      "text": "Relaxed , Content , Calm , Comfy , Hungry",
+      "timestamp": "2022-02-19T20:03:29",
+      "order": 18,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 26,
+      "text": "Refreshed , Clean , Comfy , Relaxed , Content",
+      "timestamp": "2022-02-20T20:02:31",
+      "order": 19,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 27,
+      "text": "Relaxed , Content , Comfy , Calm , Hungry",
+      "timestamp": "2022-02-21T17:00:05",
+      "order": 20,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 28,
+      "text": "Comfy , Awake , Relaxed , Hungry , Content",
+      "timestamp": "2022-02-21T20:34:57",
+      "order": 21,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 29,
+      "text": "Comfy , Awake , Relaxed , Content , Cozy",
+      "timestamp": "2022-02-22T15:08:59",
+      "order": 22,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 30,
+      "text": "Studious , Focused , Content , Attentive , Comfy",
+      "timestamp": "2022-02-22T20:07:38",
+      "order": 23,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 31,
+      "text": "Sleepy , Comfy , Cozy , Waking , Content",
+      "timestamp": "2022-02-23T11:03:27",
+      "order": 24,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 32,
+      "text": "Impatient , Waiting , Calm , Massaged , Fine",
+      "timestamp": "2022-02-23T16:13:47",
+      "order": 25,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 33,
+      "text": "Annoyed , Content , Comfy , Hungry , Relaxed",
+      "timestamp": "2022-02-23T20:01:13",
+      "order": 26,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 2,
+      "is_words": true
+    },
+    {
+      "text_id": 60,
+      "text": "Sleepy , Awake , Tired , Comfy , Cozy",
+      "timestamp": "2022-05-12T10:02:00",
+      "order": 27,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 61,
+      "text": "Productive , Tired , Busy , Studious , Calm",
+      "timestamp": "2022-05-12T17:35:00",
+      "order": 28,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 62,
+      "text": "Studious , Attentive , Comfy , Calm , Alert",
+      "timestamp": "2022-05-12T20:01:00",
+      "order": 29,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 63,
+      "text": "Awake , Content , Refreshed , Happy , Relaxed",
+      "timestamp": "2022-05-13T10:20:00",
+      "order": 30,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 64,
+      "text": "Productive , Content , Happy , Active , Good",
+      "timestamp": "2022-05-13T15:45:00",
+      "order": 31,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 65,
+      "text": "Clean , Refreshed , Relaxed , Comfy , Content",
+      "timestamp": "2022-05-13T20:00:00",
+      "order": 32,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 66,
+      "text": "Sleepy , Comfy , Recharged , Cozy , Awake",
+      "timestamp": "2022-05-14T12:39:00",
+      "order": 33,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 67,
+      "text": "Relaxed , Content , Comfy , Happy , Calm",
+      "timestamp": "2022-05-14T15:09:00",
+      "order": 34,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 68,
+      "text": "Relaxed , Comfy , Content , Neutral , Peaceful",
+      "timestamp": "2022-05-14T20:00:00",
+      "order": 35,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 69,
+      "text": "Awake , Sleepy , Comfy , Relaxed , Cozy",
+      "timestamp": "2022-05-15T11:51:00",
+      "order": 36,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 70,
+      "text": "Hurting , Active , Worked , Attentive , Not relaxed",
+      "timestamp": "2022-05-15T16:33:00",
+      "order": 37,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 71,
+      "text": "Hurting , Content , Pleased , Comfy , Relaxed",
+      "timestamp": "2022-05-15T20:17:00",
+      "order": 38,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 72,
+      "text": "Sleepy , Tired , Comfy , Cozy , Awake",
+      "timestamp": "2022-05-16T10:55:00",
+      "order": 39,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 73,
+      "text": "Relaxed , Content , Peaceful , Chilling , Comfy",
+      "timestamp": "2022-05-16T15:23:00",
+      "order": 40,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 74,
+      "text": "Relaxed , Comfy , Content , Calm , Peaceful",
+      "timestamp": "2022-05-16T20:28:00",
+      "order": 41,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 75,
+      "text": "Content , Calm , Relaxed , Refreshed , Comfy",
+      "timestamp": "2022-05-17T15:22:00",
+      "order": 42,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 76,
+      "text": "Attentive , Sleepy , Relaxed , Calm , Comfy",
+      "timestamp": "2022-05-17T20:00:00",
+      "order": 43,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 77,
+      "text": "Relaxed , Calm , Content , Peaceful , Good",
+      "timestamp": "2022-05-18T15:04:00",
+      "order": 44,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 78,
+      "text": "Clean , Refreshed , Calm , Comfy , Content",
+      "timestamp": "2022-05-18T20:32:00",
+      "order": 45,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 79,
+      "text": "Sleepy , Tired , Awake , Comfy , Content",
+      "timestamp": "2022-05-19T10:00:00",
+      "order": 46,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 80,
+      "text": "Worked , Busy , Calm , Attentive , Fine",
+      "timestamp": "2022-05-19T15:09:00",
+      "order": 47,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 81,
+      "text": "Headache , Tired , Hungry , Sleepy , Comfy",
+      "timestamp": "2022-05-19T20:21:00",
+      "order": 48,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 82,
+      "text": "Tired , Hungry , Sleepy , Awake , Ready",
+      "timestamp": "2022-05-20T11:08:00",
+      "order": 49,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 83,
+      "text": "Busy , Annoyed , Sore , Worked , Neutral",
+      "timestamp": "2022-05-20T15:51:00",
+      "order": 50,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 84,
+      "text": "Comfy , Cozy , Relaxed , Tired , Hungry",
+      "timestamp": "2022-05-20T20:00:00",
+      "order": 51,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 49,
+      "text": "Relaxed , Awake , Sore , Content , Comfy",
+      "timestamp": "2022-05-21T15:08:00",
+      "order": 52,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 50,
+      "text": "Active , Chill , Moving , Calm , Awake",
+      "timestamp": "2022-05-21T21:00:00",
+      "order": 53,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 51,
+      "text": "Working , Awake , Fine , Attentive , Calm",
+      "timestamp": "2022-05-22T10:20:00",
+      "order": 54,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 52,
+      "text": "Tired , Content , Calm , Relaxed , Sleepy",
+      "timestamp": "2022-05-22T20:00:00",
+      "order": 55,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 53,
+      "text": "Tired , Sleepy , Comfy , Sore , Cozy",
+      "timestamp": "2022-05-23T10:14:00",
+      "order": 56,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 54,
+      "text": "Pained , Sore , Alert , Active , Fine",
+      "timestamp": "2022-05-23T15:02:00",
+      "order": 57,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 55,
+      "text": "Relaxed , Content , Comfy , Chill , Fine",
+      "timestamp": "2022-05-23T20:01:00",
+      "order": 58,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 56,
+      "text": "Active , Awake , Rested , Refreshed , Fine",
+      "timestamp": "2022-05-24T11:53:00",
+      "order": 59,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 57,
+      "text": "Content , Refreshed , Calm , Productive , Relaxed",
+      "timestamp": "2022-05-24T15:34:00",
+      "order": 60,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 58,
+      "text": "Warm , Comfy , Studious , Content , Relaxed",
+      "timestamp": "2022-05-24T20:00:00",
+      "order": 61,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 59,
+      "text": "Good , Relaxed , Tired , Content , Fine",
+      "timestamp": "2022-05-25T15:06:00",
+      "order": 62,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 3,
+      "is_words": true
+    },
+    {
+      "text_id": 100,
+      "text": "Productive , Accomplished , Hot , Relaxed , Content",
+      "timestamp": "2022-09-05T20:01:52",
+      "order": 63,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 101,
+      "text": "Rested , Sore , Comfy , Content , Relaxed",
+      "timestamp": "2022-09-06T11:51:38",
+      "order": 64,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 102,
+      "text": "Hot , Relaxed , Productive , Calm , Content",
+      "timestamp": "2022-09-06T15:03:01",
+      "order": 65,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 103,
+      "text": "Relaxed , Content , Calm , Comfy , Hot",
+      "timestamp": "2022-09-06T20:00:44",
+      "order": 66,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 104,
+      "text": "Relaxed , Awake , Comfy , Calm , Content",
+      "timestamp": "2022-09-07T12:22:50",
+      "order": 67,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 105,
+      "text": "Productive , Active , Determined , Busy , Sore",
+      "timestamp": "2022-09-07T15:03:55",
+      "order": 68,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 106,
+      "text": "Worked , Exhausted , Accomplished , Productive , Hungry",
+      "timestamp": "2022-09-07T20:00:27",
+      "order": 69,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 107,
+      "text": "Sleepy , Awake , Comfy , Calm , Content",
+      "timestamp": "2022-09-08T10:03:51",
+      "order": 70,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 108,
+      "text": "Worked , Busy , Active , Productive , Fine",
+      "timestamp": "2022-09-08T16:56:45",
+      "order": 71,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 109,
+      "text": "Relaxed , Tired , Content , Hungry , Comfy",
+      "timestamp": "2022-09-08T20:00:46",
+      "order": 72,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 110,
+      "text": "Comfy , Rested , Awake , Content , Peaceful",
+      "timestamp": "2022-09-09T11:48:47",
+      "order": 73,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 111,
+      "text": "Productive , Accomplished , Happy , Pleased , Content",
+      "timestamp": "2022-09-09T15:03:05",
+      "order": 74,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 112,
+      "text": "Studious , Relaxed , Comfy , Content , Focused",
+      "timestamp": "2022-09-09T20:03:17",
+      "order": 75,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 113,
+      "text": "Tired , Sore , Sleepy , Comfy , Relaxed",
+      "timestamp": "2022-09-10T11:58:39",
+      "order": 76,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 114,
+      "text": "Busy , Focused , Calm , Productive , Good",
+      "timestamp": "2022-09-10T16:09:08",
+      "order": 77,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 115,
+      "text": "Exhausted , Sore , Pained , Uncomfortable , Relived",
+      "timestamp": "2022-09-10T20:57:53",
+      "order": 78,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 116,
+      "text": "Active , Busy , Productive , Excited , Focused",
+      "timestamp": "2022-09-11T10:48:10",
+      "order": 79,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 117,
+      "text": "Active , Production , Hot , Focused , Busy",
+      "timestamp": "2022-09-11T15:02:50",
+      "order": 80,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 118,
+      "text": "Comfy , Tired , Sleepy , Sore , Content",
+      "timestamp": "2022-09-11T20:43:57",
+      "order": 81,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 119,
+      "text": "Rested , Comfy , Sleepy , Content , Thirsty",
+      "timestamp": "2022-09-12T10:05:17",
+      "order": 82,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 120,
+      "text": "Productive , Busy , Active , Worked , Tired",
+      "timestamp": "2022-09-12T15:15:41",
+      "order": 83,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 121,
+      "text": "Comfy , Hungry , Content , Relaxed , Peaceful",
+      "timestamp": "2022-09-12T20:03:28",
+      "order": 84,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 122,
+      "text": "Content , Calm , Relaxed , Tired , Lazy",
+      "timestamp": "2022-09-13T15:21:44",
+      "order": 85,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 123,
+      "text": "Relaxed , Tired , Sore , Comfy , Content",
+      "timestamp": "2022-09-13T20:07:03",
+      "order": 86,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 85,
+      "text": "Relaxed , Tired , Comfy , Content , Lazy",
+      "timestamp": "2022-09-14T11:54:08",
+      "order": 87,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 86,
+      "text": "Content , Productive , Sore , Tired , Calm",
+      "timestamp": "2022-09-14T15:26:22",
+      "order": 88,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 87,
+      "text": "Content , Relaxed , Satisfied , Tired , Sleepy",
+      "timestamp": "2022-09-14T21:24:50",
+      "order": 89,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 88,
+      "text": "Tired , Sleepy , Comfy , Content , Relaxed",
+      "timestamp": "2022-09-15T10:14:08",
+      "order": 90,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 89,
+      "text": "Active , Worked , Busy , Productive , Sore",
+      "timestamp": "2022-09-15T15:00:48",
+      "order": 91,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 90,
+      "text": "Tired , Sleepy , Exhausted , Comfy , Content",
+      "timestamp": "2022-09-15T20:08:19",
+      "order": 92,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 91,
+      "text": "Comfy , Relaxed , Rested , Content , Peaceful",
+      "timestamp": "2022-09-16T12:35:34",
+      "order": 93,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 92,
+      "text": "Relaxed , Hungry , Satisfied , Content , Calm",
+      "timestamp": "2022-09-16T20:01:48",
+      "order": 94,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 93,
+      "text": "Sleepy , Tired , Sore , Comfy , Cozy",
+      "timestamp": "2022-09-17T11:05:25",
+      "order": 95,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 94,
+      "text": "Tired , Sleepy , Worked , Sore , Productive",
+      "timestamp": "2022-09-17T15:57:32",
+      "order": 96,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 95,
+      "text": "Content , Sore , Sluggish , Tired , Sleepy",
+      "timestamp": "2022-09-17T20:04:56",
+      "order": 97,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 96,
+      "text": "Tired , Sore , Busy , Active , Productive",
+      "timestamp": "2022-09-18T16:11:56",
+      "order": 98,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 97,
+      "text": "Sleepy , Tired , Sluggish , Comfy , Content",
+      "timestamp": "2022-09-18T20:45:26",
+      "order": 99,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 98,
+      "text": "Sleepy , Sore , Tired , Lethargic , Content",
+      "timestamp": "2022-09-19T10:24:21",
+      "order": 100,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 99,
+      "text": "Sleepy , Tired , Sore , Sluggish , Productive",
+      "timestamp": "2022-09-19T15:03:35",
+      "order": 101,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 4,
+      "is_words": true
+    },
+    {
+      "text_id": 141,
+      "text": "Relaxed , Content , Calm , Hungry , Tired",
+      "timestamp": "2023-03-10T20:10:29",
+      "order": 102,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 142,
+      "text": "Tired , Sluggish , Disappointed , Dazed , Weird",
+      "timestamp": "2023-03-11T15:11:51",
+      "order": 103,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 143,
+      "text": "Refreshed , Clean , Comfy , Hopeful , Relaxed",
+      "timestamp": "2023-03-11T20:00:37",
+      "order": 104,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 144,
+      "text": "Hungry , Fatigue , Relaxed , Comfortable , Content",
+      "timestamp": "2023-03-12T15:01:57",
+      "order": 105,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 145,
+      "text": "Exhausted , Frustrated , Sore , Tired , Annoyed",
+      "timestamp": "2023-03-12T22:00:17",
+      "order": 106,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 146,
+      "text": "Sleepy , Tired , Comfy , Cozy , Awake",
+      "timestamp": "2023-03-13T10:16:27",
+      "order": 107,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 147,
+      "text": "Sore , Productive , Accomplished , Neutral , Fine",
+      "timestamp": "2023-03-13T16:20:45",
+      "order": 108,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 148,
+      "text": "Comfy , Content , Relaxed , Hungry , Sore",
+      "timestamp": "2023-03-13T20:01:02",
+      "order": 109,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 149,
+      "text": "Tired , Sleepy , Comfy , Chilly , Lazy",
+      "timestamp": "2023-03-14T10:34:15",
+      "order": 110,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 150,
+      "text": "Productive , Focused , Sore , Tired , Okay",
+      "timestamp": "2023-03-14T15:43:34",
+      "order": 111,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 151,
+      "text": "Cozy , Relaxed , Comfy , Tired , Sore",
+      "timestamp": "2023-03-14T20:07:45",
+      "order": 112,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 152,
+      "text": "Patient , Productive , Hungry , Relaxed , Tired",
+      "timestamp": "2023-03-15T11:07:34",
+      "order": 113,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 153,
+      "text": "Content , Calm , Relaxed , Comfy , Good",
+      "timestamp": "2023-03-15T15:08:34",
+      "order": 114,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 154,
+      "text": "Clean , Refreshed , Relaxed , Comfy , Content",
+      "timestamp": "2023-03-15T21:13:49",
+      "order": 115,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 155,
+      "text": "Tired , Sleepy , Comfy , Cozy , Relaxed",
+      "timestamp": "2023-03-16T10:15:36",
+      "order": 116,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 156,
+      "text": "Tired , Accomplished , Focused , Content , Calm",
+      "timestamp": "2023-03-16T17:53:55",
+      "order": 117,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 157,
+      "text": "Productive , Sore , Relaxed , Comfy , Content",
+      "timestamp": "2023-03-16T20:12:17",
+      "order": 118,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 158,
+      "text": "Tired , Sleepy , Sore , Cramped , Excited",
+      "timestamp": "2023-03-17T15:39:27",
+      "order": 119,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 159,
+      "text": "Happy , Tired , Sleepy , Relaxed , Sore",
+      "timestamp": "2023-03-17T20:15:51",
+      "order": 120,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 160,
+      "text": "Relaxed , Content , Calm , Sleepy , Comfy",
+      "timestamp": "2023-03-18T10:25:09",
+      "order": 121,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 161,
+      "text": "Happy , Content , Calm , Relaxed , Comfy",
+      "timestamp": "2023-03-18T15:05:32",
+      "order": 122,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 162,
+      "text": "Focused , Content , Playful , Happy , Comfy",
+      "timestamp": "2023-03-18T20:03:11",
+      "order": 123,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 124,
+      "text": "Sleepy , Awake , Rested , Comfy , Content",
+      "timestamp": "2023-03-19T10:40:55",
+      "order": 124,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 125,
+      "text": "Content , Calm , Happy , Relaxed , Cozy",
+      "timestamp": "2023-03-19T16:01:29",
+      "order": 125,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 126,
+      "text": "Comfy , Content , Calm , Happy , Relaxed",
+      "timestamp": "2023-03-19T21:51:43",
+      "order": 126,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 127,
+      "text": "Productive , Content , Calm , Relaxed , Good",
+      "timestamp": "2023-03-20T10:01:51",
+      "order": 127,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 128,
+      "text": "Content , Sore , Calm , Hungry , Relaxed",
+      "timestamp": "2023-03-20T17:03:02",
+      "order": 128,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 129,
+      "text": "Relaxed , Content , Hungry , Calm , Tired",
+      "timestamp": "2023-03-20T21:28:09",
+      "order": 129,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 130,
+      "text": "Comfy , Cozy , Rested , Sleepy , Content",
+      "timestamp": "2023-03-21T11:27:16",
+      "order": 130,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 131,
+      "text": "Relaxed , Tired , Content , Calm , Comfy",
+      "timestamp": "2023-03-21T17:31:20",
+      "order": 131,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 132,
+      "text": "Comfy , Relaxed , Content , Calm , Tired",
+      "timestamp": "2023-03-21T21:49:23",
+      "order": 132,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 133,
+      "text": "Relaxed , Content , Calm , Comfy , Good",
+      "timestamp": "2023-03-22T11:22:36",
+      "order": 133,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 134,
+      "text": "Comfy , Productive , Calm , Content , Good",
+      "timestamp": "2023-03-22T15:00:58",
+      "order": 134,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 135,
+      "text": "Sleepy , Comfy , Content , Calm , Relaxed",
+      "timestamp": "2023-03-22T22:12:32",
+      "order": 135,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 136,
+      "text": "Sore , Tired , Comfy , Relaxed , Fine",
+      "timestamp": "2023-03-23T10:47:53",
+      "order": 136,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 137,
+      "text": "Sedated , Comfy , Content , Calm , Sleepy",
+      "timestamp": "2023-03-23T15:03:09",
+      "order": 137,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 138,
+      "text": "Good , Sleepy , Drowsy , Comfy , Calm",
+      "timestamp": "2023-03-23T21:25:36",
+      "order": 138,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 139,
+      "text": "Sore , Sleepy , Warm , Content , Relaxed",
+      "timestamp": "2023-03-24T11:13:43",
+      "order": 139,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 140,
+      "text": "Sore , Sleepy , Content , Comfy , Relaxed",
+      "timestamp": "2023-03-24T15:01:07",
+      "order": 140,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 5,
+      "is_words": true
+    },
+    {
+      "text_id": 176,
+      "text": "Relaxed , Rested , Warm , Content , Calm",
+      "timestamp": "2023-06-27T15:00:27",
+      "order": 141,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 177,
+      "text": "Refreshed , Relaxed , Content , Calm , Comfy",
+      "timestamp": "2023-06-27T20:00:31",
+      "order": 142,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 178,
+      "text": "Sleepy , Tired , Comfy , Content , Cozy",
+      "timestamp": "2023-06-28T10:16:43",
+      "order": 143,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 179,
+      "text": "Stressed , Annoyed , Edgy , Clean , Tired",
+      "timestamp": "2023-06-28T17:29:55",
+      "order": 144,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 180,
+      "text": "Tired , Sore , Exhausted , Content , Calm",
+      "timestamp": "2023-06-29T10:22:22",
+      "order": 145,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 181,
+      "text": "Content , Calm , Relaxed , Sleepy , Tired",
+      "timestamp": "2023-06-29T15:26:13",
+      "order": 146,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 182,
+      "text": "Tired , Sleepy , Content , Calm , Comfy",
+      "timestamp": "2023-06-29T21:20:18",
+      "order": 147,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 183,
+      "text": "Sleepy , Rested , Sore , Comfy , Calm",
+      "timestamp": "2023-06-30T11:59:05",
+      "order": 148,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 184,
+      "text": "Calm , Tired , Content , Comfy , Relaxed",
+      "timestamp": "2023-06-30T17:13:09",
+      "order": 149,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 185,
+      "text": "Relaxed , Content , Calm , Comfy , Rested",
+      "timestamp": "2023-06-30T20:26:32",
+      "order": 150,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 186,
+      "text": "Tired , Sore , Relaxed , Comfy , Content",
+      "timestamp": "2023-07-01T10:02:54",
+      "order": 151,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 187,
+      "text": "Peaceful , Relaxed , Content , Satisfied , Comfy",
+      "timestamp": "2023-07-01T16:47:20",
+      "order": 152,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 188,
+      "text": "Happy , Content , Comfy , Calm , Relaxed",
+      "timestamp": "2023-07-01T20:55:14",
+      "order": 153,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 189,
+      "text": "Calm , Comfy , Warm , Relaxed , Content",
+      "timestamp": "2023-07-02T10:44:30",
+      "order": 154,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 190,
+      "text": "Sleepy , Comfy , Relaxed , Content , Shakey",
+      "timestamp": "2023-07-02T20:08:41",
+      "order": 155,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 191,
+      "text": "Relaxed , Comfy , Productive , Calm , Content",
+      "timestamp": "2023-07-03T12:59:27",
+      "order": 156,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 192,
+      "text": "Full , Satisfied , Content , Calm , Comfy",
+      "timestamp": "2023-07-03T15:28:20",
+      "order": 157,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 193,
+      "text": "Tired , Relaxed , Comfy , Calm , Content",
+      "timestamp": "2023-07-03T20:30:41",
+      "order": 158,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 194,
+      "text": "Refreshed , Relaxed , Content , Calm , Chill",
+      "timestamp": "2023-07-04T10:04:44",
+      "order": 159,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 195,
+      "text": "Relaxed , Comfy , Sleepy , Content , Pleased",
+      "timestamp": "2023-07-04T15:12:53",
+      "order": 160,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 196,
+      "text": "Tired , Sleepy , Exhausted , Content , Relaxed",
+      "timestamp": "2023-07-04T21:59:35",
+      "order": 161,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 197,
+      "text": "Relaxed , Tired , Content , Calm , Peaceful",
+      "timestamp": "2023-07-05T11:33:48",
+      "order": 162,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 198,
+      "text": "Full , Satisfied , Relaxed , Content , Calm",
+      "timestamp": "2023-07-05T15:54:38",
+      "order": 163,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 199,
+      "text": "Hot , Relaxed , Comfy , Content , Calm",
+      "timestamp": "2023-07-05T20:03:13",
+      "order": 164,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 163,
+      "text": "Relaxed , Refreshed , Calm , Content , Comfy",
+      "timestamp": "2023-07-06T11:26:59",
+      "order": 165,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 164,
+      "text": "Happy , Content , Clean , Comfy , Satisfied",
+      "timestamp": "2023-07-06T17:15:45",
+      "order": 166,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 165,
+      "text": "Sleepy , Relaxed , Content , Calm , Happy",
+      "timestamp": "2023-07-06T22:40:10",
+      "order": 167,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 166,
+      "text": "Focused , Content , Calm , Happy , Relaxed",
+      "timestamp": "2023-07-07T12:30:48",
+      "order": 168,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 167,
+      "text": "Relaxed , Content , Calm , Happy , Pleased",
+      "timestamp": "2023-07-07T16:03:28",
+      "order": 169,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 168,
+      "text": "Happy , Content , Calm , Pleased , Relaxed",
+      "timestamp": "2023-07-07T21:11:09",
+      "order": 170,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 169,
+      "text": "Relaxed , Rested , Content , Calm , Comfy",
+      "timestamp": "2023-07-08T12:00:30",
+      "order": 171,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 170,
+      "text": "Full , Satisfied , Hot , Content , Calm",
+      "timestamp": "2023-07-08T17:21:54",
+      "order": 172,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 172,
+      "text": "Sleepy , Relaxed , Content , Calm , Comfy",
+      "timestamp": "2023-07-09T12:01:21",
+      "order": 173,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 173,
+      "text": "Tired , Hungry , Relaxed , Content , Bored",
+      "timestamp": "2023-07-09T15:18:29",
+      "order": 174,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 174,
+      "text": "Clean , Refreshed , Hungry , Comfy , Relaxed",
+      "timestamp": "2023-07-10T17:44:51",
+      "order": 175,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 6,
+      "is_words": true
+    },
+    {
+      "text_id": 175,
+      "text": "Relaxed , Clean , Comfy , Content , Happy",
+      "timestamp": "2023-07-10T21:53:13",
+      "order": 176,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 6,
+      "is_words": true
+    }
+  ]
+}

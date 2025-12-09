@@ -1,0 +1,46 @@
+{
+  "user_id": 42,
+  "num_entries": 4,
+  "entries": [
+    {
+      "text_id": 3826,
+      "text": "About to head into a Saturday night dinner shift . I ' m looking forward to being of service , not looking forward to the guests who don ' t know how to fine out and plan to treat me like their slave rather than their host .",
+      "timestamp": "2021-06-12T17:04:25",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3827,
+      "text": "Energized , ready for my last shift of the week . Grateful that I have 2 days in a row off and that I have a job that pays as well as it does . Hopefully tonight will be smooth and by the numbers , that the kitchen performs well and that the guests are easy going .",
+      "timestamp": "2021-06-13T17:11:43",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3828,
+      "text": "I am off today and tomorrow . I spoke with my therapist for my weekly session which is always great because I get to unpack my mind which helps me find balance and a place of calm contentment . Tonight I plan to make dinner with my daughter and her husbsnd and open a nice bottle of wine and relax with all the dogs .",
+      "timestamp": "2021-06-14T17:02:42",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    },
+    {
+      "text_id": 3829,
+      "text": "I am having dinner with my family . The rest of this field will be jabbering .\\ n ' Xxxxxxxxxxxxxxxxxxxxxxxxcxxxxxxxxxxcccccccccxxxgycdthxdibvdyic astonished sorority idiosyncrasies conscription PERSON auctions PERSON",
+      "timestamp": "2021-06-14T22:03:40",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": false
+    }
+  ]
+}

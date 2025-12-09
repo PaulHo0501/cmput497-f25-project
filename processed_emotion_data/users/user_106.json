@@ -1,0 +1,96 @@
+{
+  "user_id": 106,
+  "num_entries": 9,
+  "entries": [
+    {
+      "text_id": 1822,
+      "text": "Nostalgic , Sad , Lonely , Tired , Sleepy",
+      "timestamp": "2024-10-12T12:33:32",
+      "order": 0,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1823,
+      "text": "I feel extremely inconvenienced . I wish I could go back and time and change my decisions so I\u2019m not in the situation that I\u2019m currently in . I\u2019m grateful that my inconvenience is minor and temporary , but I\u2019m still annoyed .",
+      "timestamp": "2024-10-13T12:31:10",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1824,
+      "text": "I\u2019m feeling a little tired but I feel like I have a lot of things that I\u2019m looking forward to doing . I finished my outstanding tasks that I was dreading . I feel relieved and know that I can rest soon .",
+      "timestamp": "2024-10-14T12:51:27",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1825,
+      "text": "I\u2019m tired but I feel relaxed . I finally have free time . I am looking forward to eating food and unwinding . My day is finally over and I don\u2019t have any outstanding obligations . I\u2019m grateful that I didn\u2019t have a stressful day .",
+      "timestamp": "2024-10-14T22:02:10",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1826,
+      "text": "Relaxed , Easygoing , Peaceful , Positive , Productive",
+      "timestamp": "2024-10-16T12:37:03",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1827,
+      "text": "I feel exhausted and drained . I feel like I need a nap . I want to sleep . I can\u2019t wait to rest and relax . I\u2019m also frustrated because piece of the back of my phone glass is falling off . I hope it doesn\u2019t break more .",
+      "timestamp": "2024-10-16T17:29:19",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1828,
+      "text": "I recently had a scary motorcycle accident and I\u2019m still recovering . I feel very shaken up and afraid to ride my motorcycle again . I\u2019m feeling very sad right now because of the incident . I also feel uneasy .",
+      "timestamp": "2024-10-18T12:12:43",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 1830,
+      "text": "Congested , Sick , Tired , Relaxed , Mellow",
+      "timestamp": "2024-10-19T12:58:23",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 1831,
+      "text": "I\u2019m feeling relaxed and at ease . I\u2019m not too stressed about anything at the moment . I\u2019m still a bit sick which is frustrating but my symptoms seem to have improved . I am looking forward to getting rest and getting better .",
+      "timestamp": "2024-10-19T22:27:48",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

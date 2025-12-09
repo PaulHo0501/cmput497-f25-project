@@ -1,0 +1,26 @@
+{
+  "user_id": 35,
+  "num_entries": 2,
+  "entries": [
+    {
+      "text_id": 2408,
+      "text": "Proud , Frustrated , Annoyed , Impressed , Healthy",
+      "timestamp": "2021-03-23T12:00:37",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 2409,
+      "text": "Annoyed , Frustrated , Sad , Busy , Productive",
+      "timestamp": "2021-03-26T15:37:34",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

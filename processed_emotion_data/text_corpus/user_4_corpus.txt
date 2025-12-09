@@ -1,0 +1,8 @@
+[ENTRY_279] Motivated , Friendly , Attentive , Anxious , Overwhelmed
+[ENTRY_280] Active , Competitive , Nostalgic , Sociable , Nervous
+[ENTRY_281] Anxious , Nervous , Tired , Overwhelmed , Positive
+[ENTRY_282] Stressed , Overtired , Overworked , Impatient , Hungry
+[ENTRY_283] Frustrated , Stuck , Unfulfilled , Angry , Anxious
+[ENTRY_284] Nervous , Anxious , Overwhelmed , Over worked , Tired
+[ENTRY_285] Relaxed , Outgoing , Cheerful , Attentive , Aware
+[ENTRY_286] Stressed , Overwhelmed , Anxious , Fearful , Confused

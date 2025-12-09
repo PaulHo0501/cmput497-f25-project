@@ -1,0 +1,17 @@
+[ENTRY_1195] Bored , Sleepy , Quiet , Anxious , Annoyed
+[ENTRY_1196] I’m feeling content . My afternoon check in meeting with my supervisor was canceled , so I got some time back for myself to study . I am relieved to be done with classes for the week and ready to hopefully recharge over the weekend .
+[ENTRY_1197] I am feeling a bit anxious but I’m actively trying to stay calm . I hope to stay alert enough to study for the next few hours so I am trying to regulate my feelings and be positive . I went on a walk earlier and that helped me a lot .
+[ENTRY_1198] I am feeling quite sleepy and tired at the moment . Even though I would say that I got a good night ' s sleep , I am not as alert as I usually am when I wake up after sleeping in . This makes me realize that I have been neglecting my rest the past couple of days .
+[ENTRY_1199] Stable , Calm , Determined , Focused , Introspective
+[ENTRY_1200] I’m currently feeling pretty satisfied . I’ve spent most of my time inside and had a restful day today thankfully . I’m still studying while also trying to relax to get ready for bed . I am hopeful that I will wake up early tomorrow so I will try to keep this calmness in anticipation of this .
+[ENTRY_1201] Annoyed , Anxious , Disappointed , Impatient , Nervous
+[ENTRY_1202] I am a bit dissatisfied with the progress I’ve made with my studying but excited to get the next few days of exams over with . I am relieved that I do not have any early lectures tomorrow and my third class will be held virtually .
+[ENTRY_1203] Stressed , Nervous , Tired , Sleepy , Unfocused
+[ENTRY_1204] I am currently feeling a bit stressed about exams . I am also a bit busy and overwhelmed at the moment due to other meetings and deadlines ,, but I am trying to stay focused . I have been distracted for the past couple of days , so I hope to stay on task today .
+[ENTRY_1205] Stressed , Impatient , Annoyed , Overwhelmed , Tired
+[ENTRY_1206] I feel somewhat relieved as I just finished taking an exam . However , I am still quite stressed , as I have another exam tomorrow . I am trying to feel as calm as I can in order to focus on studying . I am excited for the next couple of days to be done .
+[ENTRY_1207] Sleepy , Anxious , Frustrated , Apprehensive , Tired
+[ENTRY_1208] Overwhelmed , Frustrated , Upset , Exhausted , Dreadful
+[ENTRY_1209] Sleepy , Exhausted , Tired , Stressed , Drained
+[ENTRY_1210] Productive , Tired , Stable , Determined , Focused
+[ENTRY_1211] Satisfied , Lazy , Introspective , studios , Grateful

@@ -1,0 +1,106 @@
+{
+  "user_id": 66,
+  "num_entries": 10,
+  "entries": [
+    {
+      "text_id": 4774,
+      "text": "Presently I\u2019m radiating vibrant energy , my jovial spirit vivacious and zestful . An exhilarating euphoria coursed through me , rendering me absolutely radiant with an enthusiastic likeness that I could barely be contained .",
+      "timestamp": "2024-07-26T17:39:49",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4775,
+      "text": "My overall emotional state can best be described as quite . There is a serene , tranquil quality to how I am feeling right now , a sense of calmness and composure that permeates my inner experience . \\nI find myself content to simply exist in this calm , grounded manner .",
+      "timestamp": "2024-07-27T12:07:57",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4776,
+      "text": "Joyful , Blissful , Delighted , Cheerful , Elated",
+      "timestamp": "2024-07-27T17:06:10",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4778,
+      "text": "Delighted , Blissful , Exuberant , Jubilant , Joyful",
+      "timestamp": "2024-07-27T22:04:52",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4779,
+      "text": "Drained , Sluggish , Exhausted , Fatigued , Listlessly",
+      "timestamp": "2024-07-28T12:01:45",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4780,
+      "text": "I felt very very tired . All my energy was completely gone . My whole body felt heavy and slow . Even lifting my arms or legs took massive effort because I\u2019m so drain right now . I\u2019m tired down to my bones , making my muscles feel weak and lifeless .",
+      "timestamp": "2024-07-28T17:07:40",
+      "order": 5,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4781,
+      "text": "Depleted , Enervated , Spent , Worn out , Sapped",
+      "timestamp": "2024-07-29T12:30:25",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4782,
+      "text": "Presently I\u2019m feeling tired and week . The tiredness made me feel lifeless , like a empty husk just going through the motions . All my liveliness and spark is been completely sap away by the overwhelming fatigue . My only desire right now is to take alcohol fall and fall into a deep sleep to hopefully recharge my drain mind and body .",
+      "timestamp": "2024-07-29T17:21:25",
+      "order": 7,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4783,
+      "text": "Calm , Muted , Peaceful , Serene , Still",
+      "timestamp": "2024-07-30T12:02:12",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4784,
+      "text": "Joyful , Blissful , Cheerful , Elated , Delighted",
+      "timestamp": "2024-07-31T17:20:38",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

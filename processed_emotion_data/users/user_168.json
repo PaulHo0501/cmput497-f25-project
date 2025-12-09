@@ -1,0 +1,176 @@
+{
+  "user_id": 168,
+  "num_entries": 17,
+  "entries": [
+    {
+      "text_id": 4253,
+      "text": "I\u2019m currently experiencing a mix of emotions . I am a little bit stress , tired , but at the same time , I\u2019m feeling grateful for the life that I have . On the other hand , I am a little bit worried about some school things , but at the same time I have faith that everything will work out . Currently , trying to stay positive and fight procrastination to achieve my personal goals for today\u2019s day .",
+      "timestamp": "2024-11-07T12:02:25",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4254,
+      "text": "Tired , Bored , Grateful , Stressed , Heavy",
+      "timestamp": "2024-11-07T17:02:19",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4255,
+      "text": "I\u2019m currently feeling better than before , more relaxed . I had a nice meal and a good laugh , which was all I needed for today . Feeling grateful , and happy for everything that is going on in my life right now .",
+      "timestamp": "2024-11-07T22:04:24",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4256,
+      "text": "I am currently feeling calm and excited for today , I am excited and enthusiastic to learn . Definitely , have more energy than yesterday . Very grateful for everything and everyone in my life . Looking forward to continue with this grateful feeling for the rest of the day .",
+      "timestamp": "2024-11-08T12:04:39",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4257,
+      "text": "I am currently feeling mixture of excitement and anticipation as a few exams approach . I am also a little bit tired , but overall feeling good and at peace at this moment . Trying to stay positive and focused on my goals",
+      "timestamp": "2024-11-08T17:19:44",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4258,
+      "text": "Still feeling calm and happy . As the day comes to an end , I am starting to feel a little bit tired for all of the errands that I had to do today . Overall , still feeling grateful for everything in my life and looking forward to have a good day tomorrow !",
+      "timestamp": "2024-11-08T22:33:10",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4259,
+      "text": "Currently feeling content and tired . Looking forward to rest for a few minutes and continue with my happy . Overall , it has been a great day , which is keeping me motivated , grateful and happy . Looking forward for the rest of my day to be filled with positive energy .",
+      "timestamp": "2024-11-09T17:04:29",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4260,
+      "text": "I am currently feeling extremely grateful , happy and calm . My heart is full of gratitude and positivity after having a successful day . Looking forward for another great day tomorrow\u2026 Ready to rest and have a good sleep .",
+      "timestamp": "2024-11-09T22:34:46",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4261,
+      "text": "Tired , Grateful , Excited , Positive , Happy",
+      "timestamp": "2024-11-10T17:07:02",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4262,
+      "text": "Currently feeling happy and very good about the outcome of my day , looking forward to rest and hoping to have an amazing day tomorrow ! I\u2019m also feeling a little tired , but as I get ready to rest for the night , I am definitely feeling grateful for today\u2019s day .",
+      "timestamp": "2024-11-10T22:12:04",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4263,
+      "text": "Today I woke up feeling extremely motivated , happy and energized . Looking forward to have an amazing day , enjoy every minute of it and learn new things thoughout this day . Looking forward to keep this positive energy going .",
+      "timestamp": "2024-11-11T12:20:07",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4264,
+      "text": "Feeling quite , even though I\u2019m still in my \u201cgratefulness bubble\u201d today has been a really busy day , full of social interactions , which has me a little bit drained , but still feeling content , grateful and full of positivity for the rest of my day .",
+      "timestamp": "2024-11-11T17:01:54",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4265,
+      "text": "Feeling quiet , and in the unwinding as the night goes on . Looking forward to relax and have a great sleep , which I 100 % need after today , which was an amazing and productive day . Hoping that tomorrow will be a new day full of opportunities and positivity .",
+      "timestamp": "2024-11-11T22:22:22",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4266,
+      "text": "Woke up feeling great . As my day as started I\u2019ve had some amazing interactions with great people ! Which has made the start of my day a good looking . Looking forward to keep this positive energy and radiate it to others .",
+      "timestamp": "2024-11-12T12:18:11",
+      "order": 13,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4267,
+      "text": "Currently feeling happy , and grateful for all of the opportunities that I have had today . Feeling a little bit tired , but still pushing through the day , as I still have a few more commitments for today . Looking forward for the rest of my day to be as nice as it has been .",
+      "timestamp": "2024-11-12T17:02:27",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4268,
+      "text": "Currently feeling extremely excited and happy of all the things I\u2019ve learned today . Feeling extremely grateful for all of the opportunities that I have . Looking forward to have a great day tomorrow and keep learning !",
+      "timestamp": "2024-11-12T22:22:50",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4269,
+      "text": "Woke up feeling extra grateful for all of the wonderful things that are currently happening to me , and all of the opportunities that I have . Currently feeling , extremely enthusiastic for the day ahead and all of the doors that will be opening for me .",
+      "timestamp": "2024-11-13T12:32:11",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

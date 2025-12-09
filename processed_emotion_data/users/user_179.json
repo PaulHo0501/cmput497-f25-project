@@ -1,0 +1,196 @@
+{
+  "user_id": 179,
+  "num_entries": 19,
+  "entries": [
+    {
+      "text_id": 4529,
+      "text": "I\u2019m not bursting with energy but I\u2019m waking with a gentle enthus , My senses are heightened , I want to laugh , I\u2019m alive and I\u2019m feeling it , I feel calm",
+      "timestamp": "2024-09-22T22:58:00",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4530,
+      "text": "Not really feeling good , Feeling like something is wrong but can\u2019t figure out what , I wish I\u2019m not experiencing this at the moment , Hate it when I can\u2019t reach something I wish to get done , I feel bad",
+      "timestamp": "2024-09-23T12:06:34",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4531,
+      "text": "I ' m feeling pretty neutral about a lot of things I don ' t have strong feelings either way .\\ nI\u2019m not really interested in the outcome . I ' m just okay with whatever happens .\\ nI\u2019m really bothered and trying to make it look natural",
+      "timestamp": "2024-09-23T22:15:05",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4532,
+      "text": "Understanding , Calm , Lively , Calmness , Balance",
+      "timestamp": "2024-09-24T12:15:47",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4533,
+      "text": "Feeling lost in thoughts with a little touch of sadness , a bit disappointed but not devastated .\\ nFeeling mildly nostalgic , happiness mixed a touch of sadness .\\ nLonging for someone dearly to me and feeling withdrawn at same time .",
+      "timestamp": "2024-09-24T22:45:19",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4534,
+      "text": "I\u2019m feeling neither particularly happy or unhappy at the moment just going about my daily routine .\\ nEverything seems fairly manageable at the moment with no emotional intensity .\\ nMy feelings are neither decidedly positive or negative",
+      "timestamp": "2024-09-25T12:08:35",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4535,
+      "text": "I\u2019m currently feeling the quietness in form of a river flowing through me like a calm ocean .\\ nThe quietness has brought me a sense of peace .\\ nI might say I Feels so calm and collected in the serene moments",
+      "timestamp": "2024-09-25T22:32:57",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4536,
+      "text": "Indifferent , No opinion , Undecided , No strong feelings , It\u2019s fine",
+      "timestamp": "2024-09-26T17:34:52",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4537,
+      "text": "Calm , Unbiased , Composed , Stable , Balance",
+      "timestamp": "2024-09-26T22:29:36",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4538,
+      "text": "Awaken , Active , Lively , Bold , Vigorous",
+      "timestamp": "2024-09-27T12:02:33",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4539,
+      "text": "As I settled into the couch , surrounded by th comfort familiarity of home my sluggish body finally began to relax , surrendering to the exhaustion .\\ nStruggling to shake of the sluggish tiredness away from my body",
+      "timestamp": "2024-09-28T17:55:13",
+      "order": 10,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4540,
+      "text": "Neutral , Calm , Unbiased , Stable , Compose",
+      "timestamp": "2024-09-29T12:58:32",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4541,
+      "text": "The warm atmosphere seems to enveloped me in a Damp hug , leaving me feeling somewhat sluggish and lethargic , leaving me unable to summon the energy to tackle even the simplest of task .\\ nFeels like hitting a wall",
+      "timestamp": "2024-09-29T17:14:35",
+      "order": 12,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4542,
+      "text": "I feel the quiet atmosphere enveloped me calming my racing thoughts , soft whispering fills the room calming my disturbed nerves .\\ nMy mind feels calm like still pond , flowing to and fro and peaceful like a calm ocean",
+      "timestamp": "2024-09-30T12:47:46",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4543,
+      "text": "Quiet , Calm , Reserved , Compose , Relaxed",
+      "timestamp": "2024-09-30T17:54:05",
+      "order": 14,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4544,
+      "text": "I\u2019m feeling quiet in the quiet hours of the morning , as the world awakens , I found solace in the silence , my thoughts awakened and my spirit renewed .\\ nThe quiet rhythm of playing sound creates a calming melody washing away my worries and anxiety , my soul feels peaceful",
+      "timestamp": "2024-10-01T12:41:02",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4545,
+      "text": "Somber , Sad , Pensive , Wistful , Unhappy",
+      "timestamp": "2024-10-01T22:47:51",
+      "order": 16,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4546,
+      "text": "Neutral , Unbiased , Detached , Preserve , Unbothered",
+      "timestamp": "2024-10-03T12:32:16",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4547,
+      "text": "Neutral , Impartial , Serene , Calm , Stable",
+      "timestamp": "2024-10-03T17:47:01",
+      "order": 18,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

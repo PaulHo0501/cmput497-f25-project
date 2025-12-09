@@ -21,7 +21,6 @@ def prepare_lexicon():
     df = pl.read_csv(LEXICON_PATH, separator='\t')
     df.drop_in_place('dominance')
     
-    # Scale NRC (0-1) 
     df_scaled = df.with_columns([
         (pl.col("valence") * 2).alias("valence"),
         (pl.col("arousal") * 2).alias("arousal")

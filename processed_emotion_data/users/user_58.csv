@@ -1,0 +1,38 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1477,I feel more energized than few hours ago but I still need to recoup from last night ' s overnight shift . I feel more balanced and less anxious . Having today ' s off is what I needed the most . Let ' s hope that the remaining of the day will help become more relaxed .,2024-07-20T17:38:34,0,-1.0,0.0,7,False
+1484,"Happy , Wellrested , Focused , Determined , Optimistic",2024-07-21T12:04:40,1,1.0,0.0,7,True
+1485,"Neutral , Determined , Wellrested , Optimistic , Satisfied",2024-07-21T17:08:46,2,0.0,1.0,7,True
+1486,"Wellrested , Fine , Optimistic , Relaxed , Engaging",2024-07-22T12:42:25,3,0.0,1.0,7,True
+1498,"Neutral , Optimistic , Focused , Wellprepared , Courageous",2024-07-22T17:01:31,4,0.0,1.0,7,True
+1509,"Accomplished , Proud , Happy , Content , At peace",2024-07-22T22:00:32,5,1.0,1.0,7,True
+1520,"I just woke up . I feel good , refreshed , well-rested and optimistic . As soon as I finish this survey , I will start my day and I know it will be a great one . I don ' t feel bothered or distraughted .   Good   and peaceful things will come my way today . I am so sure of that .",2024-07-23T12:01:28,6,0.0,1.0,7,False
+1570,"I will start my shift at work in 30 minutes . I feel relaxed and optimistic . I am sipping on my favorite non-alcoholic drink while waiting for my time to start . I need to be further relaxed . I feel good , not nervous at all .",2024-07-23T17:01:08,7,0.0,1.0,7,False
+1581,"Lethargic , Tired , Unmotivated , Sluggish , Unfocused",2024-07-23T22:02:26,8,-1.0,0.0,7,True
+1592,"I feel sluggish after waking up as I haven ' t slept well last night . Before that , work was not bad , but I felt unsatisfied and wondered why I was there . I thought I would ' ve conquered the day . Ultimately , it wasn ' t the case . I hope that today will be better .",2024-07-24T12:28:03,9,-1.0,0.0,7,False
+1778,"Fine , Neutral , Prepared , Optimistic , Focused",2024-07-24T17:06:15,10,0.0,1.0,7,True
+1797,"Neutral , Focused , Animated , Optimistic , Social",2024-07-24T22:02:34,11,0.0,1.0,7,True
+1819,"Neutral , Relaxed , Fine , Optimistic , Great",2024-07-25T12:29:35,12,0.0,1.0,7,True
+1829,"Neutral , Fine , Optimistic , Lethargic , Confident",2024-07-25T17:03:44,13,0.0,1.0,7,True
+1840,"Neutral , Wellrested , Calm , Optimistic , Fine",2024-07-25T22:33:45,14,0.0,1.0,7,True
+1851,"I woke up a little bit lethargic but , as soon as I got ready to start my day , I felt better but not great . I just feel fine . I just hope that my day will be better and I will experience more exciting things through it .",2024-07-26T12:03:25,15,0.0,1.0,7,False
+1862,"I feel neutral . I am on lunch right now . I had a good shift so far . The customers , drivers and affiliates didn ' t bother at all and I was willing to help them . I feel good . I hope that the rest of my shift and overall day goes as smoothly as possible .",2024-07-26T22:02:48,16,0.0,1.0,7,False
+1873,"Neutral , Restored , Fine , Optimistic , Wellprepared",2024-07-27T12:06:17,17,0.0,1.0,7,True
+1884,"I feel a little jittery . Intrusive thoughts about my life and how myself on the next 15 years got me somewhat scared . I realize that I don ' t like as how my life is so far : my health , my job , my finances , my dating life (which is non-existent) , the city and country I currently live in . I know that this feeling is a call to change but there are too many options and I don ' t know where to start . I hope those thoughts dissipate as my day goes by .",2024-07-27T17:01:06,18,-1.0,2.0,7,False
+1895,I feel neutral . I am actually feeling better than the last few hours . Chitchatting with my colleagues made me feel better and less anxious . I feel more confident about the future . I hope that the remainder of my shift will go as smoothly as possible .,2024-07-27T22:20:44,19,0.0,1.0,7,False
+1910,"OK , Fine , Optimistic , Focus , Refreshed",2024-07-28T17:25:18,20,0.0,1.0,7,True
+1921,"OK , Fine , Industrious , Focused , Optimistic",2024-07-28T22:04:41,21,0.0,1.0,7,True
+1928,"Ok , Focused , Wellrested , Optimistic , Fine",2024-07-29T12:01:15,22,0.0,1.0,7,True
+1932,"Ok , Focused , Determined , Optimistic , Fine",2024-07-29T17:09:25,23,0.0,1.0,7,True
+1943,"Happy , Satiated , Focused , Determined , Optimistic",2024-07-29T22:26:45,24,1.0,1.0,7,True
+1954,"I just woke up and I am feeling refreshed and well-rested . I am optimistic about how my day will be . I feel calm , not stressed . I am bursting with enthusiasm . As soon as I am done with this survey , I will get ready and prepare for my day at work later on .",2024-07-30T12:00:41,25,2.0,0.0,7,False
+1969,"I am starting my shift in a few minutes . I feel satiated and prepared . I feel relaxed right now . I am just waiting patiently for my shift to start . I am thinking about what I will do my next day off . Probably , doing some house cleaning and go to the movies , or go to the park .",2024-07-30T17:39:09,26,0.0,1.0,7,False
+1980,"I am on my lunch break and I feel good . No stress , no anxiety . I will eat a good lunch and take a nice walk outside . I am not worried about the rest of my shift . So far , nobody is bothering me and work is going smoothy . I will feel focused and ready .",2024-07-30T22:01:17,27,0.0,1.0,7,False
+1991,"Ok , Fine , Wellrested , Determined , Focused",2024-07-31T12:07:42,28,0.0,1.0,7,True
+2002,"Upbeat , Happy , Satiated , Excited , Optimistic",2024-07-31T17:04:24,29,1.0,1.0,7,True
+2013,"Ok , Accomplished , Relieved , Happy , Proud",2024-07-31T22:02:55,30,1.0,1.0,7,True
+2024,"I just woke up , feeling content . Today is my day off . I get some reprieve from work and will enjoy myself . I will start my day , knowing it would be great and full of positive experiences . I cannot wait to take on that day and , hopefully , it would remain that way all day .",2024-08-01T12:09:55,31,1.0,1.0,7,False
+2036,"Tired , Accomplished , Proud , Satisfied , Happy",2024-08-01T17:00:39,32,-1.0,0.0,7,True
+2041,"I am right now relaxing , watching online content on ORG . I feel fine , no stress and no anxiety . U feel accomplished before I was productive throughout the day by doing groceries and house chores . I know that tomorrow is going to be around .",2024-08-01T22:12:11,33,0.0,1.0,7,False
+2042,"Hot , Sluggish , Disgusting , Thirsty , Lethargic",2024-08-02T12:01:34,34,-1.0,0.0,7,True
+2043,"Fine , Focused , Determined , Optimistic , Ready",2024-08-02T17:01:47,35,0.0,1.0,7,True
+2044,"I just finished lunch at work . It was a very good meal . I got more than I have ordered . I felt lucky and content about the outcome . Now , I am just relaxing until my lunch break is over . I feel happy . I hope that my level of happiness stays throughout the reminder of my shift tonight .",2024-08-02T22:37:14,36,1.0,0.0,7,False

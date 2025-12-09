@@ -1,0 +1,5 @@
+[ENTRY_1410] Exhausted , Drained , Unfocused , Stressed , Hot
+[ENTRY_1411] Tired , Achy , Grumpy , Anxious , Lethargic
+[ENTRY_1412] Tired , Headachey , Hot , Sneezy , Grumpy
+[ENTRY_1413] tired , frustrated , grumpy , lethargic , hot
+[ENTRY_1414] Tired , Lethargic , Nitpicky , Grumpy , Unfocused

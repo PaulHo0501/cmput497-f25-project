@@ -1,0 +1,106 @@
+{
+  "user_id": 61,
+  "num_entries": 10,
+  "entries": [
+    {
+      "text_id": 2970,
+      "text": "Happy , Smile , Tired , Angry , Sad",
+      "timestamp": "2024-08-03T17:00:36",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2981,
+      "text": "Right now I ' m feeling great . Was able to get some choir done such as cleaning and ordering food for my self . As right now I ' m feeling great I was able to clean up the entire living room and feeling very positive about it",
+      "timestamp": "2024-08-03T22:00:26",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2992,
+      "text": "Having just woke up and starting my day I will be \\nHave a positive attitude towards life and cleaning and taking care . Today I plan to knock out and clean the refrigerator and try and clean a little bit more I have a positive and have a great attitude",
+      "timestamp": "2024-08-04T12:06:39",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3003,
+      "text": "Tired , Anger , Relaxed , Focus , Determine",
+      "timestamp": "2024-08-04T17:15:19",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3014,
+      "text": "Have them woken up I was able to cook breakfast shower as well as I ' m getting a little running so I ' m going to get a few happy stuff I guess I ' m told you about the house I was such as and what they don ' t maintenance to fix the gas line and then do some shopping around the house",
+      "timestamp": "2024-08-05T17:26:35",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3025,
+      "text": "Happy , Excited , Proud , Sad , Anger",
+      "timestamp": "2024-08-07T12:22:51",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3037,
+      "text": "Sad , Upset , Frustration , Scared , Worry",
+      "timestamp": "2024-08-07T17:00:24",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3043,
+      "text": "Tired , Worried , Scared , Happy , Fear",
+      "timestamp": "2024-08-07T22:07:05",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3047,
+      "text": "Sad , Tired , Hungry , Happy , Excited",
+      "timestamp": "2024-08-10T17:00:25",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3058,
+      "text": "Right now I ' m feeling content calm and hungry so in a few minutes I will cook me a big meal I relax with some music and then also get service for items done around the house such as cleaning and cooking stuff",
+      "timestamp": "2024-08-10T22:02:02",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

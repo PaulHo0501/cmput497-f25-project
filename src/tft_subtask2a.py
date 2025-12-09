@@ -240,7 +240,7 @@ def main():
     all_actuals_batches = [y[0] for _, y in iter(val_dataloader)]
     if isinstance(target_arg, list):
         if predictions.ndim == 3: 
-            predictions = predictions.squeeze(1) # Remove prediction_length dim if 1
+            predictions = predictions.squeeze(1)
         n_targets = len(target_arg)
         actuals_per_target = []
         for t_i in range(n_targets):
@@ -252,7 +252,7 @@ def main():
                 "actuals": target_t_actuals,
                 "target_name": training_targets[t_i],
                 "raw_name": raw_cols_to_use[t_i],
-                "target_idx": t_i # Used to fetch encoder history
+                "target_idx": t_i
             })
             
     else:
@@ -265,7 +265,7 @@ def main():
             "actuals": actuals_np,
             "target_name": target_arg,
             "raw_name": raw_cols_to_use[0],
-            "target_idx": 0 # Usually 0 if single target
+            "target_idx": 0
         })
     
     encoder_lengths = x['encoder_lengths']
@@ -280,7 +280,6 @@ def main():
         print(f"\n--- EVALUATION: {t_name.upper()} ---")
 
         if args.approach == "direct":
-            # Direct: Preds are Changes, Actuals are Changes
             mse = np.mean((preds - actuals) ** 2)
             rmse = np.sqrt(mse)
             print(f"Method: Direct Prediction")

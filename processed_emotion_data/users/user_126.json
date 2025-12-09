@@ -1,0 +1,186 @@
+{
+  "user_id": 126,
+  "num_entries": 18,
+  "entries": [
+    {
+      "text_id": 2892,
+      "text": "Content and relaxed . I just ate dinner (two grilled cheese sandwiches with turkey) and am winding down for the day . I\u2019m calm and ready for the upcoming week . I\u2019m on the phone with my boyfriend , and we are simply relaxing and spending time with each other . There is nothing too stressful going on in my life so I\u2019m rather laid back right now .",
+      "timestamp": "2024-09-22T22:28:07",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2893,
+      "text": "I feel okay .   Not too excited or happy for anything in particular but not drained or upset .   I feel very neutral , but slightly upbeat .   I ' m almost done with classes for today and am not stressed out over any homework or assignments .   I feel fine at work , nothing is bothering me , but I do feel bored sometimes .",
+      "timestamp": "2024-09-23T17:35:34",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2894,
+      "text": "I ' m about to take the first half of my Spanish quiz .   I ' m a little nervous , but trying not to let it get to me .   I really want to do well , so I ' m feeling a bit anxious about my performance .   I ' m trying not to work myself up and remain calm by grounding myself .   I know that after this class , I will feel much better , regardless of how I do .   This is the only thing that ' s really on my mind , I ' m really focused on my performance .",
+      "timestamp": "2024-09-24T12:13:04",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2895,
+      "text": "I\u2019ve calmed down a bit from earlier today . Now I just feel sad . Not super stressed or deeply hopeless . Just sad . I\u2019m trying to not get lost in my mind and am just distracting myself . I have things to keep me busy and people I can talk to , I just feel a lingering bit of blueness .",
+      "timestamp": "2024-09-24T22:00:55",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2896,
+      "text": "I still feel very neutral . I\u2019m in class right now , trying to stay engaged . Nothing urgent or pressing is coming up but I am feeling burdened ( ? ) by some physical pains right now . They are mild but persistent which makes me feel a bit worse for wear , but not entirely awful .",
+      "timestamp": "2024-09-25T17:01:28",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2897,
+      "text": "Neutral , Pleasant , Okay , Meh , Fine",
+      "timestamp": "2024-09-25T22:38:01",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2898,
+      "text": "I\u2019m about to take a quiz so I\u2019m a bit nervous as to how I\u2019ll do on it . It\u2019s not too intimidating , but I think just a natural case of the jitters that comes with taking tests and quizzes . I woke up with a bad headache too so I feel a bit sluggish from that , but luckily I still feel focused for my quiz .",
+      "timestamp": "2024-09-26T12:22:53",
+      "order": 6,
+      "valence": -1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2899,
+      "text": "I feel neutral . I\u2019ve gotten part of my Spanish quiz back and I\u2019m content with my grade . I have a bit of a headache which is bothering me , but it\u2019s not affecting my mood or activity too much . I feel fine and okay .",
+      "timestamp": "2024-09-26T17:00:53",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2901,
+      "text": "I\u2019m spending time with my friends . I feel very happy , light of heart . I feel safe and comfortable and am having a great time . I don\u2019t have anything stressful on my mind or anything weighing me down . We\u2019re all having a good time .",
+      "timestamp": "2024-09-26T22:42:56",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2902,
+      "text": "Plain , Okay , Neutral , Pleasant , Good",
+      "timestamp": "2024-09-27T12:00:51",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2903,
+      "text": "Happy , Full , Relaxed , Pleasant , Good",
+      "timestamp": "2024-09-27T17:00:43",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2904,
+      "text": "I feel okay . Not particularly enthusiastic about anything but also not feeling down over anything . I\u2019m in a good mood but just neutral . Very lazy Saturday feelings . Just existing . I don\u2019t have any homework to worry about at the moment and am doing okay academically/socially .",
+      "timestamp": "2024-09-28T17:16:49",
+      "order": 11,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2905,
+      "text": "I feel okay . I woke up feeling about the same , which sucks but it\u2019s good I don\u2019t feel worse . I hope whatever I\u2019m sick with is minor . I\u2019m excited for some events in the coming weeks and am on top of my work . I feel pleasant with the exception of whatever has me sick .",
+      "timestamp": "2024-10-01T12:15:15",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2906,
+      "text": "Okay , Fine , Meh , Tired , Pleasant",
+      "timestamp": "2024-10-01T17:26:05",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2907,
+      "text": "Okay , Chill , Relaxed , Fine , Pleasant",
+      "timestamp": "2024-10-02T12:42:32",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2908,
+      "text": "I feel okay . I\u2019m definitely tired and my head feels like it\u2019s full of sand (clogged sinuses) but emotionally I\u2019m fine . I don\u2019t have any homework for the rest of the week and no pressing concerns or projects . I\u2019m just going to focus on taking it easy for the next few days to get rid of what I have , but I\u2019m at a nice steady neutral right now .",
+      "timestamp": "2024-10-02T22:27:32",
+      "order": 15,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2909,
+      "text": "Sick , Down , Meh , Tired , Drained",
+      "timestamp": "2024-10-03T12:18:13",
+      "order": 16,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2910,
+      "text": "I feel okay . Nothing exciting is going on , I\u2019m just trying to relax and rest to purge my sickness out . I feel a bit of FOMO watching all of my friends hang out while I just rest , but it\u2019s fine I guess . It\u2019s just a bit sucky .",
+      "timestamp": "2024-10-04T17:44:00",
+      "order": 17,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

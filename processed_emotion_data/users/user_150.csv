@@ -1,0 +1,21 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+3814,"Content , Relieved , Optimistic , Principled , Loved",2024-06-12T17:00:28,0,1.0,1.0,7,True
+3815,"Satiated , Energized , Content , Optimistic , Creative",2024-06-12T22:00:58,1,1.0,2.0,7,True
+3816,"Relaxed but in anticipation of a upcoming work meeting . Self assured but a little shaky in the knees . This upcoming meeting feels like an athletic event . I can acknowledge that my job has drained me more than it has compensated me , and that is just an indicator that it ' s not a good fit . I ' m relieved to be leaving .",2024-06-13T12:00:28,2,1.0,1.0,7,False
+3817,"relaxed , Rushing , Time crunched , Anxious , Annoyed",2024-06-13T17:00:26,3,0.0,1.0,7,True
+3818,"A little disheartened over an argument with my partner where I once again failed to communicate anything other than rage when he made an ass backwards racist comment with the conviction that race and IQ are intrinsically related . I ' m disappointed , dejected , and disinterested in resolving this through conversation .",2024-06-14T12:00:29,4,-1.0,0.0,7,False
+3819,"After resolving a disagreement with my partner through mindful and patient communication , I am again relieved and freshly receptive to new opportunities and possibilities that I can harness for myself through persistence , confidence , and embracing challenging situations .",2024-06-14T17:13:21,5,1.0,1.0,7,False
+3820,"Sore , Tired , Greasy , Warm , Sticky",2024-06-15T12:01:06,6,-1.0,0.0,7,True
+3821,"Felt energized this morning and practiced yoga , played guitar and had a light breakfast until my partner woke up . Took a relaxing walk , processing recent events and emotions surrounding career and society . Then I played Bee Simulator and had great sex with my partner . Going to a birthday party soon with free barbecue . Life is good .",2024-06-15T17:57:43,7,2.0,1.0,7,False
+3822,"Just got back from a birthday party and it was a lot of free food which is always nice . Having a good bowel movement at this moment , and settling in for a calm and relaxing night with my partner . Content overall .",2024-06-15T22:52:13,8,1.0,1.0,7,False
+3823,"Calm , Indifferent , Present , Mindful , Chill",2024-06-16T12:00:24,9,0.0,1.0,7,True
+3824,"Happy , Comforted , Pampered , Loved , Joyful",2024-06-16T17:14:26,10,1.0,1.0,7,True
+3825,"Tired , Sore , Sleepy , Heavy , Groggy",2024-06-18T12:08:16,11,-2.0,0.0,7,True
+3835,"Aware , Antsy , Impatient , Gassy , Full",2024-06-22T17:34:04,12,-1.0,2.0,7,True
+3836,"Peaceful , Calm , Warm , Fluid , Curious",2024-06-23T12:08:54,13,-1.0,0.0,7,True
+3837,"Warm , Tired , Unmotivated , Puddle , Full",2024-06-23T17:48:36,14,-1.0,0.0,7,True
+3838,"Calm , Refreshed , Introspective , Enriched , Meager",2024-06-23T22:13:18,15,1.0,1.0,7,True
+3839,I feel a bit lethargic due to excessive sleep and am beginning to question whether or not I am exhibiting the preliminary symptoms of what I could identify to be acute hypo-depressive episode . However this is to be expected since I am experiencing a number of changes in my life that include having more leisure time to sleep . I have a tendency to be very self critical .,2024-06-24T12:59:07,16,-1.0,0.0,7,False
+3840,"Chill , Calm , Satisfied , Warm , Leisurely",2024-06-24T17:40:54,17,2.0,0.0,7,True
+3841,"Energized , Active , Mobile , Motivated , Happy",2024-06-24T22:24:04,18,0.0,2.0,7,True
+3842,"Motivated , Proud , Settled , Talented , Fitted",2024-06-25T17:23:25,19,0.0,1.0,7,True

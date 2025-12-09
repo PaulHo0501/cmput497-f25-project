@@ -1,0 +1,136 @@
+{
+  "user_id": 71,
+  "num_entries": 13,
+  "entries": [
+    {
+      "text_id": 4960,
+      "text": "I feel good . Very calm also . Maybe somewhat tired emotionally . I ' m not angry , just not completely excited . I feel exhausted mentally . Sometimes maybe tensed too . Like a cold feeling within , maybe sadness . But definitely not completely happy . It ' s just majorly a feeling of exhaustion and emotional distress and most likely physical tiredness .",
+      "timestamp": "2024-08-29T12:00:46",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4961,
+      "text": "Sad , Heartbroken , Empty , Tired , Anger",
+      "timestamp": "2024-08-29T17:03:35",
+      "order": 1,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4962,
+      "text": "Sleepy , Tired , Sad , Anger , Empty",
+      "timestamp": "2024-08-29T22:11:16",
+      "order": 2,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4963,
+      "text": "Happy , Fulfilled , Calm , Excited , Elevated",
+      "timestamp": "2024-08-30T12:03:49",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4964,
+      "text": "Calm , Tired , Happy , Relaxed , Tired",
+      "timestamp": "2024-08-30T22:41:09",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4965,
+      "text": "I feel tired . I feel extremely sad . I feel heartbroken . I feel empty . I feel like I ' m always causing problems . I feel unhappy . I feel really down , and emotionally unsatisfied . I feel left out . \\nI feel not enough . I feel like I don ' t belong . I feel used , and I feel angry a lot . I ' m so angry",
+      "timestamp": "2024-08-31T12:00:44",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4966,
+      "text": "This Sadness feels like a heavy , hollow ache in the chest , weighing you down . Emptiness , hopelessness , and longing mix with a sense of loss , making everyday tasks feel overwhelming and pointless . Tears , sighs , and silence accompany the emotional pain .",
+      "timestamp": "2024-08-31T17:00:43",
+      "order": 6,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4967,
+      "text": "Sleepy , Tired , Exhausted , Sober , Calm",
+      "timestamp": "2024-09-01T12:04:32",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4968,
+      "text": "Normal , Unbothered , Numb , Quiet , Calm",
+      "timestamp": "2024-09-01T17:00:38",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4969,
+      "text": "Sleepy , Tired , Neutral , Numb , Calm",
+      "timestamp": "2024-09-01T22:05:54",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4970,
+      "text": "Active , Aware , Alive , Eager , Enthusiastic",
+      "timestamp": "2024-09-02T12:35:45",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4971,
+      "text": "Alive , Chill , Calm , Relaxed , Focused",
+      "timestamp": "2024-09-02T17:05:44",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4972,
+      "text": "Silent , Calm , Relaxed , Focused , Sleepy",
+      "timestamp": "2024-09-03T17:41:13",
+      "order": 12,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}

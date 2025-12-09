@@ -1,0 +1,10 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+5135,"Ill , Anxious , Sad , Overwhelmed , Scared",2021-06-09T12:05:43,0,-2.0,0.0,1,True
+5136,"Sick , Tired , Nervous , Stressed , Fearful",2021-06-10T12:01:54,1,-2.0,0.0,1,True
+5137,"Tired , Uncomfortable , Lightheaded , Anxious , Dull",2021-06-11T15:02:57,2,0.0,1.0,1,True
+5138,"Lonely , Depressed , Stressed , Anxious , Bored",2021-06-12T12:04:12,3,0.0,1.0,1,True
+5139,"Surprised , Happy , Content , Special , Confused",2021-06-13T12:45:07,4,0.0,2.0,1,True
+5140,"Surprised , Happy , Loved , Anxious , Wired",2021-06-14T12:18:57,5,2.0,1.0,1,True
+5141,"Apprehensive , Grateful , Talkative , Tired , Dehydrated",2021-06-15T12:48:12,6,1.0,1.0,1,True
+5142,"Tired , Dehydrated , Sluggish , Sick , Numb",2021-06-16T12:07:39,7,-2.0,0.0,1,True
+5134,"Stressed , Happy , Excited , Talkative , Content",2021-06-18T12:21:01,8,1.0,2.0,1,True

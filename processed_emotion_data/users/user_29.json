@@ -1,0 +1,66 @@
+{
+  "user_id": 29,
+  "num_entries": 6,
+  "entries": [
+    {
+      "text_id": 1804,
+      "text": "Happy , Fun , Talking , Excited , Ready",
+      "timestamp": "2021-06-08T12:01:31",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1805,
+      "text": "Fine , Happy , Calm , Cherry , Relaxed",
+      "timestamp": "2021-06-08T17:02:19",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1806,
+      "text": "Rested , Relaxed , Friendly , Outgoing , Happy",
+      "timestamp": "2021-06-09T12:04:45",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1807,
+      "text": "Tired , Defeated , Alone , Scared , Worried",
+      "timestamp": "2021-06-10T17:01:06",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1808,
+      "text": "Sad , Depressed , Worried , Alone , Afraid",
+      "timestamp": "2021-06-10T22:00:58",
+      "order": 4,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 1809,
+      "text": "Sad , Worried , Sacred , Prayers , Anxious",
+      "timestamp": "2021-06-11T12:04:13",
+      "order": 5,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

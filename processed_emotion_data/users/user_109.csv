@@ -1,0 +1,8 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+1913,"Calm , Content , Anxious , Tired , Excited",2024-10-17T12:39:25,0,1.0,0.0,7,True
+1914,"I am pretty stressed with work , but otherwise content and appreciative of the pleasant fall day and weather . I had a nice , productive lunch with coworkers and someone who was interviewing , so overall quite nice .",2024-10-17T17:09:39,1,2.0,0.0,7,False
+1915,"Currently I am tired and am having some canker sores , which is making it hard to eat . I feel pretty exhausted from the day , and still have some work left to do to prepare for tomorrow . Other than that , I feel like I am super busy and need more time to do all of the things I need to .",2024-10-17T22:38:00,2,-1.0,2.0,7,False
+1916,"Relieved , Content , Cold , Excited , Worried",2024-10-18T17:56:36,3,1.0,1.0,7,True
+1917,"I’m a bit hungry , but I feel super refreshed after a 5km water along the water . Definitely helped to clear the mind and feel happy going into the weekend ! I definitely feel more relaxed and less overwhelmed after today’s work meetings .",2024-10-18T22:33:27,4,1.0,2.0,7,False
+1918,"I’m currently feeling refreshed after a good night’s rest , and feeling relaxed with a quiet morning having breakfast . I’m looking forward to the day ahead ; it’s supposed to be beautiful outside on this warm fall day , and the sun is out . So much to be thankful for !",2024-10-19T12:41:18,5,2.0,2.0,7,False
+1919,"Refreshed , Happy , Joyful , Creative , Excited",2024-10-19T17:12:48,6,2.0,2.0,7,True

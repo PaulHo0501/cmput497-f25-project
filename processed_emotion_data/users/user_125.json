@@ -1,0 +1,246 @@
+{
+  "user_id": 125,
+  "num_entries": 24,
+  "entries": [
+    {
+      "text_id": 2672,
+      "text": "Active , alive , Ready , Prepared , On point",
+      "timestamp": "2024-11-14T12:04:16",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2673,
+      "text": "Feeling neutral is a calm , measured emotion that can mean feeling indifferent , impartial , or unbiased , feeling neutral may not always be adaptive . For example , feeling neutral when speaking to a difficult boss might not help you assert yourself .",
+      "timestamp": "2024-11-14T17:43:47",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2674,
+      "text": "Neutral , Lowkey , No feelings , Down , Just myself",
+      "timestamp": "2024-11-15T12:13:06",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2675,
+      "text": "Sluggish , Slow , Dull , Down , Tired",
+      "timestamp": "2024-11-15T17:02:33",
+      "order": 3,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2676,
+      "text": "Sluggish , Slow , Dull , Down , Sad",
+      "timestamp": "2024-11-16T12:06:32",
+      "order": 4,
+      "valence": -1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2871,
+      "text": "Happy , Grateful , Excited , Lively , Joyous",
+      "timestamp": "2024-11-16T17:01:52",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2872,
+      "text": "Being active can release chemicals in your brain that make you feel good , such as energy , vigor , and joy . It can also help you sleep better , concentrate , and boost your self-esteem This term describes someone who has lots of energy and enthusiasm . It can also refer to a powerful , focused effort to achieve something",
+      "timestamp": "2024-11-17T12:26:33",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2873,
+      "text": "a general state of fatigue that involves a lack of energy and motivation for physical and mental tasks . People may also describe this as \u201cfeeling lethargic\u201d . Some simple causes , such as overexertion or not getting enough sleep , can leave a person feeling lethargic .",
+      "timestamp": "2024-11-18T12:30:35",
+      "order": 7,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2874,
+      "text": "There are many reasons why you might feel off , weird , or empty , including :\\ nPhysical needs : You might be tired , sore , or need to eat or drink might be experiencing depression , bipolar disorder , generalized anxiety disorder , or post-traumatic stress disorder",
+      "timestamp": "2024-11-18T22:55:38",
+      "order": 8,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2875,
+      "text": "Active , Alive , At alert , On point , Ready",
+      "timestamp": "2024-11-19T12:24:17",
+      "order": 9,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2876,
+      "text": "Sad , Down , Not happy , Low , Bad",
+      "timestamp": "2024-11-19T17:59:11",
+      "order": 10,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2877,
+      "text": "Sluggish , Slow , Tired , Down , Not happy",
+      "timestamp": "2024-11-20T12:03:27",
+      "order": 11,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2878,
+      "text": "Calm , Cool , Chilled , Lowkey , Calm",
+      "timestamp": "2024-11-20T17:13:23",
+      "order": 12,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2879,
+      "text": "A neurotransmitter that increases alertness and attention , and can make you feel active and aroused . It ' s released during times of stress or anxiety , and can cause your heart rate to increase , your pupils to dilate , and your senses to heighten",
+      "timestamp": "2024-11-21T12:10:18",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2880,
+      "text": "There is nothing good about yourself anymore . You are tired of living . Everyday is just struggle . Fighting the same demon every time . You don\u2019t know what happened to you . everything you cared about is gone . ruined . Turned to shit . Right is all gone .\\ nit feels like you are stupid and worthless and never right and you think its not your fault .",
+      "timestamp": "2024-11-21T17:18:45",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2882,
+      "text": "Happy , Exicted , Joyous , Loving , Good",
+      "timestamp": "2024-11-22T12:07:37",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2883,
+      "text": "There are many reasons why you might feel \"off \" or \"weird \" from time to time , and it ' s normal to have an \"off \" day . However , if you ' re experiencing feelings of emptiness , numbness , or other symptoms that are lasting more than a day or two , you can try to reflect on what ' s going on and reach out for support",
+      "timestamp": "2024-11-22T17:22:06",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2884,
+      "text": "If you ' re having trouble identifying or expressing your emotions , you might have alexithymia . This condition makes it difficult to process emotions , and people with alexithymia may not be able to label or describe their emotions . Alexithymia can occur with certain conditions , such as depression , neurological conditions , and brain injury",
+      "timestamp": "2024-11-23T12:03:07",
+      "order": 17,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2885,
+      "text": "general state of fatigue that involves a lack of energy and motivation for physical and mental tasks . People may also describe this as \u201cfeeling lethargic\u201d . Some simple causes , such as overexertion or not getting enough sleep , can leave a person feeling lethargic .",
+      "timestamp": "2024-11-24T12:50:45",
+      "order": 18,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2886,
+      "text": "Neutral , Normal , No feeling , ORG , Soft",
+      "timestamp": "2024-11-24T17:03:43",
+      "order": 19,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2887,
+      "text": "Feeling sad is a normal human emotion that can occur in response to difficult life events or losses . Sadness can make you feel disappointed , glum , or hopeless . You might react to sadness by crying , listening to sad music , or spending more time alone .",
+      "timestamp": "2024-11-25T12:10:58",
+      "order": 20,
+      "valence": -2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2888,
+      "text": "Sometimes I am just very deep in thought or going off into my own little world . Other times , I just don ' t have much to say or just feel like enjoying silent time . In my home I have a very chatty wife and 2 young kids , a lot of neighbors , and I have to talk a lot at work . Some days I just want to sit in silence and watch Lost Girl or Arrow",
+      "timestamp": "2024-11-26T12:01:47",
+      "order": 21,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2889,
+      "text": "Tired , Sluggish , Dull , Down , Sad",
+      "timestamp": "2024-11-26T22:19:12",
+      "order": 22,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2890,
+      "text": "Usually , when people suppress a lot they bottle up emotions as a coping mechanism which may come from trauma etc . Which means when they are presented with an emotional situation they cannot exactly explain what they feel/ shutdown or door slam . It is completely okay to feel overwhelmed in stressful situations . However , you will need to self- reflect and figure out how and what caused you to feel that way . In that manner you will feel better and be more conscious . Sometimes , I\u2019d say most people would cry which is easier to express stress , sadness and loneliness . Since it\u2019s more wiser than speaking words to people who wouldn\u2019t understand . You need to ask them and be around them not for interrogation but for hearing them out , which acts as comfort to them .\\ n",
+      "timestamp": "2024-11-27T12:33:46",
+      "order": 23,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

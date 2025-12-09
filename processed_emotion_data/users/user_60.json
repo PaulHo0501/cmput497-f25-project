@@ -1,0 +1,216 @@
+{
+  "user_id": 60,
+  "num_entries": 21,
+  "entries": [
+    {
+      "text_id": 2412,
+      "text": "Relaxed , Peaceful , Connected , Happy , Fulfilled",
+      "timestamp": "2024-07-19T12:00:19",
+      "order": 0,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2413,
+      "text": "Happy , Content , Satisfied , Full , Excited",
+      "timestamp": "2024-07-19T17:01:01",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2414,
+      "text": "Happy , Rested , Confided , Rested , Fabulous s",
+      "timestamp": "2024-07-19T22:03:31",
+      "order": 2,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2415,
+      "text": "Satisfied , Excited , Rested , Happy , Busy",
+      "timestamp": "2024-07-20T12:00:33",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2416,
+      "text": "I am currently feeling great   just went car shopping with my daughter   PERSON to work   feeling accomplished   so happy to have spent quality time with her   made me proud to have my college grad picking out her new car",
+      "timestamp": "2024-07-20T17:06:15",
+      "order": 4,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2426,
+      "text": "Full , Satisfied , Happy , Calm , Loved",
+      "timestamp": "2024-07-20T22:05:06",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2437,
+      "text": "Feeling calm contend and relaxed   happy Sunday y favorite day of the week   \\nSunday funday is what I call it   maybe church later   yoga ? A walk in the park   ready to set my to do list for this coming week   food shopping and preparations to be done",
+      "timestamp": "2024-07-21T12:00:20",
+      "order": 6,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2449,
+      "text": "Currently feeling great and full   took a ride into GPE to have Our favorite mushroom truffle pizza    It\u2019s so delicious makes me feel grateful and happy    So full thou    Beyond delicious and totally Sunday funday",
+      "timestamp": "2024-07-21T17:01:23",
+      "order": 7,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2460,
+      "text": "Hungry , Satisfied , Fulfilled , Tired , Excited",
+      "timestamp": "2024-07-21T22:32:01",
+      "order": 8,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2471,
+      "text": "I am current feeling accomplished   it\u2019s Monday morning   already went to yoga and the local bagel store for   Monday bagels and Lox cream cheese \\nJust quoted car insurance for my daughters new car that we were able to find on Saturday   it\u2019s already a good day",
+      "timestamp": "2024-07-22T12:01:02",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2482,
+      "text": "8 pm   feeling tired but accomplished   went into the city for work back on GPE    pretty long day   making schedule for tomorrow and already see long day ahead \\nAt least 2 yoga classes   brunch meeting with a client and lots of errands in between    Hoping to also solidify a rental deal",
+      "timestamp": "2024-07-22T22:07:36",
+      "order": 10,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2484,
+      "text": "Fulfilled , Content , Happy , Satisfied , Relaxed",
+      "timestamp": "2024-07-23T12:00:48",
+      "order": 11,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2501,
+      "text": "Hi ! Currently feeling accomplished banking with my 19 year old to transfer all paperwork credit cards etc in his name since   he will be moving back to ORG in GPE in a few weeks   Lots to be done with my twins before school begins again",
+      "timestamp": "2024-07-23T17:00:39",
+      "order": 12,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2512,
+      "text": "Currently feeling content and ready to wind down taco today   dinner all done dusted cleaned   relaxing watching ORG vs Yankees and reading a book   making list for tomorrow\u2019s agenda \u2014-lots to be done",
+      "timestamp": "2024-07-23T22:02:44",
+      "order": 13,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2523,
+      "text": "Relaxed , Excited , Accomplished , Expectant , Satisfied",
+      "timestamp": "2024-07-24T12:00:30",
+      "order": 14,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2524,
+      "text": "Currently feeling accomplished   beach yoga at 6 am today   solidified my daughters car deal   picking up tomorrow and a few other work things to be finished   zoom call at 5 for 2 hours and maybe sunset yoga at the beach tomorrow    Feeling great !",
+      "timestamp": "2024-07-24T17:00:38",
+      "order": 15,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2525,
+      "text": "Relaxed , Tired , Fulfilled , Calm , Exercised",
+      "timestamp": "2024-07-24T22:23:42",
+      "order": 16,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2527,
+      "text": "Happy Thursday ! Feeling great   yoga class done already   just went to to bank got certified check to pick up my daughters new car today   super excited for her   a good day so far   no complaints so far !!! Cloudy overcast but humid as can be \u2014",
+      "timestamp": "2024-07-25T12:05:24",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2537,
+      "text": "Feeling so very excited   at ORG right now getting my daughter\u2019s car   picking it up right now ! It\u2019s beautiful   she is happy I am happy I am so excited for her   beyond excited !!!! \\nOnce we leave here will go and get some food with get to celebrate her new beautiful car",
+      "timestamp": "2024-07-25T17:00:40",
+      "order": 18,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 2566,
+      "text": "Relaxed , Happy , Fulfilled , Calm , Thoughtful",
+      "timestamp": "2024-07-25T22:01:05",
+      "order": 19,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 2577,
+      "text": "Hi happy Friday ! Feeling content and fulfilled . Just did an hour of Pilates so my body s feeling great sore but worked out .   Feeling great . And it\u2019s Friday . Work n food shopping to be done and excited about a beautiful weekend coming up . Enjoy all !",
+      "timestamp": "2024-07-26T12:00:23",
+      "order": 20,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

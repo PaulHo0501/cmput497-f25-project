@@ -1,0 +1,106 @@
+{
+  "user_id": 15,
+  "num_entries": 10,
+  "entries": [
+    {
+      "text_id": 802,
+      "text": "Hot , Tired , Happy , Active , Friendly",
+      "timestamp": "2021-06-09T20:12:27",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 803,
+      "text": "Happy , Active , Hot , Tired , Motivated",
+      "timestamp": "2021-06-10T13:56:17",
+      "order": 1,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 804,
+      "text": "Tired , Active , Motivated , Exhausted , Fun",
+      "timestamp": "2021-06-11T13:10:56",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 805,
+      "text": "Tired , Active , Friendly , Happy , Over worked",
+      "timestamp": "2021-06-12T16:27:18",
+      "order": 3,
+      "valence": -2.0,
+      "arousal": 0.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 806,
+      "text": "Anxious , Tired , Annoyed , Happy , Exhausted",
+      "timestamp": "2021-06-13T19:27:24",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 807,
+      "text": "Happy , Loving , Motivated , Busy , Fun",
+      "timestamp": "2021-06-14T16:02:56",
+      "order": 5,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 808,
+      "text": "Active , Hot , Tired , Busy , Fun",
+      "timestamp": "2021-06-15T17:08:05",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 809,
+      "text": "Tired , Happy , Relaxed , Loving , Friendly",
+      "timestamp": "2021-06-16T17:34:55",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 810,
+      "text": "Happy , Busy , Motivated , Tired , Fun",
+      "timestamp": "2021-06-17T20:17:26",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    },
+    {
+      "text_id": 801,
+      "text": "Busy , Active , Tired , Happy , Hot",
+      "timestamp": "2021-06-18T13:50:21",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 1,
+      "is_words": true
+    }
+  ]
+}

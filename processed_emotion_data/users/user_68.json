@@ -1,0 +1,86 @@
+{
+  "user_id": 68,
+  "num_entries": 8,
+  "entries": [
+    {
+      "text_id": 4816,
+      "text": "Stable , Normal , Neutral , Hungry , Apathetic",
+      "timestamp": "2024-11-15T17:00:53",
+      "order": 0,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4817,
+      "text": "Content , Ease , Stable , Calm , Mellow",
+      "timestamp": "2024-11-15T22:01:25",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4818,
+      "text": "Hungry , Reserved , Tired , Neutral , Present",
+      "timestamp": "2024-11-16T17:00:37",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4819,
+      "text": "Neutral , Stagnant , Disappointed , Still , Longing",
+      "timestamp": "2024-11-16T22:00:39",
+      "order": 3,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4820,
+      "text": "I am currently feeling quite pleased with myself in not only achieving my goal to out to shop today , but also because I procured a successful haul of stop I set out to buy and pleasant surprise finds . I also enjoyed the fresh tepid air on my walk . Had a good time listening to some upbeat songs , too .",
+      "timestamp": "2024-11-17T22:09:11",
+      "order": 4,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4824,
+      "text": "Cotent , Stable , Normal , Bookish , Ready",
+      "timestamp": "2024-11-22T22:14:46",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4825,
+      "text": "Quiet , Neutral , Reserved , Hungry , Lazy",
+      "timestamp": "2024-11-23T17:16:05",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4826,
+      "text": "I am currently feeling tired and a bit off-kilter because I got a late wake up today . I feel as though I ' m late even though I not late to anything . I feel residual frustration over not having made it to take the first survey of the day . I ' m also a little hungry and resigned that I have to make the food still . But I ' m alright with it being a quiet morning .",
+      "timestamp": "2024-11-24T17:14:54",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

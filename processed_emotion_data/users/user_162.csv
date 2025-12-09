@@ -1,0 +1,19 @@
+text_id,text,timestamp,order,valence,arousal,collection_phase,is_words
+4136,"I am feeling pretty on edge because someone in one of my classes just had a medical emergency , but I also felt on edge and stressed to a lesser extent beforehand . I ' m also feeling a little numb and not ""all there ,"" but not sad or depressed . I am quite aware of my heartbeat , but I am not sure if it ' s actually faster , and I have been a little twitchy all morning . I have found myself biting my lips because I ' m nervous , and my stomach feels a little out of sorts .",2024-11-11T12:34:49,0,-2.0,2.0,7,False
+4137,"Calm , Sleepy , Contemplative , Quiet , Slightly tense",2024-11-11T17:01:14,1,1.0,1.0,7,True
+4138,"I ' m a bit on edge , my stomach feels a little tight , but I also feel somewhat content after talking with my mom . I am kind of in the verge of tears , actually , but I can ' t totally pinpoint why . I ' m feeling conflicting emotions , and I ' m excited to go to sleep tonight",2024-11-11T22:03:30,2,-1.0,1.0,7,False
+4139,"I am generally happy , in a group of people , and not very stressed . I am feeling fulfilled and like I ' m having fun , but not overexcited or overwhelmingly happy . Still a bit of remaining stress but not too much .",2024-11-12T17:39:46,3,1.0,1.0,7,False
+4140,"Tired , Mild , Attentive , Helpful , Resigned",2024-11-12T22:01:06,4,-2.0,0.0,7,True
+4141,"Tired , Calm , Accomplished , Scattered , Anticipatory",2024-11-13T17:02:11,5,1.0,2.0,7,True
+4142,"I am tired , frustrated , and have a tiny headache . I am sleepy and annoyed at some circumstantial things , and I would like to just be asleep . I am also a bit overwhelmed with things at the moment on a sensory level",2024-11-13T22:01:07,6,-1.0,1.0,7,False
+4143,"I am stressed and my stomach is turning a little bit , I ' m irritated and overthinking , most of it is irritation , and I am also feeling tense . A lot of it is circumstantial but I am quite stressed on several levels",2024-11-14T12:11:11,7,-2.0,2.0,7,False
+4144,"I am feeling a little pissed off , a little irritated , and not altogether great . I am also overwhelmed and a tiny bit sad , but not a lot . I am ready for the day to be over by now , but I still have lots to do .",2024-11-14T17:00:12,8,-2.0,0.0,7,False
+4145,"I am multitasking and slightly frustrated , a little overwhelmed , and sort of annoyed , but I also feel sad and like I am walking on eggshells . I also feel stupid and rude to the people around me because of something that my roommate said to me earlier",2024-11-14T22:08:36,9,-1.0,1.0,7,False
+4146,"Professional , Determined , Accomplished , Happy , Tired",2024-11-15T12:12:01,10,0.0,2.0,7,True
+4147,"Happy , Included , Confident , Sleepy , Loved",2024-11-15T17:07:05,11,1.0,1.0,7,True
+4148,"Intrigued , Happy , Excited , Nervous , Tired",2024-11-15T22:00:21,12,1.0,2.0,7,True
+4149,"Happy , Excited , Funny , Energetic , Loved",2024-11-16T12:00:32,13,2.0,2.0,7,True
+4150,"I am sleepy , but I am not sad . I am just tired , a tiny bit frustrated with myself and an assignment I am working on , and thinking a lot . It has been a good day and I am feeling mostly just mild at the moment",2024-11-16T17:15:29,14,-1.0,0.0,7,False
+4151,"Calm , Happy , Inquisitive , Content , Sleepy",2024-11-16T22:06:48,15,2.0,1.0,7,True
+4152,"Stressed , Unsure , Excited , Tired , Hungry",2024-11-17T17:01:16,16,0.0,1.0,7,True
+4153,"Happy , Confident , Calm , Active , Determined",2024-11-18T12:00:57,17,-2.0,0.0,7,True

@@ -1,0 +1,15 @@
+[ENTRY_4172] relaxed , worried , happy , determined , stressed
+[ENTRY_4173] motivated , content , overwhelmed , invigorated , neutral
+[ENTRY_4174] tired , worried , unmotivated , tired , disappointed
+[ENTRY_4175] I feel motivated , encouraged , and looking forward to having a more positive outlook on my day . I also feel lucky and fortunate to be where I am today because I’ve reflected on my priorities and actions . feeling slightly stressed , but I know that I can overcome the feeling .
+[ENTRY_4176] grounded , neutral , relaxed , tired , relaxed
+[ENTRY_4177] happy , relaxed , rested , calm , content
+[ENTRY_4178] congested , tired , aches , sleepy , tired
+[ENTRY_4179] relaxed , congested , sick , tired , content
+[ENTRY_4180] relaxed , happy , comfortable , calm , restless
+[ENTRY_4181] After a week of not getting quality sleep aka sleep deprivation , I unfortunately am coming down with a cold . I feel sluggish , tired , congested , dizzy , and downtrodden . I don’t feel motivated to do anything at the moment .
+[ENTRY_4182] sleepy , relief , content , carefree , nervous
+[ENTRY_4183] tired , sleepy , happy , sore , excited
+[ENTRY_4184] calm , rested , healthy , sleepy , motivated
+[ENTRY_4185] Came back to school , returned to my room . Feeling content but nervous about upcoming assessments that I should’ve studied for . Currently slightly anxious but looking forward to being busy today and getting back into the groove .
+[ENTRY_4186] happy , content , relaxed , free , productive

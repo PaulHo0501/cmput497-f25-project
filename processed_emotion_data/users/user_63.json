@@ -1,0 +1,326 @@
+{
+  "user_id": 63,
+  "num_entries": 32,
+  "entries": [
+    {
+      "text_id": 4654,
+      "text": "Happy , Active , Cool , Energetic , Fine",
+      "timestamp": "2024-11-12T12:05:40",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4655,
+      "text": "Active , Cool , Calm , Reserved , Fine",
+      "timestamp": "2024-11-12T17:10:01",
+      "order": 1,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4656,
+      "text": "Calm , Cool , Neutral , Reserved , Fine",
+      "timestamp": "2024-11-12T22:09:54",
+      "order": 2,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4657,
+      "text": "Happy , Cool , Active , Fantastic , Fine",
+      "timestamp": "2024-11-13T12:08:50",
+      "order": 3,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4658,
+      "text": "Right now , I\u2019d say I\u2019m feeling really happy . It\u2019s been a good day\u2014everything seems to be falling into place , and I\u2019m surrounded by people who make me feel supported . I\u2019ve been able to do things that bring me joy , like spending time with friends , enjoying a favorite hobby , or just relaxing . It\u2019s one of those moments where I feel content with where I am , and I\u2019m grateful for the little things .",
+      "timestamp": "2024-11-13T17:06:26",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4659,
+      "text": "Happy , Cool , Delightful , Reserved , Active",
+      "timestamp": "2024-11-13T22:02:43",
+      "order": 5,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4661,
+      "text": "Calm , Warmth , Lightheaded , Anxious , Cool",
+      "timestamp": "2024-11-14T12:01:08",
+      "order": 6,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4662,
+      "text": "I am feeling somewhat lively today . There ' s a bit of energy in the air , and even though it\u2019s been a busy morning , I\u2019m staying upbeat . It\u2019s one of those days where I\u2019m motivated to get things done , but also taking moments to enjoy the little things around me .",
+      "timestamp": "2024-11-14T17:15:33",
+      "order": 7,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4663,
+      "text": "Right now , I\u2019d say I\u2019m feeling really happy . It\u2019s been a good day\u2014everything seems to be falling into place , and I\u2019m surrounded by people who make me feel supported . I\u2019ve been able to do things that bring me joy , like spending time with friends , enjoying a favorite hobby , or just relaxing . It\u2019s one of those moments where I feel content with where I am , and I\u2019m grateful for the little things . \u00a0",
+      "timestamp": "2024-11-14T22:06:09",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4664,
+      "text": "I am currently feeling a sense of calm and focus . It ' s one of those moments when everything feels balanced , and I can approach things with a clear mind . There\u2019s also a subtle excitement beneath the calm , as I know there\u2019s always something new to learn and discover , whether through conversations or experiences . It\u2019s a quiet contentment , mixed with a bit of curiosity about what comes next .",
+      "timestamp": "2024-11-15T12:15:35",
+      "order": 9,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4665,
+      "text": "Active , Happy , Cool , Amazing , Reserved",
+      "timestamp": "2024-11-15T22:15:06",
+      "order": 10,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4666,
+      "text": "I am feeling somewhat lively today . There ' s a bit of energy in the air , and even though it\u2019s been a busy morning , I\u2019m staying upbeat . It\u2019s one of those days where I\u2019m motivated to get things done , but also taking moments to enjoy the little things around me .",
+      "timestamp": "2024-11-16T12:08:06",
+      "order": 11,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4667,
+      "text": "Happy , Calm , Relaxed , Cool , Coordinated",
+      "timestamp": "2024-11-16T22:10:56",
+      "order": 12,
+      "valence": 1.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4668,
+      "text": "I am feeling somewhat lively today . There ' s a bit of energy in the air , and even though it\u2019s been a busy morning , I\u2019m staying upbeat . It\u2019s one of those days where I\u2019m motivated to get things done , but also taking moments to enjoy the little things around me .",
+      "timestamp": "2024-11-17T12:03:03",
+      "order": 13,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4669,
+      "text": "Active , Cool , Happy , Reserved , Demure",
+      "timestamp": "2024-11-17T17:14:16",
+      "order": 14,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4670,
+      "text": "Happy , Cool , Satisfied , Reserved , Active",
+      "timestamp": "2024-11-17T22:17:09",
+      "order": 15,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4672,
+      "text": "Active , Cool , Happy , Amazed , Qualified",
+      "timestamp": "2024-11-18T22:03:52",
+      "order": 16,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4673,
+      "text": "Right now , I feel somewhat calm , though there ' s a quiet sense of restlessness beneath the surface . While I\u2019m not feeling particularly stressed , there\u2019s a slight undercurrent of anticipation as I work through tasks and think about upcoming challenges .",
+      "timestamp": "2024-11-19T12:33:00",
+      "order": 17,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4674,
+      "text": "Cool , Calm , Reserved , Relaxed , Good",
+      "timestamp": "2024-11-19T17:40:12",
+      "order": 18,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4675,
+      "text": "Happy , Cool , Reserved , Good , Calm",
+      "timestamp": "2024-11-19T22:01:58",
+      "order": 19,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4676,
+      "text": "Right now , I feel somewhat calm , though there ' s a quiet sense of restlessness beneath the surface . While I\u2019m not feeling particularly stressed , there\u2019s a slight undercurrent of anticipation as I work through tasks and think about upcoming challenges .",
+      "timestamp": "2024-11-20T12:50:52",
+      "order": 20,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4677,
+      "text": "Right now , I feel somewhat calm , though there ' s a quiet sense of restlessness beneath the surface . While I\u2019m not feeling particularly stressed , there\u2019s a slight undercurrent of anticipation as I work through tasks and think about upcoming challenges .",
+      "timestamp": "2024-11-20T17:35:58",
+      "order": 21,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4678,
+      "text": "Calm , Cool , Reserved , Fine , Amazed",
+      "timestamp": "2024-11-20T22:03:50",
+      "order": 22,
+      "valence": 2.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4679,
+      "text": "I am currently feeling very happy , and it\u2019s a wonderful sense of contentment that\u2019s filling me up . Everything around me seems to be falling into place , and I\u2019m enjoying the little things , like a good conversation or a moment of peace . There\u2019s a kind of calm joy in knowing that I\u2019m in a good place right now , mentally and emotionally .",
+      "timestamp": "2024-11-21T12:03:30",
+      "order": 23,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4680,
+      "text": "I am currently feeling very happy , and it\u2019s a wonderful sense of contentment that\u2019s filling me up . Everything around me seems to be falling into place , and I\u2019m enjoying the little things , like a good conversation or a moment of peace . There\u2019s a kind of calm joy in knowing that I\u2019m in a good place right now , mentally and emotionally .",
+      "timestamp": "2024-11-21T17:52:46",
+      "order": 24,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4681,
+      "text": "Happy , Cool , Active , Fine , Reserved",
+      "timestamp": "2024-11-21T22:11:13",
+      "order": 25,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4683,
+      "text": "Enthusiastic , Excited , Lively , Relaxed , Serene",
+      "timestamp": "2024-11-22T12:11:32",
+      "order": 26,
+      "valence": 2.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4684,
+      "text": "I am currently feeling very happy , and it\u2019s a wonderful sense of contentment that\u2019s filling me up . Everything around me seems to be falling into place , and I\u2019m enjoying the little things , like a good conversation or a moment of peace . There\u2019s a kind of calm joy in knowing that I\u2019m in a good place right now , mentally and emotionally .",
+      "timestamp": "2024-11-23T12:15:11",
+      "order": 27,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4685,
+      "text": "I am currently feeling very happy , and it\u2019s a wonderful sense of contentment that\u2019s filling me up . Everything around me seems to be falling into place , and I\u2019m enjoying the little things , like a good conversation or a moment of peace . There\u2019s a kind of calm joy in knowing that I\u2019m in a good place right now , mentally and emotionally .",
+      "timestamp": "2024-11-23T17:58:46",
+      "order": 28,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 4686,
+      "text": "Happy , Active , Cool , Fine , Reserved",
+      "timestamp": "2024-11-23T22:24:00",
+      "order": 29,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4687,
+      "text": "Active , Happy , Excited , Cool , Reserved",
+      "timestamp": "2024-11-24T17:23:54",
+      "order": 30,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 4688,
+      "text": "Right now , I\u2019m feeling incredibly upbeat and content . There\u2019s a sense of warmth and positivity that fills me , making everything feel brighter and more enjoyable . It\u2019s as if the little moments in life have become more meaningful , and I find myself smiling at even the simplest things .\\ n \\ nIn this happy mood , everything around me seems to sparkle with possibility . I feel a sense of gratitude for the good things in my life , no matter how small .",
+      "timestamp": "2024-11-25T12:27:56",
+      "order": 31,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    }
+  ]
+}

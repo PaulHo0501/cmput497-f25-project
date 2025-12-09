@@ -1,0 +1,116 @@
+{
+  "user_id": 133,
+  "num_entries": 11,
+  "entries": [
+    {
+      "text_id": 3098,
+      "text": "Currently I feel wonderful , like all I have been hoping for are coming through . So I feels good and great \\nHappy ! I just finished The Chamber of Secrets for the first time and oh God what a read it is . I recommend it to everyone",
+      "timestamp": "2024-09-12T12:11:19",
+      "order": 0,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3099,
+      "text": "Happy , Loved , Excited , Wanted , Proud",
+      "timestamp": "2024-09-13T17:14:04",
+      "order": 1,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3100,
+      "text": "Happy , Good , Hopefull , Excited , Grateful",
+      "timestamp": "2024-09-14T12:04:48",
+      "order": 2,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3101,
+      "text": "Happy , Grateful , GOOD , Excited , Wonderful",
+      "timestamp": "2024-09-14T22:19:34",
+      "order": 3,
+      "valence": 2.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3103,
+      "text": "I\u2019m feeling a blend of anxiety and hope right now . The anxiety comes from worries about an upcoming event or unresolved issues , which seem to linger in the back of my mind and affect my daily routine . At the same time , there ' s a sense of hope that counterbalances this anxiety , giving me a glimmer of positivity and a belief in a better outcome . This mix makes me cautious and reserved in some moments , yet optimistic and enthusiastic about potential positive outcomes in others . Overall , it\u2019s a complex interplay between worry and optimism that shapes how I approach things .",
+      "timestamp": "2024-09-15T12:06:10",
+      "order": 4,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3104,
+      "text": "Active , Happy , Excited , Loved , Wanted",
+      "timestamp": "2024-09-15T17:07:57",
+      "order": 5,
+      "valence": 0.0,
+      "arousal": 2.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3105,
+      "text": "I\u2019m experiencing a deep sense of happiness right now that feels incredibly fulfilling and uplifting . It\u2019s not anchored to a specific event but rather a general sense of well-being and contentment that seems to infuse my daily life . Everything feels a bit more vibrant and enjoyable , as if I\u2019m seeing the world through a brighter , more optimistic lens . This feeling has a way of making even the simplest moments more delightful . I\u2019m smiling more often , and interactions with others are marked by a genuine enthusiasm and positive energy .",
+      "timestamp": "2024-09-16T12:20:41",
+      "order": 6,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": false
+    },
+    {
+      "text_id": 3106,
+      "text": "Happy , Anxious , Excited , Hopefull , Graceful",
+      "timestamp": "2024-09-16T17:05:09",
+      "order": 7,
+      "valence": 0.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3107,
+      "text": "Happy , Excited , Graceful , Hopefull , Contented",
+      "timestamp": "2024-09-17T12:11:47",
+      "order": 8,
+      "valence": 1.0,
+      "arousal": 0.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3108,
+      "text": "Excited , Grateful , Happy , Loved , Wanted",
+      "timestamp": "2024-09-17T17:00:41",
+      "order": 9,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    },
+    {
+      "text_id": 3109,
+      "text": "Excited , Happy , Wanted , Loved , Grateful",
+      "timestamp": "2024-09-18T12:12:00",
+      "order": 10,
+      "valence": 1.0,
+      "arousal": 1.0,
+      "collection_phase": 7,
+      "is_words": true
+    }
+  ]
+}
