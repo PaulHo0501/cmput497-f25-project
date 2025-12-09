@@ -4,15 +4,12 @@ from pathlib import Path
 
 import polars as pl
 
-# --- CONFIGURATION ---
 LEXICON_PATH = 'data/NRC-VAD-Lexicon-v2.1.txt'
 
-# Input Files
 PATH_TRAIN_1 = 'data/train_subtask1.csv'
 PATH_TRAIN_2A = 'data/train_subtask2a.csv'
 PATH_TRAIN_2B = 'data/train_subtask2b.csv'
 
-# Output Files
 OUT_PATH_1 = 'output/baseline_subtask1.csv'
 OUT_PATH_2A = 'output/baseline_subtask2a.csv'
 OUT_PATH_2B = 'output/baseline_subtask2b.csv'
@@ -20,7 +17,6 @@ OUT_PATH_2B = 'output/baseline_subtask2b.csv'
 LOWER_BOUND = -0.1
 UPPER_BOUND = 0.1
 
-# --- LEXICON PREPARATION ---
 def prepare_lexicon():
     df = pl.read_csv(LEXICON_PATH, separator='\t')
     df.drop_in_place('dominance')
@@ -47,7 +43,6 @@ def prepare_lexicon():
     arousal_dict = dict(zip(key_arousal, val_arousal))
     return valence_dict, arousal_dict
 
-# --- GENERIC PROCESSING ---
 def load_dataset(path: str):
     print(f"Loading {path}...")
     df = pl.read_csv(path)
@@ -59,7 +54,6 @@ def apply_lexicon_scoring(dataset: pl.DataFrame, lexicon: dict, col_name: str = 
     print(f"Applying lexicon for {col_name}...")
     col_baseline = []
     
-    # MSE Check for Subtask 1
     target_col_exists = col_name in dataset.columns
     mse = 0.0
     
@@ -93,11 +87,10 @@ def apply_lexicon_scoring(dataset: pl.DataFrame, lexicon: dict, col_name: str = 
             
     if target_col_exists and dataset.shape[0] > 0:
         mse = mse / dataset.shape[0]
-        print(f"  -> [Subtask 1] MSE {col_name}: {mse:.4f} (RMSE: {math.sqrt(mse):.4f})")
+        print(f"Subtask 1: MSE {col_name}: {mse:.4f} (RMSE: {math.sqrt(mse):.4f})")
 
     return dataset.with_columns(pl.Series(f'{col_name}_baseline', col_baseline, dtype=pl.Float64))
 
-# --- SUBTASK SPECIFIC LOGIC ---
 
 def process_subtask_2a(df: pl.DataFrame):
     """
@@ -105,7 +98,6 @@ def process_subtask_2a(df: pl.DataFrame):
     """
     df = df.sort(["user_id", "timestamp"])
     
-    # Calculate Prediction
     df = df.with_columns([
         (pl.col("valence_baseline").shift(-1).over("user_id") - pl.col("valence_baseline"))
         .alias("state_change_valence_pred"),
@@ -113,16 +105,10 @@ def process_subtask_2a(df: pl.DataFrame):
         (pl.col("arousal_baseline").shift(-1).over("user_id") - pl.col("arousal_baseline"))
         .alias("state_change_arousal_pred")
     ])
-    
-    # --- MSE Calculation for 2A ---
-    
-    # 1. Valence Change
     if "state_change_valence" in df.columns:
-        # Filter out rows where truth or prediction is missing (e.g., last post of a user)
         valid_rows = df.drop_nulls(subset=["state_change_valence", "state_change_valence_pred"])
         
         if valid_rows.height > 0:
-            # Calculate MSE and RMSE entirely inside Polars
             stats = valid_rows.select([
                 (pl.col("state_change_valence") - pl.col("state_change_valence_pred"))
                 .pow(2).mean().alias("mse"),
@@ -131,16 +117,14 @@ def process_subtask_2a(df: pl.DataFrame):
                 .pow(2).mean().sqrt().alias("rmse")
             ])
             
-            # Extract scalar values safely
             mse_v = stats["mse"].item()
             rmse_v = stats["rmse"].item()
             
             if mse_v is not None:
-                print(f"  -> [Subtask 2A] Valence - MSE: {mse_v:.4f} | RMSE: {rmse_v:.4f}")
+                print(f"Subtask 2A Valence - MSE: {mse_v:.4f} | RMSE: {rmse_v:.4f}")
         else:
-            print("  -> [Subtask 2A] Valence: N/A (No valid rows for comparison)")
+            print("Subtask 2A Valence: N/A (No valid rows for comparison)")
 
-    # 2. Arousal Change
     if "state_change_arousal" in df.columns:
         valid_rows = df.drop_nulls(subset=["state_change_arousal", "state_change_arousal_pred"])
         
@@ -157,9 +141,9 @@ def process_subtask_2a(df: pl.DataFrame):
             rmse_a = stats["rmse"].item()
             
             if mse_a is not None:
-                print(f"  -> [Subtask 2A] Arousal - MSE: {mse_a:.4f} | RMSE: {rmse_a:.4f}")
+                print(f"Subtask 2A Arousal - MSE: {mse_a:.4f} | RMSE: {rmse_a:.4f}")
         else:
-            print("  -> [Subtask 2A] Arousal: N/A (No valid rows for comparison)")
+            print("Subtask 2A Arousal: N/A (No valid rows for comparison)")
 
     return df
 
@@ -181,35 +165,28 @@ def process_subtask_2b(df: pl.DataFrame):
             .alias("group")
         )
     
-    # Define aggregations (Mean of predictions)
     aggs = [
         pl.col("valence_baseline").mean().alias("mean_val"),
         pl.col("arousal_baseline").mean().alias("mean_ar")
     ]
     
-    # If ground truth exists, we need to preserve it during aggregation.
-    # Since disposition change is the same for all user rows, we take the 'first' value.
     has_truth = "disposition_change_valence" in df.columns
     if has_truth:
         aggs.append(pl.col("disposition_change_valence").first().alias("truth_val"))
         aggs.append(pl.col("disposition_change_arousal").first().alias("truth_ar"))
 
-    # Aggregation
     agg = df.group_by(["user_id", "group"]).agg(aggs)
     
     g1 = agg.filter(pl.col("group") == 1)
     g2 = agg.filter(pl.col("group") == 2)
     
-    # Join on user_id
     final = g1.join(g2, on="user_id", suffix="_g2")
     
-    # Calculate Predictions
     final = final.with_columns([
         (pl.col("mean_val_g2") - pl.col("mean_val")).alias("disposition_change_valence_pred"),
         (pl.col("mean_ar_g2") - pl.col("mean_ar")).alias("disposition_change_arousal_pred")
     ])
 
-    # --- MSE Calculation for 2B ---
     if has_truth:
         metrics = final.select([
             (pl.col("truth_val") - pl.col("disposition_change_valence_pred"))
@@ -225,18 +202,15 @@ def process_subtask_2b(df: pl.DataFrame):
                 .pow(2).mean().alias("mse_arousal")
         ])
         
-        # Extract the scalar values safely using .item()
-        # .item() converts the Polars inner type to a native Python float automatically
         rmse_v = metrics["rmse_valence"].item()
         mse_v = metrics["mse_valence"].item()
         rmse_a = metrics["rmse_arousal"].item()
         mse_a = metrics["mse_arousal"].item()
         if mse_v != None:
-            print(f"  -> [Subtask 2B] MSE Valence Change: {mse_v:.4f} (RMSE: {rmse_v:.4f})")
+            print(f"Subtask 2B MSE Valence Change: {mse_v:.4f} (RMSE: {rmse_v:.4f})")
         if mse_a != None:
-            print(f"  -> [Subtask 2B] MSE Arousal Change: {mse_a:.4f} (RMSE: {rmse_a:.4f})")
+            print(f"Subtask 2B MSE Arousal Change: {mse_a:.4f} (RMSE: {rmse_a:.4f})")
 
-    # Select final output columns
     final = final.select([
         "user_id", 
         "disposition_change_valence_pred", 
@@ -245,14 +219,11 @@ def process_subtask_2b(df: pl.DataFrame):
     
     return final
 
-# --- MAIN PIPELINE ---
-
 def main():
-    print("--- Preparing Lexicon ---")
+    print("Preparing Lexicon")
     val_dict, ar_dict = prepare_lexicon()
     
-    # Subtask 1
-    print("\n--- Processing Subtask 1 ---")
+    print("Processing Subtask 1")
     if Path(PATH_TRAIN_1).exists():
         df_1 = load_dataset(PATH_TRAIN_1)
         df_1 = apply_lexicon_scoring(df_1, val_dict, 'valence')
@@ -260,8 +231,7 @@ def main():
         Path(OUT_PATH_1).parent.mkdir(parents=True, exist_ok=True)
         df_1.write_csv(OUT_PATH_1)
 
-    # Subtask 2A
-    print("\n--- Processing Subtask 2A ---")
+    print("Processing Subtask 2A")
     if Path(PATH_TRAIN_2A).exists():
         df_2a = load_dataset(PATH_TRAIN_2A)
         df_2a = apply_lexicon_scoring(df_2a, val_dict, 'valence')
@@ -272,8 +242,7 @@ def main():
         Path(OUT_PATH_2A).parent.mkdir(parents=True, exist_ok=True)
         out_2a.write_csv(OUT_PATH_2A)
 
-    # Subtask 2B
-    print("\n--- Processing Subtask 2B ---")
+    print("Processing Subtask 2B")
     if Path(PATH_TRAIN_2B).exists():
         df_2b = load_dataset(PATH_TRAIN_2B)
         df_2b = apply_lexicon_scoring(df_2b, val_dict, 'valence')
@@ -283,7 +252,7 @@ def main():
         Path(OUT_PATH_2B).parent.mkdir(parents=True, exist_ok=True)
         out_2b.write_csv(OUT_PATH_2B)
         
-    print("\nAll Done.")
+    print("All Done.")
 
 if __name__ == "__main__":
     main()
